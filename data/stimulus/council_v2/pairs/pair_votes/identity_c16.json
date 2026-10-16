@@ -1,0 +1,1802 @@
+[
+{
+"sid": "elfaransawia->elfaransawa",
+"rid": "elfaransawia->elfaransawa",
+"v": false,
+"why": "elfaransawa reads as الفرنساوة (the French people), not the adjective الفرنساوية"
+},
+{
+"sid": "elfaransawia->elfaransawaa",
+"rid": "elfaransawia->elfaransawaa",
+"v": false,
+"why": "elfaransawaa reads as الفرنساوة (the French people), not the adjective الفرنساوية"
+},
+{
+"sid": "elfaransawia->ilfaransawa",
+"rid": "elfaransawia->ilfaransawa",
+"v": false,
+"why": "ilfaransawa reads as الفرنساوة (the French people), not the adjective الفرنساوية"
+},
+{
+"sid": "elfayda->elfida",
+"rid": "elfayda->elfida",
+"v": false,
+"why": "elfida reads as الفدا (sacrifice/redemption), not الفايدة (benefit)"
+},
+{
+"sid": "elfayroos->elfiroos",
+"rid": "elfayroos->elfiroos",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedeo->elfedo",
+"rid": "elfedeo->elfedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedeo->elfedoo",
+"rid": "elfedeo->elfedoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedeo->ilfedo",
+"rid": "elfedeo->ilfedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedralia->elfedrala",
+"rid": "elfedralia->elfedrala",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedralia->elfidrala",
+"rid": "elfedralia->elfidrala",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfedralia->ilfedrala",
+"rid": "elfedralia->ilfedrala",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfeedeo->elfedo",
+"rid": "elfeedeo->elfedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfeedeo->elfeedu",
+"rid": "elfeedeo->elfeedu",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfeedeo->elfeido",
+"rid": "elfeedeo->elfeido",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfeedeo->ilfeedo",
+"rid": "elfeedeo->ilfeedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeaa->elfeza",
+"rid": "elfezeaa->elfeza",
+"v": false,
+"why": "elfeza reads as الفيزا (the visa), not الفيزياء (physics)"
+},
+{
+"sid": "elfezeaa->elfezaa",
+"rid": "elfezeaa->elfezaa",
+"v": false,
+"why": "elfezaa reads as الفيزا (the visa), not الفيزياء (physics)"
+},
+{
+"sid": "elfezeaa->elfizaa",
+"rid": "elfezeaa->elfizaa",
+"v": false,
+"why": "elfizaa reads as الفيزا (the visa), not الفيزياء (physics)"
+},
+{
+"sid": "elfezeaya->elfezaya",
+"rid": "elfezeaya->elfezaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeaya->elfezayaa",
+"rid": "elfezeaya->elfezayaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeaya->ilfezaya",
+"rid": "elfezeaya->ilfezaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeea->elfeza",
+"rid": "elfezeea->elfeza",
+"v": false,
+"why": "elfeza reads as الفيزا (the visa), not الفيزياء (physics)"
+},
+{
+"sid": "elfezeia->elfezea",
+"rid": "elfezeia->elfezea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeia->elfezia",
+"rid": "elfezeia->elfezia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeia->elfizea",
+"rid": "elfezeia->elfizea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeia->ilfezea",
+"rid": "elfezeia->ilfezea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfezeia->ilfezia",
+"rid": "elfezeia->ilfezia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfideo->elfido",
+"rid": "elfideo->elfido",
+"v": true,
+"why": ""
+},
+{
+"sid": "elfideo->elfidoo",
+"rid": "elfideo->elfidoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgaiza->elgaza",
+"rid": "elgaiza->elgaza",
+"v": false,
+"why": "elgaza reads as الجزا (penalty) or Gaza, not الجايزة"
+},
+{
+"sid": "elgaiza->elgazaa",
+"rid": "elgaiza->elgazaa",
+"v": false,
+"why": "elgazaa reads as الجزاء (penalty/punishment), not الجايزة (prize)"
+},
+{
+"sid": "elgaiza->ilgaza",
+"rid": "elgaiza->ilgaza",
+"v": false,
+"why": "ilgaza reads as الجزا (penalty) or Gaza, not الجايزة"
+},
+{
+"sid": "elgameal->elgamal",
+"rid": "elgameal->elgamal",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgameal->ilgamal",
+"rid": "elgameal->ilgamal",
+"v": true,
+"why": ""
+},
+{
+"sid": "elganobia->elganoba",
+"rid": "elganobia->elganoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elganobia->ilganoba",
+"rid": "elganobia->ilganoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgawia->elgawa",
+"rid": "elgawia->elgawa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgawia->elgawaa",
+"rid": "elgawia->elgawaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgawia->ilgawa",
+"rid": "elgawia->ilgawa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgayba->elgiba",
+"rid": "elgayba->elgiba",
+"v": false,
+"why": "elgiba reads as الجيبة (the skirt), not الجاية (coming)"
+},
+{
+"sid": "elgayda->elgida",
+"rid": "elgayda->elgida",
+"v": false,
+"why": "elgida reads as جدة/جديدة (grandmother, Jeddah, new), not the base word"
+},
+{
+"sid": "elgayya->elgiya",
+"rid": "elgayya->elgiya",
+"v": false,
+"why": "elgiya reads as الجية (the arrival, a noun), not الجاية (next)"
+},
+{
+"sid": "elgeish->elgesh",
+"rid": "elgeish->elgesh",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeish->elgish",
+"rid": "elgeish->elgish",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeish->ilgish",
+"rid": "elgeish->ilgish",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneat->elgenat",
+"rid": "elgeneat->elgenat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneat->elginat",
+"rid": "elgeneat->elginat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneia->elgenea",
+"rid": "elgeneia->elgenea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneia->elgenia",
+"rid": "elgeneia->elgenia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneia->elginea",
+"rid": "elgeneia->elginea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneia->elginia",
+"rid": "elgeneia->elginia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneia->ilgenea",
+"rid": "elgeneia->ilgenea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneih->elgeneh",
+"rid": "elgeneih->elgeneh",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneih->elgenih",
+"rid": "elgeneih->elgenih",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneih->elgineh",
+"rid": "elgeneih->elgineh",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneih->elginih",
+"rid": "elgeneih->elginih",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneih->ilgeneh",
+"rid": "elgeneih->ilgeneh",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneom->elgenom",
+"rid": "elgeneom->elgenom",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeneom->elgenum",
+"rid": "elgeneom->elgenum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeologya->elgologya",
+"rid": "elgeologya->elgologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeologya->elgolugya",
+"rid": "elgeologya->elgolugya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgeologya->ilgologya",
+"rid": "elgeologya->ilgologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elghair->el8ar",
+"rid": "elghair->el8ar",
+"v": false,
+"why": "el8ar reads as الغار (cave/laurel), not الغير (non-)"
+},
+{
+"sid": "elgharbia->el8arba",
+"rid": "elgharbia->el8arba",
+"v": false,
+"why": "el8arba reads as الغربة (exile/alienation), not الغربية (western)"
+},
+{
+"sid": "elgheir->el8er",
+"rid": "elgheir->el8er",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgomhoria->elgomhora",
+"rid": "elgomhoria->elgomhora",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgomhoria->elgomhura",
+"rid": "elgomhoria->elgomhura",
+"v": true,
+"why": ""
+},
+{
+"sid": "elgomhoria->elgumhora",
+"rid": "elgomhoria->elgumhora",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguez2->elgoz2",
+"rid": "elguez2->elgoz2",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguez2->elguz2",
+"rid": "elguez2->elguz2",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguez2->ilguz2",
+"rid": "elguez2->ilguz2",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguitar->elgotar",
+"rid": "elguitar->elgotar",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguitar->elgutaar",
+"rid": "elguitar->elgutaar",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguitar->elgutar",
+"rid": "elguitar->elgutar",
+"v": true,
+"why": ""
+},
+{
+"sid": "elguitar->ilgutar",
+"rid": "elguitar->ilgutar",
+"v": true,
+"why": ""
+},
+{
+"sid": "elhay2at->elhi2at",
+"rid": "elhay2at->elhi2at",
+"v": true,
+"why": ""
+},
+{
+"sid": "elhazemey->elhazemi",
+"rid": "elhazemey->elhazemi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elheroin->elheron",
+"rid": "elheroin->elheron",
+"v": true,
+"why": ""
+},
+{
+"sid": "elheroin->elherun",
+"rid": "elheroin->elherun",
+"v": true,
+"why": ""
+},
+{
+"sid": "eliqtisadia->eleqtisada",
+"rid": "eliqtisadia->eleqtisada",
+"v": true,
+"why": ""
+},
+{
+"sid": "eliqtisadia->eliqtesada",
+"rid": "eliqtisadia->eliqtesada",
+"v": true,
+"why": ""
+},
+{
+"sid": "eliqtisadia->eliqtisada",
+"rid": "eliqtisadia->eliqtisada",
+"v": true,
+"why": ""
+},
+{
+"sid": "eljawey->eljawi",
+"rid": "eljawey->eljawi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkahrabia->elkahraba",
+"rid": "elkahrabia->elkahraba",
+"v": false,
+"why": "elkahraba reads as الكهربا (electricity, noun), not الكهربية (electric)"
+},
+{
+"sid": "elkahrabia->elkahrabaa",
+"rid": "elkahrabia->elkahrabaa",
+"v": false,
+"why": "elkahrabaa reads as الكهربا (electricity, noun), not الكهربية (electric)"
+},
+{
+"sid": "elkahrabia->ilkahraba",
+"rid": "elkahrabia->ilkahraba",
+"v": false,
+"why": "ilkahraba reads as الكهربا (electricity, noun), not الكهربية (electric)"
+},
+{
+"sid": "elkaliobeya->elkalobeya",
+"rid": "elkaliobeya->elkalobeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkaliobeya->elkalobiya",
+"rid": "elkaliobeya->elkalobiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkaliobeya->elkalubeya",
+"rid": "elkaliobeya->elkalubeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkaliobeya->ilkalobeya",
+"rid": "elkaliobeya->ilkalobeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkawmey->elkawmi",
+"rid": "elkawmey->elkawmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkeemia->elkeema",
+"rid": "elkeemia->elkeema",
+"v": false,
+"why": "elkeema reads as القيمة (the value), not الكيمياء (chemistry)"
+},
+{
+"sid": "elkeemia->elkema",
+"rid": "elkeemia->elkema",
+"v": false,
+"why": "elkema reads as القمة/القيمة, not recognisably الكيمياء (chemistry)"
+},
+{
+"sid": "elkhalaia->el5alaa",
+"rid": "elkhalaia->el5alaa",
+"v": false,
+"why": "el5alaa reads as الخلا (open land/wilderness), not الخلايا (cells)"
+},
+{
+"sid": "elkharegia->el5arega",
+"rid": "elkharegia->el5arega",
+"v": false,
+"why": "el5arega reads as الخارجة (outgoing, Kharga), not الخارجية"
+},
+{
+"sid": "elkheir->el5er",
+"rid": "elkheir->el5er",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkheir->el5ir",
+"rid": "elkheir->el5ir",
+"v": true,
+"why": ""
+},
+{
+"sid": "elkoisa->elkosa",
+"rid": "elkoisa->elkosa",
+"v": false,
+"why": "elkosa reads as الكوسة (zucchini), not الكويسة (good)"
+},
+{
+"sid": "elkoisa->elkosah",
+"rid": "elkoisa->elkosah",
+"v": false,
+"why": "elkosah reads as الكوسة (zucchini), not الكويسة (good)"
+},
+{
+"sid": "elkoisa->elkusa",
+"rid": "elkoisa->elkusa",
+"v": false,
+"why": "elkusa reads as الكوسة (zucchini), not الكويسة (good)"
+},
+{
+"sid": "elkoisa->ilkosa",
+"rid": "elkoisa->ilkosa",
+"v": false,
+"why": "ilkosa reads as الكوسة (zucchini), not الكويسة (good)"
+},
+{
+"sid": "elkuwait->elkowat",
+"rid": "elkuwait->elkowat",
+"v": false,
+"why": "elkowat reads as القوات (the forces), not الكويت"
+},
+{
+"sid": "elkuwait->elkuwat",
+"rid": "elkuwait->elkuwat",
+"v": false,
+"why": "elkuwat reads as القوات (the forces), not الكويت"
+},
+{
+"sid": "elkuwait->ilkuwat",
+"rid": "elkuwait->ilkuwat",
+"v": false,
+"why": "ilkuwat reads as القوات (the forces), not الكويت"
+},
+{
+"sid": "elleil->ellel",
+"rid": "elleil->ellel",
+"v": true,
+"why": ""
+},
+{
+"sid": "elleil->ellil",
+"rid": "elleil->ellil",
+"v": true,
+"why": ""
+},
+{
+"sid": "ellie->ele",
+"rid": "ellie->ele",
+"v": true,
+"why": ""
+},
+{
+"sid": "ellie->ille",
+"rid": "ellie->ille",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmadania->elmadana",
+"rid": "elmadania->elmadana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmadania->elmadanaa",
+"rid": "elmadania->elmadanaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmadania->ilmadana",
+"rid": "elmadania->ilmadana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmadea->elmada",
+"rid": "elmadea->elmada",
+"v": false,
+"why": "elmada reads as المادة (material/subject), not المعدة (stomach)"
+},
+{
+"sid": "elmadea->elmadah",
+"rid": "elmadea->elmadah",
+"v": false,
+"why": "elmadah reads as المادة (material), not المعدة (stomach)"
+},
+{
+"sid": "elmadea->ilmada",
+"rid": "elmadea->ilmada",
+"v": false,
+"why": "ilmada reads as المادة (material), not المعدة (stomach)"
+},
+{
+"sid": "elmadey->elmadi",
+"rid": "elmadey->elmadi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmagania->elmagana",
+"rid": "elmagania->elmagana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmagania->ilmagana",
+"rid": "elmagania->ilmagana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmagnesium->elmagnesom",
+"rid": "elmagnesium->elmagnesom",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmagnesium->elmagnesum",
+"rid": "elmagnesium->elmagnesum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmagnesium->ilmagnesum",
+"rid": "elmagnesium->ilmagnesum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmahalia->elmahala",
+"rid": "elmahalia->elmahala",
+"v": false,
+"why": "elmahala reads as المحلة (El-Mahalla city), not المحلية (local)"
+},
+{
+"sid": "elmahalia->elmahalaa",
+"rid": "elmahalia->elmahalaa",
+"v": false,
+"why": "elmahalaa reads as المحلة (El-Mahalla city), not المحلية (local)"
+},
+{
+"sid": "elmahalia->ilmahala",
+"rid": "elmahalia->ilmahala",
+"v": false,
+"why": "ilmahala reads as المحلة (El-Mahalla city), not المحلية (local)"
+},
+{
+"sid": "elmalakia->elmalaka",
+"rid": "elmalakia->elmalaka",
+"v": false,
+"why": "elmalaka reads as الملكة (the queen), not الملكية (royal)"
+},
+{
+"sid": "elmalakia->ilmalaka",
+"rid": "elmalakia->ilmalaka",
+"v": false,
+"why": "ilmalaka reads as الملكة (the queen), not الملكية (royal)"
+},
+{
+"sid": "elmalaria->elmalara",
+"rid": "elmalaria->elmalara",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmalaria->ilmalara",
+"rid": "elmalaria->ilmalara",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmanzelia->elmanzela",
+"rid": "elmanzelia->elmanzela",
+"v": false,
+"why": "elmanzela reads as المنزلة (rank, El-Manzala), not المنزلية (domestic)"
+},
+{
+"sid": "elmanzelia->elmanzila",
+"rid": "elmanzelia->elmanzila",
+"v": false,
+"why": "elmanzila reads as المنزلة (rank, El-Manzala), not المنزلية (domestic)"
+},
+{
+"sid": "elmanzelia->ilmanzela",
+"rid": "elmanzelia->ilmanzela",
+"v": false,
+"why": "ilmanzela reads as المنزلة (rank, El-Manzala), not المنزلية (domestic)"
+},
+{
+"sid": "elmar2ey->elmar2i",
+"rid": "elmar2ey->elmar2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmasael->elmasaal",
+"rid": "elmasael->elmasaal",
+"v": false,
+"why": "elmasaal reads as المثل/المسال (proverb, liquefied), not المسائل (issues)"
+},
+{
+"sid": "elmasael->elmasal",
+"rid": "elmasael->elmasal",
+"v": false,
+"why": "elmasal reads as المثل (the proverb/example), not المسائل (issues)"
+},
+{
+"sid": "elmasael->ilmasal",
+"rid": "elmasael->ilmasal",
+"v": false,
+"why": "ilmasal reads as المثل (the proverb/example), not المسائل (issues)"
+},
+{
+"sid": "elmasria->elmasra",
+"rid": "elmasria->elmasra",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmasria->elmasraa",
+"rid": "elmasria->elmasraa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmasria->elmasrah",
+"rid": "elmasria->elmasrah",
+"v": false,
+"why": "elmasrah reads as المسرح (the theatre), not المصرية"
+},
+{
+"sid": "elmasria->ilmasra",
+"rid": "elmasria->ilmasra",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmawadeee3->elmawadie3",
+"rid": "elmawadeee3->elmawadie3",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmay->elmi",
+"rid": "elmay->elmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmaydany->elmidany",
+"rid": "elmaydany->elmidany",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayia->elmaya",
+"rid": "elmayia->elmaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayia->elmayaa",
+"rid": "elmayia->elmayaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayia->elmayah",
+"rid": "elmayia->elmayah",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayia->ilmaya",
+"rid": "elmayia->ilmaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayl->elmil",
+"rid": "elmayl->elmil",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmayya->elmiya",
+"rid": "elmayya->elmiya",
+"v": false,
+"why": "elmiya reads as المية (hundred, miyya), not المية (water, mayya)"
+},
+{
+"sid": "elmia->elma",
+"rid": "elmia->elma",
+"v": false,
+"why": "'fe elma' reads as 'in the water' (الما), not في المية (percent)"
+},
+{
+"sid": "elmia->ilma",
+"rid": "elmia->ilma",
+"v": false,
+"why": "'fe ilma' reads as water (الما) or إلا ما, not في المية (percent)"
+},
+{
+"sid": "elmobaylat->elmobilat",
+"rid": "elmobaylat->elmobilat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elmobileat->elmobelat",
+"rid": "elmobileat->elmobelat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnabateat->elnabatat",
+"rid": "elnabateat->elnabatat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnafsey->elnafsi",
+"rid": "elnafsey->elnafsi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnafsia->elnafsa",
+"rid": "elnafsia->elnafsa",
+"v": false,
+"why": "elnafsa reads as النفسا (postpartum woman), not النفسية (psychological)"
+},
+{
+"sid": "elnafsia->ilnafsa",
+"rid": "elnafsia->ilnafsa",
+"v": false,
+"why": "ilnafsa reads as النفسا (postpartum woman), not النفسية (psychological)"
+},
+{
+"sid": "elnahaia->elnaha",
+"rid": "elnahaia->elnaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnahaia->elnahaa",
+"rid": "elnahaia->elnahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnahaia->ilnahaa",
+"rid": "elnahaia->ilnahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnaweia->elnawea",
+"rid": "elnaweia->elnawea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnaweia->elnawia",
+"rid": "elnaweia->elnawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnaweia->elnawiaa",
+"rid": "elnaweia->elnawiaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnaweia->ilnawea",
+"rid": "elnaweia->ilnawea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnaweia->ilnawia",
+"rid": "elnaweia->ilnawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elnazaria->elnazara",
+"rid": "elnazaria->elnazara",
+"v": false,
+"why": "elnazara reads as النظارة (eyeglasses), not النظرية (theory)"
+},
+{
+"sid": "elnazaria->ilnazara",
+"rid": "elnazaria->ilnazara",
+"v": false,
+"why": "ilnazara reads as النظارة (eyeglasses), not النظرية (theory)"
+},
+{
+"sid": "elnehay->elnehi",
+"rid": "elnehay->elnehi",
+"v": false,
+"why": "elnehi reads as النهي (prohibition), not the base النهائي/النهاية"
+},
+{
+"sid": "elqadayya->elqadiya",
+"rid": "elqadayya->elqadiya",
+"v": false,
+"why": "elqadiya reads as singular قضية; base qadayya reads as plural قضايا"
+},
+{
+"sid": "elqalyoubia->elqalyooba",
+"rid": "elqalyoubia->elqalyooba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqalyoubia->elqalyouba",
+"rid": "elqalyoubia->elqalyouba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqalyoubia->elqalyoubaa",
+"rid": "elqalyoubia->elqalyoubaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqalyubia->elqalyoba",
+"rid": "elqalyubia->elqalyoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqalyubia->elqalyuba",
+"rid": "elqalyubia->elqalyuba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqalyubia->ilqalyuba",
+"rid": "elqalyubia->ilqalyuba",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqawmey->elqawmi",
+"rid": "elqawmey->elqawmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elqotbia->elqotba",
+"rid": "elqotbia->elqotba",
+"v": false,
+"why": "elqotba reads as القطبة (a stitch), not القطبية (polar)"
+},
+{
+"sid": "elqotbia->elqotbaa",
+"rid": "elqotbia->elqotbaa",
+"v": false,
+"why": "elqotbaa reads as القطبة (a stitch), not القطبية (polar)"
+},
+{
+"sid": "elqotbia->ilqotba",
+"rid": "elqotbia->ilqotba",
+"v": false,
+"why": "ilqotba reads as القطبة (a stitch), not القطبية (polar)"
+},
+{
+"sid": "elr2meia->elr2mea",
+"rid": "elr2meia->elr2mea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elr2meia->elr2meaa",
+"rid": "elr2meia->elr2meaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elr2meia->elr2mia",
+"rid": "elr2meia->elr2mia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elr2meia->ilr2mea",
+"rid": "elr2meia->ilr2mea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elr2meia->ilr2mia",
+"rid": "elr2meia->ilr2mia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eesia->elra2eesa",
+"rid": "elra2eesia->elra2eesa",
+"v": false,
+"why": "elra2eesa reads as الرئيسة (female president/head), not الرئيسية (main)"
+},
+{
+"sid": "elra2eisa->elra2esa",
+"rid": "elra2eisa->elra2esa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisa->elra2isa",
+"rid": "elra2eisa->elra2isa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisa->ilra2isa",
+"rid": "elra2eisa->ilra2isa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisia->elra2eesa",
+"rid": "elra2eisia->elra2eesa",
+"v": false,
+"why": "elra2eesa reads as الرئيسة (female president/head), not الرئيسية (main)"
+},
+{
+"sid": "elra2eisia->elra2eisa",
+"rid": "elra2eisia->elra2eisa",
+"v": false,
+"why": "elra2eisa reads as الرئيسة (female president/head), not الرئيسية (main)"
+},
+{
+"sid": "elra2eisia->elra2esia",
+"rid": "elra2eisia->elra2esia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisia->elra2isia",
+"rid": "elra2eisia->elra2isia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisia->elra2isiaa",
+"rid": "elra2eisia->elra2isiaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisia->ilra2esia",
+"rid": "elra2eisia->ilra2esia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eissy->elra2essi",
+"rid": "elra2eissy->elra2essi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eissy->elra2issi",
+"rid": "elra2eissy->elra2issi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisy->elra2esy",
+"rid": "elra2eisy->elra2esy",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2eisy->elra2isi",
+"rid": "elra2eisy->elra2isi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elra2mey->elra2mi",
+"rid": "elra2mey->elra2mi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elrabie3->elrabe3",
+"rid": "elrabie3->elrabe3",
+"v": false,
+"why": "elrabe3 reads as الرابع (the fourth), not الربيع (spring)"
+},
+{
+"sid": "elrabie3->elrabi3",
+"rid": "elrabie3->elrabi3",
+"v": true,
+"why": ""
+},
+{
+"sid": "elrabie3->elrabii3",
+"rid": "elrabie3->elrabii3",
+"v": true,
+"why": ""
+},
+{
+"sid": "elrabie3->ilrabe3",
+"rid": "elrabie3->ilrabe3",
+"v": false,
+"why": "ilrabe3 reads as الرابع (the fourth), not الربيع (spring)"
+},
+{
+"sid": "elrabie3->ilrabi3",
+"rid": "elrabie3->ilrabi3",
+"v": true,
+"why": ""
+},
+{
+"sid": "elradio->elrado",
+"rid": "elradio->elrado",
+"v": true,
+"why": ""
+},
+{
+"sid": "elradio->elradoo",
+"rid": "elradio->elradoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "elradio->elradu",
+"rid": "elradio->elradu",
+"v": true,
+"why": ""
+},
+{
+"sid": "elradio->ilrado",
+"rid": "elradio->ilrado",
+"v": true,
+"why": ""
+},
+{
+"sid": "elragmey->elragmi",
+"rid": "elragmey->elragmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elray3a->elri3a",
+"rid": "elray3a->elri3a",
+"v": false,
+"why": "elri3a does not read as the base word; suggests ريع or رئة"
+},
+{
+"sid": "elromania->elromana",
+"rid": "elromania->elromana",
+"v": false,
+"why": "elromana reads as الرمانة (the pomegranate), not الرومانية (Roman)"
+},
+{
+"sid": "elromania->ilromana",
+"rid": "elromania->ilromana",
+"v": false,
+"why": "ilromana reads as الرمانة (the pomegranate), not الرومانية (Roman)"
+},
+{
+"sid": "elsa3odia->elsa3odaa",
+"rid": "elsa3odia->elsa3odaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsa3odia->elsa3uda",
+"rid": "elsa3odia->elsa3uda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsa3odia->ilsa3oda",
+"rid": "elsa3odia->ilsa3oda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsa3udia->elsa3oda",
+"rid": "elsa3udia->elsa3oda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsa3udia->elsa3uda",
+"rid": "elsa3udia->elsa3uda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsa3udia->ilsa3uda",
+"rid": "elsa3udia->ilsa3uda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsafay7->elsafi7",
+"rid": "elsafay7->elsafi7",
+"v": false,
+"why": "elsafi7 reads as الصفيح (tin), not الصفايح (tectonic plates)"
+},
+{
+"sid": "elsawael->elsawal",
+"rid": "elsawael->elsawal",
+"v": false,
+"why": "elsawal reads as السؤال (the question), not السوائل (fluids)"
+},
+{
+"sid": "elsawael->ilsawal",
+"rid": "elsawael->ilsawal",
+"v": false,
+"why": "ilsawal reads as السؤال (the question), not السوائل (fluids)"
+},
+{
+"sid": "elsaydala->elsidala",
+"rid": "elsaydala->elsidala",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsayfy->elsify",
+"rid": "elsayfy->elsify",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsayr->elsir",
+"rid": "elsayr->elsir",
+"v": false,
+"why": "elsir reads as السر (the secret), not السير (movement/traffic)"
+},
+{
+"sid": "elsaytara->elsitara",
+"rid": "elsaytara->elsitara",
+"v": false,
+"why": "elsitara reads as الستارة (the curtain), not السيطرة (control)"
+},
+{
+"sid": "elsaytra->elsitra",
+"rid": "elsaytra->elsitra",
+"v": false,
+"why": "elsitra reads as السترة (jacket/cover), not السيطرة (control)"
+},
+{
+"sid": "else7ia->ilse7a",
+"rid": "else7ia->ilse7a",
+"v": false,
+"why": "ilse7a reads as الصحة (health, noun), not الصحية (health-related)"
+},
+{
+"sid": "elseasya->elsasyah",
+"rid": "elseasya->elsasyah",
+"v": false,
+"why": "elsasyah reads as الأساسية (basic), not السياسية (political)"
+},
+{
+"sid": "elseasya->ilsasya",
+"rid": "elseasya->ilsasya",
+"v": false,
+"why": "ilsasya reads as الأساسية (basic), not السياسية (political)"
+},
+{
+"sid": "elseeney->elseeni",
+"rid": "elseeney->elseeni",
+"v": true,
+"why": ""
+},
+{
+"sid": "elseif->elsef",
+"rid": "elseif->elsef",
+"v": true,
+"why": ""
+},
+{
+"sid": "elseif->elsif",
+"rid": "elseif->elsif",
+"v": false,
+"why": "elsif reads as the code keyword 'elsif' in example 2, not الصيف"
+},
+{
+"sid": "elseif->elsiif",
+"rid": "elseif->elsiif",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsien->elsen",
+"rid": "elsien->elsen",
+"v": false,
+"why": "elsen reads as السن (tooth/age), not الصين (China)"
+},
+{
+"sid": "elsien->elsin",
+"rid": "elsien->elsin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsien->ilsen",
+"rid": "elsien->ilsen",
+"v": false,
+"why": "ilsen reads as السن (tooth/age), not الصين (China)"
+},
+{
+"sid": "elsien->ilsin",
+"rid": "elsien->ilsin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsodium->elsodum",
+"rid": "elsodium->elsodum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elsodium->elsudum",
+"rid": "elsodium->elsudum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elta3leemia->elta3leema",
+"rid": "elta3leemia->elta3leema",
+"v": false,
+"why": "elta3leema reads as التعليمة (an instruction), not التعليمية (educational)"
+},
+{
+"sid": "elta3leemia->elta3leima",
+"rid": "elta3leemia->elta3leima",
+"v": false,
+"why": "elta3leima reads as التعليمة (an instruction), not التعليمية (educational)"
+},
+{
+"sid": "elta3leemia->elta3lema",
+"rid": "elta3leemia->elta3lema",
+"v": false,
+"why": "elta3lema reads as التعليمة (an instruction), not التعليمية (educational)"
+},
+{
+"sid": "elta3leemia->ilta3leema",
+"rid": "elta3leemia->ilta3leema",
+"v": false,
+"why": "ilta3leema reads as التعليمة (an instruction), not التعليمية (educational)"
+},
+{
+"sid": "elta7tia->elta7ta",
+"rid": "elta7tia->elta7ta",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltaghzeia->elta8zea",
+"rid": "eltaghzeia->elta8zea",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltaghzeia->elta8zia",
+"rid": "eltaghzeia->elta8zia",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltaghzia->elta8za",
+"rid": "eltaghzia->elta8za",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltaknologia->eltaknuloga",
+"rid": "eltaknologia->eltaknuloga",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltalia->eltala",
+"rid": "eltalia->eltala",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltalia->iltala",
+"rid": "eltalia->iltala",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltamoen->eltamon",
+"rid": "eltamoen->eltamon",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltamoen->eltamoon",
+"rid": "eltamoen->eltamoon",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltamoen->iltamon",
+"rid": "eltamoen->iltamon",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltania->eltana",
+"rid": "eltania->eltana",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltania->iltana",
+"rid": "eltania->iltana",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltarbia->eltarba",
+"rid": "eltarbia->eltarba",
+"v": false,
+"why": "eltarba reads as التربة (soil), not التربية (education)"
+},
+{
+"sid": "eltarbia->iltarba",
+"rid": "eltarbia->iltarba",
+"v": false,
+"why": "iltarba reads as التربة (soil), not التربية (education)"
+},
+{
+"sid": "eltarebia->eltareba",
+"rid": "eltarebia->eltareba",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltarebia->eltariba",
+"rid": "eltarebia->eltariba",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltarebia->iltareba",
+"rid": "eltarebia->iltareba",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltayyar->eltiyar",
+"rid": "eltayyar->eltiyar",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltebia->elteba",
+"rid": "eltebia->elteba",
+"v": false,
+"why": "elteba reads as الطيبة (kindness) or Teeba, not الطبية (medical)"
+},
+{
+"sid": "eltebia->eltebaa",
+"rid": "eltebia->eltebaa",
+"v": false,
+"why": "eltebaa reads as الطيبة/الطباع, not الطبية (medical)"
+},
+{
+"sid": "eltebia->ilteba",
+"rid": "eltebia->ilteba",
+"v": false,
+"why": "ilteba reads as الطيبة (kindness) or Teeba, not الطبية (medical)"
+},
+{
+"sid": "eltekhnologia->elte5nologa",
+"rid": "eltekhnologia->elte5nologa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknoelogya->elteknologya",
+"rid": "elteknoelogya->elteknologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknoelogya->elteknolugya",
+"rid": "elteknoelogya->elteknolugya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknoelogya->elteknulogya",
+"rid": "elteknoelogya->elteknulogya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknoelogya->eltiknologya",
+"rid": "elteknoelogya->eltiknologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknoelogya->ilteknologya",
+"rid": "elteknoelogya->ilteknologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknologia->elteknologa",
+"rid": "elteknologia->elteknologa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknologia->elteknoluga",
+"rid": "elteknologia->elteknoluga",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteknologia->eltiknologa",
+"rid": "elteknologia->eltiknologa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltelefzeeon->eltelefzon",
+"rid": "eltelefzeeon->eltelefzon",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneat->elteqnat",
+"rid": "elteqneat->elteqnat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneat->eltiqnat",
+"rid": "elteqneat->eltiqnat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneat->ilteqnat",
+"rid": "elteqneat->ilteqnat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneiat->elteqneat",
+"rid": "elteqneiat->elteqneat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneiat->elteqniat",
+"rid": "elteqneiat->elteqniat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneiat->eltiqneat",
+"rid": "elteqneiat->eltiqneat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneiat->eltiqniat",
+"rid": "elteqneiat->eltiqniat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elteqneiat->ilteqneat",
+"rid": "elteqneiat->ilteqneat",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltitanium->eltetanum",
+"rid": "eltitanium->eltetanum",
+"v": false,
+"why": "eltetanum reads as tetanus, not titanium"
+},
+{
+"sid": "eltitanium->eltitanom",
+"rid": "eltitanium->eltitanom",
+"v": true,
+"why": ""
+},
+{
+"sid": "eltitanium->eltitanum",
+"rid": "eltitanium->eltitanum",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwakaia->elwaka",
+"rid": "elwakaia->elwaka",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwakaia->elwakaa",
+"rid": "elwakaia->elwakaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwakaia->ilwakaa",
+"rid": "elwakaia->ilwakaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwasayt->elwasit",
+"rid": "elwasayt->elwasit",
+"v": false,
+"why": "elwasit reads as الوسيط (singular medium/mediator), not الوسايط (media)"
+},
+{
+"sid": "elwataneia->elwataneaa",
+"rid": "elwataneia->elwataneaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwataneia->elwatania",
+"rid": "elwataneia->elwatania",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwataneia->elwataniaa",
+"rid": "elwataneia->elwataniaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwataneia->ilwatanea",
+"rid": "elwataneia->ilwatanea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwatania->elwatana",
+"rid": "elwatania->elwatana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwatania->ilwatana",
+"rid": "elwatania->ilwatana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwatanyia->elwatanya",
+"rid": "elwatanyia->elwatanya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwatanyia->ilwatanya",
+"rid": "elwatanyia->ilwatanya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwazaef->elwazaaf",
+"rid": "elwazaef->elwazaaf",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwazaef->elwazaf",
+"rid": "elwazaef->elwazaf",
+"v": true,
+"why": ""
+},
+{
+"sid": "elwelaia->elwela",
+"rid": "elwelaia->elwela",
+"v": false,
+"why": "elwela reads as الولا/الولاء (loyalty), not الولاية (state)"
+},
+{
+"sid": "elwelaia->elwelaa",
+"rid": "elwelaia->elwelaa",
+"v": false,
+"why": "elwelaa reads as الولاء (loyalty), not الولاية (state)"
+},
+{
+"sid": "elwelaia->elwilaa",
+"rid": "elwelaia->elwilaa",
+"v": false,
+"why": "elwilaa reads as الولاء (loyalty), not الولاية (state)"
+}
+]

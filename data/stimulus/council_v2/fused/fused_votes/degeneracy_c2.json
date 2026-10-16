@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_7alya_01",
+  "rid": "fs_7alya_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7okoma_03",
+  "rid": "fs_7okoma_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7okoma_12",
+  "rid": "fs_7okoma_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7okoma_15",
+  "rid": "fs_7okoma_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7okoma_13",
+  "rid": "fs_7okoma_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7ekma_04",
+  "rid": "fs_7ekma_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7ekma_00",
+  "rid": "fs_7ekma_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7ekma_15",
+  "rid": "fs_7ekma_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_7ekma_12",
+  "rid": "fs_7ekma_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2al_11",
+  "rid": "fs_a2al_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2al_12",
+  "rid": "fs_a2al_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2al_10",
+  "rid": "fs_a2al_10",
+  "v": false,
+  "why": "garbled trailing clause 'hatwassel awi w t3adi 3ala el masaa3'"
+ },
+ {
+  "sid": "fs_a2al_05",
+  "rid": "fs_a2al_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2ol_02",
+  "rid": "fs_a2ol_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2ol_04",
+  "rid": "fs_a2ol_04",
+  "v": false,
+  "why": "repeated word: 'el zehma za7ma' (crowding crowded)"
+ },
+ {
+  "sid": "fs_a2ol_10",
+  "rid": "fs_a2ol_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a2ol_01",
+  "rid": "fs_a2ol_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a3da2_10",
+  "rid": "fs_a3da2_10",
+  "v": false,
+  "why": "garbled trailing fragment 'bara snehm'"
+ },
+ {
+  "sid": "fs_a3da2_12",
+  "rid": "fs_a3da2_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a3da2_11",
+  "rid": "fs_a3da2_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_a3da2_13",
+  "rid": "fs_a3da2_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awda7_13",
+  "rid": "fs_awda7_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awda7_05",
+  "rid": "fs_awda7_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awda7_01",
+  "rid": "fs_awda7_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awda7_10",
+  "rid": "fs_awda7_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_akher_11",
+  "rid": "fs_akher_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_akher_04",
+  "rid": "fs_akher_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_akher_13",
+  "rid": "fs_akher_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_akher_01",
+  "rid": "fs_akher_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_kheir_11",
+  "rid": "fs_kheir_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_kheir_02",
+  "rid": "fs_kheir_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_kheir_08",
+  "rid": "fs_kheir_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_kheir_12",
+  "rid": "fs_kheir_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_anwa3_05",
+  "rid": "fs_anwa3_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_anwa3_08",
+  "rid": "fs_anwa3_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_anwa3_00",
+  "rid": "fs_anwa3_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_anwa3_07",
+  "rid": "fs_anwa3_07",
+  "v": false,
+  "why": "garbled clause 'el zawat 2ally mamken yet7asal'"
+ },
+ {
+  "sid": "fs_ana_07",
+  "rid": "fs_ana_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_05",
+  "rid": "fs_ana_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_03",
+  "rid": "fs_ana_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_arady_13",
+  "rid": "fs_arady_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_arady_11",
+  "rid": "fs_arady_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_arady_12",
+  "rid": "fs_arady_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_arady_03",
+  "rid": "fs_arady_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_rady_06",
+  "rid": "fs_rady_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_rady_15",
+  "rid": "fs_rady_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_rady_07",
+  "rid": "fs_rady_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_rady_14",
+  "rid": "fs_rady_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_as3ar_01",
+  "rid": "fs_as3ar_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_as3ar_03",
+  "rid": "fs_as3ar_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_as3ar_13",
+  "rid": "fs_as3ar_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asra3_14",
+  "rid": "fs_asra3_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asra3_11",
+  "rid": "fs_asra3_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asra3_13",
+  "rid": "fs_asra3_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asass_09",
+  "rid": "fs_asass_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asass_08",
+  "rid": "fs_asass_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asass_13",
+  "rid": "fs_asass_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asass_14",
+  "rid": "fs_asass_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasya_06",
+  "rid": "fs_asasya_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasya_04",
+  "rid": "fs_asasya_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasya_08",
+  "rid": "fs_asasya_08",
+  "v": false,
+  "why": "garbled phrase 'asasya lema3na el koshari'"
+ },
+ {
+  "sid": "fs_asasya_11",
+  "rid": "fs_asasya_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasy_07",
+  "rid": "fs_asasy_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasy_13",
+  "rid": "fs_asasy_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasy_03",
+  "rid": "fs_asasy_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asasy_11",
+  "rid": "fs_asasy_11",
+  "v": false,
+  "why": "garbled 'tal3 b talabo kamal'; redundant 'naha2i ... fel neha2ya'"
+ },
+ {
+  "sid": "fs_2asasa_06",
+  "rid": "fs_2asasa_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2asasa_03",
+  "rid": "fs_2asasa_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2asasa_14",
+  "rid": "fs_2asasa_14",
+  "v": false,
+  "why": "glued trailing fragment 'dah akher feha' after 'be kam'"
+ },
+ {
+  "sid": "fs_2asasa_10",
+  "rid": "fs_2asasa_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ash3a_06",
+  "rid": "fs_ash3a_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ash3a_07",
+  "rid": "fs_ash3a_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ash3a_10",
+  "rid": "fs_ash3a_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ash3a_04",
+  "rid": "fs_ash3a_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashya2_01",
+  "rid": "fs_ashya2_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashya2_10",
+  "rid": "fs_ashya2_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashya2_15",
+  "rid": "fs_ashya2_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashya2_06",
+  "rid": "fs_ashya2_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashal_04",
+  "rid": "fs_ashal_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashal_00",
+  "rid": "fs_ashal_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashal_15",
+  "rid": "fs_ashal_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ashal_11",
+  "rid": "fs_ashal_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sahal_10",
+  "rid": "fs_sahal_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sahal_06",
+  "rid": "fs_sahal_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sahal_09",
+  "rid": "fs_sahal_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sahal_13",
+  "rid": "fs_sahal_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asly_01",
+  "rid": "fs_asly_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asly_03",
+  "rid": "fs_asly_03",
+  "v": false,
+  "why": "truncated trailing fragment 'mestany rak'"
+ },
+ {
+  "sid": "fs_asly_14",
+  "rid": "fs_asly_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wsl_01",
+  "rid": "fs_wsl_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wsl_15",
+  "rid": "fs_wsl_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wsl_09",
+  "rid": "fs_wsl_09",
+  "v": false,
+  "why": "garbled glued ending '3aml eh 3amo el a7wal'"
+ },
+ {
+  "sid": "fs_wsl_04",
+  "rid": "fs_wsl_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ataba3_05",
+  "rid": "fs_ataba3_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ataba3_02",
+  "rid": "fs_ataba3_02",
+  "v": false,
+  "why": "garbled trailing token 'l2aderi'"
+ },
+ {
+  "sid": "fs_ataba3_06",
+  "rid": "fs_ataba3_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ataba3_12",
+  "rid": "fs_ataba3_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_taba3a_10",
+  "rid": "fs_taba3a_10",
+  "v": false,
+  "why": "garbled clauses 'da taba3a, ed5ol 3anno' and 'le7ad el shamel'"
+ },
+ {
+  "sid": "fs_taba3a_14",
+  "rid": "fs_taba3a_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_taba3a_02",
+  "rid": "fs_taba3a_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_taba3a_08",
+  "rid": "fs_taba3a_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awl_14",
+  "rid": "fs_awl_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awl_02",
+  "rid": "fs_awl_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awl_01",
+  "rid": "fs_awl_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awl_05",
+  "rid": "fs_awl_05",
+  "v": false,
+  "why": "run-on chain of 'we ... we ba3dein ... we' clauses, list-like padding"
+ },
+ {
+  "sid": "fs_2awla_04",
+  "rid": "fs_2awla_04",
+  "v": false,
+  "why": "garbled reduplication '2atba 2atba' and broken 'ba2a et2akhar'"
+ },
+ {
+  "sid": "fs_2awla_00",
+  "rid": "fs_2awla_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_14",
+  "rid": "fs_2awla_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awy_12",
+  "rid": "fs_awy_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awy_02",
+  "rid": "fs_awy_02",
+  "v": false,
+  "why": "garbled trailing fragment 'shogl sh-sheta'"
+ },
+ {
+  "sid": "fs_awy_06",
+  "rid": "fs_awy_06",
+  "v": false,
+  "why": "garbled clause 'mafkarny haday2 marra tanya'"
+ },
+ {
+  "sid": "fs_awy_00",
+  "rid": "fs_awy_00",
+  "v": false,
+  "why": "garbled trailing fragment '3ala 3alemah'"
+ },
+ {
+  "sid": "fs_www_02",
+  "rid": "fs_www_02",
+  "v": false,
+  "why": "stray non-word token 'www' inserted mid-sentence as noise"
+ },
+ {
+  "sid": "fs_www_08",
+  "rid": "fs_www_08",
+  "v": false,
+  "why": "stray non-word token 'www' inserted mid-sentence as noise"
+ },
+ {
+  "sid": "fs_www_10",
+  "rid": "fs_www_10",
+  "v": false,
+  "why": "stray non-word token 'www' inserted mid-sentence as noise"
+ }
+]

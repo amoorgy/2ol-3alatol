@@ -1,0 +1,281 @@
+{
+  "n_pairs": 102,
+  "orders": [
+    "ab",
+    "ba"
+  ],
+  "models": {
+    "qwen3.5:0.8b": {
+      "n": 204,
+      "n_parsed": 204,
+      "unparseable_rate": 0.0,
+      "accuracy_on_SAME": 1.0,
+      "accuracy_on_DIFFERENT": 0.0,
+      "balanced_accuracy": 0.5,
+      "answers_SAME_rate": 1.0,
+      "order_flip_rate": 0.0,
+      "by_subcategory": {
+        "different/gender": {
+          "acc": 0.0,
+          "n": 6
+        },
+        "different/lexical": {
+          "acc": 0.0,
+          "n": 42
+        },
+        "different/number": {
+          "acc": 0.0,
+          "n": 6
+        },
+        "different/person": {
+          "acc": 0.0,
+          "n": 16
+        },
+        "same/clipping": {
+          "acc": 1.0,
+          "n": 2
+        },
+        "same/degemination": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/digit_ambig": {
+          "acc": 1.0,
+          "n": 14
+        },
+        "same/digit_safe": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/final_y_i": {
+          "acc": 1.0,
+          "n": 6
+        },
+        "same/initial_hamza": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/vowel_drop": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/vowel_drop_med": {
+          "acc": 1.0,
+          "n": 30
+        },
+        "same/vowel_length": {
+          "acc": 1.0,
+          "n": 32
+        },
+        "same/vowel_swap": {
+          "acc": 1.0,
+          "n": 10
+        }
+      }
+    },
+    "gemma4:e2b": {
+      "n": 204,
+      "n_parsed": 204,
+      "unparseable_rate": 0.0,
+      "accuracy_on_SAME": 0.8358,
+      "accuracy_on_DIFFERENT": 0.2286,
+      "balanced_accuracy": 0.5322,
+      "answers_SAME_rate": 0.8137,
+      "order_flip_rate": 0.2745,
+      "by_subcategory": {
+        "different/gender": {
+          "acc": 0.1667,
+          "n": 6
+        },
+        "different/lexical": {
+          "acc": 0.2619,
+          "n": 42
+        },
+        "different/number": {
+          "acc": 0.0,
+          "n": 6
+        },
+        "different/person": {
+          "acc": 0.25,
+          "n": 16
+        },
+        "same/clipping": {
+          "acc": 0.0,
+          "n": 2
+        },
+        "same/degemination": {
+          "acc": 0.9,
+          "n": 10
+        },
+        "same/digit_ambig": {
+          "acc": 0.8571,
+          "n": 14
+        },
+        "same/digit_safe": {
+          "acc": 0.7,
+          "n": 10
+        },
+        "same/final_y_i": {
+          "acc": 0.8333,
+          "n": 6
+        },
+        "same/initial_hamza": {
+          "acc": 0.9,
+          "n": 10
+        },
+        "same/vowel_drop": {
+          "acc": 0.8,
+          "n": 10
+        },
+        "same/vowel_drop_med": {
+          "acc": 0.8333,
+          "n": 30
+        },
+        "same/vowel_length": {
+          "acc": 0.9375,
+          "n": 32
+        },
+        "same/vowel_swap": {
+          "acc": 0.7,
+          "n": 10
+        }
+      }
+    },
+    "qwen3.8:27b-mlx": {
+      "n": 204,
+      "n_parsed": 204,
+      "unparseable_rate": 0.0,
+      "accuracy_on_SAME": 1.0,
+      "accuracy_on_DIFFERENT": 0.0143,
+      "balanced_accuracy": 0.5071,
+      "answers_SAME_rate": 0.9951,
+      "order_flip_rate": 0.0098,
+      "by_subcategory": {
+        "different/gender": {
+          "acc": 0.0,
+          "n": 6
+        },
+        "different/lexical": {
+          "acc": 0.0238,
+          "n": 42
+        },
+        "different/number": {
+          "acc": 0.0,
+          "n": 6
+        },
+        "different/person": {
+          "acc": 0.0,
+          "n": 16
+        },
+        "same/clipping": {
+          "acc": 1.0,
+          "n": 2
+        },
+        "same/degemination": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/digit_ambig": {
+          "acc": 1.0,
+          "n": 14
+        },
+        "same/digit_safe": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/final_y_i": {
+          "acc": 1.0,
+          "n": 6
+        },
+        "same/initial_hamza": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/vowel_drop": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/vowel_drop_med": {
+          "acc": 1.0,
+          "n": 30
+        },
+        "same/vowel_length": {
+          "acc": 1.0,
+          "n": 32
+        },
+        "same/vowel_swap": {
+          "acc": 1.0,
+          "n": 10
+        }
+      }
+    },
+    "sonct988/gemma4-26b-a4b-it-q4km-256k:latest": {
+      "n": 204,
+      "n_parsed": 204,
+      "unparseable_rate": 0.0,
+      "accuracy_on_SAME": 0.9776,
+      "accuracy_on_DIFFERENT": 0.5286,
+      "balanced_accuracy": 0.7531,
+      "answers_SAME_rate": 0.8039,
+      "order_flip_rate": 0.0784,
+      "by_subcategory": {
+        "different/gender": {
+          "acc": 0.3333,
+          "n": 6
+        },
+        "different/lexical": {
+          "acc": 0.5476,
+          "n": 42
+        },
+        "different/number": {
+          "acc": 0.1667,
+          "n": 6
+        },
+        "different/person": {
+          "acc": 0.6875,
+          "n": 16
+        },
+        "same/clipping": {
+          "acc": 1.0,
+          "n": 2
+        },
+        "same/degemination": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/digit_ambig": {
+          "acc": 1.0,
+          "n": 14
+        },
+        "same/digit_safe": {
+          "acc": 0.8,
+          "n": 10
+        },
+        "same/final_y_i": {
+          "acc": 1.0,
+          "n": 6
+        },
+        "same/initial_hamza": {
+          "acc": 0.9,
+          "n": 10
+        },
+        "same/vowel_drop": {
+          "acc": 1.0,
+          "n": 10
+        },
+        "same/vowel_drop_med": {
+          "acc": 1.0,
+          "n": 30
+        },
+        "same/vowel_length": {
+          "acc": 1.0,
+          "n": 32
+        },
+        "same/vowel_swap": {
+          "acc": 1.0,
+          "n": 10
+        }
+      }
+    }
+  }
+}

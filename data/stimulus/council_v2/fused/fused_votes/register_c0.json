@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_2a2ema_02",
+  "rid": "fs_2a2ema_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2ema_05",
+  "rid": "fs_2a2ema_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2ema_09",
+  "rid": "fs_2a2ema_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2ema_13",
+  "rid": "fs_2a2ema_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_09",
+  "rid": "fs_2a2em_09",
+  "v": false,
+  "why": "'magabelnash' uses g for qaf (Sa'idi/Gulf); Cairene is ma2ablnash."
+ },
+ {
+  "sid": "fs_2a2em_01",
+  "rid": "fs_2a2em_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_08",
+  "rid": "fs_2a2em_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_05",
+  "rid": "fs_2a2em_05",
+  "v": false,
+  "why": "'el 3a2ila' is the MSA pronunciation; Egyptian says el 3eila."
+ },
+ {
+  "sid": "fs_2adra_12",
+  "rid": "fs_2adra_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adra_06",
+  "rid": "fs_2adra_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adra_13",
+  "rid": "fs_2adra_13",
+  "v": false,
+  "why": "'mota3mil tsam7ini' is not an Egyptian colloquial form; Egyptian: momken tsam7ini."
+ },
+ {
+  "sid": "fs_dayra_03",
+  "rid": "fs_dayra_03",
+  "v": false,
+  "why": "'wahdi' without le- is Levantine; Egyptian says lewa7di."
+ },
+ {
+  "sid": "fs_dayra_13",
+  "rid": "fs_dayra_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_dayra_07",
+  "rid": "fs_dayra_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_dayra_10",
+  "rid": "fs_dayra_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_07",
+  "rid": "fs_2al_07",
+  "v": false,
+  "why": "'akhrej' is Levantine/MSA; Egyptian is akhrog."
+ },
+ {
+  "sid": "fs_2al_12",
+  "rid": "fs_2al_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_05",
+  "rid": "fs_2al_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_01",
+  "rid": "fs_2al_01",
+  "v": false,
+  "why": "'el mawqe3' and 'souq' are MSA forms; Egyptian says el makan, el so2."
+ },
+ {
+  "sid": "fs_2awla_15",
+  "rid": "fs_2awla_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_05",
+  "rid": "fs_2awla_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_09",
+  "rid": "fs_2awla_09",
+  "v": false,
+  "why": "'ne7ki' meaning 'we talk' is Levantine; Egyptian uses netkallem/nedardesh."
+ },
+ {
+  "sid": "fs_2awla_08",
+  "rid": "fs_2awla_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_13",
+  "rid": "fs_2alb_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_11",
+  "rid": "fs_2alb_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_03",
+  "rid": "fs_2alb_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_14",
+  "rid": "fs_2al3ab_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_02",
+  "rid": "fs_2al3ab_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_03",
+  "rid": "fs_2al3ab_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_13",
+  "rid": "fs_2odam_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_10",
+  "rid": "fs_2odam_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_12",
+  "rid": "fs_2odam_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_14",
+  "rid": "fs_2odam_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_06",
+  "rid": "fs_3edam_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_08",
+  "rid": "fs_3edam_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_10",
+  "rid": "fs_3edam_10",
+  "v": false,
+  "why": "'dwr ymeen' and 'htdy' are not Egyptian; Egyptian says 7awed yemeen."
+ },
+ {
+  "sid": "fs_3edam_15",
+  "rid": "fs_3edam_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3abr_09",
+  "rid": "fs_3abr_09",
+  "v": false,
+  "why": "'ma shuftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh."
+ },
+ {
+  "sid": "fs_3abr_04",
+  "rid": "fs_3abr_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3abr_08",
+  "rid": "fs_3abr_08",
+  "v": false,
+  "why": "'tayyeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed."
+ },
+ {
+  "sid": "fs_3abr_12",
+  "rid": "fs_3abr_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ebra_13",
+  "rid": "fs_3ebra_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ebra_06",
+  "rid": "fs_3ebra_06",
+  "v": false,
+  "why": "'asa2ny' is an MSA verb; Egyptian would say za3alni or da2ay2ni."
+ },
+ {
+  "sid": "fs_3ebra_12",
+  "rid": "fs_3ebra_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3adam_08",
+  "rid": "fs_3adam_08",
+  "v": false,
+  "why": "'tayeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed."
+ },
+ {
+  "sid": "fs_3adam_02",
+  "rid": "fs_3adam_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3adam_12",
+  "rid": "fs_3adam_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_09",
+  "rid": "fs_2adm_09",
+  "v": false,
+  "why": "'ma shoftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh."
+ },
+ {
+  "sid": "fs_2adm_12",
+  "rid": "fs_2adm_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_04",
+  "rid": "fs_2adm_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_15",
+  "rid": "fs_2adm_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_15",
+  "rid": "fs_3ala2a_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_06",
+  "rid": "fs_3ala2a_06",
+  "v": false,
+  "why": "'baina' is the MSA preposition; Egyptian says bein."
+ },
+ {
+  "sid": "fs_3ala2a_13",
+  "rid": "fs_3ala2a_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_09",
+  "rid": "fs_3ala2a_09",
+  "v": false,
+  "why": "'ma shofnak' negation lacks -sh (Levantine pattern); Egyptian: ma shofnaksh."
+ },
+ {
+  "sid": "fs_3alya_03",
+  "rid": "fs_3alya_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alya_11",
+  "rid": "fs_3alya_11",
+  "v": false,
+  "why": "'nasbet el hodour' is formal/MSA phrasing, not everyday speech."
+ },
+ {
+  "sid": "fs_3alya_05",
+  "rid": "fs_3alya_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alya_02",
+  "rid": "fs_3alya_02",
+  "v": false,
+  "why": "'shreit' (I bought) is Maghrebi/Gulf; Egyptian says eshtareit."
+ },
+ {
+  "sid": "fs_3aleehom_08",
+  "rid": "fs_3aleehom_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_02",
+  "rid": "fs_3aleehom_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_11",
+  "rid": "fs_3aleehom_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_05",
+  "rid": "fs_3aleehom_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_02",
+  "rid": "fs_leehom_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_08",
+  "rid": "fs_leehom_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_06",
+  "rid": "fs_leehom_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_15",
+  "rid": "fs_leehom_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_13",
+  "rid": "fs_3alena_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_10",
+  "rid": "fs_3alena_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_14",
+  "rid": "fs_3alena_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_06",
+  "rid": "fs_3alena_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lena_14",
+  "rid": "fs_lena_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lena_04",
+  "rid": "fs_lena_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lena_09",
+  "rid": "fs_lena_09",
+  "v": false,
+  "why": "'ma shoftak' lacks -sh and 'keteer kalemat' order is non-Egyptian."
+ },
+ {
+  "sid": "fs_lena_10",
+  "rid": "fs_lena_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_04",
+  "rid": "fs_3am_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_05",
+  "rid": "fs_3am_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_11",
+  "rid": "fs_3am_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_13",
+  "rid": "fs_3am_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_06",
+  "rid": "fs_3om2_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_10",
+  "rid": "fs_3om2_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_04",
+  "rid": "fs_3om2_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_00",
+  "rid": "fs_3om2_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3amal_06",
+  "rid": "fs_3amal_06",
+  "v": false,
+  "why": "'7ata nehyto' is an MSA/Levantine purpose clause; Egyptian: 3ashan nekhallaso."
+ },
+ {
+  "sid": "fs_3amal_14",
+  "rid": "fs_3amal_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3amal_08",
+  "rid": "fs_3amal_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_04",
+  "rid": "fs_3wamel_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_06",
+  "rid": "fs_3wamel_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_15",
+  "rid": "fs_3wamel_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_00",
+  "rid": "fs_3an_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_13",
+  "rid": "fs_3an_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_15",
+  "rid": "fs_3an_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_12",
+  "rid": "fs_ana_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_10",
+  "rid": "fs_ana_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_04",
+  "rid": "fs_ana_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_03",
+  "rid": "fs_3andha_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_00",
+  "rid": "fs_3andha_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_10",
+  "rid": "fs_3andha_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_08",
+  "rid": "fs_3andha_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andoh_01",
+  "rid": "fs_3andoh_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andoh_00",
+  "rid": "fs_3andoh_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andoh_12",
+  "rid": "fs_3andoh_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3anha_00",
+  "rid": "fs_3anha_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3anha_02",
+  "rid": "fs_3anha_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3anha_14",
+  "rid": "fs_3anha_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3anha_11",
+  "rid": "fs_3anha_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_14",
+  "rid": "fs_enha_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_05",
+  "rid": "fs_enha_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_03",
+  "rid": "fs_enha_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_01",
+  "rid": "fs_enha_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_00",
+  "rid": "fs_3ard_00",
+  "v": false,
+  "why": "'7ilo' is Levantine; Egyptian says 7elw."
+ },
+ {
+  "sid": "fs_3ard_11",
+  "rid": "fs_3ard_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_03",
+  "rid": "fs_3ard_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_04",
+  "rid": "fs_3ard_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3arada_15",
+  "rid": "fs_3arada_15",
+  "v": true,
+  "why": ""
+ }
+]

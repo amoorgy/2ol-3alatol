@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this benchmark, code or dataset, please cite it as below."
+title: "2ol 3alatol: an orthographic-robustness benchmark and fine-tuning dataset for Egyptian Arabizi"
+type: software
+authors:
+  - family-names: Sorour
+    given-names: Amr
+repository-code: "https://github.com/amoorgy/2ol-3alatol"
+license: MIT
+date-released: 2026-10-17
+keywords:
+  - Arabizi
+  - Franco-Arabic
+  - Egyptian Arabic
+  - orthographic robustness
+  - tokenization
+  - benchmark
+  - LLM evaluation

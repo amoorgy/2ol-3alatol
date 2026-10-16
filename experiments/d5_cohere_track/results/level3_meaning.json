@@ -1,0 +1,340 @@
+{
+ "schema_version": 1,
+ "provenance": "nilechat arm: machine-derived probe stimulus (hard rule 1)",
+ "prompt_lang": "en",
+ "n_items": 150,
+ "limit": 150,
+ "sample_seed": 13,
+ "gen": {
+  "temperature": 0.0,
+  "num_predict": 24,
+  "seed": 13,
+  "think": false
+ },
+ "models": {
+  "llama3.1:8b": {
+   "control": {
+    "n_words": 30,
+    "n_scored": 28,
+    "accuracy": 0.2333,
+    "capability": "FAIL"
+   },
+   "n_items": 150,
+   "n_calls": 950,
+   "n_parsed": 806,
+   "non_answer_rate": 0.1516,
+   "variant_pairwise_agreement": 0.2356,
+   "variant_consistency_at_k": 0.0933,
+   "under_robust_rate": 0.7644,
+   "modal_meaning_share": 0.4532,
+   "n_trap_items": 94,
+   "n_traps_scored": 73,
+   "trap_non_answer_rate": 0.1809,
+   "over_norm_rate": 0.137,
+   "ceiling_n": 130,
+   "ceiling_agreement": 0.9615,
+   "n_gold": 0,
+   "meaning_accuracy": null,
+   "by_class": {
+    "CLIPPING": {
+     "n_edges": 1,
+     "n_none": 0,
+     "flip_rate": 1.0
+    },
+    "DEGEMINATION": {
+     "n_edges": 54,
+     "n_none": 11,
+     "flip_rate": 0.6852
+    },
+    "DIGIT_AMBIG": {
+     "n_edges": 80,
+     "n_none": 14,
+     "flip_rate": 0.9
+    },
+    "DIGIT_SAFE": {
+     "n_edges": 27,
+     "n_none": 1,
+     "flip_rate": 0.963
+    },
+    "DIPHTHONG": {
+     "n_edges": 61,
+     "n_none": 16,
+     "flip_rate": 0.8689
+    },
+    "FINAL_Y_I": {
+     "n_edges": 45,
+     "n_none": 14,
+     "flip_rate": 0.7111
+    },
+    "TAA_MARBUTA": {
+     "n_edges": 16,
+     "n_none": 3,
+     "flip_rate": 0.75
+    },
+    "VOWEL_DROP": {
+     "n_edges": 6,
+     "n_none": 3,
+     "flip_rate": 0.8333
+    },
+    "VOWEL_DROP_MED": {
+     "n_edges": 32,
+     "n_none": 5,
+     "flip_rate": 0.75
+    },
+    "VOWEL_LENGTH": {
+     "n_edges": 269,
+     "n_none": 48,
+     "flip_rate": 0.7695
+    },
+    "VOWEL_SWAP": {
+     "n_edges": 142,
+     "n_none": 32,
+     "flip_rate": 0.7746
+    }
+   }
+  },
+  "aya-expanse:8b": {
+   "control": {
+    "n_words": 30,
+    "n_scored": 29,
+    "accuracy": 0.5333,
+    "capability": "PASS"
+   },
+   "n_items": 150,
+   "n_calls": 950,
+   "n_parsed": 948,
+   "non_answer_rate": 0.0021,
+   "variant_pairwise_agreement": 0.2649,
+   "variant_consistency_at_k": 0.1,
+   "under_robust_rate": 0.7351,
+   "modal_meaning_share": 0.4977,
+   "n_trap_items": 94,
+   "n_traps_scored": 94,
+   "trap_non_answer_rate": 0.0,
+   "over_norm_rate": 0.0745,
+   "ceiling_n": 150,
+   "ceiling_agreement": 1.0,
+   "n_gold": 0,
+   "meaning_accuracy": null,
+   "by_class": {
+    "CLIPPING": {
+     "n_edges": 1,
+     "n_none": 0,
+     "flip_rate": 1.0
+    },
+    "DEGEMINATION": {
+     "n_edges": 54,
+     "n_none": 0,
+     "flip_rate": 0.7222
+    },
+    "DIGIT_AMBIG": {
+     "n_edges": 80,
+     "n_none": 0,
+     "flip_rate": 0.7125
+    },
+    "DIGIT_SAFE": {
+     "n_edges": 27,
+     "n_none": 1,
+     "flip_rate": 1.0
+    },
+    "DIPHTHONG": {
+     "n_edges": 61,
+     "n_none": 0,
+     "flip_rate": 0.6557
+    },
+    "FINAL_Y_I": {
+     "n_edges": 45,
+     "n_none": 1,
+     "flip_rate": 0.7333
+    },
+    "TAA_MARBUTA": {
+     "n_edges": 16,
+     "n_none": 0,
+     "flip_rate": 0.625
+    },
+    "VOWEL_DROP": {
+     "n_edges": 6,
+     "n_none": 0,
+     "flip_rate": 0.8333
+    },
+    "VOWEL_DROP_MED": {
+     "n_edges": 32,
+     "n_none": 0,
+     "flip_rate": 0.8125
+    },
+    "VOWEL_LENGTH": {
+     "n_edges": 269,
+     "n_none": 0,
+     "flip_rate": 0.684
+    },
+    "VOWEL_SWAP": {
+     "n_edges": 142,
+     "n_none": 0,
+     "flip_rate": 0.662
+    }
+   }
+  },
+  "gemma4:e2b": {
+   "control": {
+    "n_words": 30,
+    "n_scored": 30,
+    "accuracy": 0.8667,
+    "capability": "PASS"
+   },
+   "n_items": 150,
+   "n_calls": 950,
+   "n_parsed": 912,
+   "non_answer_rate": 0.04,
+   "variant_pairwise_agreement": 0.4356,
+   "variant_consistency_at_k": 0.22,
+   "under_robust_rate": 0.5644,
+   "modal_meaning_share": 0.6376,
+   "n_trap_items": 94,
+   "n_traps_scored": 86,
+   "trap_non_answer_rate": 0.0745,
+   "over_norm_rate": 0.1047,
+   "ceiling_n": 148,
+   "ceiling_agreement": 1.0,
+   "n_gold": 0,
+   "meaning_accuracy": null,
+   "by_class": {
+    "CLIPPING": {
+     "n_edges": 1,
+     "n_none": 0,
+     "flip_rate": 0.0
+    },
+    "DEGEMINATION": {
+     "n_edges": 54,
+     "n_none": 2,
+     "flip_rate": 0.5
+    },
+    "DIGIT_AMBIG": {
+     "n_edges": 80,
+     "n_none": 4,
+     "flip_rate": 0.6125
+    },
+    "DIGIT_SAFE": {
+     "n_edges": 27,
+     "n_none": 2,
+     "flip_rate": 0.963
+    },
+    "DIPHTHONG": {
+     "n_edges": 61,
+     "n_none": 8,
+     "flip_rate": 0.5574
+    },
+    "FINAL_Y_I": {
+     "n_edges": 45,
+     "n_none": 2,
+     "flip_rate": 0.5333
+    },
+    "TAA_MARBUTA": {
+     "n_edges": 16,
+     "n_none": 0,
+     "flip_rate": 0.625
+    },
+    "VOWEL_DROP": {
+     "n_edges": 6,
+     "n_none": 1,
+     "flip_rate": 0.6667
+    },
+    "VOWEL_DROP_MED": {
+     "n_edges": 32,
+     "n_none": 0,
+     "flip_rate": 0.3125
+    },
+    "VOWEL_LENGTH": {
+     "n_edges": 269,
+     "n_none": 19,
+     "flip_rate": 0.513
+    },
+    "VOWEL_SWAP": {
+     "n_edges": 142,
+     "n_none": 4,
+     "flip_rate": 0.4296
+    }
+   }
+  },
+  "qwen3.5:9b": {
+   "control": {
+    "n_words": 30,
+    "n_scored": 30,
+    "accuracy": 0.5667,
+    "capability": "PASS"
+   },
+   "n_items": 150,
+   "n_calls": 950,
+   "n_parsed": 950,
+   "non_answer_rate": 0.0,
+   "variant_pairwise_agreement": 0.5147,
+   "variant_consistency_at_k": 0.32,
+   "under_robust_rate": 0.4853,
+   "modal_meaning_share": 0.691,
+   "n_trap_items": 94,
+   "n_traps_scored": 94,
+   "trap_non_answer_rate": 0.0,
+   "over_norm_rate": 0.1383,
+   "ceiling_n": 150,
+   "ceiling_agreement": 1.0,
+   "n_gold": 0,
+   "meaning_accuracy": null,
+   "by_class": {
+    "CLIPPING": {
+     "n_edges": 1,
+     "n_none": 0,
+     "flip_rate": 1.0
+    },
+    "DEGEMINATION": {
+     "n_edges": 54,
+     "n_none": 0,
+     "flip_rate": 0.537
+    },
+    "DIGIT_AMBIG": {
+     "n_edges": 80,
+     "n_none": 0,
+     "flip_rate": 0.6625
+    },
+    "DIGIT_SAFE": {
+     "n_edges": 27,
+     "n_none": 0,
+     "flip_rate": 0.8889
+    },
+    "DIPHTHONG": {
+     "n_edges": 61,
+     "n_none": 0,
+     "flip_rate": 0.2459
+    },
+    "FINAL_Y_I": {
+     "n_edges": 45,
+     "n_none": 0,
+     "flip_rate": 0.5111
+    },
+    "TAA_MARBUTA": {
+     "n_edges": 16,
+     "n_none": 0,
+     "flip_rate": 0.1875
+    },
+    "VOWEL_DROP": {
+     "n_edges": 6,
+     "n_none": 0,
+     "flip_rate": 0.5
+    },
+    "VOWEL_DROP_MED": {
+     "n_edges": 32,
+     "n_none": 0,
+     "flip_rate": 0.3438
+    },
+    "VOWEL_LENGTH": {
+     "n_edges": 269,
+     "n_none": 0,
+     "flip_rate": 0.4164
+    },
+    "VOWEL_SWAP": {
+     "n_edges": 142,
+     "n_none": 0,
+     "flip_rate": 0.4085
+    }
+   }
+  }
+ }
+}

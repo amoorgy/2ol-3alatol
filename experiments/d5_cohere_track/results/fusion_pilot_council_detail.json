@@ -1,0 +1,1277 @@
+{
+ "description": "Full per-row, per-lens blind naturalness council verdicts for the fusion_pilot 3-arm comparison. Supersedes the earlier 2-arm-only detail file. Supporting detail for fusion_pilot.json/md's summary stats.",
+ "bar": ">=4/5 lenses agreeing 'natural' = kept",
+ "rows": [
+  {
+   "row_id": "2al3ab:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2al3ab",
+   "arabic": "ألعاب",
+   "sentence": "Ana h2al3ab 2al3ab m3 as7abi 2nshallah n7l el lghz w nksp el ja2za.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "heavy vowel-dropping but structurally natural texting style"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'h2al3ab 2al3ab m3 as7abi' = I'll play games with friends, clear games sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear plan: play games with friends, solve puzzle, win prize"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural casual texting-style abbreviations"
+    }
+   }
+  },
+  {
+   "row_id": "3edam:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "3edam",
+   "arabic": "إعدام",
+   "sentence": "el 3adaala mat5odsh 3edam lel majoormeen, bas lel lazeeen elli 3amloo jraam 3ala el naas.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "reads as a natural opinionated statement"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "justice shouldn't apply execution to the innocent, only to criminals — clear execution sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent normative claim: execution only for actual wrongdoers, not the merely accused"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual ammiya register even for a serious topic"
+    }
+   }
+  },
+  {
+   "row_id": "2al:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "2al",
+   "arabic": "قال",
+   "sentence": "El saheb 2al ana msh h2dar el 2e2abet dah, 3ndi shaghl kteer.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "common casual phrasing pattern despite one unclear word"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'El saheb 2al' introduces reported speech, clear said sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear reported speech: friend can't attend due to workload"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register"
+    }
+   }
+  },
+  {
+   "row_id": "2awla:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2awla",
+   "arabic": "أولى",
+   "sentence": "El 2awla menna n2awel nafsna 3ala 7aga 7elwa.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "stitched-together phrasing that doesn't read like natural speech"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el 2awla menna' = it is more fitting for us, matches أولى (more deserving/first) sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "one plausible statement about prioritizing trying for something good"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, natural expression '7aga 7elwa'"
+    }
+   }
+  },
+  {
+   "row_id": "alat:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "alat",
+   "arabic": "آلات",
+   "sentence": "El-alat el-haditha bet-sahl el-shaghil we tet3amel m3a el-3amal be-sahl.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "redundant and stiff, reads machine-translated"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "modern machines make work easier, matches machines sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition loop"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single clear claim that modern machines ease the work"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'el-haditha' is a literary/formal adjective, not colloquial"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "El imam rad 3ala el mawkef, wa ana radit 3ala el mub3a.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "second clause with 'el mub3a' is stilted/nonsensical, uses fusha 'wa'"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el imam rad... ana radit' both uses match reply/respond sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "reuses 'rad' with different subjects/forms, not a loop"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear parallel structure of two people responding, even if one noun is obscure"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'wa ana radit' uses MSA conjunction/conjugation, news-style"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "Ben7awel norgan el ashra2 2odam el masr lel shughl.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'norgan el ashra2' doesn't parse"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2odam el masr' preposition usage still matches in-front-of sense despite odd surrounding words"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "unclear words ('norgan', 'ashra2') prevent any single coherent reading"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial attempt, no formal/English mixing"
+    }
+   }
+  },
+  {
+   "row_id": "watt:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "watt",
+   "arabic": "واط",
+   "sentence": "el shabab yekhreb 100 watt fel lamp elyom",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "verb-object combination doesn't fit naturally"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "100 watt in the lamp, matches electrical unit sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "verb 'destroys' doesn't fit an amount of watts, no coherent action described"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register with normal 'watt' loanword"
+    }
+   }
+  },
+  {
+   "row_id": "2abl:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "2abl",
+   "arabic": "قبل",
+   "sentence": "Ana 3ayez 2abl aroo7 el 7agb, atafakkar fee ro7at el cinema.",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "missing 'ma' after 2abl and stilted fusha-style 'atafakkar fee'"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2abl aroo7' still conveys before, despite missing 'ma'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'before I go to the hijab' then unrelated cinema thought does not cohere"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'atafakkar' is a literary MSA verb form, not colloquial"
+    }
+   }
+  },
+  {
+   "row_id": "bal:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "bal",
+   "arabic": "بال",
+   "sentence": "3andi shughel kteer w bal ashof el nas el 3azeza.",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'w bal ashof' is ungrammatical, doesn't hang together"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'w bal ashof' reads naturally as 'but/rather' (بل), not 'mind' (بال) — the confusable word wins"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'bal ashof' is not a workable clause, breaks the sentence's logic"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register"
+    }
+   }
+  },
+  {
+   "row_id": "2alet:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2alet",
+   "arabic": "قالت",
+   "sentence": "Ana 2alet lazim net3allem 2omar geded, 7aga gededa w mosh 3ady 3aleha.",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "subject-verb agreement error: 'Ana 2alet' should be 'Ana 2olt'"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'Ana 2alet' pairs first-person 'I' with the she-said conjugation, the classic confusion"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'net3allem 2omar geded' doesn't parse into a sensible learning/teaching claim"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural casual register"
+    }
+   }
+  },
+  {
+   "row_id": "3edam:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "3edam",
+   "arabic": "إعدام",
+   "sentence": "el 3edam da mosh 3al-ma3rou.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "short fragment reads fluently, likely truncated at end"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el 3edam da' = this execution, noun usage matches execution sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "short and truncated but not looping or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "short but clear standalone claim that the execution isn't proper/known"
+    },
+    "register": {
+     "natural": true,
+     "reason": "short casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "el imam rad 3ala el shabab ba3d el mawkef el-yom",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "simple, idiomatic and natural"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el imam rad 3ala el shabab' = the imam replied to the youth, clear reply sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "simple factual statement: imam responded to the youth"
+    },
+    "register": {
+     "natural": false,
+     "reason": "reads like a formal news-report statement, not casual speech"
+    }
+   }
+  },
+  {
+   "row_id": "2a2ema:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2a2ema",
+   "arabic": "قائمة",
+   "sentence": "Ana 3ayez 2a2ema el-mowaa3ed el-yawmiya 3ashan nntehi el-moshare3.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "awkward person shift and unnatural verb 'nntehi' breaks flow"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "used as list of daily appointments, matches list sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear single request: wants a daily schedule list to finish the project"
+    },
+    "register": {
+     "natural": false,
+     "reason": "formal MSA phrasing like 'el-mowaa3ed el-yawmiya' and 'nntehi'"
+    }
+   }
+  },
+  {
+   "row_id": "2alb:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2alb",
+   "arabic": "قلب",
+   "sentence": "El 2alb beta3a 3alih kol el 7ag el li3i bik.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "nonsensical, doesn't parse as Egyptian Arabic"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el 2alb beta3a' = his/her heart, heart sense holds despite garbled rest"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "unusual phrasing but no repetition loop or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "words don't combine into any recoverable meaning"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab throughout ('beta3a', 'el 7ag')"
+    }
+   }
+  },
+  {
+   "row_id": "alat:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "alat",
+   "arabic": "آلات",
+   "sentence": "el-alat el-hadida fi el-masn3 betshaghal b7ala we b3oml el-3amal b7ala.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "repeats 'b7ala' oddly, stilted phrasing"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "modern machines in the factory work well, matches machines sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "parallel clause structure reuses 'b7ala' but not a tight repeated-in-a-row chunk"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single clear claim that modern machines in the factory work well"
+    },
+    "register": {
+     "natural": false,
+     "reason": "formal 'hadida/haditha' adjective plus MSA-style 'fi' preposition"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "Ana 2odam el market el ames w 2alt fresh tomatoes.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "disjointed, missing copula, non-sequitur ending"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2odam el market' = in front of the market, matches in-front-of sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "graspable as being at the market yesterday getting fresh tomatoes"
+    },
+    "register": {
+     "natural": false,
+     "reason": "jarring English 'fresh tomatoes' dropped into the sentence"
+    }
+   }
+  },
+  {
+   "row_id": "2ott:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2ott",
+   "arabic": "قط",
+   "sentence": "shouft 2ott 3al el se7f 3amla 3a3a 3al el sherb el barid",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'3amla 3a3a' is incoherent"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "cat near dishes making meow-like sound at cold drink, cat sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "odd but structured, no repeated chunk"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'3amla 3a3a' doesn't connect the cat/plates/drink into sense"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab despite nonsense content"
+    }
+   }
+  },
+  {
+   "row_id": "watt:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "watt",
+   "arabic": "واط",
+   "sentence": "el fatura el khera 100 watt 3ashan el istemal el zayd fi el bal",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "disconnected ending 'fi el bal' breaks flow"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "bill high due to 100 watt usage, matches electrical unit sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "ends with 'fi el bal' which doesn't attach to the billing statement"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual everyday register about a bill complaint"
+    }
+   }
+  },
+  {
+   "row_id": "3abd:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "3abd",
+   "arabic": "عبد",
+   "sentence": "el 3abd da 3amel shoghl kwayes we 3arfa 3aleh 3ayen",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "gender/agreement mismatch, clause doesn't parse"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el 3abd da 3amel shoghl kwayes' = this servant/person did good work, sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "trailing clause 'arfa 3aleh 3ayen' doesn't resolve into sense"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register"
+    }
+   }
+  },
+  {
+   "row_id": "2abl:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2abl",
+   "arabic": "قبل",
+   "sentence": "Ana 3ayez 2abl ma 3awed 3al 7agb 3a el 7agb 3a el 7agb 3a el 7agb",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "degenerate repetition of '3a el 7agb' four times, word-salad"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2abl ma 3awed' correctly means before I redo, despite trailing repetition noise"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "looping repetition: \"3a el 7agb\" repeated three times in a row"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "degenerates into meaningless repeated phrase 'el 7agb 3a el 7agb...'"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab, no formal/English intrusion despite repetition"
+    }
+   }
+  },
+  {
+   "row_id": "bal:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "bal",
+   "arabic": "بال",
+   "sentence": "el 3al3a bal el 7alw el maghribi kanet m3a el 3ashan",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "word salad, clauses don't connect"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "sentence is incoherent word salad, no clear mind/attention sense conveyed"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "odd phrasing but retains subject/object structure, not word salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "string of nouns with no connecting sense (citadel/sweet/Moroccan/dinner)"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial words only, no formal or English mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2al3ab:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2al3ab",
+   "arabic": "ألعاب",
+   "sentence": "Ana ba7eb 2al3ab ma 3ayez 3a 3ayez balil",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'ma 3ayez 3a 3ayez balil' is incoherent"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'ba7eb 2al3ab' = I love games, clear games sense despite garbled tail"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "broken stutter/word salad: \"ma 3ayez 3a 3ayez balil\" duplicates '3ayez' and trails into nonsense"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "trails into fragmentary non-sequitur ('ma 3ayez 3a 3ayez balil')"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab, no register mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2ard:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2ard",
+   "arabic": "أرض",
+   "sentence": "Ana 2alt 2ard el 3ar2a we 2ar2at 3al 3ayn.",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "garbled, doesn't form a coherent sentence"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "sentence conflates 2ard with 3ar2a (width/show), muddying the land/earth sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "clauses don't add up to any coherent scene or statement"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab only"
+    }
+   }
+  },
+  {
+   "row_id": "dayra:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "dayra",
+   "arabic": "دايرة",
+   "sentence": "3ayez 2a dayra 3amal ma3rifet al-bilad 2a el-moshoulat el-metahia.",
+   "votes_natural": 1,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "garbled string of phrases, not a coherent sentence"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "sentence is too garbled to confirm circle/district sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "somewhat awkward but structured, not degenerate"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "reads as disconnected fragments, no single graspable point"
+    },
+    "register": {
+     "natural": false,
+     "reason": "formal MSA phrase 'ma3rifet al-bilad'"
+    }
+   }
+  },
+  {
+   "row_id": "2awla:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2awla",
+   "arabic": "أولى",
+   "sentence": "el 2awla nbe2a 3ala el 3alabat 3an el 3alabat 3an el 3alabat 3an el 3alabat",
+   "votes_natural": 1,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "degenerate repetition of '3an el 3alabat', word-salad"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "degenerate repeated phrase, no coherent meaning conveyed"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "looping repetition: \"3an el 3alabat\" repeated four times in a row"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "degenerates into meaningless repeated phrase '3an el 3alabat...'"
+    },
+    "register": {
+     "natural": true,
+     "reason": "colloquial vocab despite repetitive phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2a2ema:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2a2ema",
+   "arabic": "قائمة",
+   "sentence": "3ayez 2a2ema bel-maw3eed el-yawmeya 3ashan n3raf el-maham elly han3melha enaharda.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "reads as a natural casual Egyptian sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "list with daily appointments to know tasks, matches list sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear reason given for wanting the daily appointment list"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual texting register throughout"
+    }
+   }
+  },
+  {
+   "row_id": "2abl:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2abl",
+   "arabic": "قبل",
+   "sentence": "Ana raye7 el dokkan 2abl ma arou7 el beet 3ashan akhalles el wagab beta3y",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows naturally as a simple errand sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2abl ma arou7' clearly means before I go home"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent errand sequence: shop before home to finish dinner"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural everyday casual register"
+    }
+   }
+  },
+  {
+   "row_id": "dayra:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "dayra",
+   "arabic": "دايرة",
+   "sentence": "El dayra el-maghribiya kanet kabeera we moshoula we helwa kteer.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "clean idiomatic descriptive sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'the Moroccan dayra was big and busy' clearly reads as district/area"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "simple, complete description of a district being big and nice"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual descriptive register"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "ba3d ma 2oltelo el kalam dah howa rad 3ala el message b2enno mowaf2ny fel ra2y",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows naturally like real texting"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'howa rad 3ala el message' = he replied to the message, clear reply sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear narrative: told him something, he replied agreeing"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural casual texting register"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm C",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "ana wese2 2odam el so2 mbarah we shreit t3matem taziza",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "mostly natural flow despite one odd word"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'2odam el so2' = in front of the market, matches in-front-of sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "overall gist clear: at the market yesterday, bought fresh tomatoes"
+    },
+    "register": {
+     "natural": true,
+     "reason": "fully colloquial, correctly renders produce in Arabic"
+    }
+   }
+  },
+  {
+   "row_id": "2ott:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2ott",
+   "arabic": "قط",
+   "sentence": "Embare7 kont mashy 3ala el bet lama shoft 2ott saghir 7elw 3al sat7 byel3ab b7amas.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "very natural narrative sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "saw a small cute cat playing on the roof, clear cat sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear narrative of seeing a small cat playing on the roof"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural casual storytelling register"
+    }
+   }
+  },
+  {
+   "row_id": "2al:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2al",
+   "arabic": "قال",
+   "sentence": "El saheb 2al ana 3ayz akml shoghly 2abl el igtima3 bokra 3ashan m3andy wa2t",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural reported-speech sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'El saheb 2al' introduces reported speech, clear said sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear reported speech: friend wants to finish work before tomorrow's meeting"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register, 'igtima3' is fine in colloquial professional talk"
+    }
+   }
+  },
+  {
+   "row_id": "2alet:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2alet",
+   "arabic": "قالت",
+   "sentence": "embare7 mariam 2alet li enha 3ayza tet3alem logha gedida w enha mabsota awi be keda",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "grammatically correct and natural"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'mariam 2alet li' = Mariam said to me, correct third-person-feminine usage"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear report: Mariam wants to learn a new language and is happy about it"
+    },
+    "register": {
+     "natural": true,
+     "reason": "very natural casual texting style"
+    }
+   }
+  },
+  {
+   "row_id": "2a2em:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2a2em",
+   "arabic": "قائم",
+   "sentence": "el maktab el gedid 2a2em 3al el shara3 el kbeer, w kol el nas far7aneen biya",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows naturally as a descriptive statement"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el maktab el gedid 2a2em 3al el shara3' = the new office stands/is located on the street, matches sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "graspable as: new office stands on the big street and people are pleased about it"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual descriptive register"
+    }
+   }
+  },
+  {
+   "row_id": "bayd:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "bayd",
+   "arabic": "بيض",
+   "sentence": "shoft el bayd fel talaga kan taza, hashogoh ma3 el 3ash el naharda",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural subject-verb-object flow despite one unclear verb"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "eggs in the fridge were fresh, clear eggs sense not the color sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear plan: saw fresh eggs in fridge, will cook them for dinner tonight"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual natural register"
+    }
+   }
+  },
+  {
+   "row_id": "alat:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "alat",
+   "arabic": "آلات",
+   "sentence": "el-3amal fel masna3 msh hayet3ala fe alat el gdeda 7ata nerga3 nesheel el 3elat el 2dema kollaha",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "clunky, unnatural verb constructions throughout"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'alat el gdeda' = the new machines, matches machines sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "graspable point about factory work and swapping old machines for new, despite awkward phrasing"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual vocab despite awkward grammar"
+    }
+   }
+  },
+  {
+   "row_id": "2ard:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2ard",
+   "arabic": "أرض",
+   "sentence": "el 2ard di kabeera we gameela, hanebny 3aleha madrasa gedida lel mohtwa el ma7ally",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "fluent, natural descriptive sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'el 2ard di kabeera' = this land is big, we'll build a school on it — clear land sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear plan to build a new school on the land for the community"
+    },
+    "register": {
+     "natural": false,
+     "reason": "bureaucratic-sounding tail 'lel mohtwa el ma7ally' clashes with casual opening"
+    }
+   }
+  },
+  {
+   "row_id": "3edam:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "3edam",
+   "arabic": "إعدام",
+   "sentence": "by2olo en el-3adala lazem takhod magraha, w da ya3ny 3edam le elli khatfo el-abrya2a w khalo el-nas fi 7ozn.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "coherent, idiomatic sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "justice means execution for the kidnappers, clear execution sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear chain of reasoning: justice takes its course, meaning execution for kidnappers"
+    },
+    "register": {
+     "natural": false,
+     "reason": "literary words 'el-abrya2a' and 'fi 7ozn' give it a news-article feel"
+    }
+   }
+  },
+  {
+   "row_id": "3abd:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "3abd",
+   "arabic": "عبد",
+   "sentence": "Bokra hanetqabal ma3 3abd el mohtaram, howa mo2ahab awi w bi3mel shoghlo btefaneh.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "reads naturally aside from one minor word"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "'3abd el mohtaram, mo2ahab awi' refers to a respected talented person named/called Abd"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear statement about meeting a talented, skilled person tomorrow"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'btefaneh' is a formal/literary word for 'with mastery'"
+    }
+   }
+  },
+  {
+   "row_id": "bal:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "bal",
+   "arabic": "بال",
+   "sentence": "ana ta3ban awi el yom, gamdy bal min el shughul el ktir, 3ayez aruu7 el beet anam delwa2ty",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'gamdy bal min el shughul' does not parse as natural speech"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'gamdy bal min el shughul' is not coherent enough to read as 'mind/attention'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition or salad"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "tired from work, mind worn out, wants to go home and sleep — one clear thought"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual everyday register ('ta3ban awi', 'delwa2ty')"
+    }
+   }
+  }
+ ]
+}

@@ -1,0 +1,1123 @@
+sentence_id	rendering_id	valid	votes_valid	votes_invalid	n_judges	bad_substitutions	reason
+fs_2a2em_01	fs_2a2em_01	true	4	1	5		'mashwar 2a2em 3ala el 7agat' is a calque of 'errand based on'; unnatural.
+fs_2a2em_05	fs_2a2em_05	false	3	2	5		Gender error: 'el khotta 2a2em' should be feminine (2ayma). || 'el 3a2ila' is the MSA pronunciation; Egyptian says el 3eila.
+fs_2a2em_08	fs_2a2em_08	true	4	1	5		'el 3asha kan 2a2em 3ala el samak' is an English calque; 'elly akalt' lacks object pronoun.
+fs_2a2em_09	fs_2a2em_09	false	3	2	5		'magabelnash' is not a real form; '2a2em 3ala el safar' reads MSA. || 'magabelnash' uses g for qaf (Sa'idi/Gulf); Cairene is ma2ablnash.
+fs_2a2ema_02	fs_2a2ema_02	false	3	2	5		Garbled trailing fragment 'akammel shy el yom' tacked onto the end. || '3ashan akammel shy el yom' is garbled; no Egyptian would type this.
+fs_2a2ema_05	fs_2a2ema_05	true	5	0	5		
+fs_2a2ema_09	fs_2a2ema_09	true	4	1	5		'katba ... 3ala 2a2ema' wrong collocation (fi lista); jarring after 'wa7ashteny'.
+fs_2a2ema_13	fs_2a2ema_13	true	5	0	5		
+fs_2adm_04	fs_2adm_04	false	1	4	5		'el ezma2 dah 2adm awi' -- neither foot nor oldness fits; likely meant 2adeem or ze7ma. || 'This traffic is very foot/oldness' makes no sense as a description of the jam. || Garbled non-word 'el ezma2'; broken token 'kobra'. || 'el ezma2 dah 2adm awi' is nonsensical.
+fs_2adm_07	fs_2adm_07	true	4	1	5		"""2adm regli"" unidiomatic; ""amshi bital"" garbled"
+fs_2adm_09	fs_2adm_09	false	3	2	5		'2adm el zaman ma shoftak' not an Egyptian idiom; 'men zaman' expected. || 'ma shoftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh.
+fs_2adm_10	fs_2adm_10	false	1	4	5		"'Put a foot on the ground' in street directions is nonsensical. || Non-sequitur clause '7ot 2adm 3ala el ard' spliced into directions. || ""7ot 2adm 3ala el ard"" nonsense in directions || 'el masref' for bank is formal/MSA; everyday Egyptian says 'el bank'."
+fs_2adm_12	fs_2adm_12	false	3	2	5		Trailing '3ala el-fatra' is a garbled, meaningless fragment. || Egyptians say 'rigl' for foot; '2aghsel 2adm el yemeen' unnatural.
+fs_2adm_13	fs_2adm_13	true	4	1	5		"""min 2adm"" wrong (men zaman); ""3amalt ta5eer"" calque"
+fs_2adm_15	fs_2adm_15	true	4	1	5		'dayes 3ala 2adm kol wa7ed' is an English calque, not Egyptian.
+fs_2adra_06	fs_2adra_06	true	5	0	5		
+fs_2adra_12	fs_2adra_12	true	4	1	5		'fi wa2t' calques 'on time' (fel ma3ad); clause chaining is stilted.
+fs_2adra_13	fs_2adra_13	false	2	3	5		Garbled non-word 'mota3mil' where 'momken' was intended. || 'mota3mil tsam7ini' garbled; 'aftakaro' is MSA instead of 'afakkaro'. || 'mota3mil tsam7ini' is not an Egyptian colloquial form; Egyptian: momken tsam7ini.
+fs_2al3ab_02	fs_2al3ab_02	true	4	1	5		'la3ebt 2al3ab kteer' calque; MSA 'hadi2a'; Egyptian would say 'le3ebt kteer fel gnena'.
+fs_2al3ab_03	fs_2al3ab_03	true	4	1	5		MSA plural '2al3ab' instead of 'le3ab'; 'maba3d ennaharda' odd.
+fs_2al3ab_14	fs_2al3ab_14	true	4	1	5		'el 2al3ab' is MSA; Egyptian shopper says 'el le3ab di'.
+fs_2al_01	fs_2al_01	false	3	2	5		'el mawqe3 hayfta7' calque/odd for the market opening. || 'el mawqe3' and 'souq' are MSA forms; Egyptian says el makan, el so2.
+fs_2al_05	fs_2al_05	true	5	0	5		
+fs_2al_07	fs_2al_07	false	1	4	5		Excuse for lateness 'el zar3a kanet kahla gedan' is nonsensical; no clear situation. || Nonsense phrase 'el zar3a kanet kahla'; garbled generation. || 'el zar3a kanet kahla' nonsensical; 'Samahny et2akhar' ungrammatical; 'akhrej' not Egyptian. || 'akhrej' is Levantine/MSA; Egyptian is akhrog.
+fs_2al_12	fs_2al_12	true	4	1	5		Past '2al li' in habitual frame; 'abda2 yomy' calques 'start my day'.
+fs_2alb_03	fs_2alb_03	true	4	1	5		'ya sa7bi ya 2alb' unnatural; Egyptians say 'ya 2alby'.
+fs_2alb_11	fs_2alb_11	false	3	2	5		'kan 3al 2alb awi' is not an idiom; heart sense is strained and unclear. || 'kan 3al 2alb' not an idiom; 'el da2e2a el 2e5era dawwarni' garbled.
+fs_2alb_13	fs_2alb_13	true	4	1	5		Address form is 'ya 2alby'; bare 'ya 2alb' is unnatural.
+fs_2asasa_03	fs_2asasa_03	true	5	0	5		
+fs_2asasa_06	fs_2asasa_06	true	4	1	5		'kont fakr en mitsla7sh aslan, el donya ra7et feen' is garbled.
+fs_2asasa_10	fs_2asasa_10	true	4	1	5		'w 2asasa khod yemeen' misplaced adverb; 'el gazara' should be 'el gazzar'.
+fs_2asasa_14	fs_2asasa_14	false	3	2	5		glued trailing fragment 'dah akher feha' after 'be kam' || '2asasa be kam dah akher feha' is garbled.
+fs_2awla_00	fs_2awla_00	true	4	1	5		'2awla 7aga' is MSA-ish; Egyptians say 'awel 7aga'.
+fs_2awla_04	fs_2awla_04	false	1	4	5		'2awla el wa7ed yesta7melha' incoherent; neither first nor more-deserving fits. || 'Traffic is the first thing one tolerates' makes no sense in the complaint context. || garbled reduplication '2atba 2atba' and broken 'ba2a et2akhar' || 'el zahma 2awla el wa7ed yesta7melha' is garbled.
+fs_2awla_05	fs_2awla_05	true	4	1	5		Egyptians say 'awel fekra' or 'el fekra el ola', not 'el fekra el 2awla'.
+fs_2awla_08	fs_2awla_08	false	3	2	5		Food 'awla men ay 7aga' means 'more deserving than'; intended 'better/tastier' -- wrong sense. || 'kanet 2awla men ay 7aga' misuses awla as 'better'; calque.
+fs_2awla_09	fs_2awla_09	false	2	3	5		'ta3ala 2awla en ne7ki' is strained; reads like awwalan 'first', not 'more deserving'. || 'ta3ala 2awla en ne7ki' is meaningless in Egyptian. || 'ne7ki' meaning 'we talk' is Levantine; Egyptian uses netkallem/nedardesh.
+fs_2awla_14	fs_2awla_14	false	2	3	5		"'se3r el 2awla di' has no clear referent; sense genuinely ambiguous. || 'kam se3r el 2awla di' is garbled, non-Egyptian. || ""kam se3r"" is MSA/Levantine phrasing; Egyptian asks ""bekam"" or ""se3rha kam""."
+fs_2awla_15	fs_2awla_15	true	4	1	5		'el mawdo3 da 2awla en el modir ye3raf' is a stilted calque.
+fs_2la_01	fs_2la_01	true	5	0	5		
+fs_2la_11	fs_2la_11	true	4	1	5		'3awarani' not a word; clause ungrammatical.
+fs_2la_12	fs_2la_12	true	4	1	5		'katir' reflects MSA vocalization; Egyptian says kteer.
+fs_2la_14	fs_2la_14	true	4	1	5		'2la law 3andak 3ard' after asking price is incoherent.
+fs_2odam_10	fs_2odam_10	true	5	0	5		
+fs_2odam_12	fs_2odam_12	false	3	2	5		Garbled nonsense phrase 'batab telphoni'. || 'batab telphoni' meaningless; 'basba7 badri' unnatural.
+fs_2odam_13	fs_2odam_13	true	4	1	5		Repeats 'nesit ... nseet' (forgot) twice; redundant loop.
+fs_2odam_14	fs_2odam_14	true	5	0	5		
+fs_3abr_04	fs_3abr_04	true	4	1	5		'3abr el kobry' formal; Egyptian says 'el za7ma 3al kobry'.
+fs_3abr_08	fs_3abr_08	false	2	3	5		English calque 'across the street' as a location; Arabic 3abr doesn't mean opposite side. || 'akolt koshary 3abr el shari3' calques 'across the street'. || 'tayyeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed.
+fs_3abr_09	fs_3abr_09	false	2	3	5		Repeats 'akhbarak' twice; formulaic greeting tacked onto end. || '3abr el-telefon' is MSA; Egyptians say '3al telefon'. || 'ma shuftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh.
+fs_3abr_12	fs_3abr_12	true	4	1	5		'3abr el-shobak' formal calque; Egyptian says 'men el shebbak'.
+fs_3adam_02	fs_3adam_02	true	4	1	5		'3adam elflous' is formal MSA register, not chat Egyptian.
+fs_3adam_08	fs_3adam_08	false	2	3	5		Says the food was very good, then that they didn't like it; self-contradictory. || 'kan feh 3adam el mal7' calque; Egyptian: 'kan na2so mal7'. || 'tayeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed.
+fs_3adam_12	fs_3adam_12	true	4	1	5		'raghm 3adam elnoom' is MSA phrasing, not chat Egyptian.
+fs_3ala2a_06	fs_3ala2a_06	false	3	2	5		'baina' is MSA; Egyptian chat uses 'ben'. || 'baina' is the MSA preposition; Egyptian says bein.
+fs_3ala2a_09	fs_3ala2a_09	true	4	1	5		'ma shofnak' negation lacks -sh (Levantine pattern); Egyptian: ma shofnaksh.
+fs_3ala2a_13	fs_3ala2a_13	true	4	1	5		'a2asser 3ala el 3ala2a' wrong preposition; calque.
+fs_3ala2a_15	fs_3ala2a_15	true	4	1	5		'el 3ala2a ba2et say3a' is not a natural Egyptian collocation.
+fs_3aleehom_02	fs_3aleehom_02	true	5	0	5		
+fs_3aleehom_05	fs_3aleehom_05	false	3	2	5		Repeats 'el weekend' twice; redundant with 'elgom3a elgaya'. || 1sg 'ha3di' with 'ana w elwelad'; 'el weekend' repeated twice.
+fs_3aleehom_08	fs_3aleehom_08	true	4	1	5		'kanet el ta3ma gameda' non-Egyptian; expected 'kan el ta3m gamed'.
+fs_3aleehom_11	fs_3aleehom_11	false	1	4	5		'el la3eeba 3aleehom' is garbled; no clear 'on them' sense. || 'The player on them, their play was high level' is garbled; unclear who played. || Incoherent garbled clause 'el la3eeba 3aleehom kan le3boo'. || 'el la3eeba 3aleehom' meaningless.
+fs_3alena_06	fs_3alena_06	true	4	1	5		'sa3b awi w gamed' contradictory; 'be5alas el fatra' garbled.
+fs_3alena_10	fs_3alena_10	true	4	1	5		'ned5ol el 3arabeya be rasa' is unclear, not natural Egyptian.
+fs_3alena_13	fs_3alena_13	true	4	1	5		'3alena el3wad bel3asha' not idiomatic; natural is 'el 3asha 3alaya'.
+fs_3alena_14	fs_3alena_14	false	3	2	5		Reduplicated non-word '3ad3ad' is a generation artifact. || '3ad3ad el takhfid' is garbled.
+fs_3alya_02	fs_3alya_02	false	2	3	5		Says they bought the books yet lacked enough money to pay; contradictory. || Gender error: 'el se3r' is masculine, needs '3aly'. || 'shreit' (I bought) is Maghrebi/Gulf; Egyptian says eshtareit.
+fs_3alya_03	fs_3alya_03	false	2	3	5		'el karton ely 3alya el raf' reads as garbled 3ala 'on'; neither high nor on-her fits. || Asks friend to BUY the box because speaker can't reach the shelf; action mismatch. || 'eshterly el karton ely 3alya el raf' garbled; '3ashana' odd.
+fs_3alya_05	fs_3alya_05	false	1	4	5		'el se3a 3alya delwa2ty' (the hour is high) is not a meaningful sense. || 'The hour is high now' is nonsensical and clashes with planning for after maghrib. || Nonsense clause 'el se3a 3alya' glued to an unrelated plan; garbled 'el 3ala'. || 'el se3a 3alya delwa2ty' is meaningless.
+fs_3alya_11	fs_3alya_11	false	2	3	5		English 'stadium' unnatural here; an Egyptian would say 'el estad'. || 'nasbet el hodour' formal register; 'el match el bare7' non-Egyptian. || 'nasbet el hodour' is formal/MSA phrasing, not everyday speech.
+fs_3am_04	fs_3am_04	true	4	1	5		'el shams betedrab fel share3' not an Egyptian expression.
+fs_3am_05	fs_3am_05	true	4	1	5		'nkhareg shwaya' is not a natural verb form here.
+fs_3am_11	fs_3am_11	true	4	1	5		'el far2 kassar el 2award' meaningless.
+fs_3am_13	fs_3am_13	true	5	0	5		
+fs_3amal_06	fs_3amal_06	false	2	3	5		Garbled non-word 'nolkaf'. || 'nolkaf' not a word; '7ata' MSA. || '7ata nehyto' is an MSA/Levantine purpose clause; Egyptian: 3ashan nekhallaso.
+fs_3amal_08	fs_3amal_08	true	4	1	5		'kanet 3amal 7elw men mama' calque with gender mismatch.
+fs_3amal_14	fs_3amal_14	false	3	2	5		Shopping 'se3r el 3amal elly hena' -- unclear what 3amal denotes; strained/ambiguous sense. || 'el se3r beta3 el 3amal elly hena kam' calque, unnatural.
+fs_3an_00	fs_3an_00	true	5	0	5		
+fs_3an_13	fs_3an_13	true	4	1	5		Addressee gender flips: fem 'akalmek' vs masc 'sama7ni/ma3ak'.
+fs_3an_15	fs_3an_15	true	5	0	5		
+fs_3andha_00	fs_3andha_00	false	3	2	5		Three unrelated clauses glued together with 'w'. || 'yom ta3ban' calques 'tiring day'; clauses disjointed.
+fs_3andha_03	fs_3andha_03	true	5	0	5		
+fs_3andha_08	fs_3andha_08	true	4	1	5		'3andha ta3m w ree7a helween' calque plus agreement error.
+fs_3andha_10	fs_3andha_10	true	5	0	5		
+fs_3andoh_00	fs_3andoh_00	false	2	3	5		Unintroduced 'he has time to listen and yirawwini' doesn't connect to arriving home tired. || Garbled 'yirawwini'; dangling '3andoh' clause glued on. || 'yirawwini' garbled; '3andoh el wa2t' clause unnatural.
+fs_3andoh_01	fs_3andoh_01	true	5	0	5		
+fs_3andoh_12	fs_3andoh_12	true	4	1	5		'3andoh 3ada yefatar ma3aya' calques 'he has a habit'.
+fs_3anha_00	fs_3anha_00	false	1	4	5		'kan m4el 3anha' is garbled; 'about her/it' has no clear sense here. || 'The day was like about-her' is garbled; clause has no meaning. || Garbled 'm4el 3anha'; repeated tiredness filler (ta3b/ta3ban). || 'kan m4el 3anha' garbled.
+fs_3anha_02	fs_3anha_02	false	3	2	5		Garbled tokens 'ashra7lol' and 'mad3oo3'. || 'ashra7lol' and 'mad3oo3' are not real forms.
+fs_3anha_11	fs_3anha_11	true	4	1	5		Gender error: 'el-mosalsal' masculine needs '3anno'.
+fs_3anha_14	fs_3anha_14	false	3	2	5		Garbled phrase 'el se3er 3addeh'. || 'el se3er 3addeh' garbled; 'as2al 3anha' misused.
+fs_3arada_00	fs_3arada_00	true	4	1	5		"""3arada el sata7 kanet bayza w khallatny ash-taghal"" is incoherent, not natural chat."
+fs_3arada_02	fs_3arada_02	true	4	1	5		"""3arada bet3et el bab"" then ""barra el beyt"" is incoherent; football crossbar isn't on a door."
+fs_3arada_03	fs_3arada_03	true	4	1	5		"""beti2el"" is wrong; Egyptian says ""te2eela"" (heavy)."
+fs_3arada_15	fs_3arada_15	true	4	1	5		'we2e3et 3al bab' odd; '3arada' rare in chat.
+fs_3ard_00	fs_3ard_00	false	2	3	5		Trailing garbled fragment '2alle3 el ta3ban'. || '2alle3 el ta3ban' garbled; '7ilo' is Levantine. || '7ilo' is Levantine; Egyptian says 7elw.
+fs_3ard_03	fs_3ard_03	true	5	0	5		
+fs_3ard_04	fs_3ard_04	false	3	2	5		Repeats 'share3 ... shari3' twice in one sentence. || 'le kotor el 3arabeyat' formal; 'share3 ... shari3' redundant.
+fs_3ard_11	fs_3ard_11	true	5	0	5		
+fs_3ashan_00	fs_3ashan_00	false	3	2	5		"Causal link reversed: tired from work 'because' I want to sleep. || ""3ashan"" misused: tired because I want to sleep; natural would be ""fa""."
+fs_3ashan_02	fs_3ashan_02	true	5	0	5		
+fs_3ashan_03	fs_3ashan_03	true	5	0	5		
+fs_3ashan_11	fs_3ashan_11	true	4	1	5		"Tense clash: present ""batfarrag"" with past ""kan gamed""; causal 3ashan feels forced."
+fs_3ashr_06	fs_3ashr_06	true	5	0	5		
+fs_3ashr_08	fs_3ashr_08	true	4	1	5		"Needs plural ""3ashar atba2""; ""3ashr taba2"" is ungrammatical."
+fs_3ashr_10	fs_3ashr_10	true	4	1	5		masraf/mabna read as MSA/Gulf 'bank/building'; Egyptian says bank/3omara
+fs_3ashr_13	fs_3ashr_13	true	4	1	5		"Clock time is ""el sa3a 3ashara"", not ""el sa3a 3ashr""."
+fs_3ayesh_00	fs_3ayesh_00	false	1	4	5		"Ends in garbled 'w haba2alak'; final thought is unintelligible. || trailing fragment ""w haba2alak"" is incomplete/unclear, sentence ends mid-thought || ""mazet"" is not Egyptian (lessa); ""haba2alak"" is meaningless. || mazet (ما زلت) is MSA/Maghrebi; Egyptian uses lessa"
+fs_3ayesh_01	fs_3ayesh_01	false	1	4	5		"'Come back until I am living beside the market' is nonsensical. || garbled tacked-on trailing clause ""3ad ma akoon 3ayesh gamb el souq"" || ""araga3 3ad ma akoon 3ayesh gamb el souq"" is nonsensical. || '3ad ma' is not Egyptian colloquial; Egyptian would say ba3d ma"
+fs_3ayesh_09	fs_3ayesh_09	true	4	1	5		"""ba2alak kemann yom ma shoftak"" is ungrammatical; should be ""ba2ali kam yom ma shoftaksh""."
+fs_3ayesh_12	fs_3ayesh_12	false	3	2	5		"anchor tacked on as trailing filler ""w ana 3ayesh"" after routine list || ""basba7"" wrong verb; ""akammel youmi w ana 3ayesh"" is unnatural."
+fs_3aylty_00	fs_3aylty_00	true	5	0	5		
+fs_3aylty_05	fs_3aylty_05	true	4	1	5		'helwa kteer' uses Levantine intensifier; Egyptian says 7elwa awi
+fs_3aylty_12	fs_3aylty_12	true	5	0	5		
+fs_3aylty_13	fs_3aylty_13	false	2	3	5		"garbled trailing fragment ""ma3lesh 3al ekher"" || ""mozawratohom"" and ""3al ekher"" are not Egyptian words; garbled. || mozawratohom has MSA-style case-vowel suffix -ohom; not an Egyptian colloquial form"
+fs_3ayshin_03	fs_3ayshin_03	true	4	1	5		"""3ayshin fi mawqef sa3b"" is a calque; Egyptians say ""e7na fi maw2ef sa3b""."
+fs_3ayshin_12	fs_3ayshin_12	false	3	2	5		"""ba5od fe6or 3ala 2ahwa"" and ""le2n e7na 3ayshin bel ni3ma"" are unnatural. || fe6or (فطور) is Levantine/Gulf form; Egyptian breakfast is fetar"
+fs_3ayshin_13	fs_3ayshin_13	true	5	0	5		
+fs_3ayshin_14	fs_3ayshin_14	false	3	2	5		"Price question followed by non-sequitur 'we live on how much?'. || ""ehna 3ayshin 3ala ad eh?"" after asking a price is unclear, not idiomatic."
+fs_3ebra_06	fs_3ebra_06	false	2	3	5		Garbled 'asa2ny' and incoherent trailing 'ba2a 3aref ra7ty'. || 'asa2ny' is MSA; 'ba2a 3aref ra7ty' is garbled. || 'asa2ny' is an MSA verb; Egyptian would say za3alni or da2ay2ni.
+fs_3ebra_12	fs_3ebra_12	true	4	1	5		'da 3ebra en el nom...' calques 'this is a lesson that'.
+fs_3ebra_13	fs_3ebra_13	true	5	0	5		
+fs_3edam_06	fs_3edam_06	true	5	0	5		
+fs_3edam_08	fs_3edam_08	false	3	2	5		Slang 'e3dam' praising delicious kofta, not execution/death penalty. || '3amalat fiya 3edam' is not a natural slang construction here.
+fs_3edam_10	fs_3edam_10	false	0	5	5		In directions '3edam el masgid' means nothing; stands for 3and/2odam, not execution. || Directions say 'execution the mosque, turn right' -- nonsensical route instruction. || Double space, vowel-less garbled tokens ('htdy', 'dwr'), repeated '3la twl/3la tol'. || '3edam el masgid' is nonsense in dire
+fs_3edam_15	fs_3edam_15	true	5	0	5		
+fs_3esh_03	fs_3esh_03	false	3	2	5		"glued fragments ""3ayez.mosh 3ayez"": missing space, repeated word || Garbled ending ""law sama7t 3ayez.mosh 3ayez at3ebak""."
+fs_3esh_05	fs_3esh_05	true	5	0	5		
+fs_3esh_10	fs_3esh_10	false	2	3	5		"Directions mixed with nonsense 'go up on the day of the circle' and 'live life'. || directions glued to unrelated motto ""3esh el-7ayah bel-7ob""; garbled middle clause || Incoherent directions; ""3esh el-7ayah bel-7ob"" is slogan-like, not chat."
+fs_3leehom_07	fs_3leehom_07	false	2	3	5		'el zo7ma kanet 3leehom' has no referent for 'them'; strained sense. || 'The crowd was on them' has no referent; lateness explanation incoherent. || 'el zo7ma kanet 3leehom' is incoherent
+fs_3leehom_09	fs_3leehom_09	false	2	3	5		'eh elly 3leehom' has no clear on/against referent; strained usage. || Talking to one friend, then 'what is on them' with no referent for 'them'. || 'ne3raf eh elly 3leehom' has no referent; unnatural
+fs_3leehom_10	fs_3leehom_10	false	2	3	5		'Don't drive on them' and 'they all come out correct' make no sense together. || Trailing clause 'kolohom byetla3o mazboot' is a nonsensical appended fragment. || 'matso2sh 3leehom' and 'byetla3o mazboot' are incoherent
+fs_3om2_00	fs_3om2_00	false	1	4	5		'el yom kolo 3om2' (whole day was depth) -- depth sense does not fit. || 'The whole day was depth' is nonsensical; closing clause also unclear. || Trailing 'a7mel 3ala 7aga tanya' is incoherent filler. || 'el yom kolo 3om2' meaningless; 'a7mel 3ala 7aga' garbled.
+fs_3om2_04	fs_3om2_04	false	2	3	5		'el ze7ma 3om2 gedan' (traffic is depth) -- depth sense does not fit. || 'The traffic today is very depth' is nonsensical. || 'el ze7ma 3om2 gedan' is meaningless.
+fs_3om2_06	fs_3om2_06	true	4	1	5		'el khabar 3ando 3om2' is an English calque.
+fs_3om2_10	fs_3om2_10	false	2	3	5		Landmark 'building whose water is a meter deep underground' is nonsensical in directions. || Garbled non-word 'maytoh'; doubled-vowel artifact 'mabnii'. || 'maytoh 3om2 mitr' garbled.
+fs_3wamel_04	fs_3wamel_04	true	5	0	5		
+fs_3wamel_06	fs_3wamel_06	true	4	1	5		'el 3wamel elly warah ... mo2assra 3ala el nas' heavily MSA.
+fs_3wamel_15	fs_3wamel_15	true	4	1	5		'ely zayd el wa2t ... 3amla te2asar 3ala est3dady' garbled, MSA-ish.
+fs_5od_01	fs_5od_01	false	3	2	5		"""bokra"" repeated redundantly at start and end || Redundant ""bokra"" twice; I'm going but you take the bag, incoherent."
+fs_5od_06	fs_5od_06	true	5	0	5		
+fs_5od_09	fs_5od_09	true	4	1	5		"""2a3ed"" is participle; imperative should be ""o23od""."
+fs_5od_10	fs_5od_10	true	4	1	5		"""be2a3ra3 we2t"" is garbled (be2a2al wa2t)."
+fs_7afez_03	fs_7afez_03	false	3	2	5		"Addressee is masculine 'ya 3am' but then feminine 'konti': inconsistent. || Addressee gender flips (ya 3am / konti); ""meen 7afez el daftar"" incoherent."
+fs_7afez_04	fs_7afez_04	false	2	3	5		"'7afez 3ala a3saby' (preserving my nerves) contradicts intended meaning of traffic fraying nerves; wrong sense || 'Heat makes me fall because I can't arrive at once' is nonsensical. || ""7afez 3ala a3saby"" nonsensical; ""begdarsh"" not Egyptian."
+fs_7afez_07	fs_7afez_07	true	5	0	5		
+fs_7ala_00	fs_7ala_00	false	3	2	5		"Ends in unintelligible 'msh 3arfa ashl'; final clause makes no sense. || ""7ala nafsy ta3bana"" wrong construction; ""ashl"" garbled."
+fs_7ala_10	fs_7ala_10	true	4	1	5		"""fee 7ala el zahaam"" is MSA calque; person mismatch takhod/hat2akhar."
+fs_7ala_12	fs_7ala_12	true	5	0	5		
+fs_7ala_15	fs_7ala_15	true	4	1	5		"""mesh haga tehmilha"" is unnatural; expected ""mesh 7aga tet7emel""."
+fs_7alat_05	fs_7alat_05	false	3	2	5		"'7alat el gaw' reads as construct 7alet el gaw (singular حالة), not plural حالات || Weather is ""7alet el gaw"" singular; plural ""7alat el gaw"" unnatural."
+fs_7alat_07	fs_7alat_07	true	5	0	5		
+fs_7alat_09	fs_7alat_09	false	3	2	5		"'7alat el shughl' reads as construct 7alet el shoghl (singular حالة), not plural || Egyptians ask ""7al el shoghl"", not plural ""7alat el shughl""."
+fs_7alat_15	fs_7alat_15	true	4	1	5		"""feeh 7alat keteera betdaye2ni"" is vague, unnatural phrasing."
+fs_7alaty_01	fs_7alaty_01	true	4	1	5		"""anfez el mashwar"" is MSA calque; clause chain awkward."
+fs_7alaty_08	fs_7alaty_08	true	4	1	5		"""7alaty kanet 7elwa"" after eating is unnatural; would say mazagi/kont mabsout."
+fs_7alaty_10	fs_7alaty_10	false	3	2	5		If MY condition is bad, YOU take care of yourself: non-sequitur. || Incoherent: my mood is bad, so you take care of yourself.
+fs_7aly_00	fs_7aly_00	true	4	1	5		"""7aly ta3ban"" is ungrammatical; Egyptian says ""w ana ta3ban""."
+fs_7aly_05	fs_7aly_05	false	2	3	5		"Plans Friday, then restaurant Saturday; 'my state is good' is a non-sequitur. || unrelated clause ""7aly kwayes awi"" glued into weekend plan || ""nezbet"" garbled; ""7aly kwayes awi"" inserted incoherently."
+fs_7aly_08	fs_7aly_08	true	4	1	5		"""7aly kan tamam"" after eating is unnatural Egyptian."
+fs_7aly_14	fs_7aly_14	true	4	1	5		"Missing elli in ""el shoftaha""; trailing ""3l tool"" awkward; MSA-ish."
+fs_7alya_01	fs_7alya_01	true	5	0	5		
+fs_7alya_02	fs_7alya_02	false	3	2	5		"Ornament here is حلية (7elya), not حالية; label would be the wrong Arabic word || ""7alya"" for jewelry is MSA-ish; Egyptians say dahab/eksesowar."
+fs_7alya_04	fs_7alya_04	false	3	2	5		"MSA ""7aleyyan"" instead of delwa2ti; unnatural. || '3am yezawed' uses Levantine progressive 3am; Egyptian uses beyzeed"
+fs_7alya_10	fs_7alya_10	true	4	1	5		"MSA ""7aleyyan"" instead of delwa2ti; ""as-hal"" stilted."
+fs_7ameya_00	fs_7ameya_00	false	3	2	5		Needing protection from 'nice people like you' is contradictory. || Incoherent: needing protection from nice people like you.
+fs_7ameya_03	fs_7ameya_03	true	4	1	5		"""teb2a leya 7ameya men el nas"" is unnatural phrasing."
+fs_7ameya_07	fs_7ameya_07	false	2	3	5		"'I crowd present in the middle of the street' is nonsensical. || garbled trailing clause ""w ana za7ma mawgood f nos el shari3"" || Garbled: ""3ashan 7ameya w ana za7ma mawgood""."
+fs_7ameya_10	fs_7ameya_10	true	4	1	5		"""khod ma3ak 7ameya"" calques English protection; Egyptians say sunblock."
+fs_7aml_02	fs_7aml_02	true	4	1	5		"""far7an be khabar el 3ila"" is incoherent phrasing."
+fs_7aml_07	fs_7aml_07	false	3	2	5		"Speaker says 'my wife' (male) but apologizes with feminine 'asfa'. || Egyptians say ""kanet 7amel"", not ""kanet fi 7aml""."
+fs_7aml_13	fs_7aml_13	true	5	0	5		
+fs_7aml_15	fs_7aml_15	true	4	1	5		"Ending ""lma 2agey el 2ahda el gaiya"" is garbled."
+fs_7amla_02	fs_7amla_02	true	4	1	5		"Gender agreement: 7amla needs ""gamda"", not ""gamed""."
+fs_7amla_10	fs_7amla_10	false	3	2	5		"""iza"" is not Egyptian (law); ""esta3mel el 7amla"" unnatural. || iza conditional is Levantine/MSA; Egyptian colloquial uses law"
+fs_7amla_14	fs_7amla_14	false	2	3	5		Asking the price of a campaign in a shop is a strained, implausible use of 'campaign' || Asking a shop the price of 'this campaign' is nonsensical. || Asking the price of a campaign in a shop is nonsensical.
+fs_7araara_00	fs_7araara_00	true	4	1	5		"""el gaw fee 7araara awi"" unnatural; Egyptian says ""el gaw kan 7arr awi""."
+fs_7araara_08	fs_7araara_08	true	4	1	5		"""3amalat ma3dety twega3ny"" is ungrammatical (khallet ma3deti tewga3ni)."
+fs_7araara_10	fs_7araara_10	true	5	0	5		
+fs_7araara_14	fs_7araara_14	false	3	2	5		"two unrelated sentences glued: heat remark plus sugar price question || Dangling ""3ashan meshyeen?"" makes it incoherent."
+fs_7arary_00	fs_7arary_00	false	3	2	5		"'yom 7arary' (hot/hard day) is not the thermal sense; strained || ""yom 7arary"" is a calque; not natural Egyptian."
+fs_7arary_04	fs_7arary_04	false	2	3	5		"'el gaw el 7arary' means hot weather (7ar), not thermal; strained use of حراري || 'This thermal weather wants me a lot' is nonsensical. || ""el gaw el 7arary 3ayezni"" and ""hassaf"" are garbled."
+fs_7arary_11	fs_7arary_11	false	3	2	5		"A 'heated' match is not the thermal sense; strained metaphorical use of حراري || ""match 7arary"" calques English hot; Egyptians say na2ry/mowalla3."
+fs_7asal_03	fs_7asal_03	true	5	0	5		
+fs_7asal_04	fs_7asal_04	true	4	1	5		"Gender ""zahma ... feeh"" wrong; ""khallas 3az ya 3am"" garbled."
+fs_7asal_14	fs_7asal_14	true	5	0	5		
+fs_7asal_15	fs_7asal_15	true	4	1	5		"""eli 7asal en moshkela kbeera 3andy"" is missing a verb; awkward."
+fs_7awaly_01	fs_7awaly_01	true	5	0	5		
+fs_7awaly_03	fs_7awaly_03	true	5	0	5		
+fs_7awaly_05	fs_7awaly_05	true	4	1	5		"""n3mel khurugat"" unnatural; Egyptian says ""nokhrog"" or ""khorooga""."
+fs_7awaly_11	fs_7awaly_11	true	5	0	5		
+fs_7ayaat_03	fs_7ayaat_03	false	2	3	5		"'ya sa7bi 7ayaat' is incoherent; anchor not used as the noun 'life' || 'ya sa7bi 7ayaat' has a dangling, meaningless 'life' inserted. || ""ya sa7bi 7ayaat"" is nonsensical."
+fs_7ayaat_04	fs_7ayaat_04	false	3	2	5		"'el zift mosh 7ayaat' is a strained, unclear use of 'life' || ""el zift el naharda mosh 7ayaat"" is nonsensical."
+fs_7ayaat_10	fs_7ayaat_10	false	3	2	5		"trailing garbage token ""isA"" after ""bel hodou"" || Garbled ending ""bel hodou isA""; slogan-like."
+fs_7ayaat_13	fs_7ayaat_13	false	1	4	5		"'ya 7ayaat' as vocative endearment is strained; Egyptians say ya 7ayati, not bare noun || Vocative 'ya 7ayaat' (O life, bare) addresses no one sensibly. || ""ya 7ayaat"" is not a vocative; rest garbled. || 'el nhar el fat' and vocative 'ya 7ayaat' are not Egyptian; Egyptian says embare7"
+fs_7ayaty_03	fs_7ayaty_03	true	5	0	5		
+fs_7ayaty_04	fs_7ayaty_04	true	4	1	5		"""merabya"" is garbled; ""fel shara3"" misspelled."
+fs_7ayaty_05	fs_7ayaty_05	true	5	0	5		
+fs_7ayaty_13	fs_7ayaty_13	true	4	1	5		"""kan 3andy 3uzr enny ma afakarsh"" is garbled."
+fs_7efz_05	fs_7efz_05	false	3	2	5		"Used as imperative 'save the date' (e7fazo), not the verbal noun حفظ; ambiguous form || Noun ""7efz"" used as imperative; should be ""e7fazo""."
+fs_7efz_08	fs_7efz_08	false	3	2	5		"Ends in nonsensical 'bokra fel gadid' (tomorrow in the new). || ""3amaltelha 7efz fel talaga"" is a calque; Egyptian says ""7aftaha""."
+fs_7efz_13	fs_7efz_13	true	4	1	5		"""a3mel 7efz el maw3ood"" is a calque."
+fs_7efz_15	fs_7efz_15	false	3	2	5		"MSA ""katheer""; ""a2mel"" typo; stilted. || katheer encodes MSA/Gulf interdental pronunciation; Egyptian is keteer"
+fs_7ekma_00	fs_7ekma_00	true	4	1	5		'7ekma el yom' is an English calque ('wisdom of the day'), unnatural in chat.
+fs_7ekma_04	fs_7ekma_04	false	2	3	5		'3aleeha 7ekma' said of traffic crowding is strained; wisdom sense does not fit. || 'This crowd has wisdom in it' is nonsensical; the heat 'made it more' has no clear referent. || 'el z7ma di 3aleeha 7ekma' is nonsensical; no Egyptian would type this.
+fs_7ekma_12	fs_7ekma_12	true	5	0	5		
+fs_7ekma_15	fs_7ekma_15	true	4	1	5		'el 7ekma me7taga' calque; MSA 'enna'; natural is 'el mawdo3 me7tag 7ekma'.
+fs_7elw_02	fs_7elw_02	false	3	2	5		"trailing filler fragment ""w fatra gameela"" tacked on || Dangling ""w fatra gameela"" is unnatural."
+fs_7elw_06	fs_7elw_06	true	4	1	5		"""rabena yekhalles el kol be khair"" is not an Egyptian idiom."
+fs_7elw_10	fs_7elw_10	true	5	0	5		
+fs_7elw_13	fs_7elw_13	true	4	1	5		"Gender agreement: ""fekra 7elw"" should be ""fekra 7elwa""."
+fs_7elwa_02	fs_7elwa_02	true	5	0	5		
+fs_7elwa_03	fs_7elwa_03	true	4	1	5		"""tesa3edny fi 7aga 7elwa"" is semantically odd, unnatural."
+fs_7elwa_11	fs_7elwa_11	true	5	0	5		
+fs_7elwa_12	fs_7elwa_12	true	4	1	5		"""sabahak 7elwa ya donya"" has wrong agreement; not an Egyptian greeting."
+fs_7okoma_03	fs_7okoma_03	true	5	0	5		
+fs_7okoma_12	fs_7okoma_12	true	5	0	5		
+fs_7okoma_13	fs_7okoma_13	true	5	0	5		
+fs_7okoma_15	fs_7okoma_15	true	4	1	5		'maba5las4 el marateb' wrong verb and gender; Egyptians say 'ma sarafetsh el marateb'.
+fs_a2al_05	fs_a2al_05	true	4	1	5		'te2a3ed' is a wrong verb form (to23od); clause linkage is clumsy.
+fs_a2al_10	fs_a2al_10	false	2	3	5		Ending garbled: 'hatwassel awi w t3adi 3ala el masaa3' ('you will arrive very and pass the hours') is meaningless. || garbled trailing clause 'hatwassel awi w t3adi 3ala el masaa3' || 'hatwassel awi w t3adi 3ala el masaa3' is garbled, not Egyptian phrasing.
+fs_a2al_11	fs_a2al_11	true	5	0	5		
+fs_a2al_12	fs_a2al_12	true	4	1	5		'3ashan a2al el zahma' uses a2al as a verb; unnatural, Egyptians say 'asba2 el zahma'.
+fs_a2ol_01	fs_a2ol_01	true	4	1	5		'bokra a2ol le nafsi' lacks future ha-; Egyptians say 'ha2ol'.
+fs_a2ol_02	fs_a2ol_02	false	3	2	5		Addressee shifts: 'wanted to tell you (lek)' then 'but I didn't tell her (ma2oltelhash)'. || Pronoun clash: 'a2ol lek' (you) then 'ma2oltelhash' (her).
+fs_a2ol_04	fs_a2ol_04	false	3	2	5		repeated word: 'el zehma za7ma' (crowding crowded) || 'el zehma za7ma' redundant; bare 'ana a2ol' needs 'ba2ol'; 'yefta' unclear.
+fs_a2ol_10	fs_a2ol_10	true	5	0	5		
+fs_a3da2_10	fs_a3da2_10	false	3	2	5		garbled trailing fragment 'bara snehm' || Ending 'bara snehm' is gibberish.
+fs_a3da2_11	fs_a3da2_11	false	3	2	5		Opposing team called 'enemies' is strained; could read as players/members (أعضاء). || Calling the opposing team 'el a3da2' is unnatural; Egyptians say 'el fari2 el tany'.
+fs_a3da2_12	fs_a3da2_12	false	3	2	5		'a3da2 el shoghl' reads as work members/colleagues, not enemies; ambiguous with أعضاء. || 'abos el talifon' and 'awageh a3da2 el shoghl' are unnatural, garbled phrasing.
+fs_a3da2_13	fs_a3da2_13	true	5	0	5		
+fs_ahmeya_03	fs_ahmeya_03	true	5	0	5		
+fs_ahmeya_09	fs_ahmeya_09	true	4	1	5		"""3andak ahmeya keteer 3andi"" is calque; ""zannan"" typo."
+fs_ahmeya_13	fs_ahmeya_13	false	3	2	5		"Apologizes for forgetting, then claims 'it wasn't a mistake': contradictory. || ""3ando ahmeya kebira leya"" is calque; ""ma kanesh ghalat"" odd."
+fs_ahmeya_14	fs_ahmeya_14	true	4	1	5		"Redundant ""leya ahmeya 3andi""; unnatural, Egyptians say mohemma."
+fs_akher_01	fs_akher_01	true	5	0	5		
+fs_akher_04	fs_akher_04	false	3	2	5		'akher 7aga' used as 'the ultimate thing', not last/end; strained sense. || 'akher haga te5aly el wa7ed yetganen' is a calque; natural is '7aga tgannen'.
+fs_akher_11	fs_akher_11	true	5	0	5		
+fs_akher_13	fs_akher_13	true	4	1	5		'3enni' misspells 'enni', reads as 'about me'.
+fs_alty_02	fs_alty_02	false	3	2	5		"MSA ""alty"" mixed with elli; ""betetla3"" and ""3am el bab"" not Egyptian. || MSA relative alty mixed with elly in same sentence; Egyptian uses elli"
+fs_alty_09	fs_alty_09	false	1	4	5		"'I was far from me' is illogical; '3alaya 3alaya' duplicated. || repeated word ""3alaya 3alaya"" || MSA ""alty"" instead of elli; ""ba3eed 3anni"" wrong; ""3alaya 3alaya"" duplicated. || MSA relative pronoun alty inside colloquial frame; Egyptian uses elli"
+fs_alty_13	fs_alty_13	false	1	4	5		"Ends in nonsense token 'da-manwe'. || trailing gibberish fragment ""da-manwe"" || MSA ""alty"" in Egyptian chat (elli); ""da-manwe"" is garbage. || MSA relative pronoun alty inside colloquial frame; Egyptian uses elli"
+fs_ana_03	fs_ana_03	true	5	0	5		
+fs_ana_04	fs_ana_04	true	4	1	5		'el zahma keteer awi' unnatural; Egyptians say 'za7ma gamda/fazee3a'.
+fs_ana_05	fs_ana_05	true	5	0	5		
+fs_ana_07	fs_ana_07	true	5	0	5		
+fs_ana_10	fs_ana_10	false	2	3	5		'Take this street when you talk' is nonsensical as a direction. || Incoherent fragment 'lama tekallem' inside directions. || 'lama tekallem' meaningless in directions.
+fs_ana_12	fs_ana_12	false	3	2	5		List-shaped w-chain; garbled '2afta7 3ala tol 3ala el ftoor'. || '2afta7 3ala tol 3ala el ftoor' meaningless.
+fs_anwa3_00	fs_anwa3_00	true	4	1	5		'kan feeh anwa3 ta3ab' is a calque, unnatural Egyptian.
+fs_anwa3_05	fs_anwa3_05	true	4	1	5		'hanenazem anwa3 akel' is a calque; Egyptians wouldn't organize 'types of food'.
+fs_anwa3_07	fs_anwa3_07	false	2	3	5		Second clause is nonsense: 'one of the types of zawat that cannot happen on the road'. || garbled clause 'el zawat 2ally mamken yet7asal' || 'da men anwa3 el zawat 2ally mamken yet7asal' is garbled.
+fs_anwa3_08	fs_anwa3_08	true	5	0	5		
+fs_arady_03	fs_arady_03	true	5	0	5		
+fs_arady_11	fs_arady_11	false	3	2	5		Stadium pitch is أرضية, not أراضي (lands/plots); wrong sense. || 'arady el mal3ab' calques 'grounds'; Egyptians say 'el nogela' or 'ard el mal3ab'.
+fs_arady_12	fs_arady_12	false	3	2	5		"'7or 6', '2abal beetna', 'azra2' (blue for azra3) are garbled. || ""2abal beetna"" (qubal) is Levantine/Gulf; Egyptian says 2osad/2oddam beetna."
+fs_arady_13	fs_arady_13	false	2	3	5		Forgetting 'farm lands' at an appointment is nonsensical; lands sense strained. || Nonsensical: apologizing for 'forgetting the farm lands at the appointment today'. || 'nseet arady el mazra3a fel maw3id' is nonsensical.
+fs_as3ar_01	fs_as3ar_01	true	5	0	5		
+fs_as3ar_03	fs_as3ar_03	true	5	0	5		
+fs_as3ar_13	fs_as3ar_13	true	5	0	5		
+fs_asass_08	fs_asass_08	true	4	1	5		'asass el ta3m' is a calque; Egyptians say 'el sirr kan fel samna'.
+fs_asass_09	fs_asass_09	true	5	0	5		
+fs_asass_13	fs_asass_13	false	2	3	5		Used as adverb 'basically' (أساساً), not noun basis/foundation. || 'asass' dropped in as a connector ('forgot the appointment basis I was busy') makes no sense. || 'asass' used for 'asasan'; 'el youm deh' gender error (el yom da).
+fs_asass_14	fs_asass_14	true	5	0	5		
+fs_asasy_03	fs_asasy_03	true	5	0	5		
+fs_asasy_07	fs_asasy_07	true	4	1	5		'wel mowasala asasy 3alaya' is awkward, not Egyptian phrasing.
+fs_asasy_11	fs_asasy_11	false	1	4	5		'el match kan asasy' as quality praise is strained; not basic/essential. || 'The match was essential' plus garbled 'every player came out with his full request'; no clear sense. || garbled 'tal3 b talabo kamal'; redundant 'naha2i ... fel neha2ya' || 'el match kan asasy, kol la3eb tal3 b talabo kamal
+fs_asasy_13	fs_asasy_13	true	5	0	5		
+fs_asasya_04	fs_asasya_04	false	2	3	5		Traffic being 'basic/essential' because of rain makes no sense; wrong sense. || 'Today's traffic is essential because it rained' is nonsensical. || 'el zahma el naharda asasya' is nonsensical.
+fs_asasya_06	fs_asasya_06	true	5	0	5		
+fs_asasya_08	fs_asasya_08	false	1	4	5		Garbled clause; 'asasya' as basic/essential does not attach coherently. || Garbled: 'the food was essential lema3na the koshari' has no coherent meaning. || garbled phrase 'asasya lema3na el koshari' || 'kanet asasya lema3na el koshari' is garbled.
+fs_asasya_11	fs_asasya_11	false	2	3	5		'match kan asasya giddan' misuses essential as praise; strained sense. || 'The match was very essential, we must watch it again' is semantically nonsensical. || 'el match kan asasya' wrong gender and wrong meaning; unnatural.
+fs_ash3a_04	fs_ash3a_04	true	4	1	5		"""el sayara"" is MSA/Gulf/Levantine; everyday Egyptian says ""el 3arabeyya""."
+fs_ash3a_06	fs_ash3a_06	true	4	1	5		'ezay el ash3a hat2asar 3ala el 3aila' is contextless, unnatural phrasing.
+fs_ash3a_07	fs_ash3a_07	true	5	0	5		
+fs_ash3a_10	fs_ash3a_10	false	3	2	5		"'el tabib' is MSA (doktor); 'el mostashfa bta3ak' unnatural. || ""el tabib"" is MSA/formal; everyday Egyptian says ""el doktor""."
+fs_ashal_00	fs_ashal_00	true	5	0	5		
+fs_ashal_04	fs_ashal_04	true	5	0	5		
+fs_ashal_11	fs_ashal_11	true	5	0	5		
+fs_ashal_15	fs_ashal_15	true	5	0	5		
+fs_asharek_02	fs_asharek_02	false	3	2	5		"'kont asharek' lacks b- prefix; Egyptian is 'kont bashark' || ""kont asharek"" mirrors fusha كنت أشارك; Egyptian past progressive is kont basharek"
+fs_asharek_05	fs_asharek_05	false	3	2	5		"'wa ana asharek ma3 el 3ela fel khetta' is an MSA/English calque || ""wa ana asharek"" is fusha: wa-conjunction and bare indicative; Egyptian: w ana hasharek/basharek"
+fs_asharek_11	fs_asharek_11	false	3	2	5		"'asharek el 7amas' calques English 'share the excitement' || bare ""asharek"" as progressive is fusha-style (Egyptian basharek); ""asharek el 7amas"" is a calque"
+fs_asharek_12	fs_asharek_12	false	3	2	5		"'asharek ahly fel fetar' unnatural (bafetar ma3 ahli); '6' for ta is non-Egyptian || habitual bare ""asharek ahly"" is fusha-style; Egyptian needs basharek; ""ba3diha"" non-Cairene"
+fs_ashya2_01	fs_ashya2_01	true	5	0	5		
+fs_ashya2_06	fs_ashya2_06	true	5	0	5		
+fs_ashya2_10	fs_ashya2_10	true	5	0	5		
+fs_ashya2_15	fs_ashya2_15	true	5	0	5		
+fs_asly_01	fs_asly_01	true	4	1	5		Gender error: 'el bata2a el asly' should be 'el asleya'.
+fs_asly_03	fs_asly_03	false	3	2	5		truncated trailing fragment 'mestany rak' || 'ana mestany rak' is garbled (ra2yak).
+fs_asly_14	fs_asly_14	false	3	2	5		"Gender error 'el 7aga di asly'; '7anout' is MSA/non-Egyptian. || ""el 7anout"" is MSA/Maghrebi for shop; Egyptian says el ma7al or el dokkan."
+fs_asra3_11	fs_asra3_11	true	4	1	5		'dakhel el gool el fat7' is garbled.
+fs_asra3_13	fs_asra3_13	false	3	2	5		Non-sequitur: forgetting an appointment is not fixed by 'being faster next time'. || 'lazem akoun asra3' after forgetting an appointment is a calque, non-sequitur.
+fs_asra3_14	fs_asra3_14	true	4	1	5		'bel asra3' is MSA-ish; Egyptians say 'besor3a' or 'bsor3a'.
+fs_ataba3_02	fs_ataba3_02	false	3	2	5		garbled trailing token 'l2aderi' || 'kont ataba3' needs 'batabe3'; 'l2aderi' is gibberish.
+fs_ataba3_05	fs_ataba3_05	false	2	3	5		"'Follow the step with the family after ten' is meaningless in the grandma-visit situation. || 'ana nazour teta w ataba3 el khota' is garbled. || ""ana nazour"" uses Maghrebi-style n- 1sg without Egyptian b-/ha- prefix; formal ""ataba3 el khota""."
+fs_ataba3_06	fs_ataba3_06	false	3	2	5		"'elly sar' is Levantine, not Egyptian ('elly 7asal'); 'sam3' truncated. || ""elly sar"" (saar) is Levantine/Gulf/MSA; Egyptian says ""elly 7asal""."
+fs_ataba3_12	fs_ataba3_12	true	5	0	5		
+fs_atraf_02	fs_atraf_02	false	3	2	5		"'kont el3ab' lacks b-; '3ala atraf el share3' unnatural || ""kont el3ab"" mirrors fusha كنت ألعب; Egyptian: kont bal3ab"
+fs_atraf_04	fs_atraf_04	true	4	1	5		'3ala atraf el share3' is MSA-ish; Egyptians say '3ala el ganb'
+fs_atraf_09	fs_atraf_09	false	2	3	5		'el donia itghayarat atraf' is nonsensical; no limbs/edges/parties sense fits. || 'The world changed atraf (limbs/edges)' is nonsensical || 'el donia itghayarat atraf' is nonsense
+fs_awda7_01	fs_awda7_01	false	3	2	5		Illogical: waking early tomorrow so the errand becomes clearer 'before I sleep'. || Illogical: wake early so things are clearer before I sleep; unnatural phrasing.
+fs_awda7_05	fs_awda7_05	true	4	1	5		'el 7al yeb2a awda7' is not an Egyptian collocation; 'nerteb' misform of nrattab.
+fs_awda7_10	fs_awda7_10	true	5	0	5		
+fs_awda7_13	fs_awda7_13	true	4	1	5		'el soora awda7' is a calque and a non-sequitur inside an apology.
+fs_awl_01	fs_awl_01	true	5	0	5		
+fs_awl_02	fs_awl_02	true	5	0	5		
+fs_awl_05	fs_awl_05	false	2	3	5		"run-on chain of 'we ... we ba3dein ... we' clauses, list-like padding || Illogical Friday/Saturday timing; 'el hadi2a' is MSA (gonena); run-on. || ""el hadi2a"" is MSA; everyday Egyptian says el gneena or el park."
+fs_awl_14	fs_awl_14	true	5	0	5		
+fs_awy_00	fs_awy_00	false	3	2	5		garbled trailing fragment '3ala 3alemah' || 'kan yom tawel 3ala 3alemah' is garbled.
+fs_awy_02	fs_awy_02	false	3	2	5		garbled trailing fragment 'shogl sh-sheta' || '2a5las shogl sh-sheta' is garbled.
+fs_awy_04	fs_awy_04	true	4	1	5		'awy' misplaced after '3al shari3'; ungrammatical
+fs_awy_06	fs_awy_06	false	2	3	5		'Reminds me of haday2 again' has no clear referent; the reaction is incoherent. || garbled clause 'mafkarny haday2 marra tanya' || 'mafkarny haday2 marra tanya' is garbled.
+fs_awy_09	fs_awy_09	true	5	0	5		
+fs_awy_12	fs_awy_12	true	4	1	5		Word order '2ahwa awy 7elwa' wrong; should be '7elwa awy'.
+fs_awy_13	fs_awy_13	true	4	1	5		'el maw2ed' misspelled; '3ala ma2sudi' unnatural
+fs_awy_14	fs_awy_14	true	5	0	5		
+fs_b2t_00	fs_b2t_00	true	5	0	5		
+fs_b2t_04	fs_b2t_04	true	5	0	5		
+fs_b2t_06	fs_b2t_06	false	3	2	5		"""gher 3an 2abl"" calque; MSA ""shay"" instead of ""7aga"" || 'mafish shay' uses MSA/Levantine shay for thing; Egyptian says 'mafish 7aga'."
+fs_b2t_09	fs_b2t_09	false	2	3	5		"Subject is addressee 'enta' with masc 'kwayes', so b2t reads as ba2eet (you became). || Time 'went fast' and 'she became fine' has no subject; muddled. || ""el wa2t 3ad sar3a awi wi b2t kwayes el 7al"" is garbled"
+fs_b7awl_03	fs_b7awl_03	true	5	0	5		
+fs_b7awl_13	fs_b7awl_13	true	5	0	5		
+fs_b7awl_14	fs_b7awl_14	true	4	1	5		"""a3raf el se3r ... bkm"" redundant; natural is ""a3raf el 7aga di bkam"""
+fs_ba2aly_04	fs_ba2aly_04	true	4	1	5		"""wa2ef el zahma de"" drops ""fe""; should be ""wa2ef fel zahma"""
+fs_ba2aly_08	fs_ba2aly_08	false	1	4	5		"Contradiction: ate yesterday yet still full for three days. || English 'days' where an Egyptian would say 'ayam'. || MSA ""tayyib giddan""; ""ba2aly 3 days lessa shab3an"" after eating yesterday is unnatural || 'el akl kan tayyib giddan' is MSA/Gulf phrasing; Egyptian says '7elw awi' or 'gamed'."
+fs_ba2aly_11	fs_ba2aly_11	false	2	3	5		"Nonsensical: 'finished the match' then two hours 'confirming' the goals. || ""khalaset el match el yom"", ""ba2aked 3ala el goals"" are unidiomatic, MSA-flavoured || 'el match el yom' uses MSA 'el yom' for today; Egyptian says 'ennaharda'."
+fs_ba2aly_14	fs_ba2aly_14	true	5	0	5		
+fs_ba2ol_00	fs_ba2ol_00	true	5	0	5		
+fs_ba2ol_01	fs_ba2ol_01	true	5	0	5		
+fs_ba2ol_09	fs_ba2ol_09	false	3	2	5		"""3ayez nolta"" is not a word; should be ""netla2a"" || 'qahwa' with fusha q (Cairene 2ahwa); 'nolta' is not an Egyptian form (netla2a)."
+fs_ba2ol_10	fs_ba2ol_10	true	5	0	5		
+fs_ba2y_01	fs_ba2y_01	true	5	0	5		
+fs_ba2y_04	fs_ba2y_04	false	2	3	5		"'el taree2 ba2y wa2ef' reads as 'still/became stopped', not 'the rest, remaining'. || ""el taree2 ba2y wa2ef"" unidiomatic (lessa); MSA ""el 3amal""; ""awasel"" wrong form || 'el 3amal' for work is MSA; everyday Egyptian says 'el shoghl'."
+fs_ba2y_10	fs_ba2y_10	false	3	2	5		"""el shari3 el 3asfey lama2"" nonsense; MSA ""7atta"" || '7atta tewsal' uses MSA 7atta for until; Egyptian says 'le7ad ma tewsal'."
+fs_ba2y_15	fs_ba2y_15	true	4	1	5		"""zo2ma2"" is garbled; colleagues is ""zomala2"""
+fs_bani_01	fs_bani_01	true	4	1	5		"""bani el 3emara"" unidiomatic; Egyptian says ""el mo2awel"""
+fs_bani_04	fs_bani_04	false	3	2	5		"Levantine ""3am yebni""; ""el bani"" unidiomatic; ""el shara3"" garbled || '3am yebni' uses the Levantine progressive 3am; Egyptian uses bi- (byebni)."
+fs_bani_08	fs_bani_08	true	4	1	5		"""bani el 3imara"" unidiomatic; ""feteer meshwy"", ""7elw gameel awi"" unnatural"
+fs_bani_11	fs_bani_11	true	4	1	5		"""wa7ed bani byebny"" redundant; Egyptians don't call a builder ""bani"""
+fs_bashar_04	fs_bashar_04	true	5	0	5		
+fs_bashar_07	fs_bashar_07	true	4	1	5		"""el bashar ketir fel share3"" unidiomatic; Egyptian says ""el nas keteer"""
+fs_bashar_10	fs_bashar_10	true	4	1	5		"""es2al ay bashar"" unidiomatic; Egyptian says ""es2al ay 7ad"""
+fs_bashar_11	fs_bashar_11	false	2	3	5		"'beyeshjerro gamdid' is garbled; crowd action unintelligible. || Garbled: ""etfarga3t"", ""beyeshjerro gamdid giddan""; MSA ""giddan"" || 'beyeshjerro' uses non-Egyptian j (Egyptian g); 'etfarga3t', 'gamdid' are not Egyptian words."
+fs_basharya_05	fs_basharya_05	false	2	3	5		"'7aga basharya zay akl' (a human thing like eating) is a strained, unnatural sense. || Doing 'a human thing like eating on the Nile' is nonsensical. || ""ne3mel 7aga basharya"" is meaningless in Egyptian"
+fs_basharya_06	fs_basharya_06	false	0	5	5		"'2alb ay basharya' uses the adjective as a noun for a person; strained. || 'heart of any basharya' and 'news of global meaning' are incoherent. || Tacked-on trailing clause 'howa khabar 3al ma3na el 3aalami' is incoherent filler. || ""2alb ay basharya"" and ""3al ma3na el 3aalami"" are nonsense calques "
+fs_basharya_10	fs_basharya_10	false	3	2	5		"'kol wahed basharya zayyak' needs masc noun bashar/bani adam; fem adjective misused. || ""kol wahed basharya zayyak"" ungrammatical calque; ""faken"" garbled"
+fs_basharya_14	fs_basharya_14	false	2	3	5		"Vocative 'ya basharya' addressing a shopkeeper; not the human/humanity sense. || Addressing a shopkeeper as 'ya basharya' (humanity) makes no sense. || ""ya basharya"" as vocative to shopkeeper is nonsense"
+fs_basita_00	fs_basita_00	true	4	1	5		"Day described as ""ta3ban""; should be ""met3eb"""
+fs_basita_03	fs_basita_03	true	4	1	5		"""mashkoor 3a khaterak"" is not an Egyptian thanks formula"
+fs_basita_07	fs_basita_07	false	3	2	5		"'el zolom hayestanno' (injustice will wait) is nonsense in context. || ""basita el zolom hayestanno"" is nonsense"
+fs_basita_12	fs_basita_12	false	3	2	5		"List-shaped routine with anchor clause 'w el 7ayah basita' inserted as non-sequitur. || ""el sob7 bab2a badri"" unnatural (bas7a badri); ""el 7ayah basita"" inserted oddly"
+fs_bass_03	fs_bass_03	true	4	1	5		"""matet2akharnessh 3alaya"" is a garbled verb form"
+fs_bass_05	fs_bass_05	true	4	1	5		"""neghayar el makan law 3agabkum"" illogical; would be ""law 7abbeto"""
+fs_bass_07	fs_bass_07	true	4	1	5		"""et2akhkharot"" is not a normal Egyptian spelling of ""et2akhart"""
+fs_bass_12	fs_bass_12	true	4	1	5		"""asa7"", ""bashsel"" garbled; ""bashrab bass 2ahwa"" unnatural word order"
+fs_bayn_00	fs_bayn_00	false	3	2	5		"Redundant repetition: 'yom' twice and 'wasalt' clause repeated as 'ma wasaltesh ella delwa2ti'. || ""el zam7"" garbled; overlong, stilted run-on"
+fs_bayn_02	fs_bayn_02	true	5	0	5		
+fs_bayn_06	fs_bayn_06	true	4	1	5		"""bayn el far7a wel soda3"" wrong word (headache) and literary calque"
+fs_bayn_15	fs_bayn_15	true	5	0	5		
+fs_bbasata_08	fs_bbasata_08	false	3	2	5		"MSA ""tayyeba gedan"", ""ma3a""; ""2ashabi"" garbled || 'tayyeba gedan' for tasty food and 'ma3a' are MSA/Gulf flavored; Egyptian: '7elwa awi'."
+fs_bbasata_09	fs_bbasata_09	true	4	1	5		"""el donya ghayaret"" wrong verb form (etghayaret); stilted"
+fs_bbasata_11	fs_bbasata_11	false	2	3	5		"'m3assat', 'etfaieg kol el fodoor' garbled; match description unintelligible. || Garbled: ""m3assat"", ""etfaieg kol el fodoor"" || 'm3assat', 'etfaieg', 'fodoor' are not recognizable Egyptian colloquial words."
+fs_bbasata_13	fs_bbasata_13	true	4	1	5		"""asef li nseet"" wrong; ""bbasata"" misplaced; ""maw2ed"" misspelled"
+fs_be2o_00	fs_be2o_00	false	2	3	5		"Singular 'el mood' with plural 'be2o'; 'became on the state' has no clear sense. || Plural 'be2o' on singular mood; '3ala el 7al' makes no sense here. || ""el mood be2o 3ala el 7al"" plural verb with singular subject, meaningless phrase"
+fs_be2o_04	fs_be2o_04	true	5	0	5		
+fs_be2o_08	fs_be2o_08	true	5	0	5		
+fs_be2o_09	fs_be2o_09	true	4	1	5		"""kanoo soghayara"" wrong form; should be ""soghayyarin"""
+fs_beeh_09	fs_beeh_09	true	5	0	5		
+fs_beeh_14	fs_beeh_14	true	5	0	5		
+fs_beeh_15	fs_beeh_15	false	2	3	5		"'el mashroo3 wa2ef beeh' has no clear referent; strained use of 'with it'. || 'project stopped with it' and 'what to continue' muddled; no referent. || ""el mashroo3 wa2ef beeh"" unidiomatic; would be ""wa2ef ma3aya"""
+fs_beeha_03	fs_beeha_03	true	5	0	5		
+fs_beeha_05	fs_beeha_05	false	2	3	5		"'net3asha beeha' (dine with it) has no fitting fem referent; should be ma3aha. || 'net3asha beeha' has no antecedent; dining 'with it' is nonsensical. || ""net3asha beeha"" has no referent; unnatural"
+fs_beeha_10	fs_beeha_10	true	5	0	5		
+fs_beeha_12	fs_beeha_12	false	2	3	5		"'ba7ot 3asel beeha' refers to masc fetar; wrong referent, strained sense. || ""ba7ot 3asel beeha"" wrong preposition (3aleeh); ""fe6tar"" odd || Gulf-style '6' for ط in 'fe6tar' and 'sagheer' (Egyptian: soghayar) are non-Egyptian."
+fs_beet_01	fs_beet_01	false	3	2	5		"Going home early to get things one wants to buy at the market is illogical. || ""el 7agat el 3ayza ashtreha"" drops elli; go home to buy from market illogical"
+fs_beet_03	fs_beet_03	true	5	0	5		
+fs_beet_07	fs_beet_07	false	2	3	5		"Leaving home late because of street traffic is illogical; ending garbled. || Garbled trailing fragment 'geha basa3atak' attached to the end. || ""tal3a ... met2akher"" gender clash; ""geha basa3atak"" nonsense"
+fs_beet_09	fs_beet_09	false	3	2	5		"Trailing fragment 'bukrah yom' -- dangling redundant 'yom'. || ""bukrah yom"" garbled; ""b2alek zeman"" malformed"
+fs_bet2ther_06	fs_bet2ther_06	false	3	2	5		"Masc subject 'el khabar' with fem 'bet2ther'; sense/agreement strained. || ""el khabar ... bet2ther"" gender mismatch; needs ""bey2ather"""
+fs_bet2ther_08	fs_bet2ther_08	true	4	1	5		"""ri7etha lesa bet2ther 3alaya"" is an unnatural collocation"
+fs_bet2ther_11	fs_bet2ther_11	false	3	2	5		"Masc 'elly shofto' with fem 'bet2ther'; should be bey2ather, strained. || ""elly shofto bet2ther"" gender mismatch and wrong tense"
+fs_bet_02	fs_bet_02	true	4	1	5		"""3adina le2ma 7elwa"" is garbled"
+fs_bet_05	fs_bet_05	false	3	2	5		"""ana fakkar nrooh"" wrong form; should be ""ana mfakkar"" || 'netla2a sawa' uses Levantine sawa for together; Egyptian says 'ma3 ba3d'."
+fs_bet_07	fs_bet_07	true	5	0	5		
+fs_bet_11	fs_bet_11	false	3	2	5		"""kuntu"", ""a3adel"", ""ma fota2sh"" garbled/non-Egyptian forms || 'kuntu' is the MSA first-person form; Egyptian says 'kont'."
+fs_beta3_01	fs_beta3_01	true	4	1	5		"""ashuf el beta3 da walla la2"" missing verb (wasal); incomplete"
+fs_beta3_06	fs_beta3_06	true	5	0	5		
+fs_beta3_11	fs_beta3_11	false	2	3	5		"'el mabara el beta3 embare7' mismatches gender; with article it reads as 'the thingy'. || 'el mabara el beta3' garbled; loved the match yet won't rewatch, inconsistent. || ""el mabara el beta3 embare7"" gender clash and garbled"
+fs_beta3_15	fs_beta3_15	true	5	0	5		
+fs_beta3et_00	fs_beta3et_00	true	5	0	5		
+fs_beta3et_04	fs_beta3et_04	false	3	2	5		"'ba2et 3adeya men gamalet el madaris' is nonsense in the traffic complaint. || ""wa3ra"" for traffic, ""ba2et 3adeya men gamalet el madaris"" nonsense"
+fs_beta3et_05	fs_beta3et_05	false	3	2	5		"""nekhsos el sayyara"" unnatural; MSA ""sayyara"" || 'el sayyara' is MSA/Gulf for car; everyday Egyptian says 'el 3arabeyya'."
+fs_beta3et_07	fs_beta3et_07	false	3	2	5		"Unclear why manager's car delays speaker; 'marchinta' is meaningless. || ""el marchinta"" is not a word; Egyptian says ""el wensh"""
+fs_beta3ty_00	fs_beta3ty_00	true	5	0	5		
+fs_beta3ty_07	fs_beta3ty_07	true	5	0	5		
+fs_beta3ty_09	fs_beta3ty_09	false	2	3	5		"Vocative 'ya beta3ty' used as address term, not possessive 'mine (fem)'. || Addressing a person as 'ya beta3ty' is odd; gender switches mid-sentence. || ""ya beta3ty"" as a vocative is nonsense"
+fs_beta3ty_13	fs_beta3ty_13	true	5	0	5		
+fs_bey2al_03	fs_bey2al_03	true	4	1	5		"""7aga bey2al enaha sa3ba"" stilted; Egyptian says ""bey2olo 3aleha"""
+fs_bey2al_04	fs_bey2al_04	false	3	2	5		"'el mosel el kabeer 3ala kol el toro3' is unintelligible. || ""el mosel el kabeer 3ala kol el toro3"" nonsense"
+fs_bey2al_13	fs_bey2al_13	true	5	0	5		
+fs_bey2al_14	fs_bey2al_14	true	4	1	5		"""fenousy"", ""derbna 3alih"" garbled"
+fs_bey2ather_01	fs_bey2ather_01	false	3	2	5		"""ha2agem"" garbled; MSA ""el masraf"" for bank || 'el masraf' for bank is formal/MSA; everyday Egyptian says 'el bank'."
+fs_bey2ather_09	fs_bey2ather_09	true	5	0	5		
+fs_bey2ather_11	fs_bey2ather_11	true	4	1	5		"""el bara7"" garbled; present ""bey2ather"" for past match"
+fs_bey2ather_13	fs_bey2ather_13	true	4	1	5		"""dah bey2ather 3ala 7ayati keteer"" for a missed appointment is unnatural"
+fs_bey2ol_01	fs_bey2ol_01	true	5	0	5		
+fs_bey2ol_03	fs_bey2ol_03	true	5	0	5		
+fs_bey2ol_04	fs_bey2ol_04	false	2	3	5		"'3amla 3alena 3azama' and 'zamani eh da' are nonsensical. || Garbled trailing fragment 'zamani eh da' tacked on. || ""3amla 3alena 3azama"", ""zamani eh da"" are nonsense"
+fs_bey2ol_12	fs_bey2ol_12	false	3	2	5		"'drink tea before the shoe (el ghezma)' is nonsense. || ""2abl el ghezma"" nonsense; ""basa7a"" garbled"
+fs_bosa_03	fs_bosa_03	true	5	0	5		
+fs_bosa_04	fs_bosa_04	false	3	2	5		"'Kiss from the rain/airport' after traffic complaint is forced and unclear. || ""nefsy fi bosa mn el matar"" is nonsense"
+fs_bosa_06	fs_bosa_06	false	3	2	5		"Ending '3al 3a2ida' is meaningless; unclear why news prompts the kiss. || ""ab3atlek bosa 3al 3a2ida"" is nonsense"
+fs_bosa_09	fs_bosa_09	false	3	2	5		"Repeated phrase '3amil eih' / '3amel eh' within one sentence. || ""edini bosa 3ala khadak"" odd; ""3amel eh"" repeated awkwardly"
+fs_bsbb_00	fs_bsbb_00	true	4	1	5		"""el nhar da kan ta3ban"" says the day was tired; run-on"
+fs_bsbb_01	fs_bsbb_01	true	4	1	5		"""bsbb el dawa 3andi khalas"" clause after bsbb; natural is ""3ashan el dawa khelis"""
+fs_bsbb_11	fs_bsbb_11	true	4	1	5		"""el gol elly et3amil"" calque; Egyptian says ""el goal elli etgab"""
+fs_by7awlo_01	fs_by7awlo_01	true	5	0	5		
+fs_by7awlo_03	fs_by7awlo_03	true	4	1	5		Muddled: asks help for me with something 'they' are doing; referent unclear.
+fs_by7awlo_10	fs_by7awlo_10	false	2	3	5		"Illogical: arriving early tied to street closure; 'ekhdem 3al maytan dayman' is nonsense. || Glued clauses; trailing fragment 'w ekhdem 3al maytan dayman' is incoherent filler. || ""ekhdem 3al maytan dayman"" is nonsense; clauses don't connect naturally"
+fs_by7awlo_11	fs_by7awlo_11	true	4	1	5		"""bas magalohomsh"" unnatural ending; Egyptian would say ""bas ma3rafoosh"""
+fs_bysbb_05	fs_bysbb_05	false	2	3	5		"Planning 'causes joy with us' then 'Friday the Saturday' fragment; incoherent. || Trailing fragment 'yalla el gom3a el sobt' glued onto a finished sentence. || ""bysbb farah bena"", ""el gom3a el sobt"" garbled"
+fs_bysbb_10	fs_bysbb_10	true	4	1	5		"""el shahma ... bysbb"" gender mismatch; ""fala7ez"" garbled"
+fs_bysbb_13	fs_bysbb_13	false	2	3	5		"Ending '3am aleh 3awedha ma3ak' is garbled nonsense. || Garbled trailing fragment '3am aleh 3awedha ma3ak'. || ""bysbb li 7ala we z3al, 3am aleh 3awedha"" garbled"
+fs_da3m_01	fs_da3m_01	true	5	0	5		
+fs_da3m_05	fs_da3m_05	true	4	1	5		"""el gom3a wel sabt dol 3ayzin da3m"" unnatural personification"
+fs_da3m_06	fs_da3m_06	true	4	1	5		"""la2 ya3ni"" odd opener; ""da3m lel mashroo3 da"" stilted, formal"
+fs_da3m_14	fs_da3m_14	true	4	1	5		"""wala balash"" misused; natural is ""walla men gheer da3m"""
+fs_daman_00	fs_daman_00	false	3	2	5		car being under warranty does not explain being late; non sequitur || 'car under warranty made me late' is not something anyone would type
+fs_daman_04	fs_daman_04	true	4	1	5		'el zahma ma lehash daman' is not an Egyptian collocation
+fs_daman_11	fs_daman_11	false	3	2	5		'daman enna khaserna' strained; guarantee does not fit, reads as 'surely/of course' || 'daman enna khaserna' is meaningless; 'dabbar el natega' odd
+fs_daman_13	fs_daman_13	true	4	1	5		'daman menny enno' calques 'guarantee from me'; Egyptians say 'w a3dak'
+fs_darra_04	fs_darra_04	false	1	4	5		'za7ma darra 3ala ro7y' means harmful (darra/ضارة), not co-wife or pearl || 'traffic is a co-wife/pearl on my soul' nonsensical; garbled 'sha3beb' || garbled clause with nonword 'sha3beb' || 'el za7ma darra 3ala ro7y', 'gaw sha3beb 7ases 3alaya' are nonsense
+fs_darra_05	fs_darra_05	false	3	2	5		"'law ... yekon el weekend 7elw' is MSA/Levantine; Egyptian uses 'hayeb2a' || ""yekon"" as conditional apodosis is MSA/Levantine; Egyptian says ""yeb2a""."
+fs_darra_08	fs_darra_08	true	5	0	5		
+fs_darra_10	fs_darra_10	true	5	0	5		
+fs_dawr_02	fs_dawr_02	true	4	1	5		'gali dawr a2ol ra2y' lacks article; 'katabt el mawdou3 el kabeer' unnatural
+fs_dawr_03	fs_dawr_03	false	2	3	5		'te5od dawr w tesa3edni' is strained; neither role nor turn reads naturally || 'take a turn/role and help me' is unclear; no coherent situation for dawr || 'te5od dawr w tesa3edni' is a calque of 'take a role'; not how Egyptians ask for help
+fs_dawr_06	fs_dawr_06	true	5	0	5		
+fs_dawr_07	fs_dawr_07	true	5	0	5		
+fs_dawry_07	fs_dawry_07	true	4	1	5		'match ... ma5lasetsh' gender mismatch; clause chain awkward
+fs_dawry_09	fs_dawry_09	true	5	0	5		
+fs_dawry_11	fs_dawry_11	true	4	1	5		'mo3adalt el ahly we zamalek' is wrong word; Egyptians say 'mobaret/matsh el ahly wel zamalek'
+fs_dawry_14	fs_dawry_14	true	4	1	5		adverbial 'byetghayar dawry' is formal calque; Egyptian says 'kol shwaya'
+fs_dayman_01	fs_dayman_01	false	3	2	5		"'asawwi mashwar' is Gulf/Levantine; Egyptian says 'a3mel' || ""asawwi"" (sawwa, to do) is Levantine/Gulf; Egyptian uses ""a3mel""."
+fs_dayman_05	fs_dayman_05	false	2	3	5		'dayman el gom3a el gaya' contradicts; always cannot modify one specific next Friday || 'always' contradicts the one-time 'next Friday' plan || garbled: 'dayman el gom3a el gaya', 'ma3 ba3d' misplaced
+fs_dayman_10	fs_dayman_10	true	4	1	5		'lama tel3a men el matar' broken agreement; awkward instruction phrasing
+fs_dayman_11	fs_dayman_11	true	4	1	5		'el match el 2ady' makes no sense for 'last match' (elly fat)
+fs_dayra_00	fs_dayra_00	false	1	4	5		'el dayra 3amla fihya 3afya' is nonsense; no circle/department/constituency sense || 'the circle today worked hard' is nonsensical after arriving home tired || garbled trailing phrase '3amla fihya 3afya khalas' || 'el dayra el naharda 3amla fihya 3afya' is meaningless, no Egyptian would type it
+fs_dayra_03	fs_dayra_03	false	3	2	5		'wara2 el dayra' is not an Egyptian collocation for department paperwork. || 'wahdi' without le- is Levantine; Egyptian says lewa7di.
+fs_dayra_04	fs_dayra_04	false	3	2	5		Cars 'at the dayra' strained; roundabout is midan/dawaran, not listed sense || 'el zahaam naharda' missing article; 'dayra' for roundabout is not Egyptian (midan/dawaran)
+fs_dayra_05	fs_dayra_05	true	5	0	5		
+fs_dayra_07	fs_dayra_07	true	4	1	5		'kont mistanin' number mismatch; 'fel dayra' unidiomatic.
+fs_dayra_10	fs_dayra_10	true	4	1	5		Addressee gender flips (ro7/laf vs hatla2i); roundabout is 'dawaran/midan', not 'dayra'.
+fs_dayra_13	fs_dayra_13	true	4	1	5		'kont fel dayra' unidiomatic for being at work/department.
+fs_dee_03	fs_dee_03	true	5	0	5		
+fs_dee_09	fs_dee_09	true	4	1	5		'dee saneyeen keteer 3aleina ma shofnaksh' unnatural; Egyptian says 'ba2alna sanaten'
+fs_dee_15	fs_dee_15	true	4	1	5		'dee el sabab' gender mismatch; Egyptian says 'w da el sabab'
+fs_doi_00	fs_doi_00	true	4	1	5		ear ringing is 'zanna' in Egyptian; 'doi fi wedni' is literary
+fs_doi_02	fs_doi_02	true	5	0	5		
+fs_doi_05	fs_doi_05	false	3	2	5		'el welad 3andhom doi kbeer' strained; kids making noise is dawsha, not roar/echo || 'el welad 3andhom doi kbeer fel bet' is not Egyptian usage
+fs_doi_10	fs_doi_10	true	4	1	5		'lo' non-Egyptian, 'kemmel 3ala el tool' wrong; instruction reads unnatural
+fs_egtema3_00	fs_egtema3_00	true	5	0	5		
+fs_egtema3_02	fs_egtema3_02	true	5	0	5		
+fs_egtema3_05	fs_egtema3_05	true	4	1	5		'egtema3 lel 3ela' unnatural for family gathering (lamma); 'nertab' broken
+fs_egtema3_06	fs_egtema3_06	false	3	2	5		garbled tokens '2ada', 'kamana'; clauses glued without connective || garbled tokens '2ada', 'kamana'; not a typeable sentence
+fs_egtema3_07	fs_egtema3_07	false	3	2	5		apologizes for own lateness yet blames delayed meeting; 'wa2t el mozawed' garbled || 'el wa2t el mozawed' is wrong word (el maw3ed)
+fs_egtema3y_07	fs_egtema3y_07	true	4	1	5		'3asha egtema3y' calque; 'khadt wa2t 3aleh' awkward
+fs_egtema3y_08	fs_egtema3y_08	true	4	1	5		'el 3asha kan egtema3y' is an English calque ('social dinner')
+fs_egtema3y_09	fs_egtema3y_09	false	2	3	5		'n3ml rab3a egtema3y' is garbled; no coherent 'social' modification || 'n3ml rab3a egtema3y 3ala el asl' is garbled, no clear meaning || 'n3ml rab3a egtema3y 3ala el asl' is meaningless
+fs_egtema3y_11	fs_egtema3y_11	true	5	0	5		
+fs_egtema3ya_00	fs_egtema3ya_00	true	4	1	5		'3andi 7aga egtema3ya ma3 el so7ab' calques 'social thing'; Egyptians say 'khoroga'
+fs_egtema3ya_10	fs_egtema3ya_10	true	5	0	5		
+fs_egtema3ya_11	fs_egtema3ya_11	true	4	1	5		'feeh 7aga egtema3ya 7elwa' is a vague calque, not natural
+fs_egtema3ya_13	fs_egtema3ya_13	false	2	3	5		'nsit el egtema3ya' uses it as a noun (meeting/event), not adjective 'social' || dangling adjective used as noun; 'fakrek bukra' (thought you tomorrow) mismatched || 'nsit el egtema3ya' and 'kont fakrek bukra' are nonsense
+fs_el3alam_04	fs_el3alam_04	true	5	0	5		
+fs_el3alam_06	fs_el3alam_06	true	4	1	5		'etgalab' not Cairene; Egyptian idiom is 'el donya et2alabet'
+fs_el3alam_10	fs_el3alam_10	false	1	4	5		Directions to '2alb el3alam' (heart of the world) is strained, not a real place sense || directions to 'the heart of the world' are nonsensical || dangling trailing fragment '3alein' || 'tewsal le 2alb el3alam' as directions is nonsense; '3alein' garbled
+fs_el3alami_07	fs_el3alami_07	false	1	4	5		'ezma3 el3alami kan ma3too2' is garbled; global sense not recoverable || 'ezma3 el3alami kan ma3too2' is garbled nonsense || nonword tokens 'ezma3', 'ma3too2' || 'ezma3 el3alami kan ma3too2' is gibberish
+fs_el3alami_10	fs_el3alami_10	false	2	3	5		'el shari3 el3alami' (the global street) is strained in route directions || takes the bus and walks, then told to leave the car; contradictory || 'el shari3 el3alami' is not a real street phrase; rest incoherent
+fs_el3alami_13	fs_el3alami_13	false	2	3	5		'neseet el3alami ely kont a3melu' is nonsense; used as noun, no global sense || 'forgot the international I was going to do' is nonsensical || 'neseet el3alami ely kont hab2a a3melu' is meaningless
+fs_el3alami_15	fs_el3alami_15	true	4	1	5		'el far2' means difference, not team; 'el far2 el3alami' unnatural
+fs_el3olama_04	fs_el3olama_04	true	5	0	5		
+fs_el3olama_05	fs_el3olama_05	false	2	3	5		Weekend tea with family and 'the scholars' is strained, sense does not fit || scholars joining a family Friday outing is an incoherent pairing || planning Friday tea 'ma3 el3ela w el3olama' is nonsense; 'netf2' broken
+fs_el3olama_07	fs_el3olama_07	false	3	2	5		"'2as2ila' MSA, 'ktir' Levantine, 'mshelni we2t' garbled || Levantine forms ""ktir"", ""we2t"" plus MSA ""2as2ila""; not Cairene colloquial."
+fs_el3olama_08	fs_el3olama_08	true	5	0	5		
+fs_el3olama_10	fs_el3olama_10	true	4	1	5		Asking scholars for the right road before moving is strained; directions context
+fs_el3olama_15	fs_el3olama_15	false	3	2	5		Scholars/scientists at the speaker's workplace failing a work problem is strained || 'malhomsh 3arfeen' ungrammatical; scholars solving work problem unnatural
+fs_el7ad_00	fs_el7ad_00	false	1	4	5		'kan el7ad betboss 3aleih' fits neither 'the limit' nor 'Sunday'; sense unclear. || 'this day was el7ad betboss 3aleih' (the limit you look at) is nonsensical. || Trailing clause 'kan el7ad betboss 3aleih' is an incoherent fragment. || 'elyom dah kan el7ad betboss 3aleih' is incoherent
+fs_el7ad_02	fs_el7ad_02	false	3	2	5		"'3nd seto el bet' is ungrammatical; should be 'fi beit setto' || ""seto"" for grandmother is Levantine; Egyptian uses teta or gedda."
+fs_el7ad_09	fs_el7ad_09	true	5	0	5		
+fs_el7ad_11	fs_el7ad_11	false	3	2	5		'Yesterday' vs 'Sunday' timeline muddled; great match yet understood only 'last axis' is nonsensical. || 'mafhamtsh 8er l a5r me7war' is unnatural; 'me7war' makes no sense here
+fs_el7okm_02	fs_el7okm_02	true	4	1	5		referee is 'el 7akam' in Egyptian; '7okm' spelling not used for referee
+fs_el7okm_08	fs_el7okm_08	true	4	1	5		'akel' wrong person; 'el7okm 3ala elkoshary enno' calque
+fs_el7okm_12	fs_el7okm_12	false	2	3	5		"habitual 'every morning' clashes with the one-off 'yesterday's match' || 'el7okm' for referee not Egyptian; '2l ams' is MSA || ""match 2l ams"" uses MSA ""el ams""; everyday Egyptian says ""embare7""."
+fs_el7okm_14	fs_el7okm_14	false	3	2	5		'el7okm eh 3ala keda' in a price query is strained; no clear rule/verdict sense || redundant 'el se3r ... b kam'; 'el7okm eh 3ala keda' unnatural in shop
+fs_el7okoma_00	fs_el7okoma_00	true	4	1	5		'el 3ala2i ely 3mlha' garbled, meaning unrecoverable
+fs_el7okoma_06	fs_el7okoma_06	true	4	1	5		'motdahkeya 3aleha' is not a word; 'el3alam kolaha' clause broken
+fs_el7okoma_08	fs_el7okoma_08	false	3	2	5		government opening a koshary restaurant branch is nonsensical || 'mat3am gamda' gender error; government-open-koshary-branch reads forced
+fs_elgawy_07	fs_elgawy_07	true	4	1	5		'elnaql elgawy et2akhar' is newsroom MSA; Egyptians say 'el tayyara et2akharet'
+fs_elgawy_09	fs_elgawy_09	false	2	3	5		'el shoghl elgawy' (the aerial work) is strained in a casual catch-up || 'el shoghl elgawy' (the aerial work) is forced and unclear in small talk || 'el shoghl elgawy' is meaningless in a greeting
+fs_elgawy_11	fs_elgawy_11	true	4	1	5		'kan fee la3b elgawy' is not an Egyptian phrase
+fs_elgawy_13	fs_elgawy_13	true	4	1	5		'el 7agz elgawy' formal; 'kont wa3da beek' wrong structure
+fs_elgayya_01	fs_elgayya_01	true	4	1	5		'a3mel el ra7la elgayya bokra' awkward for a market errand
+fs_elgayya_04	fs_elgayya_04	false	2	3	5		'elgayya fi el shari3' has no clear head noun; 'the coming one' is strained || 'the coming one in the street' has no referent; unclear meaning || 'elgayya fi el shari3' has no referent; nonsensical
+fs_elgayya_08	fs_elgayya_08	true	5	0	5		
+fs_elmasry_00	fs_elmasry_00	false	2	3	5		'elmasry 3ayez yestareh' self-reference as 'the Egyptian' is strained || speaker calling himself 'the Egyptian' is unmotivated and confusing || speaker calling himself 'elmasry' in third person is unnatural
+fs_elmasry_05	fs_elmasry_05	false	1	4	5		Garbled; 'elmasry haygy' reads as a surname/person, not adjective 'the Egyptian' || end 'yet3ashma3ana kelena bta3' is garbled nonsense || glued token 'yet3ashma3ana' and trailing fragment 'kelena bta3' || 'yet3ashma3ana kelena bta3' is garbled
+fs_elmasry_08	fs_elmasry_08	true	5	0	5		
+fs_elmasry_14	fs_elmasry_14	false	3	2	5		'Bekam elmasry da' is strained; unclear what 'the Egyptian' refers to || 'Bekam elmasry da' has no sensible referent in a shop
+fs_elmasrya_02	fs_elmasrya_02	true	5	0	5		
+fs_elmasrya_07	fs_elmasrya_07	false	1	4	5		"'elmasrya kanet fi zahma' strained; no coherent 'the Egyptian (fem)' referent || 'the Egyptian (fem) was in traffic' as reason for own lateness is nonsensical || 'elmasrya kanet fi zahma' nonsensical subject || ""magdrtsh"" (qaf as g) is Gulf/Saidi; Cairene is ""ma2dertsh""; ""elsabah"" formal."
+fs_elmasrya_11	fs_elmasrya_11	true	5	0	5		
+fs_elmasrya_13	fs_elmasrya_13	false	2	3	5		'nseet elmasrya elly konty 3ayzaha' is strained; referent unclear || 'forgot the Egyptian (fem) you wanted' has no clear referent || 'nseet elmasrya elly konty 3ayzaha' has no sensible referent
+fs_elnass_02	fs_elnass_02	false	3	2	5		Underscore token '3al_tool' is a generation artifact. || '3al_tool' underscore spelling and misplaced; unnatural ending
+fs_elnass_08	fs_elnass_08	true	4	1	5		'm3 elnass' odd; 'kan za7met shwy' wrong form
+fs_elnass_09	fs_elnass_09	false	3	2	5		Dangling filler '5alas?' tacked onto the question. || 'hawallek' feminine for 'ya sa7by'; trailing '5alas?' unnatural
+fs_elnass_14	fs_elnass_14	true	5	0	5		
+fs_elwa7ed_00	fs_elwa7ed_00	true	5	0	5		
+fs_elwa7ed_07	fs_elwa7ed_07	true	5	0	5		
+fs_elwa7ed_10	fs_elwa7ed_10	true	4	1	5		'law 3ayez teksi' garbled; mixed generic subject awkward
+fs_elwa7ed_15	fs_elwa7ed_15	false	3	2	5		garbled glued tokens 'me7tadresho matshokran' || 'me7tadresho matshokran 3ala el maghoud' garbled
+fs_elwa7eda_04	fs_elwa7eda_04	true	4	1	5		'ma2darsh awsal' wrong tense; Egyptian says 'mesh ha2dar awsal'
+fs_elwa7eda_07	fs_elwa7eda_07	true	5	0	5		
+fs_elwa7eda_10	fs_elwa7eda_10	true	5	0	5		
+fs_elwa7eda_14	fs_elwa7eda_14	true	5	0	5		
+fs_enha_01	fs_enha_01	true	4	1	5		'3ashan enha bet2afel' ungrammatical; needs '3ashan heya'.
+fs_enha_03	fs_enha_03	true	4	1	5		'3ashan enha mohimma' ungrammatical; needs '3ashan heya'.
+fs_enha_05	fs_enha_05	true	5	0	5		
+fs_enha_14	fs_enha_14	false	3	2	5		'a3raf enha bekam' -- 'that it' doesn't fit; reads like anhi 'which', ambiguous. || 'a3raf enha bekam' unnatural; Egyptian: 'di bekam'.
+fs_ezay_02	fs_ezay_02	true	5	0	5		
+fs_ezay_08	fs_ezay_08	true	4	1	5		'ezay 3amalo belzabt ta3m keda' awkward; needs 'ta3mo yeb2a keda'
+fs_ezay_10	fs_ezay_10	true	5	0	5		
+fs_ezay_14	fs_ezay_14	true	4	1	5		'ezay a3raf se3r ... bi kam' redundant and unnatural
+fs_f2dan_00	fs_f2dan_00	true	4	1	5		'el f2dan beta3 el wa2t' calques 'loss of time'; Egyptian says tadyee3 el wa2t.
+fs_f2dan_01	fs_f2dan_01	false	3	2	5		Going to the post office to avoid losing one's wallet makes no logical sense. || 'atfada f2dan el ma7faza' is stilted MSA calque; Egyptians say 'ma adaya3sh'.
+fs_f2dan_09	fs_f2dan_09	false	2	3	5		Missing a friend framed as 'your loss'; 'naroo7 el narda' is gibberish. || garbled glued-on tail '3ayez naroo7 el narda 3ala ba3d bokra' || 'el f2dan beta3ak', 'gham2a', 'naroo7 el narda' are garbled, unnatural.
+fs_fada2_01	fs_fada2_01	false	2	3	5		'hada5al ashof el fada2' after the market is strained; outer space does not fit || going 'to see outer space' after a market errand is nonsensical || 'hada5al ashof el fada2' is nonsense
+fs_fada2_04	fs_fada2_04	false	2	3	5		'el sama ba2et fada2' is garbled; outer space sense strained || 'the sky became outer space' amid traffic and heat is nonsensical || 'el sama ba2et fada2 nehrab men el zifta' incoherent
+fs_fada2_11	fs_fada2_11	true	4	1	5		'el tarsim' is not the Egyptian word for animation/drawing
+fs_fada2_15	fs_fada2_15	true	5	0	5		
+fs_fady_00	fs_fady_00	false	3	2	5		'ana fady 3ala el sarir' then 'hakalmak bokra' contradicts; free sense strained || 'ana fady 3ala el sarir' misuses fady; not natural
+fs_fady_05	fs_fady_05	true	5	0	5		
+fs_fady_10	fs_fady_10	false	3	2	5		"'iza' and 'qbal' are Levantine/MSA, not Egyptian 'law'/'2abl' || ""iza"" and ""qbal ma"" are MSA/Levantine; Egyptian uses ""law"" and ""2abl ma""."
+fs_fady_14	fs_fady_14	true	5	0	5		
+fs_fawk_03	fs_fawk_03	true	5	0	5		
+fs_fawk_06	fs_fawk_06	true	5	0	5		
+fs_fawk_07	fs_fawk_07	false	2	3	5		ending 'bas ana 3ala ma3aya' is garbled; clause chain incoherent || garbled trailing fragment 'bas ana 3ala ma3aya' || 'bas ana 3ala ma3aya' garbled ending
+fs_fayda_01	fs_fayda_01	true	4	1	5		'ha3di mashwar' and 'astana 3ala el-bank' unnatural phrasing
+fs_fayda_02	fs_fayda_02	true	4	1	5		'kanet fayda kteer leya' calque; Egyptian says 'kanet mofeeda awi'
+fs_fayda_03	fs_fayda_03	true	4	1	5		'7aga fiha fayda gedan liya' awkward; 'sa3dek' broken
+fs_fayda_04	fs_fayda_04	true	5	0	5		
+fs_fayda_05	fs_fayda_05	true	5	0	5		
+fs_fayda_10	fs_fayda_10	false	2	3	5		'ya 3ayez' and 'tetfadde el zar' garbled; sentence does not parse || garbled tail 'tetfadde el zar' and odd vocative 'ya 3ayez' || 'ya 3ayez', 'tetfadde el zar' garbled
+fs_fayda_13	fs_fayda_13	true	5	0	5		
+fs_feddan_03	fs_feddan_03	false	2	3	5		Trailing 'w m7tag gaza 3alaghan' is garbled nonsense; the request never resolves. || trailing fragment: sentence ends on dangling '3alaghan' (because) || Garbled ending 'gaza 3alaghan'; 'bucra' not Egyptian spelling; trails off unfinished.
+fs_feddan_04	fs_feddan_04	false	3	2	5		Strained metaphor 'feddan of cars'; not the land-measure sense. || 'el share3 yeb2a feddan 3arabiyat' is an unnatural invented metaphor.
+fs_feddan_06	fs_feddan_06	false	1	4	5		Sentence is nonsensical; 'feddan' not used as a unit of land. || 'el khabar da 3al feddan el maw3ad' is nonsensical; shock and delight mixed with no clear situation. || stacked filler exclamations plus word-salad phrase '3al feddan el maw3ad' || '3al feddan el maw3ad' is meaningless; no Egyptian wou
+fs_feddan_10	fs_feddan_10	true	5	0	5		
+fs_fee_00	fs_fee_00	true	5	0	5		
+fs_fee_10	fs_fee_10	false	3	2	5		Directions to the market answer with an unrelated auction; the two halves do not connect. || 'fee mazad 3ala tool el shari3' makes no sense in directions.
+fs_fee_14	fs_fee_14	true	5	0	5		
+fs_fee_15	fs_fee_15	true	5	0	5		
+fs_feeh_02	fs_feeh_02	true	4	1	5		'sheft' is Levantine/Gulf vowel; Egyptian says shoft.
+fs_feeh_03	fs_feeh_03	false	2	3	5		Ending 'mish 3aref a2ol men el sabt' is garbled; unclear what is meant. || tacked-on garbled tail 'mish 3aref a2ol men el sabt' || Ending 'mish 3aref a2ol men el sabt' is nonsensical.
+fs_feeh_13	fs_feeh_13	true	4	1	5		'akhally balaha' wrong collocation; Egyptian says 'akhod baly menha'.
+fs_feeh_15	fs_feeh_15	true	4	1	5		Agreement error '7aga mesh mashi' (should be mashya).
+fs_feeha_02	fs_feeha_02	true	5	0	5		
+fs_feeha_04	fs_feeha_04	true	5	0	5		
+fs_feeha_06	fs_feeha_06	false	1	4	5		No feminine referent (khabar is masculine); 'in it (f.)' sense is strained. || 'msh m3ayya3 7ata 7eta' is gibberish; the sentence's second half makes no sense. || garbled trailing fragment 'msh m3ayya3 7ata 7eta' || 'el khabar' is masculine so 'feeha' mismatches; '7ata 7eta' garbled.
+fs_feeha_07	fs_feeha_07	true	5	0	5		
+fs_feehom_06	fs_feehom_06	false	1	4	5		No clear plural referent; 'in them' is incoherent here. || 'el nas elli feehom' has no referent; 'fel masriya' is unclear; situation incoherent. || dangling trailing fragment 'fel masriya' || 'el nas elli feehom' and 'fel masriya' are unnatural/garbled.
+fs_feehom_08	fs_feehom_08	false	3	2	5		Referent 'el akla' is singular; 'in them' sense strained. || 'el akla' is feminine singular; 'feehom' mismatches (should be feeha).
+fs_feehom_09	fs_feehom_09	false	1	4	5		'feehom' has no referent; 'in them' sense does not fit. || 'feehom akhbar el 3eyala kheir?' refers to nothing; 'btoul eh 3alina' garbled. || choppy garbled clauses 'btoul eh 3alina, feehom akhbar el 3eyala kheir' || 'btoul eh 3alina', 'feehom akhbar el 3eyala' are broken Egyptian.
+fs_feehom_14	fs_feehom_14	true	5	0	5		
+fs_fehm_00	fs_fehm_00	false	3	2	5		'enta fehm' reads as fahem (you understand), not فهم 'he understood'. || 'enta fehm' ungrammatical; Egyptian needs 'enta fahem'.
+fs_fehm_01	fs_fehm_01	false	0	5	5		First-person narration; 'fehm' reads as fahem or fehemt, not he understood. || Unexplained 'he understood' in a first-person errand plan; subject shift breaks the logic. || 'bokra' repeated at start and end of sentence || 'bostaga' not a word; 'we fehm' lacks subject, unnatural. || '-shi' negation s
+fs_fehm_08	fs_fehm_08	false	2	3	5		'kol el nas fehm leh' strained; likely read as fahem, sense unclear. || 'everyone understood why he liked it so' has no referent for 'he'; makes little sense. || 'kol el nas fehm' agreement error; '7abto keda' awkward.
+fs_fehm_09	fs_fehm_09	false	3	2	5		Illogical: 'he is the one who understood, so don't say I didn't understand'. || 'ma fahemtsh 3aleh' wrong preposition; clause structure garbled.
+fs_fek_00	fs_fek_00	false	2	3	5		'fek 3ayez t3raf' is garbled; no listed sense of fek fits || 'fek' inserted meaninglessly; sentence does not make sense || 'fek 3ayez t3raf' is nonsense
+fs_fek_04	fs_fek_04	false	2	3	5		'el 3arabiya malhash fek' is strained; neither 'in you' nor undo/jaw fits || 'the car has no fek' in traffic is nonsensical || 'el 3arabiya malhash fek' is meaningless
+fs_fek_10	fs_fek_10	true	5	0	5		
+fs_fw2_00	fs_fw2_00	true	5	0	5		
+fs_fw2_05	fs_fw2_05	true	5	0	5		
+fs_fw2_06	fs_fw2_06	true	4	1	5		'wa2a3 fw2 demaghi' is not an Egyptian idiom; calque.
+fs_fw2_10	fs_fw2_10	false	2	3	5		'eb2a 2om fel sham3a elly gamaha' is nonsensical; directions end in gibberish. || garbled trailing clause 'eb2a 2om fel sham3a elly gamaha' || 'eb2a 2om fel sham3a elly gamaha' is gibberish.
+fs_gad_00	fs_gad_00	false	3	2	5		'gad ta3ban' unidiomatic; reader may read gedan/begad, sense strained. || Bare 'gad ta3ban' not Egyptian; would be 'begad ta3ban'.
+fs_gad_04	fs_gad_04	false	1	4	5		'gad za7ma' not idiomatic Egyptian (begad); really sense strained. || 'gad za7ma' and 'el shara3 3ala ba3adto' are garbled; no coherent statement. || repeated zahma/za7ma and garbled tail '3ala ba3adto' || 'gad za7ma', 'el shara3 3ala ba3adto' garbled.
+fs_gad_12	fs_gad_12	false	2	3	5		'gad' here functions as 'then', not seriousness/really/grandfather. || 'gad ba3d keda' (seriously after that) makes no sense in the routine. || 'gad ba3d keda' misuses the word; unnatural.
+fs_gamal_05	fs_gamal_05	true	4	1	5		Name Gamal (جمال), not جمل camel; label would be wrong.
+fs_gamal_08	fs_gamal_08	true	4	1	5		Person's name Gamal (جمال), not جمل camel.
+fs_gamal_12	fs_gamal_12	true	5	0	5		
+fs_gamal_15	fs_gamal_15	false	2	3	5		'kalam gamal' means beauty/nice (جمال), not camel جمل. || 'mazal' is MSA/Levantine, not Egyptian; 'kalam el modir gamal' awkward. || 'mazal' (still) is MSA/Levantine; Egyptian says lessa.
+fs_gameel_10	fs_gameel_10	true	5	0	5		
+fs_gameel_11	fs_gameel_11	true	4	1	5		Agreement error 'kanet gameel' (should be gameela).
+fs_gameel_12	fs_gameel_12	true	4	1	5		'akhot neshwa' odd; 'ba2ol enn el yom da gameel' stilted calque.
+fs_gameel_14	fs_gameel_14	true	5	0	5		
+fs_ganeb_02	fs_ganeb_02	true	5	0	5		
+fs_ganeb_08	fs_ganeb_08	false	3	2	5		'ganeb el mahsheya' unclear and 'ta3mohom lazi2' (sticky) makes the food verdict incoherent. || 'ganeb el mahsheya' odd; 'lazi2' not a word.
+fs_ganeb_11	fs_ganeb_11	false	1	4	5		'match kan 3ala ganeb el telly' is nonsensical; side sense strained. || 'the match was next to the TV so I saw both' is nonsensical. || British 'telly' not Egyptian usage; show/match/telly jumble || 'el match kan 3ala ganeb el telly' is nonsensical.
+fs_ganeb_15	fs_ganeb_15	false	2	3	5		'problem at work next to the manager' is strained; sense unclear. || 'a problem at work next to the manager' makes no sense. || 'ganeb el modeer' odd; 'a2ol el 7al eh' ungrammatical.
+fs_ganoub_03	fs_ganoub_03	true	5	0	5		
+fs_ganoub_11	fs_ganoub_11	true	4	1	5		'el yom' for today is MSA/Levantine; Egyptian says el naharda.
+fs_ganoub_12	fs_ganoub_12	false	2	3	5		'el shams tekhalles 3alaya' and 'asot el shay' are garbled; morning routine incoherent. || garbled glued-on tail 'w ba3deha asot el shay' || 'tekhalles 3alaya' and 'asot el shay' are garbled.
+fs_ganoub_14	fs_ganoub_14	false	2	3	5		'ganoub el raf' (south of the shelf) is strained; intended ganb 'next to'. || 'the thing on the south of the shelf' is nonsensical for a shop question. || '3ala ganoub el raf' (south of the shelf) is unnatural.
+fs_gawda_00	fs_gawda_00	false	1	4	5		'ra7a w gawda 3ala makani' is nonsensical; not quality sense. || '3ayez ra7a w gawda 3ala makani' (want rest and quality on my place) is nonsense. || nonsense trailing fragment 'w gawda 3ala makani' || 'ra7a w gawda 3ala makani' is meaningless.
+fs_gawda_08	fs_gawda_08	true	4	1	5		'gawda beta3ha kanet 3alya' odd word order, calques 'high quality'.
+fs_gawda_12	fs_gawda_12	false	2	3	5		'a3mel el 2ahwa 3ala gawda' is unidiomatic; quality sense strained. || 'ba3mel el 2ahwa 3ala gawda' (make coffee on quality) is meaningless. || 'ba3mel el 2ahwa 3ala gawda' is not Egyptian usage.
+fs_gawda_15	fs_gawda_15	true	5	0	5		
+fs_gededa_05	fs_gededa_05	true	5	0	5		
+fs_gededa_08	fs_gededa_08	true	5	0	5		
+fs_gededa_09	fs_gededa_09	true	4	1	5		'hat3alemny kol el akhbar' wrong verb; Egyptian says 'hat2olly'.
+fs_gededa_10	fs_gededa_10	false	3	2	5		Directions use 'when you see the car' as a landmark; illogical. || 'el shara3 el gededa' gender mismatch; landmark 'teshof el 3arabeya' nonsensical.
+fs_gedeed_01	fs_gedeed_01	true	4	1	5		'el mashwar beta3 el 3azouza' is unnatural and unclear.
+fs_gedeed_03	fs_gedeed_03	true	5	0	5		
+fs_gedeed_10	fs_gedeed_10	true	5	0	5		
+fs_janb_00	fs_janb_00	true	5	0	5		
+fs_janb_06	fs_janb_06	false	1	4	5		'galbet 3ala janb khowaya' incoherent; side/next-to sense unclear. || 'el donya galbet 3ala janb khowaya' is nonsensical. || garbled trailing fragment '3ala janb khowaya' || 'el donya galbet 3ala janb khowaya' is gibberish.
+fs_janb_08	fs_janb_08	true	4	1	5		'janb ashaby' instead of 'ma3 as7aby'; 'tayeb' for food unnatural.
+fs_janb_14	fs_janb_14	true	5	0	5		
+fs_janoub_01	fs_janoub_01	true	4	1	5		'7atro7' (you) clashes with 'ashtery' (I); 'yebreh' garbled.
+fs_janoub_05	fs_janoub_05	true	5	0	5		
+fs_janoub_06	fs_janoub_06	true	4	1	5		'galy en' is wrong; should be '2aly' or '2alooly'.
+fs_janoub_15	fs_janoub_15	true	5	0	5		
+fs_khadamat_05	fs_khadamat_05	false	2	3	5		Services being closed Friday doesn't motivate a Sunday family lunch; no logical link. || 'nid3a' and 'ghada 3a2ely' are MSA/calques, not chat Egyptian. || 'nid3a' for invite is MSA; Egyptian says ne3zem.
+fs_khadamat_12	fs_khadamat_12	true	4	1	5		'ba3mel khadamat el beit' calque; Egyptians say 'shoghl el beit'.
+fs_khadamat_13	fs_khadamat_13	true	5	0	5		
+fs_khadamat_15	fs_khadamat_15	true	4	1	5		'khadamat el sherka bet2akhkhar' unnatural collocation and agreement.
+fs_khadmet_05	fs_khadmet_05	false	2	3	5		'nerattib khadmet el beit el 3aila kolloha' is garbled; unclear what is arranged. || 'el 3aila' repeated twice in one sentence || 'nerattib khadmet el beit el 3aila kolloha' garbled.
+fs_khadmet_11	fs_khadmet_11	false	3	2	5		'khadmet el la3eeba' in a match is strained; service sense unclear. || 'khadmet el la3eeba fiha' is meaningless.
+fs_khadmet_13	fs_khadmet_13	false	3	2	5		odd trailing vocative fragment 'ya amala' || 'el khadmet' article on construct form is ungrammatical; 'ya amala' odd.
+fs_khata_01	fs_khata_01	false	3	2	5		'fel 3amal el gdid' MSA; sentence incoherent. || 'el 3amal' for work is MSA; Egyptian says el shoghl.
+fs_khata_05	fs_khata_05	false	3	2	5		Destination 'el seel el gdeed' (the new flood) is nonsensical for a family outing. || 'lel seel el gdeed' is garbled.
+fs_khata_07	fs_khata_07	true	4	1	5		'at2akhkhara' is not a valid verb form.
+fs_khata_14	fs_khata_14	true	5	0	5		
+fs_kheir_02	fs_kheir_02	true	5	0	5		
+fs_kheir_08	fs_kheir_08	true	4	1	5		'el kebab kan 3adel tamam' is an odd, non-Egyptian collocation.
+fs_kheir_11	fs_kheir_11	false	3	2	5		'match kan kheir gdn' uses goodness as adjective 'very good'; strained. || 'el match kan kheir gdn' unnatural; Egyptians say 'kan 7elw gedan'.
+fs_kheir_12	fs_kheir_12	true	4	1	5		'ashrab ahwa 2awi' (drink coffee very) is ungrammatical; needs '2ahwa 2aweya'.
+fs_khososan_04	fs_khososan_04	true	4	1	5		'kata' is not a word; sentence broken.
+fs_khososan_06	fs_khososan_06	false	3	2	5		'gheir motawaqa2 zay da' MSA calque, unnatural in chat. || 'gheir motawaqa2' is MSA phrasing; Egyptian says mesh metwa2a3.
+fs_khososan_10	fs_khososan_10	true	5	0	5		
+fs_khososan_13	fs_khososan_13	true	5	0	5		
+fs_khotwa_03	fs_khotwa_03	true	5	0	5		
+fs_khotwa_06	fs_khotwa_06	false	3	2	5		'ma3a el khayr' opener not Egyptian; awkward overall. || 'ma3a el khayr' opener is not Egyptian colloquial.
+fs_khotwa_08	fs_khotwa_08	false	3	2	5		'first step from the kitchen to the table' inserted into a food comment is nonsensical. || 'awel khotwa men el matbakh lel tarabeza', 'gaan' nonsensical.
+fs_khotwa_09	fs_khotwa_09	true	4	1	5		'betbansh 3alena wala khotwa' is not natural Egyptian.
+fs_la2_04	fs_la2_04	false	2	3	5		'la2' inserted mid-sentence answers nothing; 'no' sense does not fit. || 'la2' is dropped in mid-sentence negating nothing; breaks the logic. || 'la2' inserted unnaturally mid-sentence.
+fs_la2_05	fs_la2_05	false	2	3	5		'weekend no because I have work, let's have lunch' is contradictory and garbled. || two unrelated clauses glued: refusal plus family-lunch invitation || 'el agaza el osbou3eya la2' incoherent; clauses run together.
+fs_la2_08	fs_la2_08	false	3	2	5		dangling trailing fragment '3alek' || 'bas la2 el roz kan mal7 kteer 3alek' is garbled.
+fs_la2_13	fs_la2_13	false	2	3	5		'asf giddan la2 nseet' - 'no' has no function here; strained. || Dangling 'la2' inside an apology negates nothing; sentence logic broken. || 'la2' misplaced; 'ma te3tezlesh 3alayya' ungrammatical.
+fs_law_02	fs_law_02	true	5	0	5		
+fs_law_04	fs_law_04	true	4	1	5		'el zahma tayla' is not an Egyptian collocation.
+fs_law_09	fs_law_09	true	4	1	5		'ezayek' (fem.) clashes with 'ya 3am'; 'fi el ghayba' stilted.
+fs_lazema_00	fs_lazema_00	true	4	1	5		'lazema artah' unnatural; Egyptian says 'lazem arta7'.
+fs_lazema_09	fs_lazema_09	true	4	1	5		'nkerreb be3d tany' is garbled.
+fs_lazema_12	fs_lazema_12	true	4	1	5		'lazema ashrab' unnatural; 'akhra3' garbled for akhrog.
+fs_lazema_13	fs_lazema_13	true	4	1	5		'kanet lazema afakkar' unnatural; Egyptian uses invariable 'kan lazem'.
+fs_lazzem_01	fs_lazzem_01	true	5	0	5		
+fs_lazzem_05	fs_lazzem_05	true	5	0	5		
+fs_lazzem_06	fs_lazzem_06	true	4	1	5		'ne7ki 3al mawdo3' is Levantine, not Egyptian.
+fs_lazzem_10	fs_lazzem_10	false	2	3	5		Reason 'because the farm is a lot' is nonsensical for choosing a route. || 'el zar3a katir' is nonsensical as a reason. || 'katir' reflects MSA vocalization; Egyptian says kteer.
+fs_le2n_02	fs_le2n_02	true	5	0	5		
+fs_le2n_05	fs_le2n_05	false	3	2	5		"'khattat' reads as calligrapher; normal is 'khetat/5otat' || ""el gaw tayeb"" is Levantine/Gulf usage; Egyptian says el gaw 7elw; ""khattat"" formal."
+fs_le2n_09	fs_le2n_09	true	4	1	5		'ya rabena yekhaleek' is an awkward, misplaced blessing
+fs_le2n_11	fs_le2n_11	false	3	2	5		Garbled token 'gamdel' and nonsense '3adalo 3al ghalt'. || 'gamdel' typo; 'el hakam 3adalo 3al ghalt' is incoherent
+fs_le7ad_00	fs_le7ad_00	true	5	0	5		
+fs_le7ad_01	fs_le7ad_01	false	3	2	5		"'el souq el 3attar' is an ungrammatical, unnatural place phrase || ""souq"" with q is MSA qaf pronunciation; Egyptian colloquial says sou2."
+fs_le7ad_02	fs_le7ad_02	true	5	0	5		
+fs_le7ad_12	fs_le7ad_12	true	4	1	5		'af6ar' uses Gulf 6; 'a5rog el beit' lacks 'men'; breakfast 'le7ad ma albes' illogical
+fs_leehom_01	fs_leehom_01	true	4	1	5		"""souq"" with q is MSA qaf pronunciation; Egyptian colloquial says sou2."
+fs_leehom_02	fs_leehom_02	true	4	1	5		'kano leehom 7afla' unnatural; Egyptian: 'kan 3andohom 7afla'.
+fs_leehom_03	fs_leehom_03	false	1	4	5		'tesa2alhom leehom' is redundant and ungrammatical; 'for them' sense does not fit. || 'tesa2alhom leehom' (ask them for them) is redundant and muddles who is asked. || Doubled object 'tesa2alhom leehom' plus dangling filler 'ba2a'. || 'tesa2alhom leehom' is redundant and ungrammatical
+fs_leehom_06	fs_leehom_06	false	2	3	5		'3ashan leehom wala eh' is garbled; sense of leehom unclear. || 'All this news is because to-them or what' is garbled; no recoverable meaning. || '3ashan leehom wala eh' is garbled.
+fs_leehom_08	fs_leehom_08	true	4	1	5		'kan leehom akl gamed' unnatural; Egyptian uses '3andohom'.
+fs_leehom_15	fs_leehom_15	false	1	4	5		'bas leehom ma2olsh 7aga' misuses leehom as subject 'they'; neither 'to them' nor 'they have'. || 'But to-them didn't say anything' garbled; subject shifts them/he inconsistently. || Garbled word order 'bas leehom ma2olsh 7aga'; non-word 'm7adessesh'. || 'bas leehom ma2olsh 7aga' ungrammatical; 'm7a
+fs_lena_04	fs_lena_04	false	3	2	5		Garbled 'rheeela'; unnatural English 'traffic ta3ban'. || 'lena zahma rheeela fel madina' garbled.
+fs_lena_09	fs_lena_09	false	1	4	5		'lena 3andena' doubles possession; lena's role is garbled and strained. || Redundant 'lena 3andena'; formulaic 'ezzayak w 3amel eh' tacked on end. || 'lena 3andena keteer kalemat' redundant and ungrammatical. || 'ma shoftak' lacks -sh and 'keteer kalemat' order is non-Egyptian.
+fs_lena_10	fs_lena_10	false	3	2	5		'el ma7al lena 3ala el shemal' -- lena has no natural sense in directions. || 'el ma7al lena 3ala el shemal' unnatural in directions.
+fs_lena_14	fs_lena_14	false	3	2	5		English 'pound' unnatural (Egyptians say geneh); garbled 'el 5 pound wala arkhas'. || 'el 7aga di lena b-kam el 5 pound' garbled.
+fs_llnas_04	fs_llnas_04	false	2	3	5		Ending 'all stopped on the clouds (el gheem)' is nonsensical. || Trailing 'wa2fa 3ala el gheem' is a garbled nonsense fragment. || 'wa2fa 3ala el gheem' is nonsense; 'mesh sayba llnas yemshyo' unnatural
+fs_llnas_05	fs_llnas_05	true	4	1	5		'makan hadi llnas kolaha' is a dangling, unnatural phrase
+fs_llnas_07	fs_llnas_07	true	4	1	5		Being late because I told people I'm coming and they didn't come is illogical.
+fs_llnas_13	fs_llnas_13	false	3	2	5		"'mafish 3udhr', 'el ma3loma' MSA-ish; 'ha7awel ma3adeha' garbled || ""3udhr"" is MSA pronunciation (Egyptian 3ozr); ""a2ol el ma3loma"" reads formal."
+fs_lown_02	fs_lown_02	true	5	0	5		
+fs_lown_03	fs_lown_03	true	5	0	5		
+fs_lown_04	fs_lown_04	false	2	3	5		"'Weather 3afeh' unclear and 'the crowd is tired' odd; scene incoherent. || 'el gaw 3afeh', 'el zehma ta3baniya' are unnatural collocations || ""el gaw 3afeh"" and ""ta3baniya"" are not Egyptian colloquial forms."
+fs_lown_05	fs_lown_05	false	2	3	5		An outing has no color; reads as 'kind/type' at best, not 'color'. || 'Choose the color of the outing' is semantically nonsensical. || 'lown el khurga' (color of the outing) is nonsensical
+fs_lwa2_09	fs_lwa2_09	false	3	2	5		'ba2et ana fel lwa2 el gedid' ungrammatical. || 'ma sheftak' (e-vowel, no -sh) is Levantine; Egyptian says ma shoftaksh.
+fs_lwa2_11	fs_lwa2_11	true	5	0	5		
+fs_lwa2_13	fs_lwa2_13	false	3	2	5		'Ya ma3alish' opener odd; 'mesh ha te3od tani' ungrammatical. || 'te3od' (recur) is MSA/Levantine; Egyptian would say mesh hate7sal tani.
+fs_lwa2_15	fs_lwa2_15	true	5	0	5		
+fs_m7tag_03	fs_m7tag_03	true	5	0	5		
+fs_m7tag_05	fs_m7tag_05	true	5	0	5		
+fs_m7tag_10	fs_m7tag_10	true	5	0	5		
+fs_m7tag_13	fs_m7tag_13	true	5	0	5		
+fs_ma3rofa_04	fs_ma3rofa_04	false	2	3	5		'Traffic stopped until el 3e8ya' is unintelligible ending. || Garbled ending 'la7ad el 3e8ya'; zahma/traffic redundant. || 'la7ad el 3e8ya' is nonsense; 'zahma ma3rofa' unnatural
+fs_ma3rofa_07	fs_ma3rofa_07	true	4	1	5		'el zahma el naharda ma3rofa' unnatural; 'tar2' garbled
+fs_ma3rofa_11	fs_ma3rofa_11	false	3	2	5		Modifies masculine 'el fari2'; context calls for معروف, not feminine معروفة. || 'el fari2 el ma3rofa' gender mismatch
+fs_ma3rofa_15	fs_ma3rofa_15	true	5	0	5		
+fs_ma3roof_04	fs_ma3roof_04	true	4	1	5		'ma3roof en el wa7ed mesh yestahmel' is a stiff calque
+fs_ma3roof_06	fs_ma3roof_06	true	5	0	5		
+fs_ma3roof_09	fs_ma3roof_09	false	3	2	5		"'ay ma3roof' odd; 'fe ay wa2ta' wrong; missing negation -sh || ""leya mudda ma shoftak"" is Levantine/Gulf framing; Egyptian says ba2ali modda ma shoftaksh."
+fs_ma3roof_14	fs_ma3roof_14	true	5	0	5		
+fs_magmo3at_00	fs_magmo3at_00	true	4	1	5		'magmo3at rasael m3lo2a' is an English/MSA calque
+fs_magmo3at_02	fs_magmo3at_02	true	4	1	5		'2abelt magmo3at ktera min as7abi' is unnatural
+fs_magmo3at_07	fs_magmo3at_07	true	4	1	5		'mrakkiz m3a magmo3at shoghl' is an English calque
+fs_magmo3at_15	fs_magmo3at_15	false	3	2	5		English 'doctor' unnatural in a school context (mudarres/mes expected). || a 'doctor' at 'madrasa' is a mismatch; unnatural
+fs_magmo3et_03	fs_magmo3et_03	true	4	1	5		'tesa3edni fi magmo3et el hagat di' is a stiff calque
+fs_magmo3et_04	fs_magmo3et_04	false	2	3	5		'group of cars nothing not moving' is garbled, no clear proposition. || Garbled 'wala 7aga msh btit7arak' and trailing filler '5alas'. || 'el zahma magmo3et 3arabiyat wala 7aga' is incoherent
+fs_magmo3et_06	fs_magmo3et_06	true	5	0	5		
+fs_magmo3et_12	fs_magmo3et_12	false	2	3	5		"'akhbar magmo3et el sabah' (news of the morning group) is strained; unclear what group means. || 'akhbar magmo3et el sabah' nonsense; 'akhrog el shoghl' lacks preposition || ""el qahwa"" uses MSA qaf; Egyptian colloquial says 2ahwa."
+fs_mareed_01	fs_mareed_01	true	5	0	5		
+fs_mareed_09	fs_mareed_09	true	5	0	5		
+fs_mareed_11	fs_mareed_11	true	4	1	5		'el la3eb kan mareed awi' during a match is an odd collocation
+fs_mareed_12	fs_mareed_12	true	5	0	5		
+fs_masar_00	fs_masar_00	true	4	1	5		'el masar elly raga3t beh' unnatural; Egyptians say 'el taree2'
+fs_masar_03	fs_masar_03	false	3	2	5		"'ala2i masar' unnatural; Egyptians say 'taree2' || ""el madrase"" reflects Levantine final -e; Egyptian says el madrasa."
+fs_masar_09	fs_masar_09	true	4	1	5		'el masar el gedid beta3 7ayaatak' is an English calque
+fs_masry_00	fs_masry_00	true	4	1	5		'el ta3b dah masry asly' is unnatural
+fs_masry_01	fs_masry_01	false	3	2	5		'el masry elly bybi3 hnak' reads as a surname/nickname, not 'Egyptian'; ambiguous. || 'el masry elly bybi3 hnak' is odd in an Egyptian market
+fs_masry_06	fs_masry_06	true	5	0	5		
+fs_masry_10	fs_masry_10	true	5	0	5		
+fs_mawred_00	fs_mawred_00	false	2	3	5		"'el mawred el wa7ed lel ra7a' is a strained figurative 'resource'; unnatural. || 'el mawred el wa7ed lel ra7a' is an English calque || ""el mawred el wa7ed lel ra7a"" is literary/formal phrasing, not everyday colloquial."
+fs_mawred_08	fs_mawred_08	false	1	4	5		"Diner judging 'the meat supplier was clean' is strained; supplier sense forced. || Diner judging the meat supplier's cleanliness is implausible. || 'el mawred bta3 el la7ma' is unnatural || ""el akel kan tayeb"" (tasty) is Levantine/Gulf; Egyptian says 7elw or gamed."
+fs_mawred_10	fs_mawred_10	true	4	1	5		'be2a7san as3ar', 'ro7 lel mawred' are unnatural/calqued
+fs_mawred_14	fs_mawred_14	true	4	1	5		'gamisa' non-Egyptian; asking supplier's price is unnatural
+fs_media_03	fs_media_03	true	5	0	5		
+fs_media_06	fs_media_06	true	4	1	5		dangling 'bared' at the end is unnatural
+fs_media_07	fs_media_07	false	3	2	5		Garbled trailing fragment '3odi 5alist ma3lesh'. || '3odi 5alist' is garbled
+fs_media_12	fs_media_12	false	1	4	5		"'Bana2ash sabahy atfajjal' and 'fatar el 3afya' are garbled; routine unclear. || Garbled phrases 'Bana2ash sabahy atfajjal' and '7azir fatar el 3afya'. || 'Bana2ash sabahy atfajjal' is incoherent || ""atfajjal"" uses j (non-Egyptian) and the phrasing is not natural Egyptian colloquial."
+fs_mhtm_03	fs_mhtm_03	true	4	1	5		'ana mhtm enak tesa3dni' is an English calque
+fs_mhtm_07	fs_mhtm_07	true	4	1	5		'kont mhtm bel le3ba' calque for absorbed; 'lel wa2t' off
+fs_mhtm_08	fs_mhtm_08	true	5	0	5		
+fs_mhtm_10	fs_mhtm_10	false	1	4	5		'mhtm tekteer 3al mawdoo3' before directions is incoherent; 'interested' sense strained. || Interest in a topic followed by street directions is a non-sequitur. || Interest clause glued to unrelated street directions; garbled 'tekteer'. || 'mhtm tekteer 3al mawdoo3' is incoherent with directions
+fs_mhtmma_01	fs_mhtmma_01	false	3	2	5		Garbled phrase 'asoo2 el masha3a'. || 'asoo2 el masha3a' is nonsense; 'mhtmma ashtaree' calque
+fs_mhtmma_08	fs_mhtmma_08	true	5	0	5		
+fs_mhtmma_09	fs_mhtmma_09	false	3	2	5		Redundant repeat 'akhbarek ... 5abrak eh' with gender switch. || 'ba2eety' wrong person; '5abrak' masc vs 'ya habibty'
+fs_mhtmma_14	fs_mhtmma_14	true	4	1	5		'kam se3rha' word order off; natural is 'se3rha kam'
+fs_mo7adada_00	fs_mo7adada_00	true	5	0	5		
+fs_mo7adada_02	fs_mo7adada_02	true	5	0	5		
+fs_mo7adada_07	fs_mo7adada_07	false	3	2	5		"'maw3ed ... mo7adada' gender mismatch; 'el ma3ad' garbled || ""el moqabla"" uses MSA qaf; Egyptian colloquial says el mo2abla."
+fs_mo7adada_09	fs_mo7adada_09	true	5	0	5		
+fs_mo7addad_04	fs_mo7addad_04	true	4	1	5		'mafish wa2t mo7addad 2a3raf awsal' is ungrammatical
+fs_mo7addad_06	fs_mo7addad_06	true	5	0	5		
+fs_mo7addad_11	fs_mo7addad_11	false	2	3	5		A TV series being 'very specified' is the wrong sense; nonsensical as praise. || Calling a TV series 'specified/defined' makes no sense. || 'el mosalsal kan mo7addad gedan' is a nonsensical collocation
+fs_mo7addad_15	fs_mo7addad_15	false	3	2	5		'el shoghl' repeated; two clauses run together without a connector. || run-on missing verb; 'el wa2t el mo7addad lel taslim' stiff
+fs_mo7taga_01	fs_mo7taga_01	true	5	0	5		
+fs_mo7taga_04	fs_mo7taga_04	true	5	0	5		
+fs_mo7taga_10	fs_mo7taga_10	true	4	1	5		Two unrelated sentences glued: directions plus car-needs-fuel clause.
+fs_mo7taga_11	fs_mo7taga_11	false	3	2	5		Subject 'el fari2' is masculine; context calls for محتاج, not feminine محتاجة. || 'el fari2 mo7taga' gender mismatch; 'lesa' misused
+fs_modda_01	fs_modda_01	false	3	2	5		"'asaww el 3amla' and '2esa3a' are garbled || ""asaww"" (sawwa, to do) is Gulf/Levantine; Egyptian uses a3mel."
+fs_modda_02	fs_modda_02	true	5	0	5		
+fs_modda_05	fs_modda_05	true	5	0	5		
+fs_modda_12	fs_modda_12	true	4	1	5		'fi modda toulha 5 da2aye2' is an MSA calque
+fs_mokhtalafa_02	fs_mokhtalafa_02	true	4	1	5		'3an kol el-marra elly fatet' is ungrammatical
+fs_mokhtalafa_05	fs_mokhtalafa_05	true	5	0	5		
+fs_mokhtalafa_10	fs_mokhtalafa_10	false	3	2	5		Mixes 'way differs from your hometown' with turn directions; muddled. || 'el taree2a' wrong word; fem/masc address switch
+fs_mokhtalafa_14	fs_mokhtalafa_14	false	3	2	5		Predicate of masculine 'el se3r'; context calls for مختلف, not feminine مختلفة. || 'el se3r ... mokhtalafa' gender mismatch
+fs_mokhtalef_03	fs_mokhtalef_03	true	5	0	5		
+fs_mokhtalef_05	fs_mokhtalef_05	true	4	1	5		"""nehayat el esbo3"" is MSA construct; colloquial says a5er el esbo3 or el weekend."
+fs_mokhtalef_07	fs_mokhtalef_07	true	4	1	5		'el traffic kan mokhtalef khales' is unnatural
+fs_mokhtalef_10	fs_mokhtalef_10	true	4	1	5		'hatla2i' feminine vs 'enta' masculine mismatch
+fs_momayez_01	fs_momayez_01	true	5	0	5		
+fs_momayez_03	fs_momayez_03	false	3	2	5		Modifies feminine 'el shaghla'; context calls for مميزة, not masculine مميز. || 'el shaghla el momayez' gender mismatch
+fs_momayez_04	fs_momayez_04	false	2	3	5		Traffic being 'very special/distinctive' is the wrong sense; meant heavy/intense. || 'The street crowd is very distinctive' is nonsensical in context. || 'el zahma momayez awi' is nonsense and gender mismatch
+fs_momayez_07	fs_momayez_07	false	3	2	5		Mechanic being 'distinctive' as reason it took time is a non-sequitur. || 'el mekaneky kan momayez' is an odd collocation
+fs_momayza_03	fs_momayza_03	true	4	1	5		'gayt liha' garbled; 'enta sa7by we momken' awkward
+fs_momayza_06	fs_momayza_06	true	5	0	5		
+fs_momayza_13	fs_momayza_13	true	5	0	5		
+fs_momayza_15	fs_momayza_15	true	4	1	5		narrator frame 'ana ba7ki le sa7bi' is not a chat message
+fs_mot3added_04	fs_mot3added_04	false	2	3	5		Traffic being 'multiple' is the wrong sense; nonsensical. || 'Traffic is very multiple' is nonsensical. || 'el traffic mot3added giddan' is nonsense
+fs_mot3added_09	fs_mot3added_09	false	0	5	5		"'mot3added mobarakat' is an unnatural calque; 'multiple' sense forced here. || 'The past period had many congratulations' then 'means it's a happy day' contradicts. || Trailing 'kol dah ma3na eno youm sa3id!' is a nonsensical appended fragment. || 'mot3added mobarakat' is incoherent || ""kol dah ma3n"
+fs_mot3added_10	fs_mot3added_10	false	2	3	5		"'mot3added toro2' is an unnatural calque; masculine singular before plural noun, strained. || 'khod mot3added toro2 badila' is ungrammatical calque || ""toro2 badila"", ""tetganneb"" read as formal news register, not everyday colloquial."
+fs_mot3added_13	fs_mot3added_13	false	3	2	5		'mot3added 7agat' is an unnatural pre-nominal calque; strained 'multiple' sense. || '3andy mot3added 7agat' is ungrammatical
+fs_mot3adeda_06	fs_mot3adeda_06	true	5	0	5		
+fs_mot3adeda_09	fs_mot3adeda_09	true	4	1	5		'fat 3aleina zaman tool' odd; '7ekayat mot3adeda' too formal
+fs_mot3adeda_13	fs_mot3adeda_13	true	4	1	5		'7agat mot3adeda' is MSA register in casual apology; Egyptian says '7agat kteer'; 'ha3awad 3aleeha' awkward
+fs_mot3adeda_14	fs_mot3adeda_14	false	3	2	5		A single box being 'multiple' is the wrong sense; nonsensical. || 'el 3elba el mot3adeda' is nonsense
+fs_motawfer_04	fs_motawfer_04	true	4	1	5		'mafish makan motawfer lel 3arabeyat' is a calque of 'no parking available'; 'el tori3' odd
+fs_motawfer_06	fs_motawfer_06	false	3	2	5		Unrelated news opener glued onto a shopping clause; two thoughts stitched together. || gender clash '7aga di motawfer'; opening clause unrelated to rest
+fs_motawfer_10	fs_motawfer_10	true	5	0	5		
+fs_motawfer_15	fs_motawfer_15	true	5	0	5		
+fs_motawfera_05	fs_motawfera_05	false	3	2	5		Stray trailing 'kollaha' after the car clause; dangling fragment. || 'el 3arabeya motawfera kollaha' is a calque; Egyptian would say 'law el 3arabeya fadya'
+fs_motawfera_07	fs_motawfera_07	true	4	1	5		'el 3arabeyya mesh motawfera' calques 'not available'; Egyptians say 'mafeesh 3arabeya'
+fs_motawfera_08	fs_motawfera_08	false	3	2	5		A meal already eaten being 'available' is a strained sense of متوفرة. || calling a meal already eaten 'motawfera' (available) is unnatural
+fs_motawfera_11	fs_motawfera_11	true	5	0	5		
+fs_nafsi_02	fs_nafsi_02	true	5	0	5		
+fs_nafsi_03	fs_nafsi_03	true	4	1	5		'el youm' for 'today' is MSA; Egyptian colloquial says 'el naharda'.
+fs_nafsi_04	fs_nafsi_04	true	4	1	5		'3amlin 3alaya' is an incomplete idiom; '2adri' not a word here
+fs_nafsi_06	fs_nafsi_06	true	5	0	5		
+fs_nfs_04	fs_nfs_04	true	4	1	5		'wa2fa 3alatool' misuses 3ala tool (means immediately/straight); 'el 7ara' for heat is off
+fs_nfs_06	fs_nfs_06	true	5	0	5		
+fs_nfs_10	fs_nfs_10	false	2	3	5		Non sequitur: drinking water on the way has nothing to do with arriving early via this street. || Incongruous 'eshrab maya' clause glued onto directions to fit the anchor. || 'eshrab maya 3ala nfs el tari2' does not make sense as a directions tip
+fs_nmo_04	fs_nmo_04	false	3	2	5		traffic 'betawagaf el nmo el e2tesady' is incoherent MSA-calque rambling || News-style formal register: 'el nomow el e2tesady', 'betza2ed' (MSA tatazayad) are not everyday speech.
+fs_nmo_06	fs_nmo_06	true	4	1	5		'farahni awi beyeh' is ungrammatical; natural would be 'w fere7t awi'
+fs_nmo_08	fs_nmo_08	false	1	4	5		"'fi protein nmo' is garbled; growth sense strained, not a natural use. || ""fi protein nmo kwayes lel gesm"" is garbled; second clause has no clear meaning. || Garbled word salad 'fi protein nmo kwayes lel gesm'. || 'fi protein nmo kwayes lel gesm' is ungrammatical word salad"
+fs_nmo_11	fs_nmo_11	false	3	2	5		'Growth' within one match is strained; تطور/تحسن meant, not نمو. || 'nmo kbeer fel fari2' is an English calque of team growth; no one says this
+fs_noom_02	fs_noom_02	true	4	1	5		'5adt noom' calques 'got sleep'; Egyptian says 'nemt 3ala tool'
+fs_noom_07	fs_noom_07	true	4	1	5		gender clash asfa/sa7et vs met2a5er; 'ba5od noom zyada' is a calque
+fs_noom_10	fs_noom_10	true	4	1	5		'tekhod noom kefaya' calques 'get enough sleep'; Egyptian says 'tenam kwayes'
+fs_noom_13	fs_noom_13	true	5	0	5		
+fs_ra2ees_00	fs_ra2ees_00	true	5	0	5		
+fs_ra2ees_01	fs_ra2ees_01	true	4	1	5		Contradictory: going to hand over papers that the boss already has.
+fs_ra2ees_05	fs_ra2ees_05	true	5	0	5		
+fs_ra2ees_09	fs_ra2ees_09	false	3	2	5		Trailing filler fragment 'ya3ny zaman 3alena' tacked on. || 'ya3ny zaman 3alena' is not an Egyptian expression; should be 'ba2alna zaman'
+fs_ra2eisy_03	fs_ra2eisy_03	true	4	1	5		'mushkila m3a ra2eisy' is MSA register; Egyptian says 'moshkela ma3 modeeri'
+fs_ra2eisy_05	fs_ra2eisy_05	true	5	0	5		
+fs_ra2eisy_09	fs_ra2eisy_09	true	4	1	5		'ra2eisy' for 'my boss' is MSA; Egyptian chat says 'modeeri' or 'el rayes beta3i'
+fs_ra2eisy_11	fs_ra2eisy_11	true	4	1	5		'el la3eb el ra2eisy' calques 'main player'; Egyptian says 'el la3eeb el asasy'
+fs_ra2y_00	fs_ra2y_00	false	2	3	5		'w ra2y en...' reads as رأيي (my opinion), not bare رأي; strained. || Broken fragment 'w ra2y en el yom da' glued after complaint. || 'w ra2y en...' lacks possessive (ra2yi); '2alma' is not a word here
+fs_ra2y_06	fs_ra2y_06	false	2	3	5		'begad ra2y en...' reads as رأيي (my opinion), not bare رأي. || Garbled phrase 'begad ra2y en', anchor forced in as fragment. || 'begad ra2y en' is not idiomatic Egyptian; missing possessive
+fs_ra2y_07	fs_ra2y_07	true	5	0	5		
+fs_ra7a_05	fs_ra7a_05	false	2	3	5		"""nkhod el ma3a el a7la"" is garbled; the planned activity makes no sense. || Garbled phrase 'nkhod el ma3a el a7la'. || 'nkhod el ma3a el a7la' is gibberish; '3andna ra7a fi agazet' awkward"
+fs_ra7a_10	fs_ra7a_10	false	3	2	5		Directions template 'emshy 3al tool' glued onto unrelated rest clause. || 'emshy 3al tool lama te5las' incoherent; 'wakhod' malformed; 'shogh' typo
+fs_ra7a_11	fs_ra7a_11	true	4	1	5		'ra7a kbeera gamda' wrong collocation; gamda does not modify relief
+fs_ra7a_13	fs_ra7a_13	true	4	1	5		'el maw3ood' wrong word; 'msh f ra7a' unnatural
+fs_rady_06	fs_rady_06	true	5	0	5		
+fs_rady_07	fs_rady_07	true	4	1	5		'ana kont rady mestany' is an awkward, unnatural collocation in an apology.
+fs_rady_14	fs_rady_14	true	5	0	5		
+fs_rady_15	fs_rady_15	true	5	0	5		
+fs_rasmy_10	fs_rasmy_10	true	4	1	5		'el wara2 rasmy' missing article; 'el mas2ola tkoon sah' unnatural
+fs_rasmy_12	fs_rasmy_12	false	3	2	5		habitual verbs lack b- prefix ('basha'/'bashrab'); 'asa77a' malformed || Habitual verbs lack Egyptian b- prefix ('asa77a, ashrab, albes'); bare imperfect reads MSA, not Egyptian.
+fs_rasmy_14	fs_rasmy_14	true	5	0	5		
+fs_rasmy_15	fs_rasmy_15	true	5	0	5		
+fs_re2a_00	fs_re2a_00	true	4	1	5		gender clash 'el re2a beta3i'; 'maskouda men el za7ma' unnatural
+fs_re2a_02	fs_re2a_02	true	5	0	5		
+fs_re2a_03	fs_re2a_03	true	5	0	5		
+fs_re2a_13	fs_re2a_13	true	5	0	5		
+fs_re2a_14	fs_re2a_14	false	1	4	5		Asking the price of a lung in a shop; lung sense is wrong. || Nonsensical situation: asking a shop the price of a lung. || Shopping-price template with anchor stuffed in: asking the price of a lung. || asking a shopkeeper the price of a lung is nonsensical
+fs_ro2ya_01	fs_ro2ya_01	false	2	3	5		"Ending ""kashf te7seel nedr"" is nonsensical; purpose of the visit unclear. || Garbled trailing fragment 'kashf te7seel nedr'. || 'kashf te7seel nedr' is gibberish; 'maw3ed ro2ya' unnatural"
+fs_ro2ya_05	fs_ro2ya_05	false	3	2	5		'nawi ro2ya film' calques 'intend to watch'; Egyptian says 'nawi atfarrag 3ala film' || 'nawi ro2ya film' is an MSA verbal-noun calque; Egyptian says 'nawi ashoof film'.
+fs_ro2ya_14	fs_ro2ya_14	false	2	3	5		Repeats 'el se3r' in a forced restatement; template-like padding. || 'ro2ya el se3r mohemma' is an English calque; nobody says this || 'ro2yat el se3r mohemma' is stilted MSA nominalization; Egyptian would say 'lazem ashoof el se3r'.
+fs_ro2ya_15	fs_ro2ya_15	true	5	0	5		
+fs_ro7_00	fs_ro7_00	false	3	2	5		Vocative 'ya ro7' without possessive is unidiomatic; soul/go sense strained. || 'ya ro7' without possessive is unnatural; Egyptians say 'ya roo7i'
+fs_ro7_10	fs_ro7_10	true	5	0	5		
+fs_ro7_11	fs_ro7_11	true	5	0	5		
+fs_ro7_15	fs_ro7_15	true	5	0	5		
+fs_rsm_05	fs_rsm_05	false	2	3	5		Illogical mix: kids paying school fees before a family outing plan. || Non-word 'khatla' plus unrelated school-fee clause glued onto family outing. || 'n3mel khatla' is not a word; family outing plus school fees clause is disjointed
+fs_rsm_06	fs_rsm_06	true	4	1	5		'byfakkerny en el rsm ... zed tani' is awkward and ungrammatical
+fs_rsm_14	fs_rsm_14	true	5	0	5		
+fs_rsm_15	fs_rsm_15	true	5	0	5		
+fs_sa2el_10	fs_sa2el_10	false	2	3	5		Calling the person you ask for directions 'the asker' inverts the sense; strained. || 'Ask the asker standing there' for directions is self-contradictory || 'es2al el sa2el' (ask the asker) is nonsense
+fs_sa2el_11	fs_sa2el_11	false	3	2	5		redundant echo 'sa2el beys2al' || 'wa7ed sa2el beys2al' is redundant and unnatural
+fs_sa2el_13	fs_sa2el_13	false	3	2	5		"'agib el sa2el' unnatural; 'ma kan qasda' ungrammatical (ma kontesh 2asda) || ""ma kan qasda"" is not Egyptian (ma kontesh 2asda); ""el youm"" fusha-leaning"
+fs_sa2el_14	fs_sa2el_14	true	4	1	5		'ana sa2el 3an se3r' stiff MSA-ish; Egyptians say 'bas2al 3ala'
+fs_sa3a_00	fs_sa3a_00	true	5	0	5		
+fs_sa3a_01	fs_sa3a_01	true	5	0	5		
+fs_sa3a_11	fs_sa3a_11	true	5	0	5		
+fs_sa3a_13	fs_sa3a_13	true	5	0	5		
+fs_sa3at_03	fs_sa3at_03	false	3	2	5		Doubled noun 'el shoghl el project' with redundant English. || 'tesa3edni sa3at fi el shoghl el project' is broken word order
+fs_sa3at_06	fs_sa3at_06	true	4	1	5		'el khabar dah sa3at bybawaz el mazag' is illogical and unidiomatic
+fs_sa3at_08	fs_sa3at_08	true	5	0	5		
+fs_sa3at_14	fs_sa3at_14	false	2	3	5		"'sometimes costs how much' in a price question is nonsensical; sense strained. || Asking a price ""sometimes"" is semantically incoherent as a shop question. || 'sa3at teb2a bekam' (sometimes how much) is unnatural in a price question"
+fs_sa3et_03	fs_sa3et_03	true	5	0	5		
+fs_sa3et_04	fs_sa3et_04	true	4	1	5		'mohasha' not a word; 'adet sa3a kwayesa' awkward
+fs_sa3et_06	fs_sa3et_06	false	3	2	5		"Couldn't sleep ""from politeness"" (men el 2adab) is nonsensical as a cause. || 'ma2adartsh anam men el 2adab' makes no sense; likely meant 2ala2"
+fs_sa7y_01	fs_sa7y_01	true	4	1	5		'a2om badri akoun sa7y' redundant and unjoined; 'el mawad' out of place
+fs_sa7y_02	fs_sa7y_02	true	5	0	5		
+fs_sa7y_06	fs_sa7y_06	true	5	0	5		
+fs_sa7y_14	fs_sa7y_14	false	1	4	5		"'ana sa7y' in a price question makes no sense; reads as صح, not awake. || Nonsensical: asking price then ""am I awake or want to add?"" has no logic. || Price template with anchor stuffed in; incoherent tail 'ana sa7y wala 3ayez azawed'. || 'ana sa7y wala 3ayez azawed?' is nonsensical in a price quest"
+fs_sahal_06	fs_sahal_06	false	2	3	5		'el khabar sahal 3alaya' (news easy on me) is strained; sense unclear. || 'This news was very easy on me and made me happy' is semantically incoherent. || 'el khabar da sahal 3alaya' is an unnatural collocation.
+fs_sahal_09	fs_sahal_09	true	4	1	5		Gender error: 'el donya btib2a sahal' should be 'sahla'.
+fs_sahal_10	fs_sahal_10	true	4	1	5		'ba3d el estefta7' unclear; 'be sohola' stiff for chat directions.
+fs_sahal_13	fs_sahal_13	true	5	0	5		
+fs_sata7_04	fs_sata7_04	true	4	1	5		'khashoony 3ala el sata7' ungrammatical; natural would be 'khallooni atla3 el sat7'
+fs_sata7_06	fs_sata7_06	true	4	1	5		'2a3ayet 3ala sata7 el 3emara kolaha' is nonsensical
+fs_sata7_09	fs_sata7_09	true	5	0	5		
+fs_sata7_12	fs_sata7_12	true	5	0	5		
+fs_sawaa_08	fs_sawaa_08	true	5	0	5		
+fs_sawaa_09	fs_sawaa_09	true	5	0	5		
+fs_sawaa_13	fs_sawaa_13	true	5	0	5		
+fs_sawt_01	fs_sawt_01	true	4	1	5		'adi sawt' lacks possessive; Egyptians say 'adi sooti'; errands clause tacked on
+fs_sawt_02	fs_sawt_02	false	3	2	5		Inconsistent: asleep, scared by a sound, then turns the light off. || gender clash naayem vs khafet; natural form is 'khoft awi'
+fs_sawt_03	fs_sawt_03	false	2	3	5		"Reason clause ""el-retabta mesh 3agbany"" is a nonsense word; request unclear. || Garbled non-word 'el-retabta' and filler tail 'wel mawdou3 mohem'. || 'azbat sawt el takyeef ... el-retabta' is garbled"
+fs_sawt_07	fs_sawt_07	true	4	1	5		a loud sound as the lateness excuse is unnatural; clauses do not cohere
+fs_say7a_08	fs_say7a_08	false	2	3	5		"Food ""was say7a"" plus ""3alamat el 7ara kolaha 3aleeha"" is incoherent. || Garbled trailing fragment 'lamma 3alamat el 7ara kolaha 3aleeha'. || food 'kanet say7a, lamma 3alamat el 7ara' is incoherent"
+fs_say7a_10	fs_say7a_10	true	4	1	5		'matseebesh el say7a tewge3ak' is not idiomatic Egyptian
+fs_say7a_12	fs_say7a_12	false	3	2	5		'ba3mel say7a lel 3eyal' is a calque; Egyptians say 'baza3a2 lel 3eyal' || 'madrase' with -e ending is Levantine pronunciation; Egyptian is 'madrasa'.
+fs_say7a_15	fs_say7a_15	true	4	1	5		'el say7a elli 3amalha el rayes' is MSA register, unnatural in chat
+fs_sedy_04	fs_sedy_04	true	4	1	5		'el zahma keteer' wrong collocation; Egyptian says 'el zahma gamda'
+fs_sedy_08	fs_sedy_08	false	1	4	5		'ma3 sedy' eating together means grandfather, not sir/master in the gloss. || Stacked filler praise '7elw gedan ... mazyana kwayes awi' padding. || 'akla mazyana kwayes awi' is non-Egyptian and redundant || 'mazyana' is Maghrebi/Levantine, and 'sedy' as grandfather is non-Egyptian (Egyptian: 'geddi'
+fs_sedy_10	fs_sedy_10	true	4	1	5		'etla3 yemeen' unnatural; Egyptians say 'e7wed yemeen'
+fs_sedy_14	fs_sedy_14	true	5	0	5		
+fs_shabak_00	fs_shabak_00	false	3	2	5		Echoes gloss in English 'window' right after 'el shabak'; redundant. || '7aset b raya7a gamb el window' is garbled; shabak/window redundant
+fs_shabak_12	fs_shabak_12	false	3	2	5		'el ghorfa' is MSA (Egyptian 'el oda'); 'el hawa el nadif' calques 'fresh air' || 'el ghorfa' is MSA/Levantine; Egyptian says 'el o2da'.
+fs_shabak_13	fs_shabak_13	true	5	0	5		
+fs_shabak_14	fs_shabak_14	true	5	0	5		
+fs_shabka_02	fs_shabka_02	true	5	0	5		
+fs_shabka_05	fs_shabka_05	true	4	1	5		'nagib el shabka men el ba7r' unnatural; hauling a net is not 'bringing' it
+fs_shabka_07	fs_shabka_07	false	3	2	5		garbled spelling '2na mota2akh2ar', 'mstnezha'; waiting for network to leave is illogical || 'mota2akh2ar' is the MSA form; Egyptian colloquial says 'met2akhar'.
+fs_shabka_08	fs_shabka_08	true	5	0	5		
+fs_shaif_01	fs_shaif_01	true	5	0	5		
+fs_shaif_02	fs_shaif_02	true	4	1	5		'w ana shaif 3eyal' circumstantial is unnatural; Egyptian would say 'w shoft 3eyal'
+fs_shaif_05	fs_shaif_05	true	5	0	5		
+fs_shaif_06	fs_shaif_06	true	4	1	5		'qalbeth' is outside Egyptian Franco habits; should be '2albet'
+fs_shakhs_00	fs_shakhs_00	true	4	1	5		'shakhs gambo' wrong pronoun (should be 'gambi'); person next to him has no referent
+fs_shakhs_08	fs_shakhs_08	false	1	4	5		"'el makan zafar helw' is garbled; zafar (greasy smell) contradicts helw || trailing clause 'el makan zafar helw' is a garbled, contradictory fragment || 'el makan zafar helw' is meaningless; 'etghadait ma3 shakhs' unnatural, Egyptians say 'ma3 wa7ed' || ""el akel kan tayeb"" (tasty) is Levantine/Gulf "
+fs_shakhs_11	fs_shakhs_11	true	5	0	5		
+fs_shakhs_15	fs_shakhs_15	true	5	0	5		
+fs_shakhsia_04	fs_shakhsia_04	false	1	4	5		"Weather 'having a strange personality' is a strained, forced use of shakhsia. || unrelated clauses glued; garbled tokens 'mafisha 2aya', 'byestageel' || Weather 'has a strange personality' calque; 'mafisha 2aya', 'byestageel' are nonsense || ""mafisha 2aya"" uses fusha أية; Egyptian would say mafish a"
+fs_shakhsia_05	fs_shakhsia_05	false	3	2	5		doubled article artifact 'fel el 3ela' || 'fel el 3ela' ungrammatical; choosing Friday vacation by personality is an odd collocation
+fs_shakhsia_09	fs_shakhsia_09	true	5	0	5		
+fs_shakhsia_10	fs_shakhsia_10	true	4	1	5		'shakhsia beta3ak' gender mismatch; 'lamma t3amel' should be 'tet3amel'
+fs_shar2_02	fs_shar2_02	false	2	3	5		Pointless 'sun rose from east yesterday' plus garbled 'kandid' || nonsense/English token 'kandid' ('kan kandid gameel') || 'kandid' is nonsense; 'tal3et men shar2' missing article, unnatural chat
+fs_shar2_03	fs_shar2_03	true	5	0	5		
+fs_shar2_13	fs_shar2_13	true	4	1	5		'5adt el taree2 3ala shar2' unnatural; Egyptians don't navigate by cardinal direction like this
+fs_shar2_14	fs_shar2_14	false	2	3	5		'the price in the east next to this shop' makes no sense; east sense is forced. || 'The price that is in the east next to the shop' is nonsensical || 'el se3r elly fel shar2 elly gamb el ma7al' is incoherent
+fs_shar2y_00	fs_shar2y_00	false	2	3	5		'el awda delwa2ti shar2y' (room now eastern) is a strained use of eastern. || 'the room is now eastern and warm' is nonsensical; a room doesn't become eastern || 'yom ta3ban taweel' odd order; 'el awda shar2y' gender mismatch (shar2eyya)
+fs_shar2y_02	fs_shar2y_02	true	4	1	5		'le bayna' is garbled; should be 'lel beit'
+fs_shar2y_03	fs_shar2y_03	false	1	4	5		"'el shara2e3 el shar2y' is nonsensical; the eastern sense does not attach to anything meaningful. || Project help tied to 'eastern shara2e3' (non-word) makes no sense || 'el shara2e3 el shar2y' (eastern laws) is nonsense and ungrammatical || ""shara2e3"" reads as fusha شرائع (religious laws), not ever"
+fs_shar2y_15	fs_shar2y_15	true	4	1	5		'nekhlas el shoghl' wrong verb (nekhallas); problem blamed on 'eastern department' is vague
+fs_shar_00	fs_shar_00	true	5	0	5		
+fs_shar_01	fs_shar_01	true	4	1	5		'khayef men el shar' about going to market is an unnatural, vague collocation
+fs_shar_05	fs_shar_05	true	4	1	5		'men gher shar' tacked on doesn't fit; 'nertab' should be 'nrattab'
+fs_shar_06	fs_shar_06	true	4	1	5		'daharda' is not a word/normal spelling of naharda; clause poorly joined
+fs_shar_15	fs_shar_15	false	3	2	5		'mawdoo3 shar ged3an' uses shar as an adjective; sense of evil is strained/unclear. || 'by3mel mawdoo3 shar ged3an' is incoherent, not Egyptian usage
+fs_share3_01	fs_share3_01	true	4	1	5		'el 7agat el mo7taga' is MSA-ish; Egyptians say 'elli ana me7tagha'
+fs_share3_10	fs_share3_10	true	5	0	5		
+fs_share3_12	fs_share3_12	true	4	1	5		'bansba7' is not a word; buying breakfast from the 3attar is odd
+fs_share3_15	fs_share3_15	true	4	1	5		'el atobis bazza' is nonsense
+fs_shareka_03	fs_shareka_03	true	5	0	5		
+fs_shareka_09	fs_shareka_09	true	5	0	5		
+fs_shareka_10	fs_shareka_10	true	4	1	5		'3omd el masr' is nonsense; directions garbled
+fs_shareka_14	fs_shareka_14	false	1	4	5		Asking a shopkeeper the price of 'this company' misuses shareka as a product. || Asks a shopkeeper the price of 'this company'; muddled logic about its factory || redundant repetition: asks price twice ('bi kam el se3r' then 'a3raf el se3r') || Asking price of 'the company' and 'masna3aha helwa' is 
+fs_shay2_05	fs_shay2_05	true	4	1	5		'nshuf shay2 helw n3mlo' MSA calque; Egyptians say '7aga 7elwa'
+fs_shay2_08	fs_shay2_08	true	4	1	5		'fiha shay2 gharib 7elw' unnatural; Egyptians say '7aga'
+fs_shay2_09	fs_shay2_09	false	3	2	5		"'3eshrena ely faty' is nonsense; 'shay2' unnatural in chat || ""fe 3eshrena ely faty"" is not Egyptian speech; garbled phrase"
+fs_shay2_11	fs_shay2_11	true	4	1	5		'feh shay2 ghareeb' MSA (7aga ghariba); 'el goal kan mofaga2a' gender mismatch
+fs_shghal_00	fs_shghal_00	true	4	1	5		'el kahraba kant shghal' gender mismatch; should be 'shaghala'
+fs_shghal_02	fs_shghal_02	true	4	1	5		'ma kanesh yebred' unnatural; Egyptians say 'mkansh beysa22a3'
+fs_shghal_08	fs_shghal_08	false	1	4	5		Subject 'el makln' is garbled; unclear what is working, sense of shghal indeterminate. || 'el makln shghal gidan' is garbled; unclear what is working || corrupted token 'makln' || 'el makln shghal gidan' is garbled nonsense
+fs_shghal_10	fs_shghal_10	false	2	3	5		"English 'el kar' instead of 3arabeya; garbled 'el banzeen 2alat' || 'el kar' not Egyptian (el 3arabeya); 'el banzeen 2alat' is nonsense || ""el kar"" is not Egyptian (el 3arabeya); ""el banzeen 2alat"" not Egyptian phrasing"
+fs_shmal_00	fs_shmal_00	true	5	0	5		
+fs_shmal_04	fs_shmal_04	true	4	1	5		'el hawa el garayy mn el shmal' is an unnatural calque
+fs_shmal_09	fs_shmal_09	true	5	0	5		
+fs_shoghl_05	fs_shoghl_05	true	5	0	5		
+fs_shoghl_14	fs_shoghl_14	false	1	4	5		"Second clause 'if done in 5 el-3agazeh what's the situation' is garbled || garbled second clause 'law yet3mel be 5 el-3agazeh 2eh el-7al' || 'yet3mel be 5 el-3agazeh 2eh el-7al' is incoherent || ""el-3agazeh"" Levantine-style ending, ""2eh el-7al"" unnatural; second half not everyday Egyptian"
+fs_shoghl_15	fs_shoghl_15	true	5	0	5		
+fs_shouf_09	fs_shouf_09	true	5	0	5		
+fs_shouf_10	fs_shouf_10	true	5	0	5		
+fs_shouf_13	fs_shouf_13	true	4	1	5		gender clash 'el maw3id de'; 'shouf' placement mid-apology awkward
+fs_shouf_15	fs_shouf_15	true	5	0	5		
+fs_shr_00	fs_shr_00	false	0	5	5		"'el shr da' is genuinely ambiguous between evil and month; sentence garbled. || 'this evil/month wasn't going to leave me tomorrow' is garbled, no clear meaning || garbled trailing fragment 'makansh hayera7 meni 8ad' || 'el shr da makansh hayera7 meni 8ad' is incoherent || ""8ad"" is fusha غد (Egyptia"
+fs_shr_02	fs_shr_02	false	3	2	5		'7asal ma3aya shr gamed' is an odd collocation; evil sense strained and unclear. || '7asal ma3aya shr gamed' is an unnatural collocation
+fs_shr_03	fs_shr_03	true	5	0	5		
+fs_shr_05	fs_shr_05	false	3	2	5		"'shr el shghl' is ambiguous between month and evil of work; neither sense is clear || ""2abl ma shr el shghl yeb2a 3alena"" is not an Egyptian expression."
+fs_shr_07	fs_shr_07	false	3	2	5		"'el shr elly 7asal fi el 3arabeeya' is a strained use of evil; neither month nor evil fits naturally || ""el shar elly 7asal fi el 3arabeeya"" is unnatural; Egyptian would say moshkela/7adsa."
+fs_shr_11	fs_shr_11	false	3	2	5		'el hakam 3amal shr' is not natural Egyptian for a bad call; evil sense strained. || 'el hakam 3amal shr' unnatural; Egyptians say 'zalamna' or 'zalam'
+fs_shr_12	fs_shr_12	true	5	0	5		
+fs_shwaya_04	fs_shwaya_04	true	5	0	5		
+fs_shwaya_07	fs_shwaya_07	true	5	0	5		
+fs_shwaya_08	fs_shwaya_08	false	2	3	5		"Illogical cause: koshary was a bit hot because I was full since morning || Spicy 'because I was full since morning' is incoherent || ""kan tayeb"" (tasty) is Levantine/Gulf; ""har"" for spicy is non-Egyptian (7arra2/7ami)"
+fs_so2_01	fs_so2_01	true	5	0	5		
+fs_so2_07	fs_so2_07	true	5	0	5		
+fs_so2_08	fs_so2_08	true	4	1	5		'el so2 el gamb bayti' ungrammatical; needs 'elli gamb'
+fs_so2_11	fs_so2_11	false	1	4	5		"'so2 el na2leena' is unclear; reads as su2 (bad) or garbled transfer market, ambiguous. || 'so2 el na2leena malhash lazma' and 'lineup is upset' are garbled, incoherent || MSA 'el mubarah'; 'so2 el na2leena' is incoherent || ""el mubarah el yom"" is fusha (Egyptian: el match el naharda); ""so2 el na2le"
+fs_so2al_03	fs_so2al_03	false	3	2	5		"'so2al saghira' gender mismatch; should be 'so2al soghayar' || ""saghira"" and ""el-yom"" are fusha forms; Egyptian: soghayar, el naharda"
+fs_so2al_04	fs_so2al_04	false	0	5	5		"'el zahma el naharda so2al leh keda' is broken; question sense forced into sentence. || 'Traffic today is a question why' and 'mzen 3omri' are nonsensical || template opener glued to incoherent clause; garbled trailing 'mzen 3omri' || 'el zahma so2al leh keda', 'mzen 3omri' are incoherent || ""mzen"" "
+fs_so2al_08	fs_so2al_08	true	4	1	5		'el roz bela7ama' garbled; not a normal spelling of 'bel la7ma'
+fs_so2al_12	fs_so2al_12	true	4	1	5		'bas2al nafsi so2al 3ashan abda2 youmi b-energy' is an English calque
+fs_sod3_04	fs_sod3_04	true	5	0	5		
+fs_sod3_07	fs_sod3_07	true	5	0	5		
+fs_sod3_13	fs_sod3_13	true	4	1	5		'el sod3 elli gabli' wrong verb; should be 'elli gali'
+fs_soghayar_00	fs_soghayar_00	false	3	2	5		repeats tiredness ('ta3b awi, ana ta3ban') || 'w ta3b awi' ungrammatical; redundant and incoherent
+fs_soghayar_01	fs_soghayar_01	true	4	1	5		'el sobt' is a misspelling of 'el sabt', not a normal variant
+fs_soghayar_08	fs_soghayar_08	false	3	2	5		"'akalt ta3am soghayar' MSA and unnatural || ""ta3am"" (طعام) is fusha; Egyptian says akl"
+fs_soghayar_11	fs_soghayar_11	true	4	1	5		'mshawwi awi' means grilled; nonsensical for a player
+fs_soghayara_03	fs_soghayara_03	true	5	0	5		
+fs_soghayara_09	fs_soghayara_09	true	4	1	5		'3amel eh fel shoghl khair 3alek?' is an unnatural ending
+fs_soghayara_11	fs_soghayara_11	true	4	1	5		Episode 'soghayara' is a calque; Egyptians say '2osayyara'
+fs_sokary_02	fs_sokary_02	true	5	0	5		
+fs_sokary_10	fs_sokary_10	true	5	0	5		
+fs_sokary_12	fs_sokary_12	true	5	0	5		
+fs_sokary_15	fs_sokary_15	false	2	3	5		Opens with a work problem, then describes a doctor's diabetes diagnosis; disconnected || template opener 'fi el shoghl 3andy moshkela' glued to unrelated doctor clause || Work problem then doctor: incoherent; 'a3mel 7arakat keter' unnatural
+fs_sokkar_00	fs_sokkar_00	true	5	0	5		
+fs_sokkar_08	fs_sokkar_08	true	4	1	5		'El 2ata elly akaltha' reads as 'the cat I ate'; garbled
+fs_sokkar_10	fs_sokkar_10	true	5	0	5		
+fs_sokkar_12	fs_sokkar_12	true	4	1	5		'bashta7' and '3ashan a7lawi' are nonsense
+fs_sw2a_01	fs_sw2a_01	true	4	1	5		'zamala' nonsense; 'sw2a mesh haykoon sahla' gender mismatch
+fs_sw2a_12	fs_sw2a_12	true	4	1	5		'babda2 sw2a lel shoghl' calque; 'ba5od fetar' unnatural (bafetar)
+fs_sw2a_13	fs_sw2a_13	false	2	3	5		Circular: forgot appointment because driving made me late, then forgot everything || repeated 'forgot' (nseet el maw3ed ... nasyt kol 7aga) || Forgot appointment because driving made me late and forgot everything: incoherent
+fs_sw2a_15	fs_sw2a_15	true	4	1	5		'problem at work is that driving delays me' is a mismatched, unnatural framing
+fs_t3raf_00	fs_t3raf_00	true	4	1	5		'te2eel 3leh' ungrammatical; '3ayyan' means sick, mismatched
+fs_t3raf_03	fs_t3raf_03	true	5	0	5		
+fs_t3raf_08	fs_t3raf_08	false	1	4	5		"Ending 'el fahma el moftaha kwayes awi' is garbled, meaningless || garbled trailing fragment 'el fahma el moftaha kwayes awi' || 'el fahma el moftaha' is nonsense || ""el fahma el moftaha kwayes"" is garbled, not natural Egyptian speech"
+fs_t3raf_13	fs_t3raf_13	true	4	1	5		't3raf enny nseet el maw3ed' unnatural; 'ha3awed tany' incomplete
+fs_ta2a_01	fs_ta2a_01	true	4	1	5		'3ashan ta2a teb2a ma3aya' is unnatural phrasing
+fs_ta2a_05	fs_ta2a_05	false	3	2	5		"'lel khurug' and 'nefdal' are MSA-ish; Egyptians say 'akhrog', 'ne23od' || ""lel khurug"" is a fusha masdar construction; Egyptian: ma3andish ta2a a5rog"
+fs_ta2a_07	fs_ta2a_07	true	5	0	5		
+fs_ta2a_08	fs_ta2a_08	false	3	2	5		'3atetny ta2a' non-Egyptian; Egyptians say 'eddetni' || '3atetny' (a3ta) is Levantine/Gulf; Egyptian colloquial uses 'eddetni'.
+fs_ta2a_09	fs_ta2a_09	true	5	0	5		
+fs_ta2a_12	fs_ta2a_12	true	5	0	5		
+fs_ta2a_15	fs_ta2a_15	true	5	0	5		
+fs_ta7t_00	fs_ta7t_00	true	4	1	5		'7ases eni ta7t el ard' is not an Egyptian idiom for tiredness
+fs_ta7t_02	fs_ta7t_02	true	4	1	5		'kant mabsota' subject mismatch (she vs I); confusing
+fs_ta7t_05	fs_ta7t_05	false	1	4	5		"Purpose clause 'so we blame the people' is garbled, nonsensical || garbled trailing fragment '3alasha2 ne2oloom el nas' || 'ne2oloom el nas' is nonsense || ""3alasha2 ne2oloom el nas"" is garbled, not Egyptian speech"
+fs_ta7t_07	fs_ta7t_07	true	5	0	5		
+fs_ta7tia_05	fs_ta7tia_05	false	2	3	5		'nezoor el ta7tia' (visit the lower/infra) is nonsensical; no gloss sense fits. || 'Visit the ta7tia (lower) after lunch' is nonsensical || 'nezoor el ta7tia' is nonsense
+fs_ta7tia_08	fs_ta7tia_08	true	4	1	5		'el taba2 el ta7tia' gender mismatch and unnatural; say 'elli ta7t'
+fs_ta7tia_11	fs_ta7tia_11	false	3	2	5		Drama series showing country's infrastructure and its 'masyadat' (traps) is incoherent || 'masyadat' nonsense; series showing infrastructure is odd
+fs_ta7tia_15	fs_ta7tia_15	true	5	0	5		
+fs_taba3a_02	fs_taba3a_02	true	4	1	5		'taba3a el gam3a beta3etna' is stiff; Egyptians say 'elli ma3ana fel gam3a'.
+fs_taba3a_08	fs_taba3a_08	false	3	2	5		Dinner 'taba3a' the restaurant is strained (masc noun, 'from' intended). || 'el 3asha ... taba3a el mat3am' calque and gender error.
+fs_taba3a_10	fs_taba3a_10	false	1	4	5		No referent for 'belonging to her'; 'da taba3a' about a shop is nonsensical. || 'The shop is taba3a' belongs to nothing; directions 'enter away from it' are contradictory. || garbled clauses 'da taba3a, ed5ol 3anno' and 'le7ad el shamel' || 'el masged da taba3a, ed5ol 3anno' is garbled.
+fs_taba3a_14	fs_taba3a_14	true	4	1	5		'el taba3a el sett' calque (bta3et); 'el shanta el sood' gender error.
+fs_tabe3_08	fs_tabe3_08	true	5	0	5		
+fs_tabe3_13	fs_tabe3_13	true	4	1	5		'el m7asab tabe3 lel saf7a w bynsher' is incoherent
+fs_tabe3_14	fs_tabe3_14	true	4	1	5		'el 7aga di tabe3' gender mismatch; 'fel 3ard' odd
+fs_tabe3_15	fs_tabe3_15	true	4	1	5		'tabe3 el ta3limat' unnatural; Egyptians say 'etba3/emshi 3ala el ta3limat'
+fs_tabee3y_01	fs_tabee3y_01	true	4	1	5		'ashoufy' wrong form; 'tabee3y akoon khalast' unnatural
+fs_tabee3y_03	fs_tabee3y_03	true	4	1	5		'Tabee3y bena enna nesa3ed ba3d' is garbled
+fs_tabee3y_14	fs_tabee3y_14	true	5	0	5		
+fs_tabee3y_15	fs_tabee3y_15	true	4	1	5		'el moshkela msh tabee3y' gender mismatch; 'ma3arfish' garbled
+fs_taqdeem_00	fs_taqdeem_00	true	5	0	5		
+fs_taqdeem_05	fs_taqdeem_05	true	4	1	5		'no2od' misspelled; 'ye3mel taqdeem lel fekra' is a stiff calque for a family outing
+fs_taqdeem_07	fs_taqdeem_07	true	4	1	5		MSA forms 'mota2akher' and 'min el ma3tad' instead of Egyptian 'met2akhar', 'men el 3ady'.
+fs_taqdeem_11	fs_taqdeem_11	false	3	2	5		'el taqdeem' for a football match is strained; presenting/submitting sense unclear, reads like commentary or progress. || 'taqdeem' of a match unnatural; 'gedan' MSA-ish alongside 'awi'
+fs_taqdom_00	fs_taqdom_00	false	3	2	5		'el7een' is Gulf, not Egyptian; 'el shoghl 3amel taqdom' calque || 'el7een' (now) is Gulf, not Egyptian 'delwa2ty'.
+fs_taqdom_04	fs_taqdom_04	false	2	3	5		Weather having no 'progress' is strained; tqaddum does not fit describing weather. || Weather cannot make 'progress'; anchor forced into a sense that doesn't fit the situation. || 'taqdom' applied to weather is nonsensical collocation
+fs_taqdom_06	fs_taqdom_06	false	3	2	5		doubled article 'fel el sou2' is a generation stutter || 'fel el sou2' doubled article is ungrammatical
+fs_taqdom_15	fs_taqdom_15	true	4	1	5		'm7ta3' misspelling; '3amalet taqdom' calque; I/we mismatch
+fs_tareekh_00	fs_tareekh_00	false	2	3	5		'kan tareekh taweel' means a long day; neither history nor date fits. || 'The day was a very long history/date' is nonsensical; tareekh used where 'yom' belongs. || 'el naharda kan tareekh taweel' meaningless, not Egyptian usage
+fs_tareekh_01	fs_tareekh_01	true	5	0	5		
+fs_tareekh_06	fs_tareekh_06	true	5	0	5		
+fs_tareekh_07	fs_tareekh_07	false	3	2	5		Wrong date doesn't explain being late or lost; speaker gender flips met2akher/asfa. || Gender clash met2akher/asfa; 'asfa 3la ta5khor' MSA calque
+fs_tareeq_04	fs_tareeq_04	true	4	1	5		'el tareeq zafat' and 'el wataseen' are not real Egyptian expressions
+fs_tareeq_06	fs_tareeq_06	true	5	0	5		
+fs_tareeq_10	fs_tareeq_10	true	5	0	5		
+fs_tareeq_13	fs_tareeq_13	true	4	1	5		'kont mashy fi tareeq' unnatural; 'hat3awwedlk 3aleh', 'bekra' off
+fs_tareeqa_01	fs_tareeqa_01	true	4	1	5		'el mashtara' is not a word; phrasing unnatural
+fs_tareeqa_03	fs_tareeqa_03	true	5	0	5		
+fs_tareeqa_07	fs_tareeqa_07	false	2	3	5		'el tareeqa kanet za7ma' uses tareeqa as road (tareeq), not way/method. || 'The method was very crowded' is nonsensical; tareeqa misused as road. || 'el tareeqa kanet za7ma' uses method-word for road; unnatural
+fs_tareeqa_12	fs_tareeqa_12	true	4	1	5		'btab3 tareeqa sahla' is an English calque ('follow an easy method')
+fs_tarekhy_09	fs_tarekhy_09	true	4	1	5		'etsawwarna el match' odd; 'mn a7lam el 3omr' garbled idiom
+fs_tarekhy_10	fs_tarekhy_10	true	4	1	5		'el share3 el tarekhy' as a direction is unnatural; 'el qahira' MSA-ish
+fs_tarekhy_11	fs_tarekhy_11	true	4	1	5		'msh fadyel moshahdeto tani' is not an Egyptian phrase
+fs_tarekhy_12	fs_tarekhy_12	false	2	3	5		'el nashra el tarekhy' daily newscast is not historical; sense wrong. || A daily 'historical newscast' in a morning routine makes no sense. || 'el nashra el tarekhy' gender mismatch and odd collocation
+fs_tatweer_04	fs_tatweer_04	false	3	2	5		Second clause 'government not pleased road development' is garbled and doesn't connect logically. || 'mabsotsh tatweer' is ungrammatical gibberish
+fs_tatweer_07	fs_tatweer_07	false	3	2	5		'atawwal 3alek' wrong tense for apology; 'ijtima3' non-Egyptian j || 'ijtima3' uses non-Egyptian j pronunciation; Egyptian is 'egtema3'.
+fs_tatweer_10	fs_tatweer_10	true	5	0	5		
+fs_tatweer_11	fs_tatweer_11	false	3	2	5		Story plot development is tatawwur, not tatweer (developing/improving); sense strained. || 'el tatweer beta3 el 7ekaya' calques English 'plot development'
+fs_tawter_00	fs_tawter_00	true	4	1	5		'3andy tawter keteer' calque; Egyptians say 'metwatter awi'
+fs_tawter_04	fs_tawter_04	true	4	1	5		'3amalo fiya tawter khales' unnatural noun+khales; say 'khallouni metwatter'
+fs_tawter_05	fs_tawter_05	true	5	0	5		
+fs_tawter_09	fs_tawter_09	true	4	1	5		'el modah el toola de' ungrammatical; should be 'el tawila'
+fs_tbya_00	fs_tbya_00	true	4	1	5		'tbya mo7tag artah' ('medically need rest') unnatural in chat
+fs_tbya_13	fs_tbya_13	false	2	3	5		'nseet el dawa tbya' makes no sense; medically is not a coherent reading here. || 'Forgot the medicine medically' is nonsensical; medicine and appointment apologies muddled. || 'nseet el dawa tbya' is nonsensical placement
+fs_tbya_15	fs_tbya_15	true	4	1	5		'enny tbya mish 2ader 2arkez' unnatural, forced adverb
+fs_teb2a_04	fs_teb2a_04	true	4	1	5		Habitual needs 'bteb2a'; bare 'teb2a' ungrammatical here
+fs_teb2a_13	fs_teb2a_13	true	4	1	5		'el ghalta teb2a 3alaya' forced; 'sam7ni marra tanya' wrong sense
+fs_teb2a_15	fs_teb2a_15	true	4	1	5		'el moshkela teb2a kbera' unnatural; Egyptians just say 'kbira'
+fs_thani_04	fs_thani_04	true	4	1	5		'mohika', 'mafish tadbeer b2a' are not natural Egyptian
+fs_thani_05	fs_thani_05	true	5	0	5		
+fs_thani_09	fs_thani_09	false	2	3	5		garbled token 'ba3reeda' and loose tacked-on trailing clause 'we ne7na netkallem' || 'el kahwa ba3reeda' nonsense; 'we ne7na netkallem' awkward || 'ne7na' is Levantine/Gulf; Egyptian says 'e7na'.
+fs_thani_12	fs_thani_12	true	5	0	5		
+fs_thanya_03	fs_thanya_03	true	5	0	5		
+fs_thanya_04	fs_thanya_04	false	1	4	5		Closing clauses ('changanat', 'msh bayn el sabt') are unintelligible; situation breaks down. || garbled 'changanat' and nonsensical trailing fragment 'msh bayn el sabt' || 'changanat', 'msh bayn el sabt' are gibberish || Non-Egyptian forms ('te3abni', 'mnel') and non-words; not recognizable Egyptian
+fs_thanya_06	fs_thanya_06	true	5	0	5		
+fs_thanya_15	fs_thanya_15	true	5	0	5		
+fs_w5ososan_00	fs_w5ososan_00	true	5	0	5		
+fs_w5ososan_07	fs_w5ososan_07	true	5	0	5		
+fs_w5ososan_08	fs_w5ososan_08	true	4	1	5		'el koshary el 3ala2' is garbled.
+fs_w5ososan_15	fs_w5ososan_15	true	5	0	5		
+fs_wa2t_01	fs_wa2t_01	true	5	0	5		
+fs_wa2t_06	fs_wa2t_06	false	2	3	5		'wa2t eh el sodfa el gameda di' is broken; time sense does not fit. || 'wa2t eh el sodfa' (time what the coincidence) is nonsensical || 'wa2t eh el sodfa el gameda di' is nonsense
+fs_wa2t_07	fs_wa2t_07	true	4	1	5		'wa2t el taree2 kolo ra7' and 'el za7ma kanet keteer' unnatural
+fs_wa2t_08	fs_wa2t_08	true	5	0	5		
+fs_wa2t_11	fs_wa2t_11	true	4	1	5		'el wa2t 3ada ser3a' ungrammatical calque
+fs_wa2t_13	fs_wa2t_13	true	4	1	5		repeated 'ma3lesh' opening and closing the sentence
+fs_wa2t_14	fs_wa2t_14	true	5	0	5		
+fs_wa2t_15	fs_wa2t_15	true	5	0	5		
+fs_wa3y_05	fs_wa3y_05	false	0	5	5		'el-wa3y ma3ana' in weekend planning is nonsensical; awareness sense strained. || Contains meta 'no wait:' restart; 'the awareness is with us' is nonsensical. || echoed self-correction 'no wait:' with the opening phrase repeated || Contains meta text 'no wait:'; not a chat sentence || Contains Engli
+fs_wa3y_10	fs_wa3y_10	true	5	0	5		
+fs_wa3y_12	fs_wa3y_12	true	4	1	5		'wa3y yerga3 leya' unnatural; missing possessive, Egyptians say 'afou2'
+fs_wa3y_14	fs_wa3y_14	false	2	3	5		'ana msh wa3y be' is the adjective waa3i (aware), not the noun wa3y awareness. || redundant 'se3r' repeated alongside 'b kam'; English 'shop' unnatural here || 'ana msh wa3y be se3r' calques English 'not aware of'
+fs_wazeer_00	fs_wazeer_00	true	4	1	5		'el yom kan ta3ban' and 'zay shoghl wazeer' unnatural
+fs_wazeer_09	fs_wazeer_09	true	4	1	5		'ba2t wazeer' wrong conjugation; should be 'ba2eet'
+fs_wazeer_11	fs_wazeer_11	false	3	2	5		Minister 'running football' in a series doing unclear 'mashagheer'; situation muddled. || 'el wazeer eli beydir el kora 3amal mashagheer' nonsensical
+fs_wazeer_12	fs_wazeer_12	true	5	0	5		
+fs_wazeera_03	fs_wazeera_03	false	2	3	5		Asks a friend whether the minister can help with a garbled 'haga zawera'; incoherent request. || garbled clause 'law sama7tek feeha haga zawera'; 'feha' repeated || 'law sama7tek feeha haga zawera' is gibberish
+fs_wazeera_08	fs_wazeera_08	true	5	0	5		
+fs_wazeera_12	fs_wazeera_12	true	5	0	5		
+fs_wazeera_15	fs_wazeera_15	true	5	0	5		
+fs_welada_00	fs_welada_00	true	4	1	5		Construct needs 'weladet'; fem 'a7kilek' clashes with 'ya sa7bi'
+fs_welada_05	fs_welada_05	false	3	2	5		Scheduling a childbirth over Friday-Saturday with food and games is illogical. || '3andena welada ... ne7tfel bi akel w le3eb' calque; Egyptians say 'sebou3'
+fs_welada_09	fs_welada_09	true	5	0	5		
+fs_welada_11	fs_welada_11	true	5	0	5		
+fs_welaya_04	fs_welaya_04	false	2	3	5		Cairo is a mo7afza; 'welaya el qahira' is unnatural to an Egyptian reader, strained. || redundant English 'traffic' tacked onto 'zehma'; unnatural code-switch || 'welaya el qahira' wrong; Cairo is a mo7afza; redundant traffic
+fs_welaya_09	fs_welaya_09	true	5	0	5		
+fs_welaya_12	fs_welaya_12	true	5	0	5		
+fs_welaya_13	fs_welaya_13	false	2	3	5		Appointment 'ma3 el welaya' is strained; state/governorship sense does not fit. || 'Appointment with the state/province' is nonsensical; forgot vs late apology conflict. || 'el maw3ad ma3 el welaya' nonsensical; 'asf 3al t2kher' MSA
+fs_welly_01	fs_welly_01	true	4	1	5		'el dokkan welly' misuses 'w+elly' as bare relative
+fs_welly_02	fs_welly_02	false	3	2	5		Unclear goods sold 'on the train in the street'; scene is muddled. || 'el ragel welly' misuses 'w+elly' as bare relative; 'ganeyet' nonsense
+fs_welly_12	fs_welly_12	true	4	1	5		'el 2ahwa welly' misuses 'w+elly' as bare relative
+fs_welly_14	fs_welly_14	true	4	1	5		'el 7aga welly' misuses 'w+elly'; 'el 7aga ... da' gender error
+fs_wlady_03	fs_wlady_03	true	5	0	5		
+fs_wlady_04	fs_wlady_04	true	4	1	5		'el zahma keteer awi' unnatural; 'newsaloo' garbled
+fs_wlady_07	fs_wlady_07	true	5	0	5		
+fs_wlady_09	fs_wlady_09	false	3	2	5		garbled trailing clause '3amel eih 2a2ol 3ala 7alak' || 'ba2eto gamed' wrong conjugation; last clause garbled
+fs_wsl_01	fs_wsl_01	false	3	2	5		"'el masraf' is MSA; Egyptians say 'el bank'. || ""el masraf"" is MSA/Gulf/Iraqi for bank; Egyptian says ""el bank""."
+fs_wsl_04	fs_wsl_04	true	4	1	5		'el zaha2' garbled; 'zamalti wsl' gender mismatch.
+fs_wsl_09	fs_wsl_09	false	2	3	5		Addressed to 'you', reads as وصلت/وصول greeting, not وصل (he arrived). || garbled glued ending '3aml eh 3amo el a7wal' || 'wsl b salama' wrong person for addressee; '3aml eh 3amo el a7wal' garbled.
+fs_wsl_15	fs_wsl_15	false	3	2	5		"'kabart el modeer' wrong verb; 'makanesh wsl 3ando lelnaharda' garbled. || ""kabart"" (khabbart, told) is Levantine/Gulf; ""taqreer"" with q is MSA pronunciation, not ta2rir."
+fs_www_02	fs_www_02	false	3	2	5		stray non-word token 'www' inserted mid-sentence as noise || 'www' inserted mid-sentence is not something Egyptians type.
+fs_www_06	fs_www_06	false	3	2	5		"Anchor 'www' tacked on as a meaningless trailing fragment after 'ya3ni'. || ""ya3ni www"" tacked on; Egyptians don't type www as a keysmash or reaction"
+fs_www_08	fs_www_08	false	2	3	5		'www kan ta3moh' reads as stretched 'w' (و, and), not keysmash. || stray non-word token 'www' inserted mid-sentence as noise || 'www' inserted mid-sentence unnatural; 'ahlty' garbled.
+fs_www_10	fs_www_10	false	2	3	5		'www kammel' reads as stretched 'w' (و, and), not keysmash. || stray non-word token 'www' inserted mid-sentence as noise || 'www' inserted into directions is unnatural.
+fs_y5od_00	fs_y5od_00	false	3	2	5		"Bare ""y5od"" needs b-; ""ta3ban el gadd"" is unnatural. || bare y5od as indicative is MSA-like; Egyptian requires bey5od/khad"
+fs_y5od_06	fs_y5od_06	true	5	0	5		
+fs_y5od_13	fs_y5od_13	false	3	2	5		"Habitual needs ""beyakhod""; bare ""y5od"" is ungrammatical here. || bare y5od as habitual indicative is MSA-like; Egyptian requires bey5od"
+fs_y5od_15	fs_y5od_15	false	3	2	5		"Habitual needs ""beyakhod""; bare ""y5od"" is ungrammatical here. || bare y5od as habitual (vs bata7ammel) is MSA-like; Egyptian requires bey5od"
+fs_y7sal_01	fs_y7sal_01	false	3	2	5		"""asawwi el fawater"" not Egyptian; conditional needs ""law 7asal"". || asawwi (sawwa) is Gulf/Levantine; Egyptian says a3mel/adfa3 el fawater"
+fs_y7sal_10	fs_y7sal_10	false	3	2	5		"Bare ""y7sal ennak"" needs ""momken""; ""el 3ataba di"" incoherent in directions. || bare y7sal as conditional result is MSA-like; Egyptian uses hay7sal/momken y7sal"
+fs_y7sal_14	fs_y7sal_14	false	2	3	5		"'el se3r y7sal kam' means 'comes to how much', not 'happens'; wrong sense || ""el se3r ... y7sal kam?"" is nonsensical. || 'y7sal kam' for price is not Egyptian; bare indicative, Egyptian says yeegi kam"
+fs_yshmel_07	fs_yshmel_07	false	1	4	5		"'el zawal yshmel el ezde7ma' (noon includes the traffic) is nonsensical; includes sense forced. || 'el zawal (noon) includes the crowding' is nonsensical as a lateness excuse || 'el zawal yshmel el ezde7ma' is nonsense || bare indicative ""yshmel"" is fusha; ""el zawal"" not Egyptian in this sense"
+fs_yshmel_09	fs_yshmel_09	false	3	2	5		"Incoherent; 'yshmel' is MSA-register, not chat Egyptian here || bare indicative ""yshmel"" in main clause is fusha; Egyptian would be byeshmel or fih"
+fs_yshmel_11	fs_yshmel_11	false	3	2	5		"'el mosalsal yshmel drama' is MSA calque; Egyptians say 'fih drama' || bare indicative ""yshmel"" describing a series is fusha register; Egyptian: kan fih / byeshmel"
+fs_yshmel_15	fs_yshmel_15	false	3	2	5		"'mogrebat' is nonsense; 'yshmel' unnatural in chat || ""en el shoghl ... yshmel"" uses fusha bare indicative; Egyptian: byeshmel"
+fs_zey_00	fs_zey_00	true	5	0	5		
+fs_zey_05	fs_zey_05	true	5	0	5		
+fs_zey_07	fs_zey_07	true	5	0	5		
+fs_zey_12	fs_zey_12	false	3	2	5		"'arou7 el 3amal' is MSA; Egyptian says 'el shoghl'; 'telephonei' odd || ""arou7 el 3amal"" is MSA; everyday Egyptian says ""el shoghl""."

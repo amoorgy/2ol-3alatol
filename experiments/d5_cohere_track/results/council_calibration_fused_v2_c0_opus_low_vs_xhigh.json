@@ -1,0 +1,794 @@
+{
+ "name": "fused_v2_c0_opus_low_vs_xhigh",
+ "command": "python3 experiments/d5_cohere_track/training_data/council/compare_councils.py --council fused --chunk-dir data/generated/v2/council/fused_chunks --a-dir data/generated/v2/council/fused_votes --a-label opus/xhigh --b-dir data/generated/v2/council/fused_votes_opus_low --b-label opus/low --name fused_v2_c0_opus_low_vs_xhigh --chunks c0",
+ "seed": null,
+ "deterministic": true,
+ "config": {
+  "council": "fused",
+  "lenses": [
+   "anchor",
+   "coherence",
+   "degeneracy",
+   "fluency",
+   "register"
+  ],
+  "min_agree": 4,
+  "chunk_dir": "data/generated/v2/council/fused_chunks",
+  "chunks": [
+   "c0"
+  ],
+  "by": [],
+  "a": {
+   "label": "opus/xhigh",
+   "dir": "data/generated/v2/council/fused_votes",
+   "stamp": null
+  },
+  "b": {
+   "label": "opus/low",
+   "dir": "data/generated/v2/council/fused_votes_opus_low",
+   "stamp": {
+    "council": "fused",
+    "model": "opus",
+    "effort": "low",
+    "chunk_dir": "data/generated/v2/council/fused_chunks"
+   }
+  }
+ },
+ "corpus": {
+  "n_chunks": 1,
+  "n_items": 115,
+  "chunk_sha256": {
+   "c0": "5524e0756d1b8fde01d165f7f853db1ce4e5ce513ac2a82cd1f26895e8af721e"
+  }
+ },
+ "verdict_sha256": {
+  "a": {
+   "anchor_c0.json": "2d5cfae62d32c64f4ff5a9bee98cd327c63aa42d4e8c40b9311f17bc14192d1a",
+   "coherence_c0.json": "e791fb2816d2049bb0e35d580b77eb667dddb3f861eaca2ee7de300273dee23a",
+   "degeneracy_c0.json": "e2238dbf94bc88fd10b8743bef9baa1bd5a504865bbcb1ca9ac03dfc769c987a",
+   "fluency_c0.json": "42687e8640a222d7a44e165a185dc79c6e87dd3a4f11514f9bc780ed914068a8",
+   "register_c0.json": "5c78e561a621afc8c63bbdaf55521135f0820014519c66dbbf0a908b8edfc816"
+  },
+  "b": {
+   "anchor_c0.json": "d54e111228d49d2dd816e67f9170789b9a2a5a19cf1c7bd2650c44bc8e7f24a8",
+   "coherence_c0.json": "28e07df937d329e218828b421477fd1fa1aff6960a4d0ed15b128cb6d2ea9079",
+   "degeneracy_c0.json": "1866c515e896d8303456d3242d394629ad8dac35e670a5fa3d771bd0f62243d6",
+   "fluency_c0.json": "4be540cb1af8c314ff11b84d743279e2753928c80ef0106be2d5f29ca43169bd",
+   "register_c0.json": "45e8e0a82bce48d143f1d22484b6506f3bed74df92a6f46442a7e8908b5c6b10"
+  }
+ },
+ "coverage": {
+  "complete": true,
+  "a_complete_items": 115,
+  "b_complete_items": 115,
+  "both_complete_items": 115,
+  "a_pending_jobs": [],
+  "b_pending_jobs": []
+ },
+ "warnings": [],
+ "final": {
+  "n": 115,
+  "confusion": {
+   "a_accept_b_accept": 63,
+   "a_accept_b_reject": 3,
+   "a_reject_b_accept": 26,
+   "a_reject_b_reject": 23
+  },
+  "a": {
+   "accept_rate": 0.5739,
+   "reject_rate": 0.4261
+  },
+  "b": {
+   "accept_rate": 0.7739,
+   "reject_rate": 0.2261
+  },
+  "leniency_pp": 20.0,
+  "agreement": 0.7478,
+  "cohen_kappa": 0.4512,
+  "b_false_accept_vs_a": {
+   "k": 26,
+   "n": 89,
+   "rate": 0.2921,
+   "wilson95": [
+    0.2078,
+    0.3936
+   ]
+  },
+  "b_miss_rate_vs_a": {
+   "k": 26,
+   "n": 49,
+   "rate": 0.5306,
+   "wilson95": [
+    0.3938,
+    0.663
+   ]
+  }
+ },
+ "fleiss_kappa_across_lenses": {
+  "a": 0.0752,
+  "b": 0.1087
+ },
+ "lenses": {
+  "anchor": {
+   "n": 115,
+   "a_accept_rate": 0.8348,
+   "b_accept_rate": 0.8783,
+   "leniency_pp": 4.35,
+   "cohen_kappa": 0.6828,
+   "counts": {
+    "both_accept": 94,
+    "a_only_accept": 2,
+    "b_only_accept": 7,
+    "both_reject": 12
+   }
+  },
+  "coherence": {
+   "n": 115,
+   "a_accept_rate": 0.8609,
+   "b_accept_rate": 0.8261,
+   "leniency_pp": -3.48,
+   "cohen_kappa": 0.6714,
+   "counts": {
+    "both_accept": 92,
+    "a_only_accept": 7,
+    "b_only_accept": 3,
+    "both_reject": 13
+   }
+  },
+  "degeneracy": {
+   "n": 115,
+   "a_accept_rate": 0.7304,
+   "b_accept_rate": 0.9652,
+   "leniency_pp": 23.48,
+   "cohen_kappa": 0.1779,
+   "counts": {
+    "both_accept": 84,
+    "a_only_accept": 0,
+    "b_only_accept": 27,
+    "both_reject": 4
+   }
+  },
+  "fluency": {
+   "n": 115,
+   "a_accept_rate": 0.1913,
+   "b_accept_rate": 0.4522,
+   "leniency_pp": 26.09,
+   "cohen_kappa": 0.3716,
+   "counts": {
+    "both_accept": 20,
+    "a_only_accept": 2,
+    "b_only_accept": 32,
+    "both_reject": 61
+   }
+  },
+  "register": {
+   "n": 115,
+   "a_accept_rate": 0.8261,
+   "b_accept_rate": 0.9652,
+   "leniency_pp": 13.91,
+   "cohen_kappa": 0.2923,
+   "counts": {
+    "both_accept": 95,
+    "a_only_accept": 0,
+    "b_only_accept": 16,
+    "both_reject": 4
+   }
+  }
+ },
+ "b_threshold_sensitivity": [
+  {
+   "b_min_agree": 1,
+   "b_accept_rate": 1.0,
+   "agreement": 0.5739,
+   "cohen_kappa": 0.0,
+   "b_false_accept_vs_a": {
+    "k": 49,
+    "n": 115,
+    "rate": 0.4261,
+    "wilson95": [
+     0.3395,
+     0.5174
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 49,
+    "n": 49,
+    "rate": 1.0,
+    "wilson95": [
+     0.9273,
+     1.0
+    ]
+   }
+  },
+  {
+   "b_min_agree": 2,
+   "b_accept_rate": 0.9913,
+   "agreement": 0.5826,
+   "cohen_kappa": 0.0234,
+   "b_false_accept_vs_a": {
+    "k": 48,
+    "n": 114,
+    "rate": 0.4211,
+    "wilson95": [
+     0.3344,
+     0.5128
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 48,
+    "n": 49,
+    "rate": 0.9796,
+    "wilson95": [
+     0.8931,
+     0.9964
+    ]
+   }
+  },
+  {
+   "b_min_agree": 3,
+   "b_accept_rate": 0.8783,
+   "agreement": 0.6957,
+   "cohen_kappa": 0.3147,
+   "b_false_accept_vs_a": {
+    "k": 35,
+    "n": 101,
+    "rate": 0.3465,
+    "wilson95": [
+     0.2609,
+     0.4434
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 35,
+    "n": 49,
+    "rate": 0.7143,
+    "wilson95": [
+     0.5759,
+     0.8215
+    ]
+   }
+  },
+  {
+   "b_min_agree": 4,
+   "b_accept_rate": 0.7739,
+   "agreement": 0.7478,
+   "cohen_kappa": 0.4512,
+   "b_false_accept_vs_a": {
+    "k": 26,
+    "n": 89,
+    "rate": 0.2921,
+    "wilson95": [
+     0.2078,
+     0.3936
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 26,
+    "n": 49,
+    "rate": 0.5306,
+    "wilson95": [
+     0.3938,
+     0.663
+    ]
+   }
+  },
+  {
+   "b_min_agree": 5,
+   "b_accept_rate": 0.4435,
+   "agreement": 0.7652,
+   "cohen_kappa": 0.5382,
+   "b_false_accept_vs_a": {
+    "k": 6,
+    "n": 51,
+    "rate": 0.1176,
+    "wilson95": [
+     0.0551,
+     0.2338
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 6,
+    "n": 49,
+    "rate": 0.1224,
+    "wilson95": [
+     0.0573,
+     0.2424
+    ]
+   }
+  }
+ ],
+ "by": {},
+ "disagreements": [
+  {
+   "sid": "fs_2a2ema_02",
+   "rid": "fs_2a2ema_02",
+   "chunk": "c0",
+   "text": "embare7 katabt 2a2ema gdeeda lel 7agat elli lazem ashtraha men el so2 3ashan akammel shy el yom.",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Garbled trailing fragment 'akammel shy el yom' tacked onto the end.",
+    "fluency": "'3ashan akammel shy el yom' is garbled; no Egyptian would type this."
+   },
+   "b_rejected_on": {
+    "fluency": "ending 'akammel shy el yom' is garbled"
+   }
+  },
+  {
+   "sid": "fs_2a2em_09",
+   "rid": "fs_2a2em_09",
+   "chunk": "c0",
+   "text": "ya 3am shoghlok el gedid 2a2em 3ala el safar kteer, 3ashan keda magabelnash men zeman, 3amel eh?",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "fluency": "'magabelnash' is not a real form; '2a2em 3ala el safar' reads MSA.",
+    "register": "'magabelnash' uses g for qaf (Sa'idi/Gulf); Cairene is ma2ablnash."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "fs_2a2em_05",
+   "rid": "fs_2a2em_05",
+   "chunk": "c0",
+   "text": "el khotta 2a2em 3ala ra2y ommy, yalla nettaf2 ma3 el 3a2ila 3ala agazet el osboa3",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "fluency": "Gender error: 'el khotta 2a2em' should be feminine (2ayma).",
+    "register": "'el 3a2ila' is the MSA pronunciation; Egyptian says el 3eila."
+   },
+   "b_rejected_on": {
+    "fluency": "gender mismatch: khotta 2a2ema; phrasing unnatural"
+   }
+  },
+  {
+   "sid": "fs_dayra_03",
+   "rid": "fs_dayra_03",
+   "chunk": "c0",
+   "text": "Momken tesa3edni fi wara2 el dayra 3ashan ana mesh 3aref a5alleso wahdi?",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "fluency": "'wara2 el dayra' is not an Egyptian collocation for department paperwork.",
+    "register": "'wahdi' without le- is Levantine; Egyptian says lewa7di."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "fs_2al_01",
+   "rid": "fs_2al_01",
+   "chunk": "c0",
+   "text": "bokra lazem nrouh el souq el sobh 3ashan ahmed 2al en el mawqe3 hayfta7 badri.",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "fluency": "'el mawqe3 hayfta7' calque/odd for the market opening.",
+    "register": "'el mawqe3' and 'souq' are MSA forms; Egyptian says el makan, el so2."
+   },
+   "b_rejected_on": {
+    "fluency": "'el mawqe3 hayfta7' unnatural for a market"
+   }
+  },
+  {
+   "sid": "fs_2alb_11",
+   "rid": "fs_2alb_11",
+   "chunk": "c0",
+   "text": "el match el naharda kan 3al 2alb awi w 3awez a3eedo tani ba3d ma el da2e2a el 2e5era dawwarni",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "anchor": "'kan 3al 2alb awi' is not an idiom; heart sense is strained and unclear.",
+    "fluency": "'kan 3al 2alb' not an idiom; 'el da2e2a el 2e5era dawwarni' garbled."
+   },
+   "b_rejected_on": {
+    "fluency": "'3al 2alb' and 'dawwarni' unidiomatic"
+   }
+  },
+  {
+   "sid": "fs_3abr_09",
+   "rid": "fs_3abr_09",
+   "chunk": "c0",
+   "text": "ana b2ali zamaan ma shuftak, bas 3abr el-telefon 3reft akhbarak, ezayak w akhbarak eih?",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "degeneracy": "Repeats 'akhbarak' twice; formulaic greeting tacked onto end.",
+    "fluency": "'3abr el-telefon' is MSA; Egyptians say '3al telefon'.",
+    "register": "'ma shuftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "fs_3abr_08",
+   "rid": "fs_3abr_08",
+   "chunk": "c0",
+   "text": "akolt koshary 3abr el shari3 embareh ma3 sa7by w el akl kan tayyeb awi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "anchor": "English calque 'across the street' as a location; Arabic 3abr doesn't mean opposite side.",
+    "fluency": "'akolt koshary 3abr el shari3' calques 'across the street'.",
+    "register": "'tayyeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed."
+   },
+   "b_rejected_on": {
+    "fluency": "'3abr el shari3' wrong sense, unnatural"
+   }
+  },
+  {
+   "sid": "fs_3abr_12",
+   "rid": "fs_3abr_12",
+   "chunk": "c0",
+   "text": "kol el ayyam bas7a badri w baghsel weshi w babos el shams 3abr el-shobak abl ma afetar",
+   "a_accept": true,
+   "b_accept": false,
+   "a_votes": "4/5",
+   "b_votes": "3/5",
+   "a_rejected_on": {
+    "fluency": "'3abr el-shobak' formal calque; Egyptian says 'men el shebbak'."
+   },
+   "b_rejected_on": {
+    "coherence": "Kissing the sun through window is odd",
+    "fluency": "'babos el shams' nonsense"
+   }
+  },
+  {
+   "sid": "fs_3ebra_06",
+   "rid": "fs_3ebra_06",
+   "chunk": "c0",
+   "text": "el khabar da asa2ny awi, bas akhodt menno 3ebra 7elwa fel 7ayah w ba2a 3aref ra7ty",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Garbled 'asa2ny' and incoherent trailing 'ba2a 3aref ra7ty'.",
+    "fluency": "'asa2ny' is MSA; 'ba2a 3aref ra7ty' is garbled.",
+    "register": "'asa2ny' is an MSA verb; Egyptian would say za3alni or da2ay2ni."
+   },
+   "b_rejected_on": {
+    "fluency": "'ba2a 3aref ra7ty' incoherent"
+   }
+  },
+  {
+   "sid": "fs_3ebra_12",
+   "rid": "fs_3ebra_12",
+   "chunk": "c0",
+   "text": "kol youm basa7a 6:30 badry we da 3ebra en el nom el badry beyfara2 awy fel yom",
+   "a_accept": true,
+   "b_accept": false,
+   "a_votes": "4/5",
+   "b_votes": "3/5",
+   "a_rejected_on": {
+    "fluency": "'da 3ebra en el nom...' calques 'this is a lesson that'."
+   },
+   "b_rejected_on": {
+    "anchor": "lesson sense strained; means proof/sign here",
+    "fluency": "'da 3ebra en' unnatural usage"
+   }
+  },
+  {
+   "sid": "fs_3adam_08",
+   "rid": "fs_3adam_08",
+   "chunk": "c0",
+   "text": "el akl kan tayeb awi bas kan feh 3adam el mal7 fa ma3agabetneesh.",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Says the food was very good, then that they didn't like it; self-contradictory.",
+    "fluency": "'kan feh 3adam el mal7' calque; Egyptian: 'kan na2so mal7'.",
+    "register": "'tayeb' for tasty food is Levantine/Gulf; Egyptian says 7elw/gamed."
+   },
+   "b_rejected_on": {
+    "fluency": "'3adam el mal7' calque; Egyptians say mafihoosh mal7"
+   }
+  },
+  {
+   "sid": "fs_2adm_09",
+   "rid": "fs_2adm_09",
+   "chunk": "c0",
+   "text": "wallahy we7ashteny ya 3am 2adm el zaman ma shoftak, 2olly akhbarak eh",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "fluency": "'2adm el zaman ma shoftak' not an Egyptian idiom; 'men zaman' expected.",
+    "register": "'ma shoftak' negation lacks -sh (Levantine pattern); Egyptian: ma shoftaksh."
+   },
+   "b_rejected_on": {
+    "fluency": "'2adm el zaman' not Egyptian usage"
+   }
+  },
+  {
+   "sid": "fs_2adm_12",
+   "rid": "fs_2adm_12",
+   "chunk": "c0",
+   "text": "el sob7 ba2oom men el noom, 2aghsel 2adm el yemeen we ba3den 2ashrab 2ahwa 3ala el-fatra",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Trailing '3ala el-fatra' is a garbled, meaningless fragment.",
+    "fluency": "Egyptians say 'rigl' for foot; '2aghsel 2adm el yemeen' unnatural."
+   },
+   "b_rejected_on": {
+    "fluency": "washing '2adm el yemeen' unnatural; garbled"
+   }
+  },
+  {
+   "sid": "fs_3ala2a_06",
+   "rid": "fs_3ala2a_06",
+   "chunk": "c0",
+   "text": "ana lissa sama3t el khabar da w mesh fahem eh el 3ala2a baina el 7aga di w el 7ekaya kolaha",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "fluency": "'baina' is MSA; Egyptian chat uses 'ben'.",
+    "register": "'baina' is the MSA preposition; Egyptian says bein."
+   },
+   "b_rejected_on": {
+    "register": "\"baina\" is MSA form; Egyptian colloquial uses bein"
+   }
+  },
+  {
+   "sid": "fs_3alya_11",
+   "rid": "fs_3alya_11",
+   "chunk": "c0",
+   "text": "el match el bare7 kan gamed awi, w nasbet el hodour fel stadium 3alya awi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "degeneracy": "English 'stadium' unnatural here; an Egyptian would say 'el estad'.",
+    "fluency": "'nasbet el hodour' formal register; 'el match el bare7' non-Egyptian.",
+    "register": "'nasbet el hodour' is formal/MSA phrasing, not everyday speech."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "fs_3alya_02",
+   "rid": "fs_3alya_02",
+   "chunk": "c0",
+   "text": "embare7 lama shreit el kotob, la2et el se3r 3alya awi we mal2etsh flus kafya.",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Says they bought the books yet lacked enough money to pay; contradictory.",
+    "fluency": "Gender error: 'el se3r' is masculine, needs '3aly'.",
+    "register": "'shreit' (I bought) is Maghrebi/Gulf; Egyptian says eshtareit."
+   },
+   "b_rejected_on": {
+    "fluency": "se3r masculine; should be 3aly"
+   }
+  },
+  {
+   "sid": "fs_3alena_14",
+   "rid": "fs_3alena_14",
+   "chunk": "c0",
+   "text": "ya 3am el 7aga di be kam 3alena, 2olli 3ad3ad el takhfid men fadlak",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Reduplicated non-word '3ad3ad' is a generation artifact.",
+    "fluency": "'3ad3ad el takhfid' is garbled."
+   },
+   "b_rejected_on": {
+    "fluency": "'3ad3ad el takhfid' nonsense"
+   }
+  },
+  {
+   "sid": "fs_3alena_06",
+   "rid": "fs_3alena_06",
+   "chunk": "c0",
+   "text": "El khabar da sa3b awi w gamed, w 3alena nshof 7al be5alas el fatra el gayya",
+   "a_accept": true,
+   "b_accept": false,
+   "a_votes": "4/5",
+   "b_votes": "3/5",
+   "a_rejected_on": {
+    "fluency": "'sa3b awi w gamed' contradictory; 'be5alas el fatra' garbled."
+   },
+   "b_rejected_on": {
+    "coherence": "News both hard and awesome, contradictory",
+    "fluency": "'be5alas el fatra' unnatural"
+   }
+  },
+  {
+   "sid": "fs_lena_09",
+   "rid": "fs_lena_09",
+   "chunk": "c0",
+   "text": "fatra taweela ma shoftak, lena 3andena keteer kalemat w akhbar 3ayzeen netkalem, ezzayak w 3amel eh",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "anchor": "'lena 3andena' doubles possession; lena's role is garbled and strained.",
+    "degeneracy": "Redundant 'lena 3andena'; formulaic 'ezzayak w 3amel eh' tacked on end.",
+    "fluency": "'lena 3andena keteer kalemat' redundant and ungrammatical.",
+    "register": "'ma shoftak' lacks -sh and 'keteer kalemat' order is non-Egyptian."
+   },
+   "b_rejected_on": {
+    "fluency": "'lena 3andena' redundant, unnatural"
+   }
+  },
+  {
+   "sid": "fs_3amal_06",
+   "rid": "fs_3amal_06",
+   "chunk": "c0",
+   "text": "wallahi el khabar da gamed bas el 3amal da mesh sahl khales we lazem nolkaf 7ata nehyto",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Garbled non-word 'nolkaf'.",
+    "fluency": "'nolkaf' not a word; '7ata' MSA.",
+    "register": "'7ata nehyto' is an MSA/Levantine purpose clause; Egyptian: 3ashan nekhallaso."
+   },
+   "b_rejected_on": {
+    "fluency": "'nolkaf' nonsense; MSA 3amal"
+   }
+  },
+  {
+   "sid": "fs_3amal_14",
+   "rid": "fs_3amal_14",
+   "chunk": "c0",
+   "text": "el se3r beta3 el 3amal elly hena kam, 7ad y2olli 3al 7aga di?",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "anchor": "Shopping 'se3r el 3amal elly hena' -- unclear what 3amal denotes; strained/ambiguous sense.",
+    "fluency": "'el se3r beta3 el 3amal elly hena kam' calque, unnatural."
+   },
+   "b_rejected_on": {
+    "fluency": "'se3r el 3amal' unnatural"
+   }
+  },
+  {
+   "sid": "fs_ana_12",
+   "rid": "fs_ana_12",
+   "chunk": "c0",
+   "text": "kol youm ana ba2oom badri w ashrab 2ahwa w bastahamma w 2afta7 3ala tol 3ala el ftoor",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "List-shaped w-chain; garbled '2afta7 3ala tol 3ala el ftoor'.",
+    "fluency": "'2afta7 3ala tol 3ala el ftoor' meaningless."
+   },
+   "b_rejected_on": {
+    "fluency": "'bastahamma w 2afta7 3ala el ftoor' garbled"
+   }
+  },
+  {
+   "sid": "fs_3andha_00",
+   "rid": "fs_3andha_00",
+   "chunk": "c0",
+   "text": "ana lissa wasalt el beit ba3d yom ta3ban awy w sa7bety 3andha moshkela kbira w ana haro7 anam",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "degeneracy": "Three unrelated clauses glued together with 'w'.",
+    "fluency": "'yom ta3ban' calques 'tiring day'; clauses disjointed."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "fs_3andoh_00",
+   "rid": "fs_3andoh_00",
+   "chunk": "c0",
+   "text": "ana lissa wasalt el beit ba3d yom taweel we 3ayyan awi, 3andoh el wa2t yisma3ni w yirawwini",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Unintroduced 'he has time to listen and yirawwini' doesn't connect to arriving home tired.",
+    "degeneracy": "Garbled 'yirawwini'; dangling '3andoh' clause glued on.",
+    "fluency": "'yirawwini' garbled; '3andoh el wa2t' clause unnatural."
+   },
+   "b_rejected_on": {
+    "fluency": "'3andoh' referent missing; incoherent"
+   }
+  },
+  {
+   "sid": "fs_3anha_02",
+   "rid": "fs_3anha_02",
+   "chunk": "c0",
+   "text": "Sa2alni 3anha embare7 fel share3 bas ma 3reftesh ashra7lol 3ashan kan mad3oo3 awi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Garbled tokens 'ashra7lol' and 'mad3oo3'.",
+    "fluency": "'ashra7lol' and 'mad3oo3' are not real forms."
+   },
+   "b_rejected_on": {
+    "fluency": "'ashra7lol', 'mad3oo3' garbled"
+   }
+  },
+  {
+   "sid": "fs_3anha_14",
+   "rid": "fs_3anha_14",
+   "chunk": "c0",
+   "text": "salam, law sama7t momken as2al 3anha, el se3er 3addeh fel 7aga di?",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "degeneracy": "Garbled phrase 'el se3er 3addeh'.",
+    "fluency": "'el se3er 3addeh' garbled; 'as2al 3anha' misused."
+   },
+   "b_rejected_on": {
+    "fluency": "'as2al 3anha' unnatural for price"
+   }
+  },
+  {
+   "sid": "fs_enha_14",
+   "rid": "fs_enha_14",
+   "chunk": "c0",
+   "text": "Momken a3raf enha bekam ya fendi, 3ayez ashteri el 7aga di mn 3andoko",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "anchor": "'a3raf enha bekam' -- 'that it' doesn't fit; reads like anhi 'which', ambiguous.",
+    "fluency": "'a3raf enha bekam' unnatural; Egyptian: 'di bekam'."
+   },
+   "b_rejected_on": {
+    "fluency": "'a3raf enha bekam' unnatural"
+   }
+  },
+  {
+   "sid": "fs_3ard_04",
+   "rid": "fs_3ard_04",
+   "chunk": "c0",
+   "text": "el zahma el naharda magnoona w 3ard el share3 mosh kafi le kotor el 3arabeyat fel shari3",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "degeneracy": "Repeats 'share3 ... shari3' twice in one sentence.",
+    "fluency": "'le kotor el 3arabeyat' formal; 'share3 ... shari3' redundant."
+   },
+   "b_rejected_on": {}
+  }
+ ]
+}

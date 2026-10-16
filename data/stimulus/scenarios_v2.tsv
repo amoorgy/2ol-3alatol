@@ -1,0 +1,332 @@
+scenario_id	domain	text	status
+0	friends	you just got home after a long day and are texting a friend about it	accepted
+1	errands	you're planning an errand for tomorrow	accepted
+2	daily_life	you're describing something that happened yesterday	accepted
+3	friends	you're asking a friend for help with something	accepted
+4	emotions_complaints	you're complaining about traffic or the weather	accepted
+5	plans_invitations	you're making weekend plans with family	accepted
+6	daily_life	you're reacting to a piece of news you just heard	accepted
+7	daily_life	you're explaining why you're running late	accepted
+8	food_cooking	you're talking about a meal you had recently	accepted
+9	friends	you're catching up with someone you haven't seen in a while	accepted
+10	daily_life	you're giving someone directions or advice	accepted
+11	tv_phones	you're talking about a TV show or match you watched	accepted
+12	daily_life	you're describing your morning routine	accepted
+13	emotions_complaints	you're apologizing for forgetting something	accepted
+14	shopping_prices	you're asking about the price of something at a shop	accepted
+15	work	you're telling someone about a problem at work or school	accepted
+16	family	you're telling your mother you'll be home late and she shouldn't wait for you	accepted
+17	family	you're asking your father to lend you the car for the evening	accepted
+18	family	you're complaining that your sister borrowed your clothes without asking again	accepted
+19	family	you're telling your little brother to finish his homework before he plays	accepted
+20	family	you're asking your grandmother how she's feeling after her operation	accepted
+21	family	you're arguing with your sibling about whose turn it is to wash the dishes	accepted
+22	family	you're reassuring your mother that you ate well while she was away	accepted
+23	family	you're telling your parents a relative is coming to stay with you for a week	accepted
+24	family	you're telling your cousin the whole family is meeting at grandma's house on Friday	accepted
+25	family	you're explaining to your father why you need more pocket money this month	accepted
+26	family	you're complaining that your family always compares you to your older cousin	accepted
+27	family	you're telling your spouse the kids have been fighting all afternoon	accepted
+28	family	you're convincing your parents to let you travel with your friends	accepted
+29	family	you're checking on an elderly uncle who lives alone	accepted
+30	family	you're asking your older brother for advice before a big decision	accepted
+31	friends	you're teasing a friend who shows up late to every outing	accepted
+32	friends	you're asking a friend whether they're still upset with you after yesterday	accepted
+33	friends	you're telling a friend you can't come out tonight because you're exhausted	accepted
+34	friends	you're asking a friend to keep a secret you're about to tell them	accepted
+35	friends	you're comforting a friend who just failed an exam	accepted
+36	friends	you're asking a friend why they've been so quiet lately	accepted
+37	friends	you're telling a friend about a funny thing that happened at the coffee shop	accepted
+38	friends	you're asking a friend's opinion on something you bought yesterday	accepted
+39	friends	you're congratulating a friend who just got engaged and asking how it happened	accepted
+40	friends	you're warning a friend not to trust someone you both know	accepted
+41	friends	you're telling an old friend you still remember your school days together	accepted
+42	friends	you're asking a friend to come along because you don't want to go alone	accepted
+43	friends	you're joking with friends at the coffee shop about who's the worst driver	accepted
+44	friends	you're asking a friend to give back the charger they borrowed last week	accepted
+45	neighbours	you're asking your neighbour to turn down the loud music late at night	accepted
+46	neighbours	you're telling the doorman to keep an eye on your flat while you travel	accepted
+47	neighbours	you're complaining that the neighbours upstairs leak water onto your balcony	accepted
+48	neighbours	you're asking the neighbour's kids to stop playing ball under your window	accepted
+49	neighbours	you're thanking your neighbour for the food she sent over yesterday	accepted
+50	neighbours	you're asking your neighbour if they have a spare key to the roof	accepted
+51	neighbours	you're telling your neighbour someone parked in front of the building gate again	accepted
+52	neighbours	you're collecting money from the neighbours to fix the building's elevator	accepted
+53	neighbours	you're asking the neighbour whether the power cut hit their flat too	accepted
+54	neighbours	you're welcoming a new family that just moved in next door	accepted
+55	neighbours	you're apologizing to your neighbour for the noise during your renovation	accepted
+56	neighbours	you're asking the neighbour to receive a delivery for you while you're out	accepted
+57	neighbours	you're gossiping with a neighbour about the building's new rules	accepted
+58	neighbours	you're telling the neighbour their car alarm has been going off all night	accepted
+59	food_cooking	you're asking your mother how long to leave the food on the stove	accepted
+60	food_cooking	you're complaining that the food you ordered arrived cold and late	accepted
+61	food_cooking	you're deciding with friends where to eat after the cinema	accepted
+62	food_cooking	you're telling someone how you burned lunch while talking on the phone	accepted
+63	food_cooking	you're getting breakfast from the street cart for everyone at the office	accepted
+64	food_cooking	you're asking what's for dinner as soon as you walk in	accepted
+65	food_cooking	you're praising a friend's cooking and asking for seconds	accepted
+66	food_cooking	you're trying to cook a dish for the first time and it's going wrong	accepted
+67	food_cooking	you're complaining that there's nothing in the fridge to eat	accepted
+68	food_cooking	you're arguing with friends about which place makes the best street food	accepted
+69	food_cooking	you're asking your aunt how she makes a dish you loved as a child	accepted
+70	food_cooking	you're telling your family you're trying to eat less sugar this month	accepted
+71	food_cooking	you're ordering food by phone and explaining how to reach your building	accepted
+72	food_cooking	you're asking a friend to bring something to eat on the way over	accepted
+73	food_cooking	you're making tea for unexpected guests and asking how each one takes it	accepted
+74	shopping_prices	you're bargaining with a shopkeeper who's asking too much for a shirt	accepted
+75	shopping_prices	you're complaining that everything at the grocer's costs more than last month	accepted
+76	shopping_prices	you're asking the shop assistant if they have this in a bigger size	accepted
+77	shopping_prices	you're returning something you bought because it broke the next day	accepted
+78	shopping_prices	you're telling a friend about a great deal you found at the market	accepted
+79	shopping_prices	you're asking the fruit seller to pick you the good ones, not the bruised ones	accepted
+80	shopping_prices	you're arguing with a cashier who gave you the wrong change	accepted
+81	shopping_prices	you're asking a friend where they bought the shoes they're wearing	accepted
+82	shopping_prices	you're telling your mother the shop ran out of the cooking oil she wanted	accepted
+83	shopping_prices	you're shopping for school supplies with your kids and they want everything	accepted
+84	shopping_prices	you're asking the shopkeeper to set something aside until you come back with money	accepted
+85	shopping_prices	you're comparing prices between two shops before buying a gift	accepted
+86	shopping_prices	you're asking the butcher to cut the meat the way your mother likes it	accepted
+87	shopping_prices	you're complaining that a shop closed just as you arrived	accepted
+88	shopping_prices	you're asking the salesman whether you can pay for the washing machine in installments	accepted
+89	transport_traffic	you're telling the microbus driver where you want to get off	accepted
+90	transport_traffic	you're looking for a parking spot downtown and circling for half an hour	accepted
+91	transport_traffic	you're arguing with a taxi driver about the fare	accepted
+92	transport_traffic	you're asking someone at the station which metro line goes to your stop	accepted
+93	transport_traffic	you're complaining that the bus was so crowded you couldn't breathe	accepted
+94	transport_traffic	you're asking a friend to pick you up because there are no taxis	accepted
+95	transport_traffic	you're telling your family the road is closed and you're taking another route	accepted
+96	transport_traffic	you're buying a train ticket and asking whether there are seats in first class	accepted
+97	transport_traffic	you're telling a friend you finally got your driving licence	accepted
+98	transport_traffic	you're complaining that someone blocked your car in and you can't leave	accepted
+99	transport_traffic	you're asking the driver to turn on the air conditioning or open a window	accepted
+100	transport_traffic	you're telling your coworker the metro broke down and you're walking the rest	accepted
+101	transport_traffic	you're asking a passer-by how far the nearest petrol station is	accepted
+102	transport_traffic	you're describing a scary moment when a motorbike nearly hit you	accepted
+103	transport_traffic	you're asking a friend whether the metro or a taxi is faster at this hour	accepted
+104	transport_traffic	you're complaining about the new speed bumps on your street	accepted
+105	work	you're asking your manager for a day off next week	accepted
+106	work	you're complaining to a coworker that the boss gave you extra work again	accepted
+107	work	you're telling your family you finally got a raise	accepted
+108	work	you're asking a coworker to cover for you while you leave early	accepted
+109	work	you're telling a friend you're thinking of quitting your job	accepted
+110	work	you're explaining to your manager why the task isn't finished yet	accepted
+111	work	you're telling your mother about your first day at the new job	accepted
+112	work	you're asking a coworker whether they heard anything about the new schedule	accepted
+113	work	you're complaining that the office air conditioning is broken again	accepted
+114	work	you're telling a friend you have a job interview tomorrow and you're nervous	accepted
+115	work	you're telling your coworker you're too tired to stay late tonight	accepted
+116	work	you're telling a friend how your shift at the shop went today	accepted
+117	work	you're asking a friend if their company is hiring	accepted
+118	work	you're telling a coworker the company hasn't paid anyone yet this month	accepted
+119	work	you're training a new colleague and explaining how things work here	accepted
+120	school_university	you're asking a classmate for the notes from the lecture you missed	accepted
+121	school_university	you're telling your mother you did badly on an exam	accepted
+122	school_university	you're complaining that the professor gives too much homework	accepted
+123	school_university	you're asking a friend to study with you the night before the exam	accepted
+124	school_university	you're telling your parents you want to change your major	accepted
+125	school_university	you're asking a classmate which room the exam is in	accepted
+126	school_university	you're telling your friends you finally passed the subject you failed last year	accepted
+127	school_university	you're complaining about how expensive private lessons have become	accepted
+128	school_university	you're asking your teacher to explain a lesson again after class	accepted
+129	school_university	you're telling your little sister how to prepare for her final school exams	accepted
+130	school_university	you're waiting for exam results and can't sleep because you're worried	accepted
+131	school_university	you're asking your friend whether they registered for next term's courses yet	accepted
+132	school_university	you're complaining that your group project partner hasn't done any of his part	accepted
+133	school_university	you're complaining that the university bus left without you this morning	accepted
+134	school_university	you're helping your child with homework that you don't understand either	accepted
+135	health_doctors	you're telling the doctor you've had a headache for three days	accepted
+136	health_doctors	you're asking the pharmacist for something for a sore throat	accepted
+137	health_doctors	you're telling your boss you're sick and won't come in today	accepted
+138	health_doctors	you're asking a friend to recommend a good dentist nearby	accepted
+139	health_doctors	you're complaining about the long wait at the clinic	accepted
+140	health_doctors	you're telling your mother the test results came back fine	accepted
+141	health_doctors	you're reminding your father to take his medicine on time	accepted
+142	health_doctors	you're describing how you twisted your ankle on the stairs	accepted
+143	health_doctors	you're asking the doctor whether you can eat normally with this medicine	accepted
+144	health_doctors	you're telling your family you've decided to finally quit smoking	accepted
+145	health_doctors	you're complaining that you haven't been sleeping well lately	accepted
+146	health_doctors	you're taking your baby for a vaccination and asking the nurse about side effects	accepted
+147	health_doctors	you're telling your family you caught a cold and they shouldn't come close	accepted
+148	health_doctors	you're booking an appointment at the clinic by phone	accepted
+149	health_doctors	you're telling a friend the doctor said you need to rest for a week	accepted
+150	bureaucracy_paperwork	you're complaining about the long queue at the government office	accepted
+151	bureaucracy_paperwork	you're asking the clerk which papers you need to renew your ID card	accepted
+152	bureaucracy_paperwork	you're telling a friend you went three times and the paperwork still isn't done	accepted
+153	bureaucracy_paperwork	you're asking the employee why they need another stamp on the form	accepted
+154	bureaucracy_paperwork	you're telling your father the office closes early today so you should hurry	accepted
+155	bureaucracy_paperwork	you're asking someone in line whether this is the right window	accepted
+156	bureaucracy_paperwork	you're complaining that the system was down and you wasted the whole morning	accepted
+157	bureaucracy_paperwork	you're asking a friend who knows how to get a birth certificate quickly	accepted
+158	bureaucracy_paperwork	you're telling your mother you lost your ID and need to get a new one	accepted
+159	bureaucracy_paperwork	you're asking the clerk to check your file again because your name is misspelled	accepted
+160	bureaucracy_paperwork	you're getting a document certified and asking how many copies you need	accepted
+161	bureaucracy_paperwork	you're explaining to the clerk that you already submitted these documents last week	accepted
+162	bureaucracy_paperwork	you're telling a friend you finally finished all the papers for your passport	accepted
+163	bureaucracy_paperwork	you're asking the security guard at the building which floor the office is on	accepted
+164	bureaucracy_paperwork	you're complaining that every employee sends you to a different window	accepted
+165	housing_repairs	you're calling the plumber because the kitchen sink is leaking again	accepted
+166	housing_repairs	you're telling your landlord the water heater stopped working	accepted
+167	housing_repairs	you're arguing with the landlord about raising the rent	accepted
+168	housing_repairs	you're asking the electrician when he can come to fix the wiring	accepted
+169	housing_repairs	you're complaining that the repairman came late and left a mess	accepted
+170	housing_repairs	you're looking for a flat near your work and asking about the area	accepted
+171	housing_repairs	you're telling your family the painter will finish the walls tomorrow	accepted
+172	housing_repairs	you're asking the doorman to help you carry furniture up the stairs	accepted
+173	housing_repairs	you're complaining that the building has had no water since the morning	accepted
+174	housing_repairs	you're telling a friend you're moving to a new flat next month	accepted
+175	housing_repairs	you're asking the carpenter how much it costs to fix the wardrobe door	accepted
+176	housing_repairs	you're telling your spouse the fridge is making a strange noise	accepted
+177	housing_repairs	you're asking the landlord to fix the broken window before winter	accepted
+178	housing_repairs	you're cleaning the whole house before guests arrive this evening	accepted
+179	housing_repairs	you're complaining that the gas ran out in the middle of cooking lunch	accepted
+180	money	you're asking a friend to lend you some money until the end of the month	accepted
+181	money	you're reminding a friend they still owe you money from last month	accepted
+182	money	you're telling your spouse you both need to spend less this month	accepted
+183	money	you're complaining that your salary is gone before the month even ends	accepted
+184	money	you're saving up for something and telling a friend how it's going	accepted
+185	money	you're splitting the bill with friends and someone didn't pay their share	accepted
+186	money	you're joining a savings circle with coworkers and asking when your turn comes	accepted
+187	money	you're telling your spouse you want to buy gold instead of keeping cash	accepted
+188	money	you're telling a friend you found money in an old jacket pocket	accepted
+189	money	you're arguing with your sibling about who should pay for mother's gift	accepted
+190	money	you're complaining that the cash machine kept your card and the bank is closed	accepted
+191	money	you're telling your mother you bought something expensive and hoping she won't be angry	accepted
+192	money	you're asking a coworker how they manage to save anything with these prices	accepted
+193	money	you're opening your first bank account and asking the teller what you need	accepted
+194	money	you're adding up how much this month's bills will cost you	accepted
+195	weather	you're telling a friend the morning fog was so thick you couldn't see	accepted
+196	weather	you're telling your mother to take a jacket because it's cold tonight	accepted
+197	weather	you're asking whether the dust storm will stop before the weekend	accepted
+198	weather	you're telling a friend the rain flooded your street this morning	accepted
+199	weather	you're hanging laundry and worrying it will rain before it dries	accepted
+200	weather	you're deciding whether to go to the beach given the weather	accepted
+201	weather	you're telling your kids to stay inside because of the dust outside	accepted
+202	weather	you're complaining that winter came suddenly and you have no warm clothes	accepted
+203	weather	you're asking a friend in another city how the weather is there	accepted
+204	weather	you're telling your coworker you got soaked in the rain on the way this morning	accepted
+205	weather	you're saying you can't sleep because the fan barely helps in this heat	accepted
+206	weather	you're warning your family the roads are slippery after the rain	accepted
+207	weather	you're enjoying a nice cool evening on the balcony and texting a friend	accepted
+208	weather	you're complaining that the humidity at the coast is unbearable	accepted
+209	sports_football	you're arguing with a friend about which team deserved to win last night	accepted
+210	sports_football	you're inviting friends to watch the big match at the coffee shop	accepted
+211	sports_football	you're complaining that the referee ruined the whole game	accepted
+212	sports_football	you're telling your father the national team qualified	accepted
+213	sports_football	you're teasing a friend whose team lost badly yesterday	accepted
+214	sports_football	you're organizing a five-a-side football game with friends this weekend	accepted
+215	sports_football	you're telling a friend you joined a gym and your whole body hurts	accepted
+216	sports_football	you're complaining that the match is only on a channel you don't have	accepted
+217	sports_football	you're asking a friend the score because you missed the second half	accepted
+218	sports_football	you're teaching your little brother to ride a bicycle in the street	accepted
+219	sports_football	you're arguing about which player the club should sell before next season	accepted
+220	sports_football	you're asking your son how his first training session at the club went	accepted
+221	sports_football	you're asking a friend whether he can get you a ticket to the stadium	accepted
+222	sports_football	you're convincing a friend to come jogging with you early in the morning	accepted
+223	sports_football	you're complaining that the sports club raised its membership fees	accepted
+224	tv_phones	you're sending your family a voice note because you're too lazy to type	accepted
+225	tv_phones	you're complaining that your phone battery dies before noon	accepted
+226	tv_phones	you're asking a friend to send you the photos from yesterday	accepted
+227	tv_phones	you're complaining that nobody replies in the family group chat	accepted
+228	tv_phones	you're teaching your mother how to make a video call	accepted
+229	tv_phones	you're arguing with your sibling about what to watch tonight	accepted
+230	tv_phones	you're telling a friend you dropped your phone and the screen cracked	accepted
+231	tv_phones	you're asking why a friend has not answered your calls all day	accepted
+232	tv_phones	you're complaining that the internet at home is too slow again	accepted
+233	tv_phones	you're telling a friend about a funny video you saw earlier	accepted
+234	tv_phones	you're asking the repair shop how long fixing your phone will take	accepted
+235	tv_phones	you're telling your father to stop forwarding every message he gets	accepted
+236	tv_phones	you're complaining that the ending of the series you followed was terrible	accepted
+237	tv_phones	you're asking a friend to recommend something to watch this weekend	accepted
+238	tv_phones	you're telling your kids they've had enough screen time for today	accepted
+239	holidays_occasions	you're planning which relatives to visit on the first day of Eid	accepted
+240	holidays_occasions	you're inviting friends to iftar at your place during Ramadan	accepted
+241	holidays_occasions	you're telling your family what you're cooking for the Eid lunch	accepted
+242	holidays_occasions	you're complaining that you have too many iftar invitations this week	accepted
+243	holidays_occasions	you're asking your mother whether you should wake up for suhoor	accepted
+244	holidays_occasions	you're buying new clothes for the kids before Eid	accepted
+245	holidays_occasions	you're planning the summer holiday and everyone in the family wants somewhere different	accepted
+246	holidays_occasions	you're telling your friend the office gave you a long weekend off	accepted
+247	holidays_occasions	you're planning a picnic with the family on the spring holiday	accepted
+248	holidays_occasions	you're asking friends what to bring for someone's birthday gathering	accepted
+249	holidays_occasions	you're telling your kids they can stay up late because tomorrow is a holiday	accepted
+250	holidays_occasions	you're telling a friend the whole street is decorated for Ramadan	accepted
+251	holidays_occasions	you're complaining that the family gathering on Eid lasted all day	accepted
+252	holidays_occasions	you're planning to travel to your hometown for the holiday	accepted
+253	holidays_occasions	you're asking your uncle whether he's coming to the Eid prayer this year	accepted
+254	weddings_funerals	you're asking what to wear to a cousin's wedding next week	accepted
+255	weddings_funerals	you're telling your mother you can't attend the wedding because of work	accepted
+256	weddings_funerals	you're helping a friend prepare the flat before his wedding	accepted
+257	weddings_funerals	you're complaining that the wedding music was so loud you couldn't talk	accepted
+258	weddings_funerals	you're telling a friend about the engagement party you went to yesterday	accepted
+259	weddings_funerals	you're asking your family whether you should go to the funeral in the village	accepted
+260	weddings_funerals	you're telling your friend you'll go with him to the condolence gathering tonight	accepted
+261	weddings_funerals	you're checking on a friend a few days after his father passed away	accepted
+262	weddings_funerals	you're discussing with your family how expensive weddings have become	accepted
+263	weddings_funerals	you're telling your sister the bride looked beautiful at the wedding	accepted
+264	weddings_funerals	you're asking a relative when the henna night for the bride will be	accepted
+265	weddings_funerals	you're telling your coworker you need leave to travel for a relative's funeral	accepted
+266	weddings_funerals	you're complaining that the wedding started three hours late	accepted
+267	weddings_funerals	you're asking your mother what gift is suitable for the newlyweds	accepted
+268	errands	you're dropping the car at the car wash and asking when to come back	accepted
+269	errands	you're telling your mother you paid the electricity bill today	accepted
+270	errands	you're picking up your new glasses from the optician and they feel wrong	accepted
+271	errands	you're asking the ironing man when your clothes will be ready	accepted
+272	errands	you're going to the bank and asking your father if he needs anything done there	accepted
+273	errands	you're asking the locksmith to make a copy of your house key	accepted
+274	errands	you're complaining that you spent the whole day running errands	accepted
+275	errands	you're telling your spouse you'll drop the kids at school tomorrow	accepted
+276	errands	you're asking the pharmacy to deliver your mother's medicine	accepted
+277	errands	you're asking the tailor to shorten a pair of trousers by tomorrow	accepted
+278	errands	you're telling a friend you're stuck waiting at the car mechanic	accepted
+279	errands	you're renewing your phone line at the shop and it's taking forever	accepted
+280	errands	you're sending your son to the kiosk and telling him exactly what to buy	accepted
+281	errands	you're picking up a parcel and the office says it hasn't arrived	accepted
+282	errands	you're asking the barber if he has time for you now	accepted
+283	emotions_complaints	you're telling a friend you've been feeling down for a few days	accepted
+284	emotions_complaints	you're upset that your friends went out together without inviting you	accepted
+285	emotions_complaints	you're embarrassed after sending a message to the wrong person by mistake	accepted
+286	emotions_complaints	you're complaining that nobody at home helps you with anything	accepted
+287	emotions_complaints	you're admitting to a friend that you were wrong and they were right	accepted
+288	emotions_complaints	you're telling your mother you're worried about your younger brother lately	accepted
+289	emotions_complaints	you're saying how bored you are sitting at home all week	accepted
+290	emotions_complaints	you're complaining that someone cut in front of you in line	accepted
+291	emotions_complaints	you're feeling guilty that you haven't called your grandmother in weeks	accepted
+292	emotions_complaints	you're telling your brother you're angry he didn't keep his promise	accepted
+293	emotions_complaints	you're reassuring a friend who is scared before an operation	accepted
+294	emotions_complaints	you're complaining that you've been waiting for an answer for days	accepted
+295	emotions_complaints	you're telling someone how relieved you are that the problem is solved	accepted
+296	emotions_complaints	you're saying you feel homesick after moving to another city	accepted
+297	emotions_complaints	you're complaining that people keep asking when you're getting married	accepted
+298	emotions_complaints	you're sharing how proud you are of your younger sibling	accepted
+299	plans_invitations	you're starting a weekly game night with friends and deciding who hosts first	accepted
+300	plans_invitations	you're suggesting a day trip to the coast with friends	accepted
+301	plans_invitations	you're arranging with your sister to visit a friend who just had a baby	accepted
+302	plans_invitations	you're trying to find a time when everyone in the group is free	accepted
+303	plans_invitations	you're asking your parents if your friends can stay over this weekend	accepted
+304	plans_invitations	you're showing a friend from abroad around the city this weekend	accepted
+305	plans_invitations	you're inviting your coworkers to lunch to celebrate your new job	accepted
+306	plans_invitations	you're asking a friend whether they want to go to the cinema tonight	accepted
+307	plans_invitations	you're turning down an invitation politely because you already have plans	accepted
+308	plans_invitations	you're confirming the time and place you'll meet a friend tomorrow	accepted
+309	plans_invitations	you're organizing a reunion with your old school classmates next month	accepted
+310	plans_invitations	you're asking your cousins to join you on a trip to the countryside	accepted
+311	plans_invitations	you're postponing a visit to your grandparents until next week	accepted
+312	plans_invitations	you're telling friends you'll bring the food if they handle the drinks	accepted
+313	plans_invitations	you're organizing a night out for a friend who's leaving the country	accepted
+314	plans_invitations	you're asking a friend to come walk by the Nile with you this evening	accepted
+315	daily_life	you're sorting through old clothes to give away the ones you never wear	accepted
+316	daily_life	you're describing a strange conversation you overheard on the bus	accepted
+317	daily_life	you're telling your family you locked yourself out of the house	accepted
+318	daily_life	you're explaining why you've been so busy lately	accepted
+319	daily_life	you're describing what your usual Friday looks like	accepted
+320	daily_life	you're asking your family who keeps leaving the lights on in every room	accepted
+321	daily_life	you're complaining that the day passed and you did nothing useful	accepted
+322	daily_life	you're telling someone about a stranger who helped you today	accepted
+323	daily_life	you're telling a friend you've started growing plants on your balcony	accepted
+324	daily_life	you're telling a friend how you spent the evening at home	accepted
+325	daily_life	you're describing a street you used to walk down as a kid	accepted
+326	daily_life	you're telling your mother you found something you lost months ago	accepted
+327	daily_life	you're asking a stranger to watch your things for a minute	accepted
+328	daily_life	you're telling your family a stray cat has been sleeping on the stairs	accepted
+329	daily_life	you're telling someone about a dream you had last night	accepted
+330	daily_life	you're telling a friend you've decided to wake up earlier from now on	accepted

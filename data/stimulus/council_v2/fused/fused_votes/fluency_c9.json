@@ -1,0 +1,524 @@
+[
+ {
+  "sid": "fs_tabe3_08",
+  "rid": "fs_tabe3_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabe3_15",
+  "rid": "fs_tabe3_15",
+  "v": false,
+  "why": "'tabe3 el ta3limat' unnatural; Egyptians say 'etba3/emshi 3ala el ta3limat'"
+ },
+ {
+  "sid": "fs_taqdeem_00",
+  "rid": "fs_taqdeem_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_taqdeem_05",
+  "rid": "fs_taqdeem_05",
+  "v": false,
+  "why": "'no2od' misspelled; 'ye3mel taqdeem lel fekra' is a stiff calque for a family outing"
+ },
+ {
+  "sid": "fs_taqdeem_11",
+  "rid": "fs_taqdeem_11",
+  "v": false,
+  "why": "'taqdeem' of a match unnatural; 'gedan' MSA-ish alongside 'awi'"
+ },
+ {
+  "sid": "fs_taqdeem_07",
+  "rid": "fs_taqdeem_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_taqdom_06",
+  "rid": "fs_taqdom_06",
+  "v": false,
+  "why": "'fel el sou2' doubled article is ungrammatical"
+ },
+ {
+  "sid": "fs_taqdom_00",
+  "rid": "fs_taqdom_00",
+  "v": false,
+  "why": "'el7een' is Gulf, not Egyptian; 'el shoghl 3amel taqdom' calque"
+ },
+ {
+  "sid": "fs_taqdom_15",
+  "rid": "fs_taqdom_15",
+  "v": false,
+  "why": "'m7ta3' misspelling; '3amalet taqdom' calque; I/we mismatch"
+ },
+ {
+  "sid": "fs_taqdom_04",
+  "rid": "fs_taqdom_04",
+  "v": false,
+  "why": "'taqdom' applied to weather is nonsensical collocation"
+ },
+ {
+  "sid": "fs_tareekh_01",
+  "rid": "fs_tareekh_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tareekh_06",
+  "rid": "fs_tareekh_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tareekh_07",
+  "rid": "fs_tareekh_07",
+  "v": false,
+  "why": "Gender clash met2akher/asfa; 'asfa 3la ta5khor' MSA calque"
+ },
+ {
+  "sid": "fs_tareekh_00",
+  "rid": "fs_tareekh_00",
+  "v": false,
+  "why": "'el naharda kan tareekh taweel' meaningless, not Egyptian usage"
+ },
+ {
+  "sid": "fs_tarekhy_12",
+  "rid": "fs_tarekhy_12",
+  "v": false,
+  "why": "'el nashra el tarekhy' gender mismatch and odd collocation"
+ },
+ {
+  "sid": "fs_tarekhy_09",
+  "rid": "fs_tarekhy_09",
+  "v": false,
+  "why": "'etsawwarna el match' odd; 'mn a7lam el 3omr' garbled idiom"
+ },
+ {
+  "sid": "fs_tarekhy_10",
+  "rid": "fs_tarekhy_10",
+  "v": false,
+  "why": "'el share3 el tarekhy' as a direction is unnatural; 'el qahira' MSA-ish"
+ },
+ {
+  "sid": "fs_tarekhy_11",
+  "rid": "fs_tarekhy_11",
+  "v": false,
+  "why": "'msh fadyel moshahdeto tani' is not an Egyptian phrase"
+ },
+ {
+  "sid": "fs_tareeq_04",
+  "rid": "fs_tareeq_04",
+  "v": false,
+  "why": "'el tareeq zafat' and 'el wataseen' are not real Egyptian expressions"
+ },
+ {
+  "sid": "fs_tareeq_13",
+  "rid": "fs_tareeq_13",
+  "v": false,
+  "why": "'kont mashy fi tareeq' unnatural; 'hat3awwedlk 3aleh', 'bekra' off"
+ },
+ {
+  "sid": "fs_tareeq_10",
+  "rid": "fs_tareeq_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tareeq_06",
+  "rid": "fs_tareeq_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tareeqa_03",
+  "rid": "fs_tareeqa_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tareeqa_12",
+  "rid": "fs_tareeqa_12",
+  "v": false,
+  "why": "'btab3 tareeqa sahla' is an English calque ('follow an easy method')"
+ },
+ {
+  "sid": "fs_tareeqa_07",
+  "rid": "fs_tareeqa_07",
+  "v": false,
+  "why": "'el tareeqa kanet za7ma' uses method-word for road; unnatural"
+ },
+ {
+  "sid": "fs_tareeqa_01",
+  "rid": "fs_tareeqa_01",
+  "v": false,
+  "why": "'el mashtara' is not a word; phrasing unnatural"
+ },
+ {
+  "sid": "fs_tatweer_07",
+  "rid": "fs_tatweer_07",
+  "v": false,
+  "why": "'atawwal 3alek' wrong tense for apology; 'ijtima3' non-Egyptian j"
+ },
+ {
+  "sid": "fs_tatweer_10",
+  "rid": "fs_tatweer_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tatweer_04",
+  "rid": "fs_tatweer_04",
+  "v": false,
+  "why": "'mabsotsh tatweer' is ungrammatical gibberish"
+ },
+ {
+  "sid": "fs_tatweer_11",
+  "rid": "fs_tatweer_11",
+  "v": false,
+  "why": "'el tatweer beta3 el 7ekaya' calques English 'plot development'"
+ },
+ {
+  "sid": "fs_tawter_00",
+  "rid": "fs_tawter_00",
+  "v": false,
+  "why": "'3andy tawter keteer' calque; Egyptians say 'metwatter awi'"
+ },
+ {
+  "sid": "fs_tawter_09",
+  "rid": "fs_tawter_09",
+  "v": false,
+  "why": "'el modah el toola de' ungrammatical; should be 'el tawila'"
+ },
+ {
+  "sid": "fs_tawter_05",
+  "rid": "fs_tawter_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tawter_04",
+  "rid": "fs_tawter_04",
+  "v": false,
+  "why": "'3amalo fiya tawter khales' unnatural noun+khales; say 'khallouni metwatter'"
+ },
+ {
+  "sid": "fs_teb2a_13",
+  "rid": "fs_teb2a_13",
+  "v": false,
+  "why": "'el ghalta teb2a 3alaya' forced; 'sam7ni marra tanya' wrong sense"
+ },
+ {
+  "sid": "fs_teb2a_15",
+  "rid": "fs_teb2a_15",
+  "v": false,
+  "why": "'el moshkela teb2a kbera' unnatural; Egyptians just say 'kbira'"
+ },
+ {
+  "sid": "fs_teb2a_04",
+  "rid": "fs_teb2a_04",
+  "v": false,
+  "why": "Habitual needs 'bteb2a'; bare 'teb2a' ungrammatical here"
+ },
+ {
+  "sid": "fs_tbya_00",
+  "rid": "fs_tbya_00",
+  "v": false,
+  "why": "'tbya mo7tag artah' ('medically need rest') unnatural in chat"
+ },
+ {
+  "sid": "fs_tbya_13",
+  "rid": "fs_tbya_13",
+  "v": false,
+  "why": "'nseet el dawa tbya' is nonsensical placement"
+ },
+ {
+  "sid": "fs_tbya_15",
+  "rid": "fs_tbya_15",
+  "v": false,
+  "why": "'enny tbya mish 2ader 2arkez' unnatural, forced adverb"
+ },
+ {
+  "sid": "fs_thani_05",
+  "rid": "fs_thani_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_thani_12",
+  "rid": "fs_thani_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_thani_04",
+  "rid": "fs_thani_04",
+  "v": false,
+  "why": "'mohika', 'mafish tadbeer b2a' are not natural Egyptian"
+ },
+ {
+  "sid": "fs_thani_09",
+  "rid": "fs_thani_09",
+  "v": false,
+  "why": "'el kahwa ba3reeda' nonsense; 'we ne7na netkallem' awkward"
+ },
+ {
+  "sid": "fs_thanya_04",
+  "rid": "fs_thanya_04",
+  "v": false,
+  "why": "'changanat', 'msh bayn el sabt' are gibberish"
+ },
+ {
+  "sid": "fs_thanya_03",
+  "rid": "fs_thanya_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_thanya_06",
+  "rid": "fs_thanya_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_thanya_15",
+  "rid": "fs_thanya_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa2t_11",
+  "rid": "fs_wa2t_11",
+  "v": false,
+  "why": "'el wa2t 3ada ser3a' ungrammatical calque"
+ },
+ {
+  "sid": "fs_wa2t_07",
+  "rid": "fs_wa2t_07",
+  "v": false,
+  "why": "'wa2t el taree2 kolo ra7' and 'el za7ma kanet keteer' unnatural"
+ },
+ {
+  "sid": "fs_wa2t_01",
+  "rid": "fs_wa2t_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa2t_08",
+  "rid": "fs_wa2t_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_15",
+  "rid": "fs_ta2a_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_08",
+  "rid": "fs_ta2a_08",
+  "v": false,
+  "why": "'3atetny ta2a' non-Egyptian; Egyptians say 'eddetni'"
+ },
+ {
+  "sid": "fs_ta2a_09",
+  "rid": "fs_ta2a_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa3y_14",
+  "rid": "fs_wa3y_14",
+  "v": false,
+  "why": "'ana msh wa3y be se3r' calques English 'not aware of'"
+ },
+ {
+  "sid": "fs_wa3y_12",
+  "rid": "fs_wa3y_12",
+  "v": false,
+  "why": "'wa3y yerga3 leya' unnatural; missing possessive, Egyptians say 'afou2'"
+ },
+ {
+  "sid": "fs_wa3y_10",
+  "rid": "fs_wa3y_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa3y_05",
+  "rid": "fs_wa3y_05",
+  "v": false,
+  "why": "Contains meta text 'no wait:'; not a chat sentence"
+ },
+ {
+  "sid": "fs_awy_14",
+  "rid": "fs_awy_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awy_04",
+  "rid": "fs_awy_04",
+  "v": false,
+  "why": "'awy' misplaced after '3al shari3'; ungrammatical"
+ },
+ {
+  "sid": "fs_awy_09",
+  "rid": "fs_awy_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_awy_13",
+  "rid": "fs_awy_13",
+  "v": false,
+  "why": "'el maw2ed' misspelled; '3ala ma2sudi' unnatural"
+ },
+ {
+  "sid": "fs_wazeer_11",
+  "rid": "fs_wazeer_11",
+  "v": false,
+  "why": "'el wazeer eli beydir el kora 3amal mashagheer' nonsensical"
+ },
+ {
+  "sid": "fs_wazeer_09",
+  "rid": "fs_wazeer_09",
+  "v": false,
+  "why": "'ba2t wazeer' wrong conjugation; should be 'ba2eet'"
+ },
+ {
+  "sid": "fs_wazeer_12",
+  "rid": "fs_wazeer_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wazeer_00",
+  "rid": "fs_wazeer_00",
+  "v": false,
+  "why": "'el yom kan ta3ban' and 'zay shoghl wazeer' unnatural"
+ },
+ {
+  "sid": "fs_wazeera_15",
+  "rid": "fs_wazeera_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wazeera_08",
+  "rid": "fs_wazeera_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wazeera_12",
+  "rid": "fs_wazeera_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wazeera_03",
+  "rid": "fs_wazeera_03",
+  "v": false,
+  "why": "'law sama7tek feeha haga zawera' is gibberish"
+ },
+ {
+  "sid": "fs_welly_02",
+  "rid": "fs_welly_02",
+  "v": false,
+  "why": "'el ragel welly' misuses 'w+elly' as bare relative; 'ganeyet' nonsense"
+ },
+ {
+  "sid": "fs_welly_01",
+  "rid": "fs_welly_01",
+  "v": false,
+  "why": "'el dokkan welly' misuses 'w+elly' as bare relative"
+ },
+ {
+  "sid": "fs_welly_12",
+  "rid": "fs_welly_12",
+  "v": false,
+  "why": "'el 2ahwa welly' misuses 'w+elly' as bare relative"
+ },
+ {
+  "sid": "fs_welly_14",
+  "rid": "fs_welly_14",
+  "v": false,
+  "why": "'el 7aga welly' misuses 'w+elly'; 'el 7aga ... da' gender error"
+ },
+ {
+  "sid": "fs_welaya_09",
+  "rid": "fs_welaya_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_welaya_13",
+  "rid": "fs_welaya_13",
+  "v": false,
+  "why": "'el maw3ad ma3 el welaya' nonsensical; 'asf 3al t2kher' MSA"
+ },
+ {
+  "sid": "fs_welaya_12",
+  "rid": "fs_welaya_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_welaya_04",
+  "rid": "fs_welaya_04",
+  "v": false,
+  "why": "'welaya el qahira' wrong; Cairo is a mo7afza; redundant traffic"
+ },
+ {
+  "sid": "fs_wlady_07",
+  "rid": "fs_wlady_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wlady_04",
+  "rid": "fs_wlady_04",
+  "v": false,
+  "why": "'el zahma keteer awi' unnatural; 'newsaloo' garbled"
+ },
+ {
+  "sid": "fs_wlady_03",
+  "rid": "fs_wlady_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wlady_09",
+  "rid": "fs_wlady_09",
+  "v": false,
+  "why": "'ba2eto gamed' wrong conjugation; last clause garbled"
+ },
+ {
+  "sid": "fs_welada_00",
+  "rid": "fs_welada_00",
+  "v": false,
+  "why": "Construct needs 'weladet'; fem 'a7kilek' clashes with 'ya sa7bi'"
+ },
+ {
+  "sid": "fs_welada_11",
+  "rid": "fs_welada_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_welada_05",
+  "rid": "fs_welada_05",
+  "v": false,
+  "why": "'3andena welada ... ne7tfel bi akel w le3eb' calque; Egyptians say 'sebou3'"
+ },
+ {
+  "sid": "fs_welada_09",
+  "rid": "fs_welada_09",
+  "v": true,
+  "why": ""
+ }
+]

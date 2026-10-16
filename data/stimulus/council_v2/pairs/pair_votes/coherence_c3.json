@@ -1,0 +1,1802 @@
+[
+{
+"sid": "3almaneya->almaneya",
+"rid": "3almaneya->almaneya",
+"v": false,
+"why": "'almaneya' reads as German (ألمانية): 'al7an almaneya', 'nse7a almaneya' become German melodies/copy."
+},
+{
+"sid": "3almani->aalmane",
+"rid": "3almani->aalmane",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almani->aalmani",
+"rid": "3almani->aalmani",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almani->aalmany",
+"rid": "3almani->aalmany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almani->almani",
+"rid": "3almani->almani",
+"v": false,
+"why": "'almani' reads as German (ألماني): 'mogtama3 almani geda' becomes a very German society."
+},
+{
+"sid": "3almet->aalmeet",
+"rid": "3almet->aalmeet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almet->aalmet",
+"rid": "3almet->aalmet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almet->aalmit",
+"rid": "3almet->aalmit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almet->almet",
+"rid": "3almet->almet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almey->3almi",
+"rid": "3almey->3almi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almey->aalmei",
+"rid": "3almey->aalmei",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almey->aalmey",
+"rid": "3almey->aalmey",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almey->aalmiy",
+"rid": "3almey->aalmiy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almeya->aalmeya",
+"rid": "3almeya->aalmeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almeya->aalmiya",
+"rid": "3almeya->aalmiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almeya->almeya",
+"rid": "3almeya->almeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almia->3alma",
+"rid": "3almia->3alma",
+"v": false,
+"why": "'3alma' is عالمة/علامة, not global: 'el 7arb el 3alma el tanya' breaks World War II."
+},
+{
+"sid": "3almia->aalmia",
+"rid": "3almia->aalmia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almia->almia",
+"rid": "3almia->almia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almna->aalmna",
+"rid": "3almna->aalmna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almna->almna",
+"rid": "3almna->almna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almy->aalmy",
+"rid": "3almy->aalmy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almy->almy",
+"rid": "3almy->almy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almya->aalmya",
+"rid": "3almya->aalmya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almya->aalmyah",
+"rid": "3almya->aalmyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almya->almya",
+"rid": "3almya->almya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almyan->aalmyan",
+"rid": "3almyan->aalmyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3almyan->almyan",
+"rid": "3almyan->almyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alra3m->aalra3m",
+"rid": "3alra3m->aalra3m",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alra3m->alra3m",
+"rid": "3alra3m->alra3m",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragm->aalraagm",
+"rid": "3alragm->aalraagm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragm->aalragm",
+"rid": "3alragm->aalragm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragm->alragm",
+"rid": "3alragm->alragm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragmn->aalraagmn",
+"rid": "3alragmn->aalraagmn",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragmn->aalragmn",
+"rid": "3alragmn->aalragmn",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alragmn->alragmn",
+"rid": "3alragmn->alragmn",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alya->aalya",
+"rid": "3alya->aalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alya->aalyaa",
+"rid": "3alya->aalyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3alya->alya",
+"rid": "3alya->alya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am->aaam",
+"rid": "3am->aaam",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am->aam",
+"rid": "3am->aam",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am->am",
+"rid": "3am->am",
+"v": false,
+"why": "'am' reads as أم or English 'am'; 'bshakl am' loses 'generally'."
+},
+{
+"sid": "3am2->aam2",
+"rid": "3am2->aam2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am2->am2",
+"rid": "3am2->am2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am2a->aam2a",
+"rid": "3am2a->aam2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am2a->aam2aa",
+"rid": "3am2a->aam2aa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3am2a->am2a",
+"rid": "3am2a->am2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama->aama",
+"rid": "3ama->aama",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama->aamaa",
+"rid": "3ama->aamaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama->aamah",
+"rid": "3ama->aamah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama->ama",
+"rid": "3ama->ama",
+"v": false,
+"why": "'ama' reads as أما/أمة: 'el gam3eya el ama' blurs General Assembly."
+},
+{
+"sid": "3ama2->aama2",
+"rid": "3ama2->aama2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama2->aamaa2",
+"rid": "3ama2->aamaa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ama2->ama2",
+"rid": "3ama2->ama2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaan->aamaan",
+"rid": "3amaan->aamaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaan->aaman",
+"rid": "3amaan->aaman",
+"v": false,
+"why": "'aaman' reads as آمن/أمان (safely): 'bettwgod aaman 7waly elft7at' changes 'generally' to 'safely'."
+},
+{
+"sid": "3amaan->amaan",
+"rid": "3amaan->amaan",
+"v": false,
+"why": "'amaan' is أمان: 'elly amaan betetakal' reads 'safely eaten', not 'generally eaten'."
+},
+{
+"sid": "3amad->aamad",
+"rid": "3amad->aamad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amad->amad",
+"rid": "3amad->amad",
+"v": false,
+"why": "'amad' reads as أمد (term): 'b-bot2 w-amad', '3eed el-amad' lose deliberately/baptism."
+},
+{
+"sid": "3amal->aamaal",
+"rid": "3amal->aamaal",
+"v": false,
+"why": "'aamaal' is آمال (hopes): 'el aamaal da mesh sahl' reads 'these hopes aren't easy'."
+},
+{
+"sid": "3amal->aamal",
+"rid": "3amal->aamal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amal->amal",
+"rid": "3amal->amal",
+"v": false,
+"why": "'amal' is أمل (hope): 'lel amal aw el3omra', 'el se3r beta3 el amal' break."
+},
+{
+"sid": "3amal2a->aamal2a",
+"rid": "3amal2a->aamal2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amal2a->aamal2aa",
+"rid": "3amal2a->aamal2aa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amal2a->amal2a",
+"rid": "3amal2a->amal2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amala->aamala",
+"rid": "3amala->aamala",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amala->amala",
+"rid": "3amala->amala",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalak->aamalak",
+"rid": "3amalak->aamalak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalak->amalak",
+"rid": "3amalak->amalak",
+"v": false,
+"why": "'amalak' reads as أملك (your hope): 'law kan amalak el asasy kways' fits wrongly."
+},
+{
+"sid": "3amalat->aamalaat",
+"rid": "3amalat->aamalaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalat->aamalat",
+"rid": "3amalat->aamalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalat->amalat",
+"rid": "3amalat->amalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleat->3amalaat",
+"rid": "3amaleat->3amalaat",
+"v": false,
+"why": "'3amalaat' is عملات (currencies), not عمليات (operations): 'el-ada betasal 3amalaat el-takhteet' breaks."
+},
+{
+"sid": "3amaleat->3amalat",
+"rid": "3amaleat->3amalat",
+"v": false,
+"why": "'3amalat' is عملات (currencies), not عمليات (operations): '3amalat le entaag akl' breaks."
+},
+{
+"sid": "3amaleat->aamalat",
+"rid": "3amaleat->aamalat",
+"v": false,
+"why": "'aamalat' reads عملات (currencies), not عمليات (operations): 'aw aamalat t3deen' blurs."
+},
+{
+"sid": "3amaleat->aamaleat",
+"rid": "3amaleat->aamaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleat->amaleat",
+"rid": "3amaleat->amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleen->aamaleen",
+"rid": "3amaleen->aamaleen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleen->aamalein",
+"rid": "3amaleen->aamalein",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleen->aamalen",
+"rid": "3amaleen->aamalen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleen->amaleen",
+"rid": "3amaleen->amaleen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleeyat->aamaleyat",
+"rid": "3amaleeyat->aamaleyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleeyat->amaleeyat",
+"rid": "3amaleeyat->amaleeyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleiat->3amaleat",
+"rid": "3amaleiat->3amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleiat->3amaliat",
+"rid": "3amaleiat->3amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleiat->aamaleiat",
+"rid": "3amaleiat->aamaleiat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleiat->aamaliat",
+"rid": "3amaleiat->aamaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleiat->amaleiat",
+"rid": "3amaleiat->amaleiat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalet->aamalet",
+"rid": "3amalet->aamalet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalet->aamalit",
+"rid": "3amalet->aamalit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalet->amalet",
+"rid": "3amalet->amalet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaleyat->aamaleyat",
+"rid": "3amaleyat->aamaleyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalha->aamalha",
+"rid": "3amalha->aamalha",
+"v": false,
+"why": "'aamalha' reads آمالها (her hopes): '7aset en aamalha felbadyet by3akes' fits wrongly."
+},
+{
+"sid": "3amalha->amalha",
+"rid": "3amalha->amalha",
+"v": false,
+"why": "'amalha' reads أملها (her hope): 'ala amalha el ensan', 'magal amalha' break."
+},
+{
+"sid": "3amalhom->aamalhom",
+"rid": "3amalhom->aamalhom",
+"v": false,
+"why": "'aamalhom' reads آمالهم (their hopes): 'da3m aamalhom' becomes 'support their hopes'."
+},
+{
+"sid": "3amalhom->aamalhoom",
+"rid": "3amalhom->aamalhoom",
+"v": false,
+"why": "'aamalhoom' reads آمالهم (their hopes): 'moraja3a aamalhoom' becomes 'reviewing their hopes'."
+},
+{
+"sid": "3amalhom->aamalhum",
+"rid": "3amalhom->aamalhum",
+"v": false,
+"why": "'aamalhum' reads آمالهم (their hopes): 'fe makan aamalhum' becomes 'place of their hopes'."
+},
+{
+"sid": "3amalhom->amalhom",
+"rid": "3amalhom->amalhom",
+"v": false,
+"why": "'amalhom' reads أملهم (their hope): 'estemaroo fe amalhom el3elmi' becomes 'their scientific hope'."
+},
+{
+"sid": "3amali->aamale",
+"rid": "3amali->aamale",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amali->aamali",
+"rid": "3amali->aamali",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amali->aamaly",
+"rid": "3amali->aamaly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalia->3amalah",
+"rid": "3amalia->3amalah",
+"v": false,
+"why": "'3amalah' is عمالة/عملة (labor/currency), not عملية (practical): 'kors moharat 3amalah' changes meaning."
+},
+{
+"sid": "3amalia->aamalia",
+"rid": "3amalia->aamalia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalia->aamaliah",
+"rid": "3amalia->aamaliah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalia->amalia",
+"rid": "3amalia->amalia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliat->3amalat",
+"rid": "3amaliat->3amalat",
+"v": false,
+"why": "'3amalat' is عملات (currencies), not عمليات (processes): '3amalat el ezala' breaks."
+},
+{
+"sid": "3amaliat->amaliat",
+"rid": "3amaliat->amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliet->3amaleet",
+"rid": "3amaliet->3amaleet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliet->3amalet",
+"rid": "3amaliet->3amalet",
+"v": false,
+"why": "'3amalet' reads عملة/عملت (currency/did): '5at el-entaaj: 3amalet tasne3' breaks 'process'."
+},
+{
+"sid": "3amaliet->3amalit",
+"rid": "3amaliet->3amalit",
+"v": false,
+"why": "'3amalit' reads عملت (she did): '3amalit el-rab6' and 'el 3amalit dee' break 'process'."
+},
+{
+"sid": "3amaliet->aamaliet",
+"rid": "3amaliet->aamaliet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliya->aamaleya",
+"rid": "3amaliya->aamaleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliya->aamaliya",
+"rid": "3amaliya->aamaliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliya->amaliya",
+"rid": "3amaliya->amaliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyat->aamaleyat",
+"rid": "3amaliyat->aamaleyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyat->aamaliyaat",
+"rid": "3amaliyat->aamaliyaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyat->aamaliyat",
+"rid": "3amaliyat->aamaliyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyat->aamalyat",
+"rid": "3amaliyat->aamalyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyat->amaliyat",
+"rid": "3amaliyat->amaliyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyet->aamaleyet",
+"rid": "3amaliyet->aamaleyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyet->aamaliyeet",
+"rid": "3amaliyet->aamaliyeet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyet->aamaliyit",
+"rid": "3amaliyet->aamaliyit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaliyet->aamalyet",
+"rid": "3amaliyet->aamalyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalna->aamalna",
+"rid": "3amalna->aamalna",
+"v": false,
+"why": "'aamalna' reads آمالنا (our hopes): 'asas aamalna ma3 talabena' fits wrongly."
+},
+{
+"sid": "3amalna->aamalnaa",
+"rid": "3amalna->aamalnaa",
+"v": false,
+"why": "'aamalnaa' reads آمالنا (our hopes): 'Neftekker aamalnaa keda' becomes 'remember our hopes'."
+},
+{
+"sid": "3amalna->amalna",
+"rid": "3amalna->amalna",
+"v": false,
+"why": "'amalna' reads أملنا (our hope): 'asas amalna', 'kan amalna khadema' change meaning."
+},
+{
+"sid": "3amalo->aamalo",
+"rid": "3amalo->aamalo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalo->aamaloo",
+"rid": "3amalo->aamaloo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalo->aamalu",
+"rid": "3amalo->aamalu",
+"v": false,
+"why": "'aamalu' reads آماله (his hopes): 'bada aamalu El syasy' becomes 'his political hopes began'."
+},
+{
+"sid": "3amalo->amalo",
+"rid": "3amalo->amalo",
+"v": false,
+"why": "'amalo' reads أمله (his hope): 'momken yekon amalo aktr' becomes 'his hope may be more'."
+},
+{
+"sid": "3amaloh->aamaloh",
+"rid": "3amaloh->aamaloh",
+"v": false,
+"why": "'aamaloh' reads آماله (his hopes): 'shar aamaloh', 'tadreeb aamaloh' blur deeds/workers."
+},
+{
+"sid": "3amaloh->aamaluh",
+"rid": "3amaloh->aamaluh",
+"v": false,
+"why": "'aamaluh' reads آماله (his hopes): '2asra aamaluh 3ala 7ayat' blurs."
+},
+{
+"sid": "3amaloh->amaloh",
+"rid": "3amaloh->amaloh",
+"v": false,
+"why": "'amaloh' reads أمله (his hope): 'et3ebaret amaloh el fanni' becomes 'his artistic hope'."
+},
+{
+"sid": "3amalt->aamaalt",
+"rid": "3amalt->aamaalt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalt->aamalt",
+"rid": "3amalt->aamalt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalt->amalt",
+"rid": "3amalt->amalt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalto->aamalto",
+"rid": "3amalto->aamalto",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalto->aamaltu",
+"rid": "3amalto->aamaltu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalto->amalto",
+"rid": "3amalto->amalto",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaly->aamaly",
+"rid": "3amaly->aamaly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amaly->amaly",
+"rid": "3amaly->amaly",
+"v": false,
+"why": "'amaly' reads أملي (my hope): 'dah ragel amaly' becomes 'the man of my hopes'."
+},
+{
+"sid": "3amalya->aamalya",
+"rid": "3amalya->aamalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalya->aamalyaa",
+"rid": "3amalya->aamalyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalya->amalya",
+"rid": "3amalya->amalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalyat->aamalyaat",
+"rid": "3amalyat->aamalyaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalyat->aamalyat",
+"rid": "3amalyat->aamalyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amalyat->amalyat",
+"rid": "3amalyat->amalyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aman->aamaan",
+"rid": "3aman->aamaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aman->aaman",
+"rid": "3aman->aaman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aman->aman",
+"rid": "3aman->aman",
+"v": false,
+"why": "'aman' is أمان (safety): '2emet aman sana 2001' reads 'security summit', not Amman."
+},
+{
+"sid": "3amar->aamaar",
+"rid": "3amar->aamaar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amar->aamar",
+"rid": "3amar->aamar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amar->amar",
+"rid": "3amar->amar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amda->aamda",
+"rid": "3amda->aamda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amda->amda",
+"rid": "3amda->amda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amdan->aamdaan",
+"rid": "3amdan->aamdaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amdan->aamdan",
+"rid": "3amdan->aamdan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amdan->amdan",
+"rid": "3amdan->amdan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame->aame",
+"rid": "3ame->aame",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame->aami",
+"rid": "3ame->aami",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame->ame",
+"rid": "3ame->ame",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2->aame2",
+"rid": "3ame2->aame2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2->aamee2",
+"rid": "3ame2->aamee2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2->aami2",
+"rid": "3ame2->aami2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2->ame2",
+"rid": "3ame2->ame2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2a->aam2a",
+"rid": "3ame2a->aam2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2a->aame2a",
+"rid": "3ame2a->aame2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2a->aame2aa",
+"rid": "3ame2a->aame2aa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2a->aami2a",
+"rid": "3ame2a->aami2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ame2a->ame2a",
+"rid": "3ame2a->ame2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amee->aame",
+"rid": "3amee->aame",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amee->aamee",
+"rid": "3amee->aamee",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amee->aamei",
+"rid": "3amee->aamei",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameed->aameed",
+"rid": "3ameed->aameed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameed->ameed",
+"rid": "3ameed->ameed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeda->aameda",
+"rid": "3ameeda->aameda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeda->aameeda",
+"rid": "3ameeda->aameeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeda->ameeda",
+"rid": "3ameeda->ameeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameek->aameek",
+"rid": "3ameek->aameek",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameek->aameik",
+"rid": "3ameek->aameik",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameek->aamek",
+"rid": "3ameek->aamek",
+"v": false,
+"why": "'aamek' reads عمك (your uncle): 'gar7 aamek', '6aba2 aamek' change 'deep' to 'your uncle'."
+},
+{
+"sid": "3ameek->ameek",
+"rid": "3ameek->ameek",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeka->aameeka",
+"rid": "3ameeka->aameeka",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeka->ameeka",
+"rid": "3ameeka->ameeka",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameel->aameil",
+"rid": "3ameel->aameil",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameel->aamel",
+"rid": "3ameel->aamel",
+"v": false,
+"why": "'aamel' is عامل (worker), not عميل (client): 'mdeer aw aamel aw zmyl' changes meaning."
+},
+{
+"sid": "3ameen->aameen",
+"rid": "3ameen->aameen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameen->aamen",
+"rid": "3ameen->aamen",
+"v": false,
+"why": "'aamen' reads آمن (safe): 'e3adet el tadoor el aamen' becomes 'safe recycling'."
+},
+{
+"sid": "3ameen->ameen",
+"rid": "3ameen->ameen",
+"v": false,
+"why": "'ameen' reads أمين (trustworthy/Amin): '2 no3een ameen' becomes 'two trustworthy types'."
+},
+{
+"sid": "3ameeq->aameeq",
+"rid": "3ameeq->aameeq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeq->aameq",
+"rid": "3ameeq->aameq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameeq->ameeq",
+"rid": "3ameeq->ameeq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameka->aameka",
+"rid": "3ameka->aameka",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameka->aamka",
+"rid": "3ameka->aamka",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameka->ameka",
+"rid": "3ameka->ameka",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amela->aamela",
+"rid": "3amela->aamela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amela->aamila",
+"rid": "3amela->aamila",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amela->amela",
+"rid": "3amela->amela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelet->amelet",
+"rid": "3amelet->amelet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameleya->ameleya",
+"rid": "3ameleya->ameleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameleyat->aameleyat",
+"rid": "3ameleyat->aameleyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameleyat->aameliyat",
+"rid": "3ameleyat->aameliyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelha->aamelha",
+"rid": "3amelha->aamelha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelha->aamelhaa",
+"rid": "3amelha->aamelhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelha->aamilha",
+"rid": "3amelha->aamilha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelin->aamelen",
+"rid": "3amelin->aamelen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelin->aameln",
+"rid": "3amelin->aameln",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelin->aamlin",
+"rid": "3amelin->aamlin",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelin->amelin",
+"rid": "3amelin->amelin",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnah->aamelnaah",
+"rid": "3amelnah->aamelnaah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnah->aamelnah",
+"rid": "3amelnah->aamelnah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnah->amelnah",
+"rid": "3amelnah->amelnah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnaha->aamelnaha",
+"rid": "3amelnaha->aamelnaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnaha->aamilnaha",
+"rid": "3amelnaha->aamilnaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelnaha->amelnaha",
+"rid": "3amelnaha->amelnaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelo->aamelo",
+"rid": "3amelo->aamelo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelt->aamilt",
+"rid": "3amelt->aamilt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelt->amelt",
+"rid": "3amelt->amelt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameltaha->aameltaha",
+"rid": "3ameltaha->aameltaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameltaha->aameltahaa",
+"rid": "3ameltaha->aameltahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameltaha->aamiltaha",
+"rid": "3ameltaha->aamiltaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameltaha->ameltaha",
+"rid": "3ameltaha->ameltaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelya->aamelya",
+"rid": "3amelya->aamelya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelya->aamelyaa",
+"rid": "3amelya->aamelyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelya->aamelyah",
+"rid": "3amelya->aamelyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelya->aamilya",
+"rid": "3amelya->aamilya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelya->amelya",
+"rid": "3amelya->amelya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyat->aamelyat",
+"rid": "3amelyat->aamelyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyat->aamilyat",
+"rid": "3amelyat->aamilyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyat->amelyat",
+"rid": "3amelyat->amelyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyet->aamelyet",
+"rid": "3amelyet->aamelyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyet->aamilyet",
+"rid": "3amelyet->aamilyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amelyet->amelyet",
+"rid": "3amelyet->amelyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameq->aameq",
+"rid": "3ameq->aameq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameq->aamiq",
+"rid": "3ameq->aamiq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameq->aamq",
+"rid": "3ameq->aamq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameq->ameq",
+"rid": "3ameq->ameq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameqa->aameqa",
+"rid": "3ameqa->aameqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameqa->aamqa",
+"rid": "3ameqa->aamqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameqa->ameqa",
+"rid": "3ameqa->ameqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amer->aamer",
+"rid": "3amer->aamer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amer->aamir",
+"rid": "3amer->aamir",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amer->aamr",
+"rid": "3amer->aamr",
+"v": false,
+"why": "'aamr' reads عمرو (Amr), a different name: 'Ayten aamr', 'sherif aamr' change the person."
+},
+{
+"sid": "3amer->amer",
+"rid": "3amer->amer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameya->aameya",
+"rid": "3ameya->aameya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameya->aamya",
+"rid": "3ameya->aamya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ameya->ameya",
+"rid": "3ameya->ameya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amha->aamha",
+"rid": "3amha->aamha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amha->aamhaa",
+"rid": "3amha->aamhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amha->amha",
+"rid": "3amha->amha",
+"v": false,
+"why": "'amha' reads أمها (her mother): 'ebn amha' becomes her brother, 'w amha' her mother."
+},
+{
+"sid": "3ami->aame",
+"rid": "3ami->aame",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ami->aamy",
+"rid": "3ami->aamy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ami->ami",
+"rid": "3ami->ami",
+"v": false,
+"why": "'ami' reads أمي (my mother): 'wallah ya ami' changes 'man/uncle' to 'mother'."
+},
+{
+"sid": "3amid->aamed",
+"rid": "3amid->aamed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amid->aamid",
+"rid": "3amid->aamid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amid->amid",
+"rid": "3amid->amid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amil->aamel",
+"rid": "3amil->aamel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amil->aamil",
+"rid": "3amil->aamil",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amil->amil",
+"rid": "3amil->amil",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amk->aamk",
+"rid": "3amk->aamk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amk->amk",
+"rid": "3amk->amk",
+"v": false,
+"why": "'amk' reads أمك (your mother): 'ttgawwez bent amk' becomes marrying your sister."
+},
+{
+"sid": "3aml->aaml",
+"rid": "3aml->aaml",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aml->aml",
+"rid": "3aml->aml",
+"v": false,
+"why": "'aml' reads أمل (hope): 'fursa aml aktar' becomes 'more hope opportunity'."
+},
+{
+"sid": "3amla->aamla",
+"rid": "3amla->aamla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amla->amla",
+"rid": "3amla->amla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amla2a->aamla2a",
+"rid": "3amla2a->aamla2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amla2a->aamla2aa",
+"rid": "3amla2a->aamla2aa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amla2a->amla2a",
+"rid": "3amla2a->amla2a",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaha->aamlaha",
+"rid": "3amlaha->aamlaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaha->amlaha",
+"rid": "3amlaha->amlaha",
+"v": false,
+"why": "'amlaha' reads أملاها (dictated it): 'tjarob amlaha ba7ethen' blurs 'conducted by'."
+},
+{
+"sid": "3amlaq->aamlaaq",
+"rid": "3amlaq->aamlaaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaq->aamlaq",
+"rid": "3amlaq->aamlaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaq->amlaq",
+"rid": "3amlaq->amlaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaqa->aamlaqa",
+"rid": "3amlaqa->aamlaqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaqa->aamlaqaa",
+"rid": "3amlaqa->aamlaqaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaqa->amlaqa",
+"rid": "3amlaqa->amlaqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlat->aamlat",
+"rid": "3amlat->aamlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlat->amlat",
+"rid": "3amlat->amlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaw->aamlaw",
+"rid": "3amlaw->aamlaw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlaw->amlaw",
+"rid": "3amlaw->amlaw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleen->aamleen",
+"rid": "3amleen->aamleen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleen->aamlen",
+"rid": "3amleen->aamlen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleen->amleen",
+"rid": "3amleen->amleen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleenha->aamleenha",
+"rid": "3amleenha->aamleenha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleenha->aamlenha",
+"rid": "3amleenha->aamlenha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleeyet->aamleeyit",
+"rid": "3amleeyet->aamleeyit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleia->3amlea",
+"rid": "3amleia->3amlea",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleia->3amlia",
+"rid": "3amleia->3amlia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleia->aamlea",
+"rid": "3amleia->aamlea",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleia->aamlia",
+"rid": "3amleia->aamlia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->3amleaat",
+"rid": "3amleiat->3amleaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->3amleat",
+"rid": "3amleiat->3amleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->3amliaat",
+"rid": "3amleiat->3amliaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->3amliat",
+"rid": "3amleiat->3amliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->aamleiaat",
+"rid": "3amleiat->aamleiaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amleiat->aamliat",
+"rid": "3amleiat->aamliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlet->aamlet",
+"rid": "3amlet->aamlet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amlet->aamlit",
+"rid": "3amlet->aamlit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amletaha->aamletaha",
+"rid": "3amletaha->aamletaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3amletaha->aamlitaha",
+"rid": "3amletaha->aamlitaha",
+"v": true,
+"why": ""
+}
+]

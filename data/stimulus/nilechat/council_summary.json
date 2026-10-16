@@ -1,0 +1,59 @@
+{
+ "pass2_variants": {
+  "n": 1899,
+  "invalid": 107,
+  "fleiss_kappa": 0.2866,
+  "lenses": [
+   "identity",
+   "plausibility",
+   "skeptic"
+  ]
+ },
+ "pass3_traps": {
+  "n": 418,
+  "confirmed_traps": 314,
+  "fleiss_kappa": 0.875,
+  "lenses": [
+   "frequency",
+   "morphology",
+   "orthography",
+   "semantics",
+   "skeptic"
+  ],
+  "min_agree": 4
+ },
+ "training_a": {
+  "n": 5700,
+  "rejected": 1071,
+  "fleiss_kappa": 0.3933,
+  "lenses": [
+   "coherence",
+   "identity",
+   "plausibility",
+   "register",
+   "skeptic"
+  ],
+  "min_agree": 4,
+  "panel": {
+   "opus_xhigh_chunks": "0-13 (+register_c14)",
+   "sonnet_high_chunks": "14-17 (c14 mixed: 1 opus + 4 sonnet)",
+   "stopped_early_at_user_request": "chunks 18 partial (2/5), 19-29 unjudged",
+   "note": "mixed panel across chunks; panels homogeneous within each row except chunk 14; per-cohort reject rates recorded here",
+   "reject_rate_opus": 0.1764,
+   "reject_rate_sonnet": 0.025
+  }
+ },
+ "fusion_v2": {
+  "n": 1122,
+  "rejected": 415,
+  "fleiss_kappa": 0.121,
+  "lenses": [
+   "anchor",
+   "coherence",
+   "degeneracy",
+   "fluency",
+   "register"
+  ],
+  "min_agree": 4
+ }
+}

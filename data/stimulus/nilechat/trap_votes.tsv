@@ -1,0 +1,419 @@
+word_type	trap	valid	votes_trap	votes_same	votes_unsure	n_judges	arabic_word	arabic_trap	meaning_en_word	meaning_en_trap	reason	reviewer
+2a2ema	2a2em	true	5	0	0	5	قائمة	قائم	a list	standing, existing, based on	5/5 judges TRAP	
+2abl	bal	true	5	0	0	5	قبل	بال	before	mind (as in 'bali'); worn out	5/5 judges TRAP	
+2adra	dayra	true	5	0	0	5	قادرة	دايرة	able, capable (fem.)	circle / department	5/5 judges TRAP	
+2al	2awla	true	5	0	0	5	قال	أولى	he said	first (fem.), more deserving	5/5 judges TRAP	
+2alb	2al3ab	true	5	0	0	5	قلب	ألعاب	heart	games (pl.); or 'I play'	5/5 judges TRAP	
+2alet	alat	true	4	1	0	5	قالت	آلات	she said	machines, instruments	4/5 judges TRAP	
+2ard	rad	true	5	0	0	5	أرض	رد	ground, land	reply, he replied	5/5 judges TRAP	
+2odam	3edam	true	5	0	0	5	قدام	إعدام	in front of	execution (death penalty)	5/5 judges TRAP	
+2ott	watt	true	5	0	0	5	قط	واط	cat	watt (unit)	5/5 judges TRAP	
+3abd	bayd	true	5	0	0	5	عبد	بيض	servant, slave / Abd (name)	eggs / white	5/5 judges TRAP	
+3abr	3ebra	true	5	0	0	5	عبر	عبرة	across, via, through	a lesson, moral	5/5 judges TRAP	
+3ada	2ad2	true	5	0	0	5	عادة	أدق	habit, custom / except	more precise, finer	5/5 judges TRAP	
+3adam	2adm	true	5	0	0	5	عدم	قدم	lack of, non-existence	foot; oldness	5/5 judges TRAP	
+3ady	2ad2	false	3	0	2	5	عادي	أدق	normal, ordinary	more precise, finer	3/5 judges TRAP	
+3agbny	3agbany	false	0	5	0	5	عاجبني	عاجبني	I like it	I like it	0/5 judges TRAP	
+3ala	aly	false	3	2	0	5	على	علي / عالي	on, upon	Ali (name) / high	3/5 judges TRAP	
+3ala2a	3alya	true	5	0	0	5	علاقة	عالية	relationship	high (fem.) / on her	5/5 judges TRAP	
+3alam	3lama	true	5	0	0	5	عالم / علم	علامة	world (or flag/knowledge)	sign, mark, grade	5/5 judges TRAP	
+3alami	3lama	true	5	0	0	5	عالمي	علامة	global, worldwide	sign, mark, grade	5/5 judges TRAP	
+3aleehom	leehom	true	5	0	0	5	عليهم	ليهم	on/upon them	to them, they have	5/5 judges TRAP	
+3aleh	walah	true	5	0	0	5	عليه	ولا	on him, he owes	nor, not even, or	5/5 judges TRAP	
+3alena	lena	true	5	0	0	5	علينا	لينا	on us	to us, we have	5/5 judges TRAP	
+3aly	3yaly	true	5	0	0	5	عالي	عيالي	high, loud / on me	my kids	5/5 judges TRAP	
+3am	3om2	true	5	0	0	5	عم	عمق	uncle / mister	depth	5/5 judges TRAP	
+3amal	3wamel	true	5	0	0	5	عمل	عوامل	work, deed / workers, keeps doing	factors	5/5 judges TRAP	
+3an	ana	true	5	0	0	5	عن	أنا	about, concerning	I (1sg pronoun)	5/5 judges TRAP	
+3anaser	3anasr	false	0	5	0	5	عناصر	عناصر	elements	elements	0/5 judges TRAP	
+3andak	3ndk	false	0	5	0	5	عندك	عندك	you have / at your place	you have / at your place	0/5 judges TRAP	
+3andena	3ndna	false	0	5	0	5	عندنا	عندنا	we have / at our place	we have / at our place	0/5 judges TRAP	
+3andha	3andoh	true	5	0	0	5	عندها	عنده	she has	he has	5/5 judges TRAP	
+3ando	and	true	5	0	0	5	عنده	عند	he has, at his place	English 'and' (code-switch); bare 'at' without the clitic	5/5 judges TRAP	
+3andohom	3ndhom	false	0	5	0	5	عندهم	عندهم	they have	they have	0/5 judges TRAP	
+3andy	and	true	5	0	0	5	عندي	عند	I have, at my place	English 'and' (code-switch); bare 'at' without the clitic	5/5 judges TRAP	
+3anha	enha	true	5	0	0	5	عنها	إنها	about her / about it	that she, that it	5/5 judges TRAP	
+3ard	3arada	true	4	0	1	5	عرض	عارضة / عَرَضَ	offer, show, width	crossbar, beam / he presented	4/5 judges TRAP	
+3aref	3arf	false	0	5	0	5	عارف	عارف	knowing (m.sg)	knowing (m.sg)	0/5 judges TRAP	
+3arfeen	3arefeen	false	0	5	0	5	عارفين	عارفين	knowing (pl)	knowing (pl)	0/5 judges TRAP	
+3ashan	3ayshin	true	5	0	0	5	عشان	عايشين	because, in order to	living (pl.)	5/5 judges TRAP	
+3ashr	shr	true	5	0	0	5	عشر	شهر / شر	ten	month / evil	5/5 judges TRAP	
+3asr	asr3	true	5	0	0	5	عصر	أسرع	afternoon; era	faster; hurry up	5/5 judges TRAP	
+3awamel	3amel	true	5	0	0	5	عوامل	عامل	factors (pl)	worker / factor (sg) / he did	5/5 judges TRAP	
+3ayesh	3esh	true	5	0	0	5	عايش	عيش	living, alive	bread / live! (imp)	5/5 judges TRAP	
+3ayez	3ayzo	true	5	0	0	5	عايز	عايزه	wanting (masc. sg.), I/you want	wanting it/him; they want	5/5 judges TRAP	
+3aylty	alty	true	5	0	0	5	عيلتي	التي	my family	which, who (fem. relative pronoun, MSA)	5/5 judges TRAP	
+3elaj	3ilaj	false	0	5	0	5	علاج	علاج	treatment	treatment	0/5 judges TRAP	
+3omoman	3moman	false	0	5	0	5	عموماً	عموماً	generally	generally	0/5 judges TRAP	
+3omr	omor	false	2	2	1	5	عمر	أمور	age, lifetime / Omar	matters, affairs	2/5 judges TRAP	
+3omry	3omor	true	5	0	0	5	عمري	عمر	my life, my age / never	age, lifespan / Omar (name)	5/5 judges TRAP	
+5ally	5alaya	true	5	0	0	5	خلي	خلايا	let, keep, leave it (imperative)	cell (biological/organizational)	5/5 judges TRAP	
+5od	y5od	true	5	0	0	5	خد	ياخد	take! (imperative)	he takes / to take (3sg)	5/5 judges TRAP	
+7a2	7ya	true	5	0	0	5	حق	حياة / حيا	right, truth	life	5/5 judges TRAP	
+7ad	3ahd	true	5	0	0	5	حد	عهد	someone / limit	era, covenant	5/5 judges TRAP	
+7aga	7ag	true	5	0	0	5	حاجة	حاج	thing; something	pilgrim (address term for an older man)	5/5 judges TRAP	
+7ajm	hajom	true	5	0	0	5	حجم	هجوم	size, volume	attack, offensive	5/5 judges TRAP	
+7ala	7elw	true	5	0	0	5	حالة	حلو	case, state	sweet, nice	5/5 judges TRAP	
+7alat	7alaty	true	5	0	0	5	حالات	حالتي	cases, states (pl.)	my condition, my mood	5/5 judges TRAP	
+7ameya	ahmeya	true	5	0	0	5	حماية	أهمية	protection	importance	5/5 judges TRAP	
+7aml	7amla	true	5	0	0	5	حمل	حملة	pregnancy; load	campaign	5/5 judges TRAP	
+7araara	7arary	true	5	0	0	5	حرارة	حراري	heat, temperature, fever	thermal (adj.)	5/5 judges TRAP	
+7asal	y7sal	true	5	0	0	5	حصل	يحصل	it happened	it happens / may happen	5/5 judges TRAP	
+7atta	7atet	true	5	0	0	5	حتى	حطّيت	even; until	I/you put	5/5 judges TRAP	
+7awal	h7awl	true	5	0	0	5	حاول	هحاول	he tried / try! (imperative)	I will try (1sg future)	5/5 judges TRAP	
+7awaly	7aly	true	5	0	0	5	حوالي	حالي	approximately, around	current, present / my state	5/5 judges TRAP	
+7aya	hay	true	5	0	0	5	حياة	هاي	life	hi / this (fem.)	5/5 judges TRAP	
+7ayaty	7ayaat	true	5	0	0	5	حياتي	حياة	my life	life (bare noun)	5/5 judges TRAP	
+7ayth	7ayatha	true	5	0	0	5	حيث	حياتها	where, whereas	her life	5/5 judges TRAP	
+7efz	7afez	true	5	0	0	5	حفظ	حافظ	memorizing, saving/storing	one who keeps/preserves; he kept (also حافز 'incentive')	5/5 judges TRAP	
+7elwa	7alya	true	5	0	0	5	حلوة	حالية	pretty, sweet, nice (fem.)	currently (or ornament)	5/5 judges TRAP	
+7okoma	7ekma	true	5	0	0	5	حكومة	حكمة	government	wisdom	5/5 judges TRAP	
+7sb	7esab	false	3	0	2	5	حسب	حساب	according to, depending on	account, bill, calculation	3/5 judges TRAP	
+7yatenna	7ayatenna	false	0	5	0	5	حياتنا	حياتنا	our life	our life	0/5 judges TRAP	
+a2al	a2ol	true	5	0	0	5	أقل	أقول	less, fewer	I say (1sg)	5/5 judges TRAP	
+a2wa	aya	true	5	0	0	5	أقوى	آية / أي	stronger, strongest	verse, Aya (name) / any	5/5 judges TRAP	
+a3da2	awda7	true	5	0	0	5	أعداء / أعضاء	أوضح	enemies	clearer / he clarified	5/5 judges TRAP	
+a7san	7esan	true	5	0	0	5	أحسن	حصان	better, best	horse	5/5 judges TRAP	
+ab7ath	b7ayth	true	5	0	0	5	أبحاث	بحيث	research papers, studies	so that, such that	5/5 judges TRAP	
+agza2	geza2	true	5	0	0	5	أجزاء	جزاء	parts (pl)	recompense, penalty / a part	5/5 judges TRAP	
+akhbar	khabar	true	4	1	0	5	أخبار	خبر	news (plural)	a piece of news (singular)	4/5 judges TRAP	
+akhdar	khadar	true	5	0	0	5	أخضر	خضار	green	vegetables / numbness	5/5 judges TRAP	
+akher	kheir	true	5	0	0	5	آخر	خير	last, end of	goodness, blessing	5/5 judges TRAP	
+amreeky	amrekey	false	0	5	0	5	أمريكي	أمريكي	American	American	0/5 judges TRAP	
+anwa3	ana	true	5	0	0	5	أنواع	أنا	types, kinds	I (1sg pronoun)	5/5 judges TRAP	
+arady	rady	true	5	0	0	5	أراضي	راضي	lands, plots	content, satisfied (also the name Rady)	5/5 judges TRAP	
+as3ar	asra3	true	5	0	0	5	أسعار	أسرع	prices	faster	5/5 judges TRAP	
+as7ab	shab	true	5	0	0	5	أصحاب	شاب	friends/owners	young man	5/5 judges TRAP	
+asass	asasya	true	5	0	0	5	أساس	أساسية	basis, foundation	basic/essential (fem. adj.)	5/5 judges TRAP	
+asasy	2asasa	true	5	0	0	5	أساسي	أساساً	basic, essential	basically, in the first place	5/5 judges TRAP	
+ash3a	ashya2	true	5	0	0	5	أشعة	أشياء	rays, x-ray/radiation	things	5/5 judges TRAP	
+ashal	sahal	true	5	0	0	5	أسهل	سهل	easier/easiest	easy / he made easy	5/5 judges TRAP	
+asly	wsl	true	5	0	0	5	أصلي	وصل	original, genuine / my origin	he arrived / receipt	5/5 judges TRAP	
+aswa2	sway2	true	5	0	0	5	أسواق	سويق	markets / worse	little market (diminutive)	5/5 judges TRAP	
+ataba3	taba3a	true	5	0	0	5	أتابع	تابعة	I follow (1sg)	belonging to her / follower (fem.)	5/5 judges TRAP	
+awl	2awla	true	4	1	0	5	أول	أولى	first (masc.)	first (fem.); firstly, more deserving	4/5 judges TRAP	
+awladna	weladna	false	0	5	0	5	أولادنا	ولادنا	our children	our children	0/5 judges TRAP	
+awroba	awroby	true	5	0	0	5	أوروبا	أوروبي	Europe (place name)	European (adj)	5/5 judges TRAP	
+awy	www	true	5	0	0	5	أوي	—	very, a lot	web prefix / keysmash, not an Arabic word	5/5 judges TRAP	
+b2est5dam	byest5dem	true	5	0	0	5	بإستخدام	بيستخدم	by using / with the use of	he/it uses	5/5 judges TRAP	
+b2et	beta	true	5	0	0	5	بقيت	بيتا / beta	I/you became	beta (loan) / her house	5/5 judges TRAP	
+b7awl	by7awlo	true	5	0	0	5	بحاول	بيحاولوا	I am trying (1sg)	they are trying (3pl)	5/5 judges TRAP	
+ba2a	beya2a	false	3	0	2	5	بقى	بيئة	so, then (discourse particle); became	environment (or 'collar'), reading unclear	3/5 judges TRAP	
+ba2aly	ba2ol	true	5	0	0	5	بقالي	بقول	it's been (time) for me	I say	5/5 judges TRAP	
+ba2y	be2o	true	5	0	0	5	باقي	بقوا	the rest, remaining	they became, they turned into	5/5 judges TRAP	
+ba3d	yb3d	true	5	0	0	5	بعد	يبعد	after; still/yet	he moves away / it is distant (3sg)	5/5 judges TRAP	
+ba3deen	wba3deen	true	5	0	0	5	بعدين	وبعدين	later, afterwards	and then / so what?	5/5 judges TRAP	
+ba7eb	bey7eb	true	5	0	0	5	بحب	بيحب	I love/like (1sg)	he loves/likes (3sg)	5/5 judges TRAP	
+balady	belad	true	5	0	0	5	بلدي	بلاد	my country, local, traditional	countries, lands	5/5 judges TRAP	
+bany	byan	true	5	0	0	5	باني / بني	بيان	builder, building / brown	statement, communique	5/5 judges TRAP	
+barra	bar	true	5	0	0	5	برّه	برّ	outside, abroad	bar (pub) / mainland, dry land	5/5 judges TRAP	
+bashar	basharya	true	5	0	0	5	بشر	بشرية	humans, mankind	human/humanity (fem adj)	5/5 judges TRAP	
+bass	bosa	true	5	0	0	5	بس	بوسة	but, only, enough	a kiss	5/5 judges TRAP	
+bayn	bani	true	5	0	0	5	بين	باني / بني	between	builder, building / Bani (of)	5/5 judges TRAP	
+bbasata	basita	true	5	0	0	5	ببساطة	بسيطة	simply (adv)	simple (fem) / no worries	5/5 judges TRAP	
+beeh	beeha	true	5	0	0	5	بيه	بيها	with/by it (m.)	with/by it (f.)	5/5 judges TRAP	
+beet	b2t	true	5	0	0	5	بيت	بقت	house	she became	5/5 judges TRAP	
+belly	baly	true	4	0	1	5	باللي	بالي	with/that which	my mind; worn out	4/5 judges TRAP	
+ben2a	bnya	false	1	0	4	5	بناء	بنية	unclear surface form	structure	1/5 judges TRAP	
+benty	bnt	true	5	0	0	5	بنتي	بنت	my daughter	a girl, a daughter	5/5 judges TRAP	
+besara7a	bsra7a	false	0	5	0	5	بصراحة	بصراحة	frankly, honestly	frankly, honestly	0/5 judges TRAP	
+besor3a	bsr3a	false	0	5	0	5	بسرعة	بسرعة	quickly	quickly	0/5 judges TRAP	
+bet2ol	bet2al	true	5	0	0	5	بتقول	بتقل	you/she says	it gets heavier / lessens (also read as بتقال 'is said')	5/5 judges TRAP	
+bet3mel	bt3ml	false	0	5	0	5	بتعمل	بتعمل	she/you do(es)	she/you do(es)	0/5 judges TRAP	
+beta3	bet	true	5	0	0	5	بتاع	بيت	belonging to; thingy	house	5/5 judges TRAP	
+beta3et	beta3ty	true	5	0	0	5	بتاعت	بتاعتي	belonging to (fem, construct)	mine (fem)	5/5 judges TRAP	
+beta3etna	beta3tna	false	0	5	0	5	بتاعتنا	بتاعتنا	ours (f.)	ours (f.)	0/5 judges TRAP	
+betb2a	btb2a	false	0	5	0	5	بتبقى	بتبقى	it becomes / you become	it becomes / you become	0/5 judges TRAP	
+betest5dem	betesta5dem	false	0	5	0	5	بتستخدم	بتستخدم	she/you use(s)	she/you use(s)	0/5 judges TRAP	
+betkoon	btkon	false	0	5	0	5	بتكون	بتكون	you/she is (habitual)	you/she is (habitual)	0/5 judges TRAP	
+betsa3ed	btsa3d	false	0	5	0	5	بتساعد	بتساعد	she/you help(s)	she/you help(s)	0/5 judges TRAP	
+bey	bay3	true	5	0	0	5	بيه	بيع	bey (title of address) / with me	selling, sale	5/5 judges TRAP	
+bey2adem	by2adem	false	0	5	0	5	بيقدم	بيقدم	he presents/offers	he presents/offers	0/5 judges TRAP	
+bey2ather	bet2ther	true	5	0	0	5	بيأثر	بتأثر	he/it affects (masc)	she/it affects (fem) or you affect	5/5 judges TRAP	
+bey2ol	bey2al	true	4	0	1	5	بيقول	بيقال	he says	it is said (passive)	4/5 judges TRAP	
+bey2olak	by2olk	false	0	5	0	5	بيقولك	بيقولك	he tells you	he tells you	0/5 judges TRAP	
+bey3mel	bey3mlo	true	5	0	0	5	بيعمل	بيعملوا	he does/makes	they do/make (or he does it)	5/5 judges TRAP	
+bey5od	by5od	false	0	5	0	5	بياخد	بياخد	he takes	he takes	0/5 judges TRAP	
+bey7sal	by7sl	false	0	5	0	5	بيحصل	بيحصل	it happens	it happens	0/5 judges TRAP	
+beykoon	bykon	false	0	5	0	5	بيكون	بيكون	he/it is (habitual)	he/it is (habitual)	0/5 judges TRAP	
+beyshmel	byshmel	false	0	5	0	5	بيشمل	بيشمل	it includes	it includes	0/5 judges TRAP	
+beyzood	beyzid	false	3	0	2	5	بيزوّد	بيزيد	he adds/increases (transitive)	it increases (intransitive)	3/5 judges TRAP	
+bsbb	bysbb	true	4	0	1	5	بسبب	بيسبب	because of	it causes	4/5 judges TRAP	
+bshkl	beshkal	false	0	5	0	5	بشكل	بشكل	in a (manner), -ly	in a (manner), -ly	0/5 judges TRAP	
+da3m	2adm	true	5	0	0	5	دعم	قدم	support	foot / oldness	5/5 judges TRAP	
+darory	darar	true	5	0	0	5	ضروري	ضرر	necessary	harm, damage	5/5 judges TRAP	
+daw2	da3y	true	5	0	0	5	ضوء	داعي	light / taste	reason, need (as in 'no need')	5/5 judges TRAP	
+dawla	dawly	true	5	0	0	5	دولة	دولي	state, country	international	5/5 judges TRAP	
+dawly	dowla	true	5	0	0	5	دولي	دولة	international	state, country	5/5 judges TRAP	
+dawr	dayra	true	5	0	0	5	دور	دايرة	role; turn; floor	circle; department, constituency	5/5 judges TRAP	
+dawry	darra	true	5	0	0	5	دوري	ضرة / درة	league, my turn, periodic	co-wife / pearl, Dorra (name)	5/5 judges TRAP	
+dayman	daman	true	5	0	0	5	دايماً	ضمان	always	guarantee, warranty	5/5 judges TRAP	
+dee	doi	true	4	0	1	5	دي	دوي	this (fem. demonstrative)	roar, echo (or the DOI acronym)	4/5 judges TRAP	
+deen	deenya	true	5	0	0	5	دين	دينية	religion / debt	religious (fem adj)	5/5 judges TRAP	
+delwa2ty	delw2ty	false	0	5	0	5	دلوقتي	دلوقتي	now	now	0/5 judges TRAP	
+dl2ty	delw2ty	false	0	5	0	5	دلوقتي	دلوقتي	now	now	0/5 judges TRAP	
+e7na	hena	true	5	0	0	5	إحنا	هنا	we	here	5/5 judges TRAP	
+egtema3	egtema3ya	true	5	0	0	5	اجتماع	اجتماعية	meeting	social (fem.)	5/5 judges TRAP	
+egtema3y	egtema3	true	5	0	0	5	اجتماعي	اجتماع	social (adj)	a meeting	5/5 judges TRAP	
+el3alam	el3olama	true	5	0	0	5	العالم	العلماء	the world	the scholars/scientists	5/5 judges TRAP	
+el3alami	el3olama	true	5	0	0	5	العالمي	العلماء	the global/international	the scholars/scientists	5/5 judges TRAP	
+el3am	lam	true	5	0	0	5	العام	لم	the year; the general (public)	gathered; (MSA) did not	5/5 judges TRAP	
+el7amdellah	el7amdolelah	false	0	5	0	5	الحمد لله	الحمد لله	praise be to God	praise be to God	0/5 judges TRAP	
+el7okoma	el7okm	true	5	0	0	5	الحكومة	الحكم	the government	the rule, verdict, referee	5/5 judges TRAP	
+elahly	el7aly	true	5	0	0	5	الأهلي	الحالي	Al-Ahly (club), domestic	the current, the present	5/5 judges TRAP	
+elbe2a	elbe2y	true	5	0	0	5	البيئة	البيئي	the environment	the environmental (adj.)	5/5 judges TRAP	
+eldawla	eldawleya	true	5	0	0	5	الدولة	الدولية	the state, the country	the international (fem. adj.)	5/5 judges TRAP	
+eldawly	eldawla	true	5	0	0	5	الدولي	الدولة	the international (adj.)	the state, the country	5/5 judges TRAP	
+elgay	elgo	true	5	0	0	5	الجاي	الجو	the coming/next one	the weather/atmosphere	5/5 judges TRAP	
+elgayya	elgawy	true	5	0	0	5	الجاية	الجوي	the coming/next (fem)	the aerial / air- (adj)	5/5 judges TRAP	
+elly	elah	true	5	0	0	5	اللي	إله	who, that (relativizer)	god, deity	5/5 judges TRAP	
+elmasry	elmasrya	true	5	0	0	5	المصري	المصرية	the Egyptian (masc)	the Egyptian (fem)	5/5 judges TRAP	
+elmawdoo3	elmawdoo	false	0	5	0	5	الموضوع	الموضوع	the topic/matter	the topic/matter	0/5 judges TRAP	
+elnaw3	elno3	false	0	5	0	5	النوع	النوع	the type, the kind	the type, the kind	0/5 judges TRAP	
+elra2ees	elra2eesya	true	5	0	0	5	الرئيس	الرئيسية	the president, the boss	the main, the principal (fem. adj.)	5/5 judges TRAP	
+else7a	elsa7	true	5	0	0	5	الصحة	الصح	health	the correct thing	5/5 judges TRAP	
+elshams	elshamsy	true	5	0	0	5	الشمس	الشمسي	the sun	solar (adj., masc.)	5/5 judges TRAP	
+elta3leem	welta3leem	true	5	0	0	5	التعليم	والتعليم	the education	and the education	5/5 judges TRAP	
+eltany	elwatany	true	5	0	0	5	التاني	الوطني	the second, the other one	the national	5/5 judges TRAP	
+elwa2t	elta2a	true	5	0	0	5	الوقت	الطاقة	the time	the energy	5/5 judges TRAP	
+elwa7ed	elwa7eda	true	5	0	0	5	الواحد	الواحدة	one, a person (generic masc.)	the one (fem.) / one o'clock	5/5 judges TRAP	
+elwatany	eltany	true	5	0	0	5	الوطني	التاني	the national	the second, the other one	5/5 judges TRAP	
+ennak	enek	false	0	5	0	5	إنك	إنك	that you	that you	0/5 judges TRAP	
+enno	nano	true	5	0	0	5	إنه	نانو	that he/it	nano (loan/nickname)	5/5 judges TRAP	
+ennohom	enohm	false	0	5	0	5	إنهم	إنهم	that they	that they	0/5 judges TRAP	
+enny	y3ny	true	5	0	0	5	إني	يعني	that I	means; i.e./sort of	5/5 judges TRAP	
+estekhdam	estakhdem	true	5	0	0	5	استخدام	استخدم	use, usage (verbal noun)	use! (imperative) / he used	5/5 judges TRAP	
+etneen	taneen	true	5	0	0	5	اتنين	طنين	two; Monday	buzzing, ringing (also تنين 'dragon')	5/5 judges TRAP	
+ezay	zey	true	5	0	0	5	إزاي	زي	how	like, similar to	5/5 judges TRAP	
+fa3al	af3al	true	5	0	0	5	فعل	أفعال	verb; deed/he did	deeds (pl.); or 'I do'	5/5 judges TRAP	
+fada2	fayda	true	5	0	0	5	فضاء	فايدة	outer space	benefit/use	5/5 judges TRAP	
+far2	for	true	5	0	0	5	فرق	فور	difference	immediately (or English 'for')	5/5 judges TRAP	
+fawk	fek	true	5	0	0	5	فوق	فيك	above, up	in you / (also) undo, jaw	5/5 judges TRAP	
+fayda	fady	true	5	0	0	5	فايدة	فاضي	benefit/use	empty; free/unoccupied	5/5 judges TRAP	
+fe3lan	f3lan	false	0	5	0	5	فعلاً	فعلاً	indeed, actually	indeed, actually	0/5 judges TRAP	
+feddan	f2dan	true	5	0	0	5	فدان	فقدان	feddan (acre of land)	loss, losing	5/5 judges TRAP	
+fee	fw2	true	5	0	0	5	في	فوق	in / there is	above, on top of	5/5 judges TRAP	
+feeh	feeha	true	5	0	0	5	فيه	فيها	in it (m.) / there is	in it (f.) / she has in her	5/5 judges TRAP	
+feehom	fehm	true	5	0	0	5	فيهم	فهم	in them	understanding / he understood	5/5 judges TRAP	
+feen	feena	true	5	0	0	5	فين	فينا	where	in us	5/5 judges TRAP	
+fo2	fei	true	5	0	0	5	فوق	في	above, up, on top	in, at	5/5 judges TRAP	
+gam3et	gam3eyat	true	5	0	0	5	جامعة	جمعيات	university (construct form, 'university of')	associations, societies (pl.)	5/5 judges TRAP	
+gama3a	game3	true	5	0	0	5	جماعة	جامع	group, folks (vocative 'guys')	mosque	5/5 judges TRAP	
+gameel	gamal	true	5	0	0	5	جميل	جمل	beautiful, nice	camel (also the name Gamal / جمال 'beauty')	5/5 judges TRAP	
+ganoub	ganeb	true	5	0	0	5	جنوب	جانب	south	side; next to	5/5 judges TRAP	
+gaw	gawya	true	5	0	0	5	جو	جوية	weather, atmosphere/vibe	strong (fem.); or aerial (fem.)	5/5 judges TRAP	
+gawda	gad	true	5	0	0	5	جودة	جد	quality	seriousness, really / grandfather	5/5 judges TRAP	
+gawy	gwa	true	5	0	0	5	جوي	جوّه	aerial, air- (adj.)	inside	5/5 judges TRAP	
+gay	gwa	true	5	0	0	5	جاي	جوّه/جوا	coming	inside	5/5 judges TRAP	
+gayya	gawy	true	5	0	0	5	جاية	قوي	coming (fem.)	strong; (Cairene) very	5/5 judges TRAP	
+geddan	g3dan	true	5	0	0	5	جداً	قاعدين / قعدان	very, a lot	sitting, staying (pl.)	5/5 judges TRAP	
+gedeed	gededa	true	4	1	0	5	جديد	جديدة	new (masc.)	new (fem.)	4/5 judges TRAP	
+geneih	gneeh	false	0	5	0	5	جنيه	جنيه	pound (currency)	pound (currency)	0/5 judges TRAP	
+ghalban	ghaleban	false	0	5	0	5	غالبا	غالبا	probably/most likely	probably/most likely	0/5 judges TRAP	
+gharb	ghariba	true	5	0	0	5	غرب	غريبة	west	strange (fem.)	5/5 judges TRAP	
+ghyr	gher	false	0	5	0	5	غير	غير	other than, without	other than, without	0/5 judges TRAP	
+hatkoon	htkon	false	0	5	0	5	هتكون	هتكون	will be	will be	0/5 judges TRAP	
+hayb2a	hb2a	true	5	0	0	5	هيبقى	هبقى	he/it will be (3sg future)	I will be (1sg future)	5/5 judges TRAP	
+haykoon	hkoon	true	5	0	0	5	هيكون	هكون	he/it will be	I will be	5/5 judges TRAP	
+howwa	hawaa	true	5	0	0	5	هو	هواء / هوى	he, it	air / passion	5/5 judges TRAP	
+janoub	janb	true	5	0	0	5	جنوب	جنب	south	side; next to	5/5 judges TRAP	
+kamman	kman	false	0	5	0	5	كمان	كمان	also, too	also, too	0/5 judges TRAP	
+kawkab	kawakeb	true	5	0	0	5	كوكب	كواكب	planet	planets	5/5 judges TRAP	
+kbeer	kbar	true	5	0	0	5	كبير	كبار	big (sg.)	big ones/elders (pl.)	5/5 judges TRAP	
+kedda	keyada	true	5	0	0	5	كده	قيادة	like this, so	leadership, driving	5/5 judges TRAP	
+khadamat	khadmet	true	5	0	0	5	خدمات	خدمة (خدمت)	services (pl.)	service of (sg. construct) / she served	5/5 judges TRAP	
+khales	khalas	true	5	0	0	5	خالص	خلاص	pure; completely, at all	enough, that's it, done	5/5 judges TRAP	
+khassa	khas	true	4	1	0	5	خاصة	خاص	special (fem.); especially	special, private (masc.) (also خس 'lettuce')	4/5 judges TRAP	
+khat	khota	true	5	0	0	5	خط	خطوة	line; handwriting	plan	5/5 judges TRAP	
+khatar	ekhtar	true	5	0	0	5	خطر	اختار	danger	he chose / choose!	5/5 judges TRAP	
+khlal	khalal	false	2	2	1	5	خلال	خلل	during, through	defect, malfunction, disorder	2/5 judges TRAP	
+khososan	w5ososan	true	5	0	0	5	خصوصا	وخصوصا	especially	and especially	5/5 judges TRAP	
+khotwa	khata	true	5	0	0	5	خطوة	خطأ	step	mistake, error (also خطة 'plan')	5/5 judges TRAP	
+khotwat	khotot	true	5	0	0	5	خطوات	خطوط	steps	lines, routes	5/5 judges TRAP	
+kollo	kolya	true	5	0	0	5	كله	كلية	all of it	college / kidney	5/5 judges TRAP	
+kollohom	kolhom	false	0	5	0	5	كلهم	كلهم	all of them	all of them	0/5 judges TRAP	
+kteer	ykter	true	5	0	0	5	كتير	يكتر	a lot, many	may it increase / it increases	5/5 judges TRAP	
+kways	kyas	true	5	0	0	5	كويس	كياس	good, fine	bags (pl. of kees)	5/5 judges TRAP	
+la2	2la	true	5	0	0	5	لأ	إلا / ألا	no	except, unless	5/5 judges TRAP	
+la3eb	la3ba	true	5	0	0	5	لاعب	لعبة	player / playing	a game, a toy	5/5 judges TRAP	
+lamma	3lama	true	5	0	0	5	لما	علامة	when	sign, mark	5/5 judges TRAP	
+law	lwa2	true	5	0	0	5	لو	لواء	if	brigade; major-general; district	5/5 judges TRAP	
+lawl	lail	true	5	0	0	5	لول	ليل	lol (laughter interjection)	night	5/5 judges TRAP	
+lazzem	lazema	true	5	0	0	5	لازم	لازمة	must, necessary (invariable)	necessary (fem) / a need	5/5 judges TRAP	
+le2enno	la2enno	false	0	5	0	5	لأنه	لأنه	because he/it	because he/it	0/5 judges TRAP	
+le7ad	el7ad	true	5	0	0	5	لحد	الحد	until, up to / to someone	the limit / Sunday	5/5 judges TRAP	
+leeh	3leeh	true	5	0	0	5	ليه	عليه	why; for him	on him, upon it	5/5 judges TRAP	
+leehom	3leehom	true	5	0	0	5	ليهم	عليهم	for them, theirs	on them, against them	5/5 judges TRAP	
+lessa	lisa	false	0	5	0	5	لسه	لسه	still, not yet, just now	still, not yet, just now	0/5 judges TRAP	
+llnas	elnass	true	5	0	0	5	للناس	الناس	to/for the people	the people	5/5 judges TRAP	
+lougha	lughah	false	0	5	0	5	لغة	لغة	language	language	0/5 judges TRAP	
+lown	le2n	true	5	0	0	5	لون	لأن	color	but (or because)	5/5 judges TRAP	
+m7tag	mo7taga	true	5	0	0	5	محتاج	محتاجة	needing (masc)	needing (fem)	5/5 judges TRAP	
+ma3	ma2y	true	5	0	0	5	مع	مائي	with	watery, aquatic	5/5 judges TRAP	
+ma3ah	mayaa	true	5	0	0	5	معاه	مياه	with him / he has	water(s)	5/5 judges TRAP	
+ma3ak	mawak3	true	5	0	0	5	معاك	مواقع	with you (2sg)	sites, websites, locations	5/5 judges TRAP	
+ma3had	me3had	false	0	5	0	5	معهد	معهد	institute	institute	0/5 judges TRAP	
+ma3lomat	me3lomat	false	0	5	0	5	معلومات	معلومات	information	information	0/5 judges TRAP	
+ma3na	m3yna	true	5	0	0	5	معنى	معينة	meaning / with us	certain, specific (fem.) / appointed	5/5 judges TRAP	
+ma3nah	ma3naha	true	5	0	0	5	معناه	معناها	its (m.) meaning / it means	its (f.) meaning / meaning, i.e.	5/5 judges TRAP	
+ma3roof	ma3rofa	true	5	0	0	5	معروف	معروفة	known (masc); a favor	known (fem)	5/5 judges TRAP	
+mabany	mabny	false	3	1	1	5	مباني	مبني	buildings (pl noun)	built, based on (passive part.)	3/5 judges TRAP	
+mabsoot	mabsouta	true	5	0	0	5	مبسوط	مبسوطة	happy (m.sg)	happy (f.sg)	5/5 judges TRAP	
+mady	mwad	true	5	0	0	5	ماضي	مواد	past	materials; school subjects	5/5 judges TRAP	
+mafeesh	mfesh	false	0	5	0	5	مفيش	مفيش	there isn't any	there isn't any	0/5 judges TRAP	
+magmo3at	magmo3et	true	4	1	0	5	مجموعات	مجموعة/مجموعت	groups (plural)	group of (singular construct)	4/5 judges TRAP	
+mahaly	mahal	true	5	0	0	5	محلي	محل	local	shop; place	5/5 judges TRAP	
+makansh	mknsh	false	0	5	0	5	ماكانش	ماكانش	it/he wasn't	it/he wasn't	0/5 judges TRAP	
+manakh	manakhy	true	5	0	0	5	مناخ	مناخي	climate (noun)	climatic / climate-related (adj.)	5/5 judges TRAP	
+mar7ala	mr7la	false	0	5	0	5	مرحلة	مرحلة	stage, phase	stage, phase	0/5 judges TRAP	
+mareed	mawred	true	5	0	0	5	مريض	مورد	sick, patient	resource, supplier	5/5 judges TRAP	
+marra	mar	true	5	0	0	5	مرة	مر	a time, once	he passed / bitter	5/5 judges TRAP	
+mashro3	masharo3	false	0	5	0	5	مشروع	مشروع	project	project	0/5 judges TRAP	
+masry	masar	true	5	0	0	5	مصري	مسار	Egyptian	path, track, route	5/5 judges TRAP	
+mawdoo3	mwdo3	false	0	5	0	5	موضوع	موضوع	topic, matter	topic, matter	0/5 judges TRAP	
+mawgood	mawgoda	true	5	0	0	5	موجود	موجودة	present, available (m.)	present, available (f.)	5/5 judges TRAP	
+mawke3	mawak3	true	4	1	0	5	موقع	مواقع	site, website, location (sg.)	sites, websites (pl.)	4/5 judges TRAP	
+mawqe3	mwaqe3	false	0	2	3	5	موقع	مواقع / موقع	site, website, location (sg.)	sites, websites (pl.) — but 'mwaqe3' is also a plain vowel-dropped spelling of the singular	0/5 judges TRAP	
+mawqef	mawaqef	true	5	0	0	5	موقف	مواقف	stance / parking spot (sg)	stances / parking lots (pl)	5/5 judges TRAP	
+mawt	mayat	true	5	0	0	5	موت	ميّت	death	waters	5/5 judges TRAP	
+mayl	malya	true	5	0	0	5	ميل	مالية	mile; inclination, bias	financial (or full, fem.)	5/5 judges TRAP	
+me7tageen	mo7tageen	false	0	5	0	5	محتاجين	محتاجين	needing (pl)	needing (pl)	0/5 judges TRAP	
+meen	men3	true	5	0	0	5	مين	منع	who?	banning, prevention	5/5 judges TRAP	
+mesh	mas7	true	5	0	0	5	مش	مسح	not (negator)	wipe, erase; survey	5/5 judges TRAP	
+mhtmma	mhtm	true	5	0	0	5	مهتمة	مهتم	interested (f.)	interested (m.)	5/5 judges TRAP	
+million	malion	false	0	5	0	5	مليون	مليون	million	million	0/5 judges TRAP	
+mmarasa	momarasa	false	0	5	0	5	ممارسة	ممارسة	practice	practice	0/5 judges TRAP	
+mmkn	mokon	false	2	1	2	5	ممكن	مكوّن	possible, maybe, please-can-you	component, ingredient	2/5 judges TRAP	
+mnte2a	manta2a	false	0	5	0	5	منطقة	منطقة	area, district	area, district	0/5 judges TRAP	
+mo2assa	mosasa	false	0	5	0	5	مؤسسة	مؤسسة	institution, company	institution, company	0/5 judges TRAP	
+mo7adada	mo7addad	true	4	1	0	5	محددة	محدد	specified, defined (fem.)	specified, defined (masc.)	4/5 judges TRAP	
+mo7afza	mo7afez	true	5	0	0	5	محافظة	محافظ	governorate; conservative (fem.)	governor; conservative (masc.)	5/5 judges TRAP	
+modda	media	true	5	0	0	5	مدة	ميديا	period, duration	media (loan)	5/5 judges TRAP	
+mofeed	mofeda	true	5	0	0	5	مفيد	مفيدة	useful (masc)	useful (fem)	5/5 judges TRAP	
+mogtama3	magtama3	false	0	5	0	5	مجتمع	مجتمع	society	society	0/5 judges TRAP	
+mohemma	mohem	true	5	0	0	5	مهمة	مهم	task, mission (also 'important' fem.)	important (masc.)	5/5 judges TRAP	
+mokh	makh	false	0	4	1	5	مخ	مخ	brain	brain	0/5 judges TRAP	
+mokhtalafa	mokhtalef	true	4	1	0	5	مختلفة	مختلف	different (fem.)	different (masc.)	4/5 judges TRAP	
+momayza	momayez	true	4	1	0	5	مميزة	مميز	distinctive, special (fem.)	distinctive, special (masc.)	4/5 judges TRAP	
+mosharaka	mosharak	true	5	0	0	5	مشاركة	مشارك	participation, sharing (verbal noun)	participant (masc.)	5/5 judges TRAP	
+moshkela	moshakel	true	5	0	0	5	مشكلة	مشاكل	a problem (sg.)	problems (pl.)	5/5 judges TRAP	
+mostawaat	mostawayat	false	0	5	0	5	مستويات	مستويات	levels	levels	0/5 judges TRAP	
+mot3added	mot3adeda	true	4	1	0	5	متعدد	متعددة	multiple (masc.)	multiple (fem.)	4/5 judges TRAP	
+mot7eda	mota7eda	false	0	5	0	5	متحدة	متحدة	united (f)	united (f)	0/5 judges TRAP	
+motawfera	motawfer	true	5	0	0	5	متوفرة	متوفر	available (fem)	available (masc)	5/5 judges TRAP	
+n2dar	nader	true	5	0	0	5	نقدر	نادر	we can	rare / Nader (name)	5/5 judges TRAP	
+n7afez	ne7afez	false	0	5	0	5	نحافظ	نحافظ	we preserve/maintain	we preserve/maintain	0/5 judges TRAP	
+na3mel	n3ml	false	0	5	0	5	نعمل	نعمل	we do / let's do	we do / let's do	0/5 judges TRAP	
+nady	3andy	true	5	0	0	5	نادي	عندي	club	I have, at my place	5/5 judges TRAP	
+nafsi	nfs	true	5	0	0	5	نفسي	نفس	psychological / I wish	self, same, breath	5/5 judges TRAP	
+nakhod	nakhed	false	0	5	0	5	ناخد	ناخد	we take	we take	0/5 judges TRAP	
+nashat	nshat	false	0	5	0	5	نشاط	نشاط	activity	activity	0/5 judges TRAP	
+nashr	nashar	false	2	1	2	5	نشر	نشر	publishing, dissemination (noun)	he published/spread (verb)	2/5 judges TRAP	
+nass	na2sa	true	5	0	0	5	ناس	ناقصة	people / text, half	lacking, missing (fem.)	5/5 judges TRAP	
+nehayya	nehya	false	0	5	0	5	نهاية	نهاية	end	end	0/5 judges TRAP	
+no2ta	n2ta	false	0	5	0	5	نقطة	نقطة	point, dot	point, dot	0/5 judges TRAP	
+no3	eno	true	5	0	0	5	نوع	إنه	type, kind	that he/it	5/5 judges TRAP	
+noom	nmo	true	5	0	0	5	نوم	نمو	sleep	growth	5/5 judges TRAP	
+osbo3	asbo3	false	0	5	0	5	أسبوع	أسبوع	week	week	0/5 judges TRAP	
+ra2ees	ra2eisy	true	5	0	0	5	رئيس	رئيسي	president, boss	main, principal / my boss	5/5 judges TRAP	
+ra2eesi	ra2es	true	5	0	0	5	رئيسي	رئيس	main, principal (adj.)	president, head/boss	5/5 judges TRAP	
+ra2y	re2a	true	5	0	0	5	رأي	رئة	opinion	lung	5/5 judges TRAP	
+rasmy	rsm	true	5	0	0	5	رسمي	رسم	official, formal	drawing / fee	5/5 judges TRAP	
+rayyes	rays	false	0	5	0	5	ريّس	ريس	boss, foreman, skipper	boss, foreman, skipper	0/5 judges TRAP	
+rghm	raghm	false	0	5	0	5	رغم	رغم	despite	despite	0/5 judges TRAP	
+ro2ya	re2a	true	5	0	0	5	رؤية	رئة	vision, seeing	lung	5/5 judges TRAP	
+ro7	ra7a	true	5	0	0	5	روح	راحة	go! (imp) / soul	rest, comfort	5/5 judges TRAP	
+sa3a	sawaa	true	5	0	0	5	ساعة	سوا	hour; watch, clock	together	5/5 judges TRAP	
+sa3at	sata7	true	5	0	0	5	ساعات	سطح	hours / sometimes	roof, surface	5/5 judges TRAP	
+sa3b	sab3	true	5	0	0	5	صعب	سبع	hard, difficult	seven; lion	5/5 judges TRAP	
+sa3eed	ysa3ed	true	5	0	0	5	سعيد	يساعد	happy / Saeed (name)	he helps	5/5 judges TRAP	
+sa7	se7a	true	5	0	0	5	صح	صحة	right, correct	health	5/5 judges TRAP	
+sa7by	sa7aba	true	5	0	0	5	صاحبي	سحابة	my friend, mate	cloud	5/5 judges TRAP	
+sa7et	se7et	false	0	5	0	5	صحة	صحة	health (construct)	health (construct)	0/5 judges TRAP	
+sa7y	say7a	true	5	0	0	5	صاحي	صيحة / سايحة	awake	shout, trend / melting (fem.)	5/5 judges TRAP	
+sam3et	sm3t	false	0	5	0	5	سمعت	سمعت	I/she heard	I/she heard	0/5 judges TRAP	
+sawt	sa3et	true	5	0	0	5	صوت	ساعة	voice, vote, sound	hour of, o'clock	5/5 judges TRAP	
+sedy	sod3	true	5	0	0	5	سيدي	صدع	my master, sir (also شبرا-style 'Sidi')	crack, fissure (colloq. headache)	5/5 judges TRAP	
+settat	stat	false	0	5	0	5	ستات	ستات	women	women	0/5 judges TRAP	
+setty	setta	true	5	0	0	5	ستي	ستة	my grandmother; madam	six	5/5 judges TRAP	
+sha2	sha2e3	true	5	0	0	5	شقة / شق	شائع	apartment (or split)	widespread, common	5/5 judges TRAP	
+sha3b	sheb	true	5	0	0	5	شعب	شيب	people, nation	grey hair, greying	5/5 judges TRAP	
+shabka	shabak	true	5	0	0	5	شبكة	شباك	network, net	he linked/hooked / window	5/5 judges TRAP	
+shagara	shagar	true	4	0	0	4	شجرة	شجر	a tree (singulative)	trees (collective)	4/4 judges TRAP	
+shahr	shohra	true	5	0	0	5	شهر	شهرة	month	fame	5/5 judges TRAP	
+shaif	shouf	true	5	0	0	5	شايف	شوف	seeing, I see (active participle)	look!, see! (imperative)	5/5 judges TRAP	
+shakhs	shakhsia	true	5	0	0	5	شخص	شخصية	a person	personality, character / personal	5/5 judges TRAP	
+shakl	shaklo	true	5	0	0	5	شكل	شكله	shape, form, kind	its/his shape; 'it seems, apparently'	5/5 judges TRAP	
+shams	shamsia	true	5	0	0	5	شمس	شمسية	sun	solar (fem. adj.); umbrella/parasol	5/5 judges TRAP	
+shar	shar2y	true	5	0	0	5	شر	شرقي	month (or evil)	eastern, Eastern	5/5 judges TRAP	
+shar2	shr	true	5	0	0	5	شرق	شر / شهر	east	evil (or month)	5/5 judges TRAP	
+share3	shar	true	5	0	0	5	شارع	شر	street	evil	5/5 judges TRAP	
+shareka	asharek	true	5	0	0	5	شركة	أشارك	company	I participate, I share	5/5 judges TRAP	
+sharekat	shrkat	false	0	5	0	5	شركات	شركات	companies	companies	0/5 judges TRAP	
+shmal	yshmel	true	5	0	0	5	شمال	يشمل	north, left	it includes	5/5 judges TRAP	
+shoghl	shghal	true	5	0	0	5	شغل	شغال	work, job	working, functioning / worker	5/5 judges TRAP	
+shwaya	shay2	true	5	0	0	5	شوية	شيء	a little, a bit	thing	5/5 judges TRAP	
+shy	seha	true	5	0	0	5	شي / شاي	صحة	thing (or tea)	health	5/5 judges TRAP	
+sneen	snyn	false	0	5	0	5	سنين	سنين	years	years	0/5 judges TRAP	
+so2	sw2a	true	4	0	1	5	سوق	سواقة / سوقة	market	driving / common rabble	4/5 judges TRAP	
+so2al	sa2el	true	5	0	0	5	سؤال	سائل	a question	asker, one asking / liquid	5/5 judges TRAP	
+soghayara	soghayar	true	5	0	0	5	صغيرة	صغير	small (fem)	small (masc)	5/5 judges TRAP	
+sokkan	skan	false	1	3	1	5	سكان	سكان	residents, population	housing, place of residence	1/5 judges TRAP	
+sokkar	sokary	true	5	0	0	5	سكر	سكري	sugar	diabetes / diabetic (adj.)	5/5 judges TRAP	
+t3raf	atraf	true	5	0	0	5	تعرف	أطراف	you know / he knows	limbs, edges, parties	5/5 judges TRAP	
+t7leel	ta7leel	false	0	5	0	5	تحليل	تحليل	analysis, (medical) test	analysis, (medical) test	0/5 judges TRAP	
+ta2a	wa2t	true	5	0	0	5	طاقة	وقت	energy	time	5/5 judges TRAP	
+ta2seer	tasweer	true	5	0	0	5	تقصير	تصوير	shortcoming, negligence	photography, filming	5/5 judges TRAP	
+ta3awn	ta3awon	false	0	5	0	5	تعاون	تعاون	cooperation	cooperation	0/5 judges TRAP	
+ta3leem	ta3leemya	true	5	0	0	5	تعليم	تعليمية	education	educational (fem)	5/5 judges TRAP	
+ta7t	ta7tia	true	5	0	0	5	تحت	تحتية	under, below	lower, infra- (as in infrastructure)	5/5 judges TRAP	
+tabee3y	tabe3	true	5	0	0	5	طبيعي	تابع	natural, normal	follower/affiliated; 'carry on!'	5/5 judges TRAP	
+tafaseel	tafseel	true	4	1	0	5	تفاصيل	تفصيل	details (plural)	detail; tailoring, itemizing (singular)	4/5 judges TRAP	
+taghyir	tghyr	false	0	5	0	5	تغيير	تغيير	change (noun)	change (noun), vowel-dropped spelling	0/5 judges TRAP	
+taghyirat	taghyyarat	false	0	5	0	5	تغييرات	تغييرات	changes	changes	0/5 judges TRAP	
+tahdeed	t7deed	false	3	1	1	5	تهديد	تحديد	threat	specifying/determination	3/5 judges TRAP	
+tahseen	t7seen	false	0	5	0	5	تحسين	تحسين	improvement	improvement	0/5 judges TRAP	
+tamareen	tamreen	true	5	0	0	5	تمارين	تمرين	exercises (pl.)	an exercise / training (sg.)	5/5 judges TRAP	
+tany	ton	true	5	0	0	5	تاني	طن	second, again, another	ton (weight)	5/5 judges TRAP	
+taqdeem	taqdom	true	5	0	0	5	تقديم	تقدم	presenting, submitting	progress, advancement	5/5 judges TRAP	
+taqleel	tqleel	false	0	5	0	5	تقليل	تقليل	reduction	reduction	0/5 judges TRAP	
+taqreeban	taqryban	false	0	5	0	5	تقريباً	تقريباً	approximately	approximately	0/5 judges TRAP	
+taqreer	taqareer	true	5	0	0	5	تقرير	تقارير	report (singular)	reports (plural)	5/5 judges TRAP	
+taqyeem	taqweem	true	5	0	0	5	تقييم	تقويم	evaluation, rating	calendar; correction/straightening	5/5 judges TRAP	
+tareekh	tarekhy	true	5	0	0	5	تاريخ	تاريخي	history; date	historical (adj.)	5/5 judges TRAP	
+tareeq	tareeqa	true	5	0	0	5	طريق	طريقة	road, path	way, method	5/5 judges TRAP	
+tasmeem	tasmim	false	0	5	0	5	تصميم	تصميم	design	design	0/5 judges TRAP	
+tasweer	ta2seer	true	5	0	0	5	تصوير	تقصير	photography, filming	shortcoming, negligence	5/5 judges TRAP	
+tatweer	tawter	true	5	0	0	5	تطوير	توتر	development	tension, nervousness	5/5 judges TRAP	
+tawfeer	ttwfeer	false	0	5	0	5	توفير	توفير	saving, providing	saving, providing (keyboard-doubled t spelling)	0/5 judges TRAP	
+tawseel	tawasel	true	5	0	0	5	توصيل	تواصل	delivery, connecting	communication, staying in touch	5/5 judges TRAP	
+te2dar	t2dr	false	0	5	0	5	تقدر	تقدر	you can / she can	you can / she can	0/5 judges TRAP	
+te3mel	ta3amel	true	5	0	0	5	تعمل	تعامل	you do/make	dealing/treatment; he dealt with	5/5 judges TRAP	
+teb2a	tbya	true	5	0	0	5	تبقى	طبيًا	you/it becomes, remains	medically	5/5 judges TRAP	
+tekoon	tkon	false	0	5	0	5	تكون	تكون	she/you be	she/you be	0/5 judges TRAP	
+tes3ed	tsa3ed	false	1	3	1	5	تساعد	تساعد	she/you help(s)	she/you help(s)	1/5 judges TRAP	
+thanawy	thany	true	5	0	0	5	ثانوي	ثاني	secondary, high-school	second, another, again	5/5 judges TRAP	
+thani	thanya	true	5	0	0	5	ثاني	ثانية	second; again (masc.)	second (fem.); a second (time unit)	5/5 judges TRAP	
+thawra	ethara	true	5	0	0	5	ثورة	إثارة	revolution	excitement, arousal	5/5 judges TRAP	
+tool	te2ool	true	5	0	0	5	طول	تقول	length / along, throughout	you say / she says	5/5 judges TRAP	
+wa2t	ta2a	true	5	0	0	5	وقت	طاقة	time	energy	5/5 judges TRAP	
+wa3y	awy	true	5	0	0	5	وعي	أوي	awareness, consciousness	very, a lot	5/5 judges TRAP	
+wa7ed	7awed	true	5	0	0	5	واحد	حوّد	one, someone	turn (a vehicle), swerve	5/5 judges TRAP	
+wad3	wdi	true	5	0	0	5	وضع	ودي	situation, position	friendly, amicable	5/5 judges TRAP	
+wallah	wally	true	5	0	0	5	والله	ولي / ولّي	I swear to God	guardian, saint / he turned away	5/5 judges TRAP	
+wallahy	walah	false	0	4	1	5	والله	والله	by God (oath, emphasis)	by God (oath) — or 'nor, or' if read as ولا	0/5 judges TRAP	
+wara2a	2ara2	true	5	0	0	5	ورقة	قرأ	a sheet of paper	he read / I read	5/5 judges TRAP	
+wase3	was3a	true	5	0	0	5	واسع	واسعة	wide (masc)	wide (fem)	5/5 judges TRAP	
+watany	watan	true	5	0	0	5	وطني	وطن	national / my homeland	homeland, nation	5/5 judges TRAP	
+wazeer	wazeera	true	5	0	0	5	وزير	وزيرة	minister (masc)	minister (fem)	5/5 judges TRAP	
+wba3deen	b3deen	true	5	0	0	5	وبعدين	بعدين	and then / so what?	later, afterwards	5/5 judges TRAP	
+welaayat	wlayat	false	0	5	0	5	ولايات	ولايات	states	states	0/5 judges TRAP	
+welly	welaya	true	5	0	0	5	اللي	ولاية	the one who, which	state, province, governorship	5/5 judges TRAP	
+wlady	welada	true	5	0	0	5	ولادي	ولادة	my kids, my sons	birth, childbirth	5/5 judges TRAP	
+wogood	wgod	false	0	5	0	5	وجود	وجود	existence, presence	existence, presence	0/5 judges TRAP	
+wosool	asool	true	5	0	0	5	وصول	أصول	arrival, reaching	origins, assets, principles	5/5 judges TRAP	
+ya3ny	ye3ni	false	0	5	0	5	يعني	يعني	means, i.e., sort of	means, i.e., sort of	0/5 judges TRAP	
+ykoon	koon	true	5	0	0	5	يكون	كون	he/it is (subjunctive)	universe; (also) 'be!'	5/5 judges TRAP	
+youm	2om	true	5	0	0	5	يوم	قوم	day	get up! (imp.); (also) a people	5/5 judges TRAP	
+zayt	zaty	true	5	0	0	5	زيت	ذاتي	oil	self-, automatic	5/5 judges TRAP	
+zera3a	zeyara	true	5	0	0	5	زراعة	زيارة	agriculture, farming	a visit	5/5 judges TRAP	

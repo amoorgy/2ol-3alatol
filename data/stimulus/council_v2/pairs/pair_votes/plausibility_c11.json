@@ -1,0 +1,1802 @@
+[
+{
+"sid": "3leikom->3likom",
+"rid": "3leikom->3likom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3leikom->3likum",
+"rid": "3leikom->3likum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3leikom->aleekom",
+"rid": "3leikom->aleekom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3leikom->aleikom",
+"rid": "3leikom->aleikom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lena->alena",
+"rid": "3lena->alena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lena->alenaa",
+"rid": "3lena->alenaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lena->alina",
+"rid": "3lena->alina",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lih->alh",
+"rid": "3lih->alh",
+"v": false,
+"why": "alh strips both vowels of عليه; reads as Allah, nobody types it"
+},
+{
+"sid": "3lih->alih",
+"rid": "3lih->alih",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lihom->alehom",
+"rid": "3lihom->alehom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lihom->alhom",
+"rid": "3lihom->alhom",
+"v": false,
+"why": "drops the only vowel ي of عليهم; nobody types alhom"
+},
+{
+"sid": "3lihom->alihom",
+"rid": "3lihom->alihom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lm->aalm",
+"rid": "3lm->aalm",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmey->3lmi",
+"rid": "3lmey->3lmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lmey->almeey",
+"rid": "3lmey->almeey",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmey->almey",
+"rid": "3lmey->almey",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmey->almiy",
+"rid": "3lmey->almiy",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmeya->almeya",
+"rid": "3lmeya->almeya",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmeya->almiya",
+"rid": "3lmeya->almiya",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmy->aalmy",
+"rid": "3lmy->aalmy",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmy->almy",
+"rid": "3lmy->almy",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmya->almya",
+"rid": "3lmya->almya",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmya->almyaa",
+"rid": "3lmya->almyaa",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lmya->almyah",
+"rid": "3lmya->almyah",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3lom->alom",
+"rid": "3lom->alom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3lom->aloom",
+"rid": "3lom->aloom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3lom->alum",
+"rid": "3lom->alum",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3loom->alom",
+"rid": "3loom->alom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3loom->aloom",
+"rid": "3loom->aloom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3lshan->alshaan",
+"rid": "3lshan->alshaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lshan->alshan",
+"rid": "3lshan->alshan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lwm->aalwm",
+"rid": "3lwm->aalwm",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3lwm->alwm",
+"rid": "3lwm->alwm",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3ly->ali",
+"rid": "3ly->ali",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lya->alya",
+"rid": "3lya->alya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lya->alyaa",
+"rid": "3lya->alyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lya->alyah",
+"rid": "3lya->alyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lyh->aalyh",
+"rid": "3lyh->aalyh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lyh->alyh",
+"rid": "3lyh->alyh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lyha->alyha",
+"rid": "3lyha->alyha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lyhm->aalyhm",
+"rid": "3lyhm->aalyhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3lyhm->alyhm",
+"rid": "3lyhm->alyhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mad->amad",
+"rid": "3mad->amad",
+"v": false,
+"why": "name عماد is written Emad by Egyptians, never amad"
+},
+{
+"sid": "3mal->amaal",
+"rid": "3mal->amaal",
+"v": false,
+"why": "lengthening short a of 3amal to amaal is not typed; reads آمال"
+},
+{
+"sid": "3mal->amal",
+"rid": "3mal->amal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mala->amala",
+"rid": "3mala->amala",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mala->amalah",
+"rid": "3mala->amalah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mala2->amala2",
+"rid": "3mala2->amala2",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3malat->amalaat",
+"rid": "3malat->amalaat",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3malat->amalat",
+"rid": "3malat->amalat",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3malet->amalet",
+"rid": "3malet->amalet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3malet->amalit",
+"rid": "3malet->amalit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3malyat->amalyaat",
+"rid": "3malyat->amalyaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3malyat->amalyat",
+"rid": "3malyat->amalyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3man->amaan",
+"rid": "3man->amaan",
+"v": false,
+"why": "عمان (Oman) is written Oman; amaan not typed for it"
+},
+{
+"sid": "3mar->amar",
+"rid": "3mar->amar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mara->amara",
+"rid": "3mara->amara",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3mara->amaraa",
+"rid": "3mara->amaraa",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3me2->am2",
+"rid": "3me2->am2",
+"v": false,
+"why": "am2 drops the long ee of عميق; nobody types it"
+},
+{
+"sid": "3me2->ame2",
+"rid": "3me2->ame2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3me2->amee2",
+"rid": "3me2->amee2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3me2->ami2",
+"rid": "3me2->ami2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meed->amed",
+"rid": "3meed->amed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meed->ameed",
+"rid": "3meed->ameed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meed->ameid",
+"rid": "3meed->ameid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meel->ameel",
+"rid": "3meel->ameel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meel->ameil",
+"rid": "3meel->ameil",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meel->amel",
+"rid": "3meel->amel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meeq->ameeq",
+"rid": "3meeq->ameeq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meeq->ameiq",
+"rid": "3meeq->ameiq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meeq->ameq",
+"rid": "3meeq->ameq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mel->amel",
+"rid": "3mel->amel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mel->aml",
+"rid": "3mel->aml",
+"v": true,
+"why": ""
+},
+{
+"sid": "3melt->amelt",
+"rid": "3melt->amelt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meq->ameeq",
+"rid": "3meq->ameeq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meq->ameq",
+"rid": "3meq->ameq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meq->amiq",
+"rid": "3meq->amiq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meq->amq",
+"rid": "3meq->amq",
+"v": false,
+"why": "amq drops the long ee of عميق; nobody types it"
+},
+{
+"sid": "3meqa->ameqa",
+"rid": "3meqa->ameqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meqa->amiqa",
+"rid": "3meqa->amiqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3meqa->amqa",
+"rid": "3meqa->amqa",
+"v": false,
+"why": "amqa drops the long ee of عميقة; nobody types it"
+},
+{
+"sid": "3ml->aml",
+"rid": "3ml->aml",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mla->amla",
+"rid": "3mla->amla",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mla->amlaa",
+"rid": "3mla->amlaa",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mla->amlah",
+"rid": "3mla->amlah",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mla2->amla2",
+"rid": "3mla2->amla2",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mla2->amlaa2",
+"rid": "3mla2->amlaa2",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mlat->amlaat",
+"rid": "3mlat->amlaat",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mlat->amlat",
+"rid": "3mlat->amlat",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mleya->amleya",
+"rid": "3mleya->amleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mleya->amliya",
+"rid": "3mleya->amliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mleyat->amleyat",
+"rid": "3mleyat->amleyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mleyat->amliyat",
+"rid": "3mleyat->amliyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlha->amlha",
+"rid": "3mlha->amlha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlha->amlhaa",
+"rid": "3mlha->amlhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlna->amlna",
+"rid": "3mlna->amlna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlna->amlnah",
+"rid": "3mlna->amlnah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlnah->amlna",
+"rid": "3mlnah->amlna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlnah->amlnah",
+"rid": "3mlnah->amlnah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlnaha->amlnaha",
+"rid": "3mlnaha->amlnaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlnaha->amlnahaa",
+"rid": "3mlnaha->amlnahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlo->amlo",
+"rid": "3mlo->amlo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloh->amloh",
+"rid": "3mloh->amloh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloh->amluh",
+"rid": "3mloh->amluh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloha->amloha",
+"rid": "3mloha->amloha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloha->amluha",
+"rid": "3mloha->amluha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloo->amlo",
+"rid": "3mloo->amlo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mloo->amloo",
+"rid": "3mloo->amloo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlou->amloo",
+"rid": "3mlou->amloo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlou->amlou",
+"rid": "3mlou->amlou",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlt->aamlt",
+"rid": "3mlt->aamlt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlt->amlt",
+"rid": "3mlt->amlt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mltha->amltha",
+"rid": "3mltha->amltha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mltha->amlthaa",
+"rid": "3mltha->amlthaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlto->amlto",
+"rid": "3mlto->amlto",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlto->amltoo",
+"rid": "3mlto->amltoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mltoh->amltoh",
+"rid": "3mltoh->amltoh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mltoh->amltuh",
+"rid": "3mltoh->amltuh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlw->aamlw",
+"rid": "3mlw->aamlw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlw->amlw",
+"rid": "3mlw->amlw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mly->aamly",
+"rid": "3mly->aamly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mly->amli",
+"rid": "3mly->amli",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mly->amly",
+"rid": "3mly->amly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlya->amlya",
+"rid": "3mlya->amlya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyat->amlyaat",
+"rid": "3mlyat->amlyaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyat->amlyat",
+"rid": "3mlyat->amlyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyet->amlyeet",
+"rid": "3mlyet->amlyeet",
+"v": false,
+"why": "doubling the short e of construct -et to -eet is not typed"
+},
+{
+"sid": "3mlyet->amlyet",
+"rid": "3mlyet->amlyet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyet->amlyit",
+"rid": "3mlyet->amlyit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyt->aamlyt",
+"rid": "3mlyt->aamlyt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mlyt->amlyt",
+"rid": "3mlyt->amlyt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mod->amod",
+"rid": "3mod->amod",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mod->amud",
+"rid": "3mod->amud",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mody->amodi",
+"rid": "3mody->amodi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mody->amudy",
+"rid": "3mody->amudy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3modya->amodya",
+"rid": "3modya->amodya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3modya->amudya",
+"rid": "3modya->amudya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mooman->amoman",
+"rid": "3mooman->amoman",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mooman->amoomaan",
+"rid": "3mooman->amoomaan",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mooman->amooman",
+"rid": "3mooman->amooman",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrha->amrha",
+"rid": "3mrha->amrha",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrha->amrhaa",
+"rid": "3mrha->amrhaa",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrhm->aamrhm",
+"rid": "3mrhm->aamrhm",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrhm->amrhm",
+"rid": "3mrhm->amrhm",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrhom->amrhom",
+"rid": "3mrhom->amrhom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrhom->amrhoom",
+"rid": "3mrhom->amrhoom",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrhom->amrhum",
+"rid": "3mrhom->amrhum",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrk->aamrk",
+"rid": "3mrk->aamrk",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrk->amrk",
+"rid": "3mrk->amrk",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrna->amrna",
+"rid": "3mrna->amrna",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrna->amrnaa",
+"rid": "3mrna->amrnaa",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mro->amro",
+"rid": "3mro->amro",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mro->amroo",
+"rid": "3mro->amroo",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3mrw->aamrw",
+"rid": "3mrw->aamrw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mrw->amrw",
+"rid": "3mrw->amrw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mwd->aamwd",
+"rid": "3mwd->aamwd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mwd->amwd",
+"rid": "3mwd->amwd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mya->amya",
+"rid": "3mya->amya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3mya->amyaa",
+"rid": "3mya->amyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3naha->anaha",
+"rid": "3naha->anaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3naha->anahaa",
+"rid": "3naha->anahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nawyen->anawyen",
+"rid": "3nawyen->anawyen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nawyen->anawyin",
+"rid": "3nawyen->anawyin",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nawyen->anooyen",
+"rid": "3nawyen->anooyen",
+"v": false,
+"why": "anooyen turns na-wee into noo; not how anyone spells عناوين"
+},
+{
+"sid": "3naya->anaya",
+"rid": "3naya->anaya",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3naya->anayah",
+"rid": "3naya->anayah",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3nd->aand",
+"rid": "3nd->aand",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndaha->andaha",
+"rid": "3ndaha->andaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndaha->andahaa",
+"rid": "3ndaha->andahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndak->andaak",
+"rid": "3ndak->andaak",
+"v": false,
+"why": "lengthening short a of 3andak to andaak is not typed"
+},
+{
+"sid": "3ndama->andama",
+"rid": "3ndama->andama",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndama->andamaa",
+"rid": "3ndama->andamaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndena->andenaa",
+"rid": "3ndena->andenaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndena->andina",
+"rid": "3ndena->andina",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndh->aandh",
+"rid": "3ndh->aandh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndh->andh",
+"rid": "3ndh->andh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndha->andha",
+"rid": "3ndha->andha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndha->andhaa",
+"rid": "3ndha->andhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndhm->aandhm",
+"rid": "3ndhm->aandhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndhm->andhm",
+"rid": "3ndhm->andhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndi->ande",
+"rid": "3ndi->ande",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndi->andi",
+"rid": "3ndi->andi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndma->andma",
+"rid": "3ndma->andma",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndma->andmaa",
+"rid": "3ndma->andmaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndo->andu",
+"rid": "3ndo->andu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndoh->andoh",
+"rid": "3ndoh->andoh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndoh->andooh",
+"rid": "3ndoh->andooh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndohm->andohm",
+"rid": "3ndohm->andohm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndohom->andohum",
+"rid": "3ndohom->andohum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ndohom->anduhom",
+"rid": "3ndohom->anduhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nf->aanf",
+"rid": "3nf->aanf",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3nf->anf",
+"rid": "3nf->anf",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3nh->anh",
+"rid": "3nh->anh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nha->anha",
+"rid": "3nha->anha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nha->anhaa",
+"rid": "3nha->anhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nhm->aanhm",
+"rid": "3nhm->aanhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nhm->anhm",
+"rid": "3nhm->anhm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nho->anho",
+"rid": "3nho->anho",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nho->anhu",
+"rid": "3nho->anhu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nhom->anhom",
+"rid": "3nhom->anhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nhom->anhum",
+"rid": "3nhom->anhum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nk->aank",
+"rid": "3nk->aank",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nk->ank",
+"rid": "3nk->ank",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nna->ana",
+"rid": "3nna->ana",
+"v": false,
+"why": "degeminated ana for عنّا is just 'I'; nobody types it so"
+},
+{
+"sid": "3nna->anna",
+"rid": "3nna->anna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3no->ano",
+"rid": "3no->ano",
+"v": true,
+"why": ""
+},
+{
+"sid": "3no->anu",
+"rid": "3no->anu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3noh->anoh",
+"rid": "3noh->anoh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3nsr->aansr",
+"rid": "3nsr->aansr",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3nsr->ansr",
+"rid": "3nsr->ansr",
+"v": false,
+"why": "ع here carries o/u (3omr/3oloom/3onf); Egyptians write o, not a"
+},
+{
+"sid": "3nwan->anwan",
+"rid": "3nwan->anwan",
+"v": false,
+"why": "ع here carries i/e (3elm/3enaya); Egyptians write e/i, not a"
+},
+{
+"sid": "3ny->aany",
+"rid": "3ny->aany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ny->ani",
+"rid": "3ny->ani",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ny->any",
+"rid": "3ny->any",
+"v": true,
+"why": ""
+},
+{
+"sid": "3o2od->ao2od",
+"rid": "3o2od->ao2od",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3o2od->au2od",
+"rid": "3o2od->au2od",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obodya->aobodya",
+"rid": "3obodya->aobodya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obodya->aobudya",
+"rid": "3obodya->aobudya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oboodeya->aoboodeyah",
+"rid": "3oboodeya->aoboodeyah",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oboodeya->aoboodiya",
+"rid": "3oboodeya->aoboodiya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oboodeya->aoboodya",
+"rid": "3oboodeya->aoboodya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oboor->aoboor",
+"rid": "3oboor->aoboor",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oboor->auboor",
+"rid": "3oboor->auboor",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obor->aobor",
+"rid": "3obor->aobor",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obor->aubor",
+"rid": "3obor->aubor",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obour->aoboor",
+"rid": "3obour->aoboor",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3obour->aubour",
+"rid": "3obour->aubour",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3od->aod",
+"rid": "3od->aod",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3od->aud",
+"rid": "3od->aud",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oda->aoda",
+"rid": "3oda->aoda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oda->auda",
+"rid": "3oda->auda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odaa->aoda",
+"rid": "3odaa->aoda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odaa->aodaa",
+"rid": "3odaa->aodaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odaa->audaa",
+"rid": "3odaa->audaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odo->aodo",
+"rid": "3odo->aodo",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odo->aodu",
+"rid": "3odo->aodu",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odo->audo",
+"rid": "3odo->audo",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odw->aodw",
+"rid": "3odw->aodw",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odw->audw",
+"rid": "3odw->audw",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwa->aodwa",
+"rid": "3odwa->aodwa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwa->aodwaa",
+"rid": "3odwa->aodwaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwa->audwa",
+"rid": "3odwa->audwa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwan->aodwan",
+"rid": "3odwan->aodwan",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwan->audwan",
+"rid": "3odwan->audwan",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwaneya->aodwaneya",
+"rid": "3odwaneya->aodwaneya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwaneya->aodwaniya",
+"rid": "3odwaneya->aodwaniya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwaneya->audwaneya",
+"rid": "3odwaneya->audwaneya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwani->aodwane",
+"rid": "3odwani->aodwane",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwani->aodwani",
+"rid": "3odwani->aodwani",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwany->aodwani",
+"rid": "3odwany->aodwani",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwany->aodwany",
+"rid": "3odwany->aodwany",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwany->audwany",
+"rid": "3odwany->audwany",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odweya->aodweya",
+"rid": "3odweya->aodweya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odweya->aodwiya",
+"rid": "3odweya->aodwiya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odweya->audweya",
+"rid": "3odweya->audweya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwi->aodwe",
+"rid": "3odwi->aodwe",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwi->aodwy",
+"rid": "3odwi->aodwy",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwia->3odwa",
+"rid": "3odwia->3odwa",
+"v": false,
+"why": "3odwa drops the ي of عضوية; nobody types it so"
+},
+{
+"sid": "3odwia->aodwa",
+"rid": "3odwia->aodwa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwia->aodwia",
+"rid": "3odwia->aodwia",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwia->aodwiaa",
+"rid": "3odwia->aodwiaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwia->audwia",
+"rid": "3odwia->audwia",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwy->aodwi",
+"rid": "3odwy->aodwi",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwy->aodwy",
+"rid": "3odwy->aodwy",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwya->aodwya",
+"rid": "3odwya->aodwya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3odwya->audwya",
+"rid": "3odwya->audwya",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogda->aogda",
+"rid": "3ogda->aogda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogda->aogdaa",
+"rid": "3ogda->aogdaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogda->augda",
+"rid": "3ogda->augda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogolna->augolna",
+"rid": "3ogolna->augolna",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogool->aogool",
+"rid": "3ogool->aogool",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogool->augool",
+"rid": "3ogool->augool",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogoul->aogool",
+"rid": "3ogoul->aogool",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogoul->aogoul",
+"rid": "3ogoul->aogoul",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogoz->aogooz",
+"rid": "3ogoz->aogooz",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogoz->aogoz",
+"rid": "3ogoz->aogoz",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3ogoz->augoz",
+"rid": "3ogoz->augoz",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3okda->aokda",
+"rid": "3okda->aokda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3okda->aokdaa",
+"rid": "3okda->aokdaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3okda->aukda",
+"rid": "3okda->aukda",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3okm->aokm",
+"rid": "3okm->aokm",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olama->aolamaa",
+"rid": "3olama->aolamaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olama->aulama",
+"rid": "3olama->aulama",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olama2->aolamaa2",
+"rid": "3olama2->aolamaa2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olama2->aulama2",
+"rid": "3olama2->aulama2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olamaa->aolamaa",
+"rid": "3olamaa->aolamaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olamaa2->aolamaa2",
+"rid": "3olamaa2->aolamaa2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olamaa2->aulamaa2",
+"rid": "3olamaa2->aulamaa2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olma2->aolma2",
+"rid": "3olma2->aolma2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olma2->aolmaa2",
+"rid": "3olma2->aolmaa2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olma2->aulma2",
+"rid": "3olma2->aulma2",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olmaa->aolma",
+"rid": "3olmaa->aolma",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olmaa->aolmaa",
+"rid": "3olmaa->aolmaa",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olom->aolom",
+"rid": "3olom->aolom",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olom->aolum",
+"rid": "3olom->aolum",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olom->aulom",
+"rid": "3olom->aulom",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oloom->aolom",
+"rid": "3oloom->aolom",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oloom->aoloom",
+"rid": "3oloom->aoloom",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3oloum->auloum",
+"rid": "3oloum->auloum",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+},
+{
+"sid": "3olwi->aolwi",
+"rid": "3olwi->aolwi",
+"v": false,
+"why": "'ao/au' for ع+o is no Egyptian habit; they write o/u"
+}
+]

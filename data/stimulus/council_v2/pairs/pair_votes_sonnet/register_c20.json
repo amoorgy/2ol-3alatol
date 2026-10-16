@@ -1,0 +1,1802 @@
+[
+  {
+    "sid": "mosaeed->mosad",
+    "rid": "mosaeed->mosad",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mosaeed->mosaid",
+    "rid": "mosaeed->mosaid",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mosta3dein->mosta3den",
+    "rid": "mosta3dein->mosta3den",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mosta3dein->mosta3din",
+    "rid": "mosta3dein->mosta3din",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motafael->motafaal",
+    "rid": "motafael->motafaal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motafael->motafal",
+    "rid": "motafael->motafal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motafael->mutafal",
+    "rid": "motafael->mutafal",
+    "v": false,
+    "why": "mu- prefix follows MSA transliteration, not Egyptian colloquial mo- register."
+  },
+  {
+    "sid": "motaghayra->motaghira",
+    "rid": "motaghayra->motaghira",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motaghayrat->motaghirat",
+    "rid": "motaghayrat->motaghirat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motaghayyer->motaghiyer",
+    "rid": "motaghayyer->motaghiyer",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motahayla->motahila",
+    "rid": "motahayla->motahila",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motahia->motaha",
+    "rid": "motahia->motaha",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motamayzeen->motamizeen",
+    "rid": "motamayzeen->motamizeen",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motanawea->motanawa",
+    "rid": "motanawea->motanawa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motanawea->motanawaa",
+    "rid": "motanawea->motanawaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motanawea->mutanawa",
+    "rid": "motanawea->mutanawa",
+    "v": false,
+    "why": "mu- prefix is MSA/formal style; Egyptian colloquial keeps mo-."
+  },
+  {
+    "sid": "motasawey->motasawi",
+    "rid": "motasawey->motasawi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motataleabat->motatalabat",
+    "rid": "motataleabat->motatalabat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motataleabat->mutatalabat",
+    "rid": "motataleabat->mutatalabat",
+    "v": false,
+    "why": "mu- prefix is MSA style; Egyptian colloquial uses mo-."
+  },
+  {
+    "sid": "motataleia->motatalea",
+    "rid": "motataleia->motatalea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motataleia->motatalia",
+    "rid": "motataleia->motatalia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "motataleia->mutatalea",
+    "rid": "motataleia->mutatalea",
+    "v": false,
+    "why": "mu- prefix is MSA style; Egyptian colloquial uses mo-."
+  },
+  {
+    "sid": "motataleia->mutatalia",
+    "rid": "motataleia->mutatalia",
+    "v": false,
+    "why": "mu- prefix is MSA style; Egyptian colloquial uses mo-."
+  },
+  {
+    "sid": "motawadea->motawada",
+    "rid": "motawadea->motawada",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mratayn->mratin",
+    "rid": "mratayn->mratin",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mray7->mri7",
+    "rid": "mray7->mri7",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mulkia->molka",
+    "rid": "mulkia->molka",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mulkia->mulka",
+    "rid": "mulkia->mulka",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mulkia->mulkaa",
+    "rid": "mulkia->mulkaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mzaia->mza",
+    "rid": "mzaia->mza",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mzaia->mzaa",
+    "rid": "mzaia->mzaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mzayd->mzid",
+    "rid": "mzayd->mzid",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "mzayna->mzina",
+    "rid": "mzayna->mzina",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "n7mey->n7mi",
+    "rid": "n7mey->n7mi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nabateat->nabatat",
+    "rid": "nabateat->nabatat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nabatey->nabati",
+    "rid": "nabatey->nabati",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nabatia->nabata",
+    "rid": "nabatia->nabata",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nabatia->nabataa",
+    "rid": "nabatia->nabataa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nabatia->nabatah",
+    "rid": "nabatia->nabatah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "nafsey->nafsi",
+    "rid": "nafsey->nafsi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nafsia->nafsa",
+    "rid": "nafsia->nafsa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nafsia->nafsaa",
+    "rid": "nafsia->nafsaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nafsia->nafsah",
+    "rid": "nafsia->nafsah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "nahaeyet->nahayet",
+    "rid": "nahaeyet->nahayet",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nahaeyet->nahayit",
+    "rid": "nahaeyet->nahayit",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nahaia->naha",
+    "rid": "nahaia->naha",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nahaia->nahaa",
+    "rid": "nahaia->nahaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nahayey->nahayi",
+    "rid": "nahayey->nahayi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "namey->nami",
+    "rid": "namey->nami",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nanoeya->nanoya",
+    "rid": "nanoeya->nanoya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nanoeya->nanoyah",
+    "rid": "nanoeya->nanoyah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "nanoeya->nanuya",
+    "rid": "nanoeya->nanuya",
+    "v": false,
+    "why": "u swaps the loanword root 'nano' spelling; not an Egyptian habit."
+  },
+  {
+    "sid": "nasaay7->nasai7",
+    "rid": "nasaay7->nasai7",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nashional->nashonaal",
+    "rid": "nashional->nashonaal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nashional->nashonal",
+    "rid": "nashional->nashonal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nashional->nashunal",
+    "rid": "nashional->nashunal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nataeja->nataja",
+    "rid": "nataeja->nataja",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nataeja->natajaa",
+    "rid": "nataeja->natajaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nataiga->nataga",
+    "rid": "nataiga->nataga",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nataiga->natagaa",
+    "rid": "nataiga->natagaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nawaia->nawa",
+    "rid": "nawaia->nawa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nawaia->nawaa",
+    "rid": "nawaia->nawaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "naway->nawi",
+    "rid": "naway->nawi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nayma->nima",
+    "rid": "nayma->nima",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "naymeen->nimeen",
+    "rid": "naymeen->nimeen",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nazaria->nazara",
+    "rid": "nazaria->nazara",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nazaria->nazaraa",
+    "rid": "nazaria->nazaraa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nazaria->nazarah",
+    "rid": "nazaria->nazarah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "nazariat->nazaraat",
+    "rid": "nazariat->nazaraat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nazariat->nazarat",
+    "rid": "nazariat->nazarat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ne7mey->ne7mi",
+    "rid": "ne7mey->ne7mi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nehayt->nehit",
+    "rid": "nehayt->nehit",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neon->non",
+    "rid": "neon->non",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neon->noon",
+    "rid": "neon->noon",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neon->nun",
+    "rid": "neon->nun",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nesbian->nesban",
+    "rid": "nesbian->nesban",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nesbian->nisban",
+    "rid": "nesbian->nisban",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nesia->nesa",
+    "rid": "nesia->nesa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nesia->nesaa",
+    "rid": "nesia->nesaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nesia->nisa",
+    "rid": "nesia->nisa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "netayga->netiga",
+    "rid": "netayga->netiga",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neutron->notron",
+    "rid": "neutron->notron",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neutron->nutron",
+    "rid": "neutron->nutron",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "neutron->nutrun",
+    "rid": "neutron->nutrun",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "niaba->naba",
+    "rid": "niaba->naba",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "niaba->nabaa",
+    "rid": "niaba->nabaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "niaba->nabah",
+    "rid": "niaba->nabah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "no2tein->no2ten",
+    "rid": "no2tein->no2ten",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "no2tein->no2tin",
+    "rid": "no2tein->no2tin",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "no2tein->nu2ten",
+    "rid": "no2tein->nu2ten",
+    "v": false,
+    "why": "nu- prefix on native root is MSA-style, not Egyptian colloquial no-."
+  },
+  {
+    "sid": "no2tein->nu2tin",
+    "rid": "no2tein->nu2tin",
+    "v": false,
+    "why": "nu- prefix on native root is MSA-style, not Egyptian colloquial no-."
+  },
+  {
+    "sid": "no3ein->no3en",
+    "rid": "no3ein->no3en",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "no3ein->no3in",
+    "rid": "no3ein->no3in",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "no3ein->nu3in",
+    "rid": "no3ein->nu3in",
+    "v": false,
+    "why": "nu- prefix on native root is MSA-style, not Egyptian colloquial no-."
+  },
+  {
+    "sid": "nsebian->nseban",
+    "rid": "nsebian->nseban",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "nsebian->nsiban",
+    "rid": "nsebian->nsiban",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ohayw->ohiw",
+    "rid": "ohayw->ohiw",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "okay->oki",
+    "rid": "okay->oki",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "okeanos->okanos",
+    "rid": "okeanos->okanos",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "okeanos->okanus",
+    "rid": "okeanos->okanus",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "onlain->onlaan",
+    "rid": "onlain->onlaan",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "onlain->onlan",
+    "rid": "onlain->onlan",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "onlain->unlan",
+    "rid": "onlain->unlan",
+    "v": false,
+    "why": "un- breaks the recognizable English 'on-' prefix; not how Egyptians spell 'online'."
+  },
+  {
+    "sid": "qalbia->qalba",
+    "rid": "qalbia->qalba",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanonia->qanona",
+    "rid": "qanonia->qanona",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanonia->qanonaa",
+    "rid": "qanonia->qanonaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanonia->qanuna",
+    "rid": "qanonia->qanuna",
+    "v": false,
+    "why": "u swap not attested; Egyptian colloquial spells this root with o (qanoon)."
+  },
+  {
+    "sid": "qanonyia->qanonya",
+    "rid": "qanonyia->qanonya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanonyia->qanonyah",
+    "rid": "qanonyia->qanonyah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "qanounia->qanoona",
+    "rid": "qanounia->qanoona",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanounia->qanouna",
+    "rid": "qanounia->qanouna",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qanounia->qanounaa",
+    "rid": "qanounia->qanounaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qay2->qi2",
+    "rid": "qay2->qi2",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qayma->qima",
+    "rid": "qayma->qima",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qaysar->qisar",
+    "rid": "qaysar->qisar",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qeima->qema",
+    "rid": "qeima->qema",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qeima->qima",
+    "rid": "qeima->qima",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qotbia->qotba",
+    "rid": "qotbia->qotba",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qotbia->qutba",
+    "rid": "qotbia->qutba",
+    "v": false,
+    "why": "u swap follows MSA root vowel, not Egyptian colloquial qo-."
+  },
+  {
+    "sid": "quiz->qoz",
+    "rid": "quiz->qoz",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "quiz->quuz",
+    "rid": "quiz->quuz",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "quiz->quz",
+    "rid": "quiz->quz",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qweia->qwea",
+    "rid": "qweia->qwea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qweia->qwia",
+    "rid": "qweia->qwia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "qwey->qwi",
+    "rid": "qwey->qwi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "r2meia->r2mea",
+    "rid": "r2meia->r2mea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "r2meia->r2mia",
+    "rid": "r2meia->r2mia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "r2meia->r2miaa",
+    "rid": "r2meia->r2miaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eesia->ra2eesa",
+    "rid": "ra2eesia->ra2eesa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eesia->ra2eisa",
+    "rid": "ra2eesia->ra2eisa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eesia->ra2esa",
+    "rid": "ra2eesia->ra2esa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisa->ra2esa",
+    "rid": "ra2eisa->ra2esa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisa->ra2esaa",
+    "rid": "ra2eisa->ra2esaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisa->ra2isa",
+    "rid": "ra2eisa->ra2isa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisa->ra2isaa",
+    "rid": "ra2eisa->ra2isaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisi->ra2ese",
+    "rid": "ra2eisi->ra2ese",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisi->ra2esi",
+    "rid": "ra2eisi->ra2esi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisi->ra2ise",
+    "rid": "ra2eisi->ra2ise",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisi->ra2isi",
+    "rid": "ra2eisi->ra2isi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisia->ra2eisa",
+    "rid": "ra2eisia->ra2eisa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisia->ra2esiaa",
+    "rid": "ra2eisia->ra2esiaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisia->ra2isia",
+    "rid": "ra2eisia->ra2isia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisia->ra2isiaa",
+    "rid": "ra2eisia->ra2isiaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eissy->ra2essi",
+    "rid": "ra2eissy->ra2essi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eissy->ra2isy",
+    "rid": "ra2eissy->ra2isy",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisy->ra2esi",
+    "rid": "ra2eisy->ra2esi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisy->ra2isi",
+    "rid": "ra2eisy->ra2isi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2eisy->ra2isy",
+    "rid": "ra2eisy->ra2isy",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2isia->ra2esa",
+    "rid": "ra2isia->ra2esa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra2isia->ra2isa",
+    "rid": "ra2isia->ra2isa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ra3aia->ra3a",
+    "rid": "ra3aia->ra3a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raday->radi",
+    "rid": "raday->radi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radey->radi",
+    "rid": "radey->radi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radio->radoo",
+    "rid": "radio->radoo",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radio->radu",
+    "rid": "radio->radu",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radioya->radoya",
+    "rid": "radioya->radoya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radioya->radoyaa",
+    "rid": "radioya->radoyaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "radioya->raduya",
+    "rid": "radioya->raduya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ragmey->ragmi",
+    "rid": "ragmey->ragmi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ragmia->ragma",
+    "rid": "ragmia->ragma",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ragmia->ragmaa",
+    "rid": "ragmia->ragmaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raqmeia->raqmea",
+    "rid": "raqmeia->raqmea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raqmeia->raqmia",
+    "rid": "raqmeia->raqmia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raqmia->raqma",
+    "rid": "raqmia->raqma",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raqmia->raqmaa",
+    "rid": "raqmia->raqmaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rasmeia->rasmea",
+    "rid": "rasmeia->rasmea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rasmeia->rasmeaa",
+    "rid": "rasmeia->rasmeaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rasmeia->rasmia",
+    "rid": "rasmeia->rasmia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rasmeia->rasmiaa",
+    "rid": "rasmeia->rasmiaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rawai7->rawa7",
+    "rid": "rawai7->rawa7",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rawai7->rawaa7",
+    "rid": "rawai7->rawaa7",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rawai7->rawah",
+    "rid": "rawai7->rawah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "ray->ri",
+    "rid": "ray->ri",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray2->ri2",
+    "rid": "ray2->ri2",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray2a->ri2a",
+    "rid": "ray2a->ri2a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray2esya->ri2esya",
+    "rid": "ray2esya->ri2esya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray3a->ri3a",
+    "rid": "ray3a->ri3a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray3aya->ri3aya",
+    "rid": "ray3aya->ri3aya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ray7etha->ri7etha",
+    "rid": "ray7etha->ri7etha",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rayhom->rihom",
+    "rid": "rayhom->rihom",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raykom->rikom",
+    "rid": "raykom->rikom",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rays->ris",
+    "rid": "rays->ris",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rayseya->riseya",
+    "rid": "rayseya->riseya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "raysya->risya",
+    "rid": "raysya->risya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rayt->rit",
+    "rid": "rayt->rit",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rayya->riya",
+    "rid": "rayya->riya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rayyes->riyes",
+    "rid": "rayyes->riyes",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rea->ra",
+    "rid": "rea->ra",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rea->raa",
+    "rid": "rea->raa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rea->rah",
+    "rid": "rea->rah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "reada->rada",
+    "rid": "reada->rada",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "reada->radaa",
+    "rid": "reada->radaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "reada->radah",
+    "rid": "reada->radah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "reaya->raya",
+    "rid": "reaya->raya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "reaya->rayaa",
+    "rid": "reaya->rayaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "reglayn->reglin",
+    "rid": "reglayn->reglin",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "relay->reli",
+    "rid": "relay->reli",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "resael->resaal",
+    "rid": "resael->resaal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "resael->resal",
+    "rid": "resael->resal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "resael->risal",
+    "rid": "resael->risal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "resmian->resman",
+    "rid": "resmian->resman",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "resmian->risman",
+    "rid": "resmian->risman",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rewayy->rewiy",
+    "rid": "rewayy->rewiy",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rey->ri",
+    "rid": "rey->ri",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riada->rada",
+    "rid": "riada->rada",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riada->radah",
+    "rid": "riada->radah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "riadi->radi",
+    "rid": "riadi->radi",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riadi->rady",
+    "rid": "riadi->rady",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riyadia->reyada",
+    "rid": "riyadia->reyada",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riyadia->riyada",
+    "rid": "riyadia->riyada",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "riyadia->riyadaa",
+    "rid": "riyadia->riyadaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "romansia->romansa",
+    "rid": "romansia->romansa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rousia->roosa",
+    "rid": "rousia->roosa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "rousia->rousa",
+    "rid": "rousia->rousa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ryaadyia->ryaadya",
+    "rid": "ryaadyia->ryaadya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "ryaadyia->ryaadyah",
+    "rid": "ryaadyia->ryaadyah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "ryaadyia->ryadya",
+    "rid": "ryaadyia->ryadya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3odia->sa3oda",
+    "rid": "sa3odia->sa3oda",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3odia->sa3odaa",
+    "rid": "sa3odia->sa3odaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3odia->sa3uda",
+    "rid": "sa3odia->sa3uda",
+    "v": false,
+    "why": "u swap here follows MSA/Gulf spelling, not this word's Egyptian o."
+  },
+  {
+    "sid": "sa3oodia->sa3oda",
+    "rid": "sa3oodia->sa3oda",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3oodia->sa3ooda",
+    "rid": "sa3oodia->sa3ooda",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3udia->sa3oda",
+    "rid": "sa3udia->sa3oda",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa3udia->sa3uda",
+    "rid": "sa3udia->sa3uda",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa7ia->sa7a",
+    "rid": "sa7ia->sa7a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sa7ia->saha",
+    "rid": "sa7ia->saha",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sab3eeniat->sab3eenaat",
+    "rid": "sab3eeniat->sab3eenaat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sab3eeniat->sab3eenat",
+    "rid": "sab3eeniat->sab3eenat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sab3eeniat->sab3enat",
+    "rid": "sab3eeniat->sab3enat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sae2a->sa2a",
+    "rid": "sae2a->sa2a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sae2a->sa2aa",
+    "rid": "sae2a->sa2aa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sael->saal",
+    "rid": "sael->saal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sael->sal",
+    "rid": "sael->sal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "safear->safaar",
+    "rid": "safear->safaar",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saiba->saba",
+    "rid": "saiba->saba",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saiba->sabaa",
+    "rid": "saiba->sabaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saiba->sabah",
+    "rid": "saiba->sabah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "saif->saaf",
+    "rid": "saif->saaf",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saini->sane",
+    "rid": "saini->sane",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saini->sani",
+    "rid": "saini->sani",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saini->sany",
+    "rid": "saini->sany",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sakania->sakana",
+    "rid": "sakania->sakana",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sakania->sakanaa",
+    "rid": "sakania->sakanaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sakhria->sa5ra",
+    "rid": "sakhria->sa5ra",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbeia->salbea",
+    "rid": "salbeia->salbea",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbeia->salbeaa",
+    "rid": "salbeia->salbeaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbeia->salbia",
+    "rid": "salbeia->salbia",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbeia->salbiaa",
+    "rid": "salbeia->salbiaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbia->salba",
+    "rid": "salbia->salba",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "salbia->salbah",
+    "rid": "salbia->salbah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "samyia->samya",
+    "rid": "samyia->samya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "samyia->samyaa",
+    "rid": "samyia->samyaa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "samyia->samyah",
+    "rid": "samyia->samyah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "san3ey->san3i",
+    "rid": "san3ey->san3i",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sanoeya->sanoya",
+    "rid": "sanoeya->sanoya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sanoeya->sanuya",
+    "rid": "sanoeya->sanuya",
+    "v": false,
+    "why": "u swap on native root 'sanawiya' is not an Egyptian colloquial habit."
+  },
+  {
+    "sid": "sarea->sara",
+    "rid": "sarea->sara",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarea->saraa",
+    "rid": "sarea->saraa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarea->sarah",
+    "rid": "sarea->sarah",
+    "v": false,
+    "why": "-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a."
+  },
+  {
+    "sid": "sarie3->sare3",
+    "rid": "sarie3->sare3",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarie3->saree3",
+    "rid": "sarie3->saree3",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarie3->sari3",
+    "rid": "sarie3->sari3",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarie3->sarii3",
+    "rid": "sarie3->sarii3",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarie3a->sare3a",
+    "rid": "sarie3a->sare3a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sarie3a->sari3a",
+    "rid": "sarie3a->sari3a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sawael->sawal",
+    "rid": "sawael->sawal",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sawtia->sawta",
+    "rid": "sawtia->sawta",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sawtia->soota",
+    "rid": "sawtia->soota",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "say2->si2",
+    "rid": "say2->si2",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "say2a->si2a",
+    "rid": "say2a->si2a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "say2an->si2an",
+    "rid": "say2an->si2an",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "say2een->si2een",
+    "rid": "say2een->si2een",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "say7eya->si7eya",
+    "rid": "say7eya->si7eya",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saybeen->sibeen",
+    "rid": "saybeen->sibeen",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayd->sid",
+    "rid": "sayd->sid",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saydala->sidala",
+    "rid": "saydala->sidala",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saydaly->sidaly",
+    "rid": "saydaly->sidaly",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saydalyat->sidalyat",
+    "rid": "saydalyat->sidalyat",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayf->sif",
+    "rid": "sayf->sif",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayfee->sifee",
+    "rid": "sayfee->sifee",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saygha->sigha",
+    "rid": "saygha->sigha",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saykoon->sikoon",
+    "rid": "saykoon->sikoon",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayla->sila",
+    "rid": "sayla->sila",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayns->sins",
+    "rid": "sayns->sins",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "sayr->sir",
+    "rid": "sayr->sir",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saytara->sitara",
+    "rid": "saytara->sitara",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "saytra->sitra",
+    "rid": "saytra->sitra",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "se7ia->se7aa",
+    "rid": "se7ia->se7aa",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "se7ia->si7a",
+    "rid": "se7ia->si7a",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seatl->satl",
+    "rid": "seatl->satl",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seenay->seeni",
+    "rid": "seenay->seeni",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seeney->seeni",
+    "rid": "seeney->seeni",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seid->sed",
+    "rid": "seid->sed",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seid->sid",
+    "rid": "seid->sid",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seif->sef",
+    "rid": "seif->sef",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seif->sif",
+    "rid": "seif->sif",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seirfer->serfer",
+    "rid": "seirfer->serfer",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seirfer->serfir",
+    "rid": "seirfer->serfir",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seirfer->sirfer",
+    "rid": "seirfer->sirfer",
+    "v": true,
+    "why": ""
+  },
+  {
+    "sid": "seirferat->serferaat",
+    "rid": "seirferat->serferaat",
+    "v": true,
+    "why": ""
+  }
+]

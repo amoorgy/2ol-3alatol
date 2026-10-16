@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "koays->kois",
+  "rid": "koays->kois",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koaysa->koisa",
+  "rid": "koaysa->koisa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kobaia->koba",
+  "rid": "kobaia->koba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kobaia->kobaa",
+  "rid": "kobaia->kobaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kobaia->kubaa",
+  "rid": "kobaia->kubaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koees->kois",
+  "rid": "koees->kois",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koees->kos",
+  "rid": "koees->kos",
+  "v": false,
+  "why": "kos is a well-known vulgar/taboo word; no Egyptian writes it for koees by accident."
+ },
+ {
+  "sid": "koeesa->koisa",
+  "rid": "koeesa->koisa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koeesa->kosa",
+  "rid": "koeesa->kosa",
+  "v": false,
+  "why": "kosa is the common word for zucchini; collides with an unrelated everyday word."
+ },
+ {
+  "sid": "koisa->kosa",
+  "rid": "koisa->kosa",
+  "v": false,
+  "why": "kosa is the common word for zucchini; collides with an unrelated everyday word."
+ },
+ {
+  "sid": "koisa->kosah",
+  "rid": "koisa->kosah",
+  "v": false,
+  "why": "kosah reads as kosa (zucchini), an unrelated common word."
+ },
+ {
+  "sid": "koisa->kusa",
+  "rid": "koisa->kusa",
+  "v": false,
+  "why": "kusa is a standard spelling of zucchini; collides with an unrelated common word."
+ },
+ {
+  "sid": "kolia->kola",
+  "rid": "kolia->kola",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolia->kolaa",
+  "rid": "kolia->kolaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolia->kula",
+  "rid": "kolia->kula",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolombia->kolomba",
+  "rid": "kolombia->kolomba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolombia->kolombaa",
+  "rid": "kolombia->kolombaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolombia->kolumba",
+  "rid": "kolombia->kolumba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolumbia->kolomba",
+  "rid": "kolumbia->kolomba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolumbia->kolumba",
+  "rid": "kolumbia->kolumba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kolumbia->kolumbaa",
+  "rid": "kolumbia->kolumbaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "komedia->komida",
+  "rid": "komedia->komida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "korey->kori",
+  "rid": "korey->kori",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koria->kora",
+  "rid": "koria->kora",
+  "v": false,
+  "why": "kora is the everyday word for ball/football; strong collision, not a plausible respelling of Korea."
+ },
+ {
+  "sid": "koria->koraa",
+  "rid": "koria->koraa",
+  "v": false,
+  "why": "koraa reads as kora (ball/football); same collision as kora."
+ },
+ {
+  "sid": "koria->kura",
+  "rid": "koria->kura",
+  "v": false,
+  "why": "kura is a common alt spelling of kora (ball); collides with an unrelated common word."
+ },
+ {
+  "sid": "koroeya->koroya",
+  "rid": "koroeya->koroya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "koroeya->kuroya",
+  "rid": "koroeya->kuroya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kream->kraam",
+  "rid": "kream->kraam",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kream->kram",
+  "rid": "kream->kram",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kreamat->kramaat",
+  "rid": "kreamat->kramaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kreamat->kramat",
+  "rid": "kreamat->kramat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kway->kwi",
+  "rid": "kway->kwi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kwaysa->kwisa",
+  "rid": "kwaysa->kwisa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kwayseen->kwiseen",
+  "rid": "kwayseen->kwiseen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kwayyes->kwiyes",
+  "rid": "kwayyes->kwiyes",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kwayyis->kwiyis",
+  "rid": "kwayyis->kwiyis",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lahwey->lahwi",
+  "rid": "lahwey->lahwi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "laif->laaf",
+  "rid": "laif->laaf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "laif->laf",
+  "rid": "laif->laf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "latinia->latena",
+  "rid": "latinia->latena",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "latinia->latina",
+  "rid": "latinia->latina",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "latinyia->latenya",
+  "rid": "latinyia->latenya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "latinyia->latinya",
+  "rid": "latinyia->latinya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lawae7->lawa7",
+  "rid": "lawae7->lawa7",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "laway7->lawi7",
+  "rid": "laway7->lawi7",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "layl->lil",
+  "rid": "layl->lil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "laym->lim",
+  "rid": "laym->lim",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leaktar->laktar",
+  "rid": "leaktar->laktar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leay->lay",
+  "rid": "leay->lay",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leezay->leezi",
+  "rid": "leezay->leezi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leih->liih",
+  "rid": "leih->liih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leil->lel",
+  "rid": "leil->lel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leil->lil",
+  "rid": "leil->lil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leila->lela",
+  "rid": "leila->lela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leila->lelaa",
+  "rid": "leila->lelaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leila->lelah",
+  "rid": "leila->lelah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leila->lila",
+  "rid": "leila->lila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leily->lely",
+  "rid": "leily->lely",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "leily->lily",
+  "rid": "leily->lily",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lelmayya->lelmiya",
+  "rid": "lelmayya->lelmiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lesenien->lesinen",
+  "rid": "lesenien->lesinen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lesenien->lisenin",
+  "rid": "lesenien->lisenin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ley->li",
+  "rid": "ley->li",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "liltaknologia->liltaknologa",
+  "rid": "liltaknologia->liltaknologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "liltaknologia->liltaknuloga",
+  "rid": "liltaknologia->liltaknuloga",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "listeria->lestera",
+  "rid": "listeria->lestera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "listeria->listera",
+  "rid": "listeria->listera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "listeria->listira",
+  "rid": "listeria->listira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lithium->lithom",
+  "rid": "lithium->lithom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lithium->lithum",
+  "rid": "lithium->lithum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lithium->lithuum",
+  "rid": "lithium->lithuum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "llteknologia->lteknologa",
+  "rid": "llteknologia->lteknologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lotion->loton",
+  "rid": "lotion->loton",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lotion->lotun",
+  "rid": "lotion->lotun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lotion->luton",
+  "rid": "lotion->luton",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "lughatayn->lughatin",
+  "rid": "lughatayn->lughatin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "m3ayra->m3ira",
+  "rid": "m3ayra->m3ira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "m3ayyr->m3iyr",
+  "rid": "m3ayyr->m3iyr",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "m7ayda->m7ida",
+  "rid": "m7ayda->m7ida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ma2ey->ma2i",
+  "rid": "ma2ey->ma2i",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ma3melia->ma3mela",
+  "rid": "ma3melia->ma3mela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ma3melia->ma3melaa",
+  "rid": "ma3melia->ma3melaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ma3melia->ma3mila",
+  "rid": "ma3melia->ma3mila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mabaney->mabani",
+  "rid": "mabaney->mabani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mabnia->mabna",
+  "rid": "mabnia->mabna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mabnia->mabnaa",
+  "rid": "mabnia->mabnaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "madania->madana",
+  "rid": "madania->madana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "madania->madanaa",
+  "rid": "madania->madanaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maday2->madi2",
+  "rid": "maday2->madi2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "madia->mada",
+  "rid": "madia->mada",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "madia->madah",
+  "rid": "madia->madah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mafia->mafa",
+  "rid": "mafia->mafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mafia->mafaa",
+  "rid": "mafia->mafaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maganey->magani",
+  "rid": "maganey->magani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magania->magana",
+  "rid": "magania->magana",
+  "v": false,
+  "why": "magana is the common word for watch/clock; collides with an unrelated everyday word."
+ },
+ {
+  "sid": "magania->maganaa",
+  "rid": "magania->maganaa",
+  "v": false,
+  "why": "maganaa reads as magana (watch); same collision."
+ },
+ {
+  "sid": "magmo3atain->magmo3atan",
+  "rid": "magmo3atain->magmo3atan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magmo3atain->magmu3atan",
+  "rid": "magmo3atain->magmu3atan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnatisia->magnatesa",
+  "rid": "magnatisia->magnatesa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnatisia->magnatisa",
+  "rid": "magnatisia->magnatisa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnatisia->magnatisaa",
+  "rid": "magnatisia->magnatisaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnesium->magnesom",
+  "rid": "magnesium->magnesom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnesium->magnesum",
+  "rid": "magnesium->magnesum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "magnesium->magnisum",
+  "rid": "magnesium->magnisum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahalia->mahala",
+  "rid": "mahalia->mahala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahalia->mahalaa",
+  "rid": "mahalia->mahalaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahallia->mahala",
+  "rid": "mahallia->mahala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahallia->mahalla",
+  "rid": "mahallia->mahalla",
+  "v": false,
+  "why": "mahalla is the well-known city name (El-Mahalla); strong collision, not a plausible respelling."
+ },
+ {
+  "sid": "mahasoil->mahasol",
+  "rid": "mahasoil->mahasol",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahasoil->mahasool",
+  "rid": "mahasoil->mahasool",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mahasoil->mahasul",
+  "rid": "mahasoil->mahasul",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maik->maak",
+  "rid": "maik->maak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maik->mak",
+  "rid": "maik->mak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maikel->makel",
+  "rid": "maikel->makel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "main->maan",
+  "rid": "main->maan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "main->man",
+  "rid": "main->man",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "majeal->majaal",
+  "rid": "majeal->majaal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "majeal->majal",
+  "rid": "majeal->majal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "makania->makana",
+  "rid": "makania->makana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "makania->makanaa",
+  "rid": "makania->makanaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "makdonia->makdona",
+  "rid": "makdonia->makdona",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "makdonia->makduna",
+  "rid": "makdonia->makduna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malakia->malaka",
+  "rid": "malakia->malaka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malakia->malakaa",
+  "rid": "malakia->malakaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malaria->malara",
+  "rid": "malaria->malara",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malaria->malaraa",
+  "rid": "malaria->malaraa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malayzia->malayza",
+  "rid": "malayzia->malayza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malayzia->maleeza",
+  "rid": "malayzia->maleeza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malayzia->maleiza",
+  "rid": "malayzia->maleiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malayzia->malizia",
+  "rid": "malayzia->malizia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maley->mali",
+  "rid": "maley->mali",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malia->mala",
+  "rid": "malia->mala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malia->malaa",
+  "rid": "malia->malaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malian->malaan",
+  "rid": "malian->malaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malian->malan",
+  "rid": "malian->malan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malion->maloon",
+  "rid": "malion->maloon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malion->malun",
+  "rid": "malion->malun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malizia->maleza",
+  "rid": "malizia->maleza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "malizia->maliza",
+  "rid": "malizia->maliza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mamayza->mamiza",
+  "rid": "mamayza->mamiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "manakhia->mana5a",
+  "rid": "manakhia->mana5a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "manakhia->manakha",
+  "rid": "manakhia->manakha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "manzelia->manzela",
+  "rid": "manzelia->manzela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "manzelia->manzila",
+  "rid": "manzelia->manzila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mar2ey->mar2i",
+  "rid": "mar2ey->mar2i",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maratein->maraten",
+  "rid": "maratein->maraten",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maratein->maratin",
+  "rid": "maratein->maratin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "markazia->markaza",
+  "rid": "markazia->markaza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "markazia->markazaa",
+  "rid": "markazia->markazaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "marratayn->marratin",
+  "rid": "marratayn->marratin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "marretayn->marretin",
+  "rid": "marretayn->marretin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masael->masaal",
+  "rid": "masael->masaal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masael->masal",
+  "rid": "masael->masal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masay->masi",
+  "rid": "masay->masi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mashea->masha",
+  "rid": "mashea->masha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mashea->mashaa",
+  "rid": "mashea->mashaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mashea->mashah",
+  "rid": "mashea->mashah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mashey->mashi",
+  "rid": "mashey->mashi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masria->masra",
+  "rid": "masria->masra",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masria->masraa",
+  "rid": "masria->masraa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "masria->masrah",
+  "rid": "masria->masrah",
+  "v": false,
+  "why": "masrah means theater; collides with an unrelated common word."
+ },
+ {
+  "sid": "mawadeee3->mawadie3",
+  "rid": "mawadeee3->mawadie3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "may2dar->mi2dar",
+  "rid": "may2dar->mi2dar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "may2el->mi2el",
+  "rid": "may2el->mi2el",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "may3rafosh->mi3rafosh",
+  "rid": "may3rafosh->mi3rafosh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayb2ash->mib2ash",
+  "rid": "mayb2ash->mib2ash",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydan->midan",
+  "rid": "maydan->midan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydania->maydana",
+  "rid": "maydania->maydana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydania->meedana",
+  "rid": "maydania->meedana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydania->meidana",
+  "rid": "maydania->meidana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydany->midany",
+  "rid": "maydany->midany",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydanya->midanya",
+  "rid": "maydanya->midanya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maydar->midar",
+  "rid": "maydar->midar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayia->maya",
+  "rid": "mayia->maya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayia->mayah",
+  "rid": "mayia->mayah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayk->mik",
+  "rid": "mayk->mik",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maykrobat->mikrobat",
+  "rid": "maykrobat->mikrobat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayla->mila",
+  "rid": "mayla->mila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayleen->mileen",
+  "rid": "mayleen->mileen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maymn3sh->mimn3sh",
+  "rid": "maymn3sh->mimn3sh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maymnash->mimnash",
+  "rid": "maymnash->mimnash",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayna2->mina2",
+  "rid": "mayna2->mina2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "maynf3sh->minf3sh",
+  "rid": "maynf3sh->minf3sh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayw->miw",
+  "rid": "mayw->miw",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayya->miya",
+  "rid": "mayya->miya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mayza->miza",
+  "rid": "mayza->miza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mazaia->maza",
+  "rid": "mazaia->maza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mazaia->mazaa",
+  "rid": "mazaia->mazaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mbaney->mbani",
+  "rid": "mbaney->mbani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mbay3at->mbi3at",
+  "rid": "mbay3at->mbi3at",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mday2a->mdi2a",
+  "rid": "mday2a->mdi2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mday3a->mdi3a",
+  "rid": "mday3a->mdi3a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "media->meda",
+  "rid": "media->meda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "media->medaa",
+  "rid": "media->medaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meelion->meelon",
+  "rid": "meelion->meelon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meelion->meelun",
+  "rid": "meelion->meelun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meelion->melon",
+  "rid": "meelion->melon",
+  "v": false,
+  "why": "melon is the fruit name; collides with an unrelated common word, not a plausible respelling of million."
+ },
+ {
+  "sid": "meia->mea",
+  "rid": "meia->mea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meia->mia",
+  "rid": "meia->mia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meia->miah",
+  "rid": "meia->miah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidan->medan",
+  "rid": "meidan->medan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidan->midan",
+  "rid": "meidan->midan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidaneya->medaneya",
+  "rid": "meidaneya->medaneya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidaneya->medaniya",
+  "rid": "meidaneya->medaniya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidaneya->midaneya",
+  "rid": "meidaneya->midaneya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meidaneya->midaniya",
+  "rid": "meidaneya->midaniya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meina2->mena2",
+  "rid": "meina2->mena2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meina2->mina2",
+  "rid": "meina2->mina2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meisal->mesal",
+  "rid": "meisal->mesal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meisal->misaal",
+  "rid": "meisal->misaal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meisal->misal",
+  "rid": "meisal->misal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melean->melaan",
+  "rid": "melean->melaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melean->melan",
+  "rid": "melean->melan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melean->milan",
+  "rid": "melean->milan",
+  "v": false,
+  "why": "milan reads as the city/club name Milan; collides with an unrelated proper noun."
+ },
+ {
+  "sid": "meleon->melon",
+  "rid": "meleon->melon",
+  "v": false,
+  "why": "melon is the fruit name; collides with an unrelated common word."
+ },
+ {
+  "sid": "meleon->meloon",
+  "rid": "meleon->meloon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meleon->melun",
+  "rid": "meleon->melun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "meleon->milon",
+  "rid": "meleon->milon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melian->melaan",
+  "rid": "melian->melaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melian->melan",
+  "rid": "melian->melan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "melian->milan",
+  "rid": "melian->milan",
+  "v": false,
+  "why": "milan reads as the city/club name Milan; collides with an unrelated proper noun."
+ },
+ {
+  "sid": "meliana->melana",
+  "rid": "meliana->melana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "memayza->memiza",
+  "rid": "memayza->memiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "metday2->metdi2",
+  "rid": "metday2->metdi2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "metday2a->metdi2a",
+  "rid": "metday2a->metdi2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mezaia->meza",
+  "rid": "mezaia->meza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mezaia->mezaa",
+  "rid": "mezaia->mezaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mezyania->mezyana",
+  "rid": "mezyania->mezyana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mezyania->mizyana",
+  "rid": "mezyania->mizyana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mfeeed->mfied",
+  "rid": "mfeeed->mfied",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mganey->mgani",
+  "rid": "mganey->mgani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mia->mah",
+  "rid": "mia->mah",
+  "v": false,
+  "why": "mah is too truncated to read as meya/mia; not a recognizable spelling a real speaker would use."
+ },
+ {
+  "sid": "milion->melon",
+  "rid": "milion->melon",
+  "v": false,
+  "why": "melon is the fruit name; collides with an unrelated common word."
+ },
+ {
+  "sid": "milion->milon",
+  "rid": "milion->milon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "milion->miloon",
+  "rid": "milion->miloon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "milion->milun",
+  "rid": "milion->milun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "milkia->melka",
+  "rid": "milkia->melka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "milkia->milka",
+  "rid": "milkia->milka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "million->mellon",
+  "rid": "million->mellon",
+  "v": false,
+  "why": "mellon reads too close to melon/a surname; not a plausible casual respelling of million."
+ },
+ {
+  "sid": "million->millon",
+  "rid": "million->millon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "million->millun",
+  "rid": "million->millun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "million->milon",
+  "rid": "million->milon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mlayyn->mliyn",
+  "rid": "mlayyn->mliyn",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmayza->mmiza",
+  "rid": "mmayza->mmiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeiz->mez",
+  "rid": "mmeiz->mez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeiz->mmez",
+  "rid": "mmeiz->mmez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeizat->mezat",
+  "rid": "mmeizat->mezat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeizat->mizat",
+  "rid": "mmeizat->mizat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeizat->mmezaat",
+  "rid": "mmeizat->mmezaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeizat->mmezat",
+  "rid": "mmeizat->mmezat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mmeizat->mmizat",
+  "rid": "mmeizat->mmizat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mnain->mnaan",
+  "rid": "mnain->mnaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mnain->mnan",
+  "rid": "mnain->mnan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mo3ayn->mo3in",
+  "rid": "mo3ayn->mo3in",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mo3ayyerat->mo3iyerat",
+  "rid": "mo3ayyerat->mo3iyerat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mobayl->mobil",
+  "rid": "mobayl->mobil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mobileat->mobelat",
+  "rid": "mobileat->mobelat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mobileat->mobilat",
+  "rid": "mobileat->mobilat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mobileat->mubilat",
+  "rid": "mobileat->mubilat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moed->mod",
+  "rid": "moed->mod",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moed->mood",
+  "rid": "moed->mood",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moed->mud",
+  "rid": "moed->mud",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedl->modl",
+  "rid": "moedl->modl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedl->moodl",
+  "rid": "moedl->moodl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedl->mudl",
+  "rid": "moedl->mudl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedlat->modlaat",
+  "rid": "moedlat->modlaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedlat->modlat",
+  "rid": "moedlat->modlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedlat->mudlat",
+  "rid": "moedlat->mudlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedrat->modrat",
+  "rid": "moedrat->modrat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moedrat->mudrat",
+  "rid": "moedrat->mudrat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moeya->moya",
+  "rid": "moeya->moya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moeya->moyaa",
+  "rid": "moeya->moyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moeya->muya",
+  "rid": "moeya->muya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moghzia->mo8za",
+  "rid": "moghzia->mo8za",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mograed->mograad",
+  "rid": "mograed->mograad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mograed->mograd",
+  "rid": "mograed->mograd",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mograed->mugrad",
+  "rid": "mograed->mugrad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mohaymena->mohimena",
+  "rid": "mohaymena->mohimena",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momayza->momiza",
+  "rid": "momayza->momiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momayzat->momizat",
+  "rid": "momayzat->momizat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momayzeen->momizeen",
+  "rid": "momayzeen->momizeen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaz->momtaz",
+  "rid": "momteaz->momtaz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaz->mumtaz",
+  "rid": "momteaz->mumtaz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaza->momtaza",
+  "rid": "momteaza->momtaza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaza->momtazaa",
+  "rid": "momteaza->momtazaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaza->momtazah",
+  "rid": "momteaza->momtazah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "momteaza->mumtaza",
+  "rid": "momteaza->mumtaza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mon7aneat->mon7anat",
+  "rid": "mon7aneat->mon7anat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mon7aneat->monhanat",
+  "rid": "mon7aneat->monhanat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasab->monasab",
+  "rid": "moneasab->monasab",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasab->munasab",
+  "rid": "moneasab->munasab",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasb->monasb",
+  "rid": "moneasb->monasb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasb->munasb",
+  "rid": "moneasb->munasb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasib->monaseb",
+  "rid": "moneasib->monaseb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasib->monasib",
+  "rid": "moneasib->monasib",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "moneasib->munasib",
+  "rid": "moneasib->munasib",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mongolia->mongola",
+  "rid": "mongolia->mongola",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mongolia->mongula",
+  "rid": "mongolia->mongula",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "mongolia->mungola",
+  "rid": "mongolia->mungola",
+  "v": true,
+  "why": ""
+ }
+]

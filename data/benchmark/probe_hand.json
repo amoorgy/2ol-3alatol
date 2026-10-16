@@ -1,0 +1,45 @@
+[
+  {"cluster_id": "gedan", "arabic": "جدا", "meaning_en": "very",
+   "meaning_ar_accept": ["جدا", "جداً"], "register": "neutral",
+   "variants": ["gedan", "gdn"], "review_status": "pending"},
+
+  {"cluster_id": "benhawel", "arabic": "بنحاول", "meaning_en": "we are trying",
+   "meaning_ar_accept": ["بنحاول"], "register": "neutral",
+   "variants": ["benhawel", "benhawl"], "review_status": "pending"},
+
+  {"cluster_id": "walahy", "arabic": "والله", "meaning_en": "I swear",
+   "meaning_ar_accept": ["والله"], "register": "neutral",
+   "variants": ["walahy", "walahi"], "review_status": "pending"},
+
+  {"cluster_id": "ba3atelak", "arabic": "بعتلك", "meaning_en": "I sent you",
+   "meaning_ar_accept": ["بعتلك"], "register": "neutral",
+   "variants": ["ba3atelak", "baatelak", "baatelk"], "review_status": "pending"},
+
+  {"cluster_id": "khasm", "arabic": "خصم", "meaning_en": "discount; opponent",
+   "meaning_ar_accept": ["خصم"], "register": "neutral",
+   "variants": ["khasm", "5asm"], "review_status": "pending"},
+
+  {"cluster_id": "2ol", "arabic": "قول", "meaning_en": "say",
+   "meaning_ar_accept": ["قول"], "register": "neutral",
+   "variants": ["2ol", "oul"], "review_status": "pending"},
+
+  {"cluster_id": "akhsam", "arabic": "أخصام", "meaning_en": "enemies, adversaries",
+   "meaning_ar_accept": ["أخصام", "أعداء"], "register": "colloquial",
+   "variants": ["akhsam", "a5sam", "2akhsam", "2a5sam"], "review_status": "pending"},
+
+  {"cluster_id": "sha2a", "arabic": "شقة", "meaning_en": "apartment",
+   "meaning_ar_accept": ["شقة"], "register": "neutral",
+   "variants": ["sha2a", "4a2a"], "review_status": "pending"},
+
+  {"cluster_id": "3ayez", "arabic": "عايز", "meaning_en": "want",
+   "meaning_ar_accept": ["عايز"], "register": "neutral",
+   "variants": ["3ayez", "aayez", "ayez"], "review_status": "pending"},
+
+  {"cluster_id": "ahsan", "arabic": "أحسن", "meaning_en": "better",
+   "meaning_ar_accept": ["أحسن"], "register": "neutral",
+   "variants": ["a7san", "ahsan"], "review_status": "pending"},
+
+  {"cluster_id": "ghror", "arabic": "غرور", "meaning_en": "conceit, vanity",
+   "meaning_ar_accept": ["غرور"], "register": "neutral",
+   "variants": ["ghror", "8ror"], "review_status": "pending"}
+]

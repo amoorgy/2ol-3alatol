@@ -1,0 +1,1802 @@
+[
+{
+"sid": "3olwi->aolwii",
+"rid": "3olwi->aolwii",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwi->aolwy",
+"rid": "3olwi->aolwy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwi->aulwi",
+"rid": "3olwi->aulwi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwy->aulwy",
+"rid": "3olwy->aulwy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwya->aolwya",
+"rid": "3olwya->aolwya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwya->aolwyaa",
+"rid": "3olwya->aolwyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3olwya->aulwya",
+"rid": "3olwya->aulwya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oly->aoly",
+"rid": "3oly->aoly",
+"v": false,
+"why": "'aoly' reads as awly (أولي, primary/first); 'el gz2 el aoly' = the first part."
+},
+{
+"sid": "3oly->aooly",
+"rid": "3oly->aooly",
+"v": false,
+"why": "'aooly' reads as awwaly (أوّلي, primary), not علوي/العلي."
+},
+{
+"sid": "3oly->auly",
+"rid": "3oly->auly",
+"v": false,
+"why": "'auly' reads as awly (أولي, primary/first), e.g. 'el auly' = the first."
+},
+{
+"sid": "3olya->aolyaa",
+"rid": "3olya->aolyaa",
+"v": false,
+"why": "'aolyaa' reads as awliaa (أولياء, guardians/saints), not عليا."
+},
+{
+"sid": "3olya->aulya",
+"rid": "3olya->aulya",
+"v": false,
+"why": "'aulya' reads as awlya (أولياء, guardians/saints), not عليا."
+},
+{
+"sid": "3olyya->aolyya",
+"rid": "3olyya->aolyya",
+"v": false,
+"why": "'aolyya' reads as awlya (أولية, primary); 'katla aolyya' = primary mass."
+},
+{
+"sid": "3olyya->aulyya",
+"rid": "3olyya->aulyya",
+"v": false,
+"why": "'aulyya' reads as awlya (أولية, primary); 'el keyada el aulyya' = primary leadership."
+},
+{
+"sid": "3om2->aom2",
+"rid": "3om2->aom2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3om2->aoom2",
+"rid": "3om2->aoom2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3om2->aum2",
+"rid": "3om2->aum2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omak->aomaak",
+"rid": "3omak->aomaak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omak->aomak",
+"rid": "3omak->aomak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omak->aumak",
+"rid": "3omak->aumak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omal->aomaal",
+"rid": "3omal->aomaal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omal->aomal",
+"rid": "3omal->aomal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omal->aumal",
+"rid": "3omal->aumal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala->aomala",
+"rid": "3omala->aomala",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala->aomalah",
+"rid": "3omala->aomalah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala->aumala",
+"rid": "3omala->aumala",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2->aomala2",
+"rid": "3omala2->aomala2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2->aomalaa2",
+"rid": "3omala2->aomalaa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2->aumala2",
+"rid": "3omala2->aumala2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2ha->aomala2ha",
+"rid": "3omala2ha->aomala2ha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2ha->aumala2ha",
+"rid": "3omala2ha->aumala2ha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2na->aomala2na",
+"rid": "3omala2na->aomala2na",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2na->aomala2naa",
+"rid": "3omala2na->aomala2naa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omala2na->aumala2na",
+"rid": "3omala2na->aumala2na",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omalat->aomalat",
+"rid": "3omalat->aomalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omalat->aumalat",
+"rid": "3omalat->aumalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omali->aomale",
+"rid": "3omali->aomale",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omali->aomaly",
+"rid": "3omali->aomaly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omali->aumali",
+"rid": "3omali->aumali",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omaliya->aomaleya",
+"rid": "3omaliya->aomaleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omaliya->aomaliya",
+"rid": "3omaliya->aomaliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omaliya->aumaliya",
+"rid": "3omaliya->aumaliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omalya->aomalya",
+"rid": "3omalya->aomalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omalya->aomalyaa",
+"rid": "3omalya->aomalyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omalya->aumalya",
+"rid": "3omalya->aumalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oman->aomaan",
+"rid": "3oman->aomaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oman->aoman",
+"rid": "3oman->aoman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oman->auman",
+"rid": "3oman->auman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omar->aomaar",
+"rid": "3omar->aomaar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omar->aomar",
+"rid": "3omar->aomar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omar->aumar",
+"rid": "3omar->aumar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omda->aomda",
+"rid": "3omda->aomda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omda->aumda",
+"rid": "3omda->aumda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omk->aomk",
+"rid": "3omk->aomk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omk->aoomk",
+"rid": "3omk->aoomk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omk->aumk",
+"rid": "3omk->aumk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla->aomla",
+"rid": "3omla->aomla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla->aomlaa",
+"rid": "3omla->aomlaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla->aomlah",
+"rid": "3omla->aomlah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla->aumla",
+"rid": "3omla->aumla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla2->aomla2",
+"rid": "3omla2->aomla2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omla2->aumla2",
+"rid": "3omla2->aumla2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omlat->aomlaat",
+"rid": "3omlat->aomlaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omlat->aomlat",
+"rid": "3omlat->aomlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omlat->aumlat",
+"rid": "3omlat->aumlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omman->aommaan",
+"rid": "3omman->aommaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omman->aomman",
+"rid": "3omman->aomman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omman->aumman",
+"rid": "3omman->aumman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omody->aomody",
+"rid": "3omody->aomody",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omom->aomom",
+"rid": "3omom->aomom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omom->aomoom",
+"rid": "3omom->aomoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omom->aomum",
+"rid": "3omom->aomum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omomeya->aomumeya",
+"rid": "3omomeya->aomumeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omomiya->aomomiya",
+"rid": "3omomiya->aomomiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omomiya->aomomiyaa",
+"rid": "3omomiya->aomomiyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omomiya->aumomiya",
+"rid": "3omomiya->aumomiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omood->aomood",
+"rid": "3omood->aomood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omood->aumood",
+"rid": "3omood->aumood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omorhom->aomorhom",
+"rid": "3omorhom->aomorhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omorhom->aomorhoom",
+"rid": "3omorhom->aomorhoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omorhom->aomorhum",
+"rid": "3omorhom->aomorhum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omoum->aomoom",
+"rid": "3omoum->aomoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omoum->aomoum",
+"rid": "3omoum->aomoum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omoum->aumoum",
+"rid": "3omoum->aumoum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omq->aoomq",
+"rid": "3omq->aoomq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omr->aomr",
+"rid": "3omr->aomr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omr->aumr",
+"rid": "3omr->aumr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omra->aomra",
+"rid": "3omra->aomra",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omra->aomrah",
+"rid": "3omra->aomrah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omra->aumra",
+"rid": "3omra->aumra",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omraha->aomraha",
+"rid": "3omraha->aomraha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omraha->aomrahaa",
+"rid": "3omraha->aomrahaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omraha->aumraha",
+"rid": "3omraha->aumraha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrak->aomrak",
+"rid": "3omrak->aomrak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrak->aumrak",
+"rid": "3omrak->aumrak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omran->aomraan",
+"rid": "3omran->aomraan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omran->aomran",
+"rid": "3omran->aomran",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omraneya->aomraneya",
+"rid": "3omraneya->aomraneya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omraneya->aomranya",
+"rid": "3omraneya->aomranya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrany->aomraany",
+"rid": "3omrany->aomraany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrany->aomrany",
+"rid": "3omrany->aomrany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrany->aumrany",
+"rid": "3omrany->aumrany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrek->aomrek",
+"rid": "3omrek->aomrek",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrek->aomrik",
+"rid": "3omrek->aomrik",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrek->aumrek",
+"rid": "3omrek->aumrek",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omreya->aomreya",
+"rid": "3omreya->aomreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omreya->aomreyaa",
+"rid": "3omreya->aomreyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omreya->aumreya",
+"rid": "3omreya->aumreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrha->aomrha",
+"rid": "3omrha->aomrha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrha->aomrhaa",
+"rid": "3omrha->aomrhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrha->aumrha",
+"rid": "3omrha->aumrha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrhom->aomrhom",
+"rid": "3omrhom->aomrhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrhom->aomrhoom",
+"rid": "3omrhom->aomrhoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrhom->aomrhum",
+"rid": "3omrhom->aomrhum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrhom->aumrhom",
+"rid": "3omrhom->aumrhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrk->aomrk",
+"rid": "3omrk->aomrk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrk->aoomrk",
+"rid": "3omrk->aoomrk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrk->aumrk",
+"rid": "3omrk->aumrk",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrna->aomrna",
+"rid": "3omrna->aomrna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrna->aumrna",
+"rid": "3omrna->aumrna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omro->aomro",
+"rid": "3omro->aomro",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omro->aomroo",
+"rid": "3omro->aomroo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omro->aumro",
+"rid": "3omro->aumro",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omroh->aomroh",
+"rid": "3omroh->aomroh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omroh->aomruh",
+"rid": "3omroh->aomruh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrohom->aomrohoom",
+"rid": "3omrohom->aomrohoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrohom->aomruhom",
+"rid": "3omrohom->aomruhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrya->aomrya",
+"rid": "3omrya->aomrya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3omrya->aumrya",
+"rid": "3omrya->aumrya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3on2->aon2",
+"rid": "3on2->aon2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3on2->aun2",
+"rid": "3on2->aun2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onf->aonf",
+"rid": "3onf->aonf",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onf->aoonf",
+"rid": "3onf->aoonf",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onhom->aonhom",
+"rid": "3onhom->aonhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onhom->aonhoom",
+"rid": "3onhom->aonhoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onq->aonq",
+"rid": "3onq->aonq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onq->aunq",
+"rid": "3onq->aunq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onqod->aonqod",
+"rid": "3onqod->aonqod",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onqod->aonqood",
+"rid": "3onqod->aonqood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onqod->aonqud",
+"rid": "3onqod->aonqud",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onser->aonser",
+"rid": "3onser->aonser",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onser->aunser",
+"rid": "3onser->aunser",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onseya->aonseya",
+"rid": "3onseya->aonseya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onseya->aonseyaa",
+"rid": "3onseya->aonseyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onseya->aonsiya",
+"rid": "3onseya->aonsiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsor->aonsur",
+"rid": "3onsor->aonsur",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsor->aunsor",
+"rid": "3onsor->aunsor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsoreya->aonsoriya",
+"rid": "3onsoreya->aonsoriya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsoreya->aunsoreya",
+"rid": "3onsoreya->aunsoreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsoria->3onsora",
+"rid": "3onsoria->3onsora",
+"v": false,
+"why": "Dropping the i removes the nisba ية; 3onsora reads as عنصرة (Pentecost), not عنصرية."
+},
+{
+"sid": "3onsoria->aonsora",
+"rid": "3onsoria->aonsora",
+"v": false,
+"why": "'aonsora' loses the ية suffix; reads as عنصرة, not عنصرية (racism)."
+},
+{
+"sid": "3onsoria->aonsoria",
+"rid": "3onsoria->aonsoria",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsoria->aonsoriaa",
+"rid": "3onsoria->aonsoriaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsoria->aonsuria",
+"rid": "3onsoria->aonsuria",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsory->aonsory",
+"rid": "3onsory->aonsory",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsorya->aonsorya",
+"rid": "3onsorya->aonsorya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsorya->aonsurya",
+"rid": "3onsorya->aonsurya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onsr->aonsr",
+"rid": "3onsr->aonsr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onwan->aonwan",
+"rid": "3onwan->aonwan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3onwan->aunwan",
+"rid": "3onwan->aunwan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ood->aod",
+"rid": "3ood->aod",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ood->aood",
+"rid": "3ood->aood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqab->aoqaab",
+"rid": "3oqab->aoqaab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqab->aoqab",
+"rid": "3oqab->aoqab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqab->auqab",
+"rid": "3oqab->auqab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqad->aoqad",
+"rid": "3oqad->aoqad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqad->auqad",
+"rid": "3oqad->auqad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqbat->aoqbaat",
+"rid": "3oqbat->aoqbaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqbat->aoqbat",
+"rid": "3oqbat->aoqbat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqbat->auqbat",
+"rid": "3oqbat->auqbat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqd->aooqd",
+"rid": "3oqd->aooqd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqd->aoqd",
+"rid": "3oqd->aoqd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqda->aoqda",
+"rid": "3oqda->aoqda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqdeen->auqdeen",
+"rid": "3oqdeen->auqdeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqed->aoqd",
+"rid": "3oqed->aoqd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqed->aoqed",
+"rid": "3oqed->aoqed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqed->auqed",
+"rid": "3oqed->auqed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqoba->aoqobaa",
+"rid": "3oqoba->aoqobaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqoba->aoqobah",
+"rid": "3oqoba->aoqobah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqoba->aoquba",
+"rid": "3oqoba->aoquba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqobat->aoqobaat",
+"rid": "3oqobat->aoqobaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqobat->aoqobat",
+"rid": "3oqobat->aoqobat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqobet->aoqobet",
+"rid": "3oqobet->aoqobet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqobet->aoqubet",
+"rid": "3oqobet->aoqubet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqod->aoqod",
+"rid": "3oqod->aoqod",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqod->aoqood",
+"rid": "3oqod->aoqood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqod->aoqud",
+"rid": "3oqod->aoqud",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqool->aoqol",
+"rid": "3oqool->aoqol",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqool->aoqool",
+"rid": "3oqool->aoqool",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqool->auqool",
+"rid": "3oqool->auqool",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oqoud->aoqoud",
+"rid": "3oqoud->aoqoud",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oshr->aoshr",
+"rid": "3oshr->aoshr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oshr->aushr",
+"rid": "3oshr->aushr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osman->aosman",
+"rid": "3osman->aosman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osman->ausman",
+"rid": "3osman->ausman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osoor->aosoor",
+"rid": "3osoor->aosoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osoor->aosor",
+"rid": "3osoor->aosor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osoor->ausoor",
+"rid": "3osoor->ausoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osor->aosor",
+"rid": "3osor->aosor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osor->aosur",
+"rid": "3osor->aosur",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osr->aoosr",
+"rid": "3osr->aoosr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osr->aosr",
+"rid": "3osr->aosr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3osr->ausr",
+"rid": "3osr->ausr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otared->aotard",
+"rid": "3otared->aotard",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otared->aotarid",
+"rid": "3otared->aotarid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otared->autared",
+"rid": "3otared->autared",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oth->aoth",
+"rid": "3oth->aoth",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oth->auth",
+"rid": "3oth->auth",
+"v": false,
+"why": "'auth' is an English word (authentication abbreviation), not عث (moth)."
+},
+{
+"sid": "3othma->aothma",
+"rid": "3othma->aothma",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othma->authma",
+"rid": "3othma->authma",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othman->aothmaan",
+"rid": "3othman->aothmaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othman->aothman",
+"rid": "3othman->aothman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othman->authman",
+"rid": "3othman->authman",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othoor->aothoor",
+"rid": "3othoor->aothoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3othoor->aothor",
+"rid": "3othoor->aothor",
+"v": false,
+"why": "'aothor' is one letter from English 'author'; likely read as that."
+},
+{
+"sid": "3othoor->authoor",
+"rid": "3othoor->authoor",
+"v": false,
+"why": "'authoor' reads as English 'author', not عثور."
+},
+{
+"sid": "3otla->aotla",
+"rid": "3otla->aotla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otla->autla",
+"rid": "3otla->autla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otlat->aotlaat",
+"rid": "3otlat->aotlaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3otlat->aotlat",
+"rid": "3otlat->aotlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oyoon->aoyon",
+"rid": "3oyoon->aoyon",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oyoon->aoyoon",
+"rid": "3oyoon->aoyoon",
+"v": true,
+"why": ""
+},
+{
+"sid": "3oyoon->auyoon",
+"rid": "3oyoon->auyoon",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ozla->aozla",
+"rid": "3ozla->aozla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ozla->auzla",
+"rid": "3ozla->auzla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ozma->aozma",
+"rid": "3ozma->aozma",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qab->aqaab",
+"rid": "3qab->aqaab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qab->aqab",
+"rid": "3qab->aqab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qoba->aqoba",
+"rid": "3qoba->aqoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qoba->aqobaa",
+"rid": "3qoba->aqobaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qoba->aquba",
+"rid": "3qoba->aquba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qod->aqod",
+"rid": "3qod->aqod",
+"v": true,
+"why": ""
+},
+{
+"sid": "3qod->aqood",
+"rid": "3qod->aqood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3r2eya->ar2eya",
+"rid": "3r2eya->ar2eya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3r2eya->ar2iya",
+"rid": "3r2eya->ar2iya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3r2ya->ar2ya",
+"rid": "3r2ya->ar2ya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3r2ya->ar2yaa",
+"rid": "3r2ya->ar2yaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rab->araab",
+"rid": "3rab->araab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rab->arab",
+"rid": "3rab->arab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rad->araad",
+"rid": "3rad->araad",
+"v": false,
+"why": "'araad' reads as أراد (he wanted), not عرض."
+},
+{
+"sid": "3rad->arad",
+"rid": "3rad->arad",
+"v": false,
+"why": "'arad' is the usual spelling of أراد (wanted); 'arad el myzaneya' = wanted the budget."
+},
+{
+"sid": "3raf->araaf",
+"rid": "3raf->araaf",
+"v": false,
+"why": "'araaf' reads as emphatic araf (قرف, disgust) or أعراف, not عرف."
+},
+{
+"sid": "3raf->araf",
+"rid": "3raf->araf",
+"v": false,
+"why": "'araf' is the common Franco spelling of قرف (got disgusted), not عرف."
+},
+{
+"sid": "3rafat->arafaat",
+"rid": "3rafat->arafaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rafat->arafat",
+"rid": "3rafat->arafat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rafna->arafna",
+"rid": "3rafna->arafna",
+"v": false,
+"why": "'arafna' reads as قرفنا (disgusted us), not عرفنا."
+},
+{
+"sid": "3rafna->arafnaa",
+"rid": "3rafna->arafnaa",
+"v": false,
+"why": "'arafnaa' reads as قرفنا (disgusted us), not عرفنا."
+},
+{
+"sid": "3raq->araaq",
+"rid": "3raq->araaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3raq->araq",
+"rid": "3raq->araq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rby->aarby",
+"rid": "3rby->aarby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rby->arbi",
+"rid": "3rby->arbi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rby->arby",
+"rid": "3rby->arby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rbya->arbya",
+"rid": "3rbya->arbya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rbya->arbyaa",
+"rid": "3rbya->arbyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rbyat->arbyaat",
+"rid": "3rbyat->arbyaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rbyat->arbyat",
+"rid": "3rbyat->arbyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rda->arda",
+"rid": "3rda->arda",
+"v": false,
+"why": "'arda' reads as أرض-derived (land/أرضها), not عرضة."
+},
+{
+"sid": "3rda->ardaa",
+"rid": "3rda->ardaa",
+"v": false,
+"why": "'ardaa' reads as أرض-derived or إرضاء, not عرضة."
+},
+{
+"sid": "3rdo->ardo",
+"rid": "3rdo->ardo",
+"v": false,
+"why": "'ardo' is the standard spelling of أرضه (his land), not عرضه (its width)."
+},
+{
+"sid": "3rdo->ardu",
+"rid": "3rdo->ardu",
+"v": false,
+"why": "'ardu' reads as أرضه (his land), not عرضه (its width)."
+},
+{
+"sid": "3reeda->areda",
+"rid": "3reeda->areda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rf->aarf",
+"rid": "3rf->aarf",
+"v": false,
+"why": "'aarf' reads as عارف (knowing, 3aarf), a different word from عرف (knew)."
+},
+{
+"sid": "3rf->arf",
+"rid": "3rf->arf",
+"v": false,
+"why": "'arf' reads as قرف (disgust); 'el arf w el 3ada' = the disgust and habit."
+},
+{
+"sid": "3rfna->arfna",
+"rid": "3rfna->arfna",
+"v": false,
+"why": "'arfna' reads as قرفنا (got disgusted), not عرفنا."
+},
+{
+"sid": "3rfna->arfnaa",
+"rid": "3rfna->arfnaa",
+"v": false,
+"why": "'arfnaa' reads as قرفنا (got disgusted), not عرفنا."
+},
+{
+"sid": "3rft->aarft",
+"rid": "3rft->aarft",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rft->arft",
+"rid": "3rft->arft",
+"v": false,
+"why": "'arft' is the common spelling of قرفت (I got fed up), not عرفت."
+},
+{
+"sid": "3ro2->aro2",
+"rid": "3ro2->aro2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ro2->aru2",
+"rid": "3ro2->aru2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rosa->arosa",
+"rid": "3rosa->arosa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rosa->arosaa",
+"rid": "3rosa->arosaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rosa->arusa",
+"rid": "3rosa->arusa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rwd->aarwd",
+"rid": "3rwd->aarwd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3rwd->arwd",
+"rid": "3rwd->arwd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3saba->asaba",
+"rid": "3saba->asaba",
+"v": false,
+"why": "'asaba' reads as إصابة/أصابه (injury/it hit him), not عصابة."
+},
+{
+"sid": "3saba->asabaa",
+"rid": "3saba->asabaa",
+"v": false,
+"why": "'asabaa' reads as إصابة or أصابع (fingers), not عصابة."
+},
+{
+"sid": "3saby->asaby",
+"rid": "3saby->asaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sby->aasby",
+"rid": "3sby->aasby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sby->asbi",
+"rid": "3sby->asbi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sby->asby",
+"rid": "3sby->asby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sbya->asbya",
+"rid": "3sbya->asbya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sbya->asbyaa",
+"rid": "3sbya->asbyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3seer->aseer",
+"rid": "3seer->aseer",
+"v": false,
+"why": "'aseer' is the standard spelling of أسير (prisoner), not عصير."
+},
+{
+"sid": "3seer->aser",
+"rid": "3seer->aser",
+"v": false,
+"why": "'aser' reads as أسر/آسر (capture), not عصير."
+},
+{
+"sid": "3sh->ash",
+"rid": "3sh->ash",
+"v": false,
+"why": "'ash' is an English word; not عش (nest)."
+},
+{
+"sid": "3sh2->aash2",
+"rid": "3sh2->aash2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sh2->ash2",
+"rid": "3sh2->ash2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sha->asha",
+"rid": "3sha->asha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sha->ashaa",
+"rid": "3sha->ashaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sha2->asha2",
+"rid": "3sha2->asha2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3sha2->ashaa2",
+"rid": "3sha2->ashaa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shaa2->asha2",
+"rid": "3shaa2->asha2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shaa2->ashaa2",
+"rid": "3shaa2->ashaa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shaaq->ashaaq",
+"rid": "3shaaq->ashaaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shaaq->ashaq",
+"rid": "3shaaq->ashaq",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shab->ashaab",
+"rid": "3shab->ashaab",
+"v": false,
+"why": "'ashaab' reads as أصحاب (friends/owners), not أعشاب/عشب."
+},
+{
+"sid": "3shab->ashab",
+"rid": "3shab->ashab",
+"v": false,
+"why": "'ashab' is a common spelling of أصحاب (friends), not أعشاب."
+},
+{
+"sid": "3shan->ashaan",
+"rid": "3shan->ashaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shan->ashan",
+"rid": "3shan->ashan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3shanak->ashanaak",
+"rid": "3shanak->ashanaak",
+"v": true,
+"why": ""
+}
+]

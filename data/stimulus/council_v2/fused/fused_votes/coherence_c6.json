@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_le7ad_12",
+  "rid": "fs_le7ad_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_00",
+  "rid": "fs_le7ad_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_01",
+  "rid": "fs_le7ad_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_02",
+  "rid": "fs_le7ad_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_11",
+  "rid": "fs_el7ad_11",
+  "v": false,
+  "why": "'Yesterday' vs 'Sunday' timeline muddled; great match yet understood only 'last axis' is nonsensical."
+ },
+ {
+  "sid": "fs_el7ad_00",
+  "rid": "fs_el7ad_00",
+  "v": false,
+  "why": "'this day was el7ad betboss 3aleih' (the limit you look at) is nonsensical."
+ },
+ {
+  "sid": "fs_el7ad_02",
+  "rid": "fs_el7ad_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_09",
+  "rid": "fs_el7ad_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_01",
+  "rid": "fs_leehom_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_03",
+  "rid": "fs_leehom_03",
+  "v": false,
+  "why": "'tesa2alhom leehom' (ask them for them) is redundant and muddles who is asked."
+ },
+ {
+  "sid": "fs_3leehom_09",
+  "rid": "fs_3leehom_09",
+  "v": false,
+  "why": "Talking to one friend, then 'what is on them' with no referent for 'them'."
+ },
+ {
+  "sid": "fs_3leehom_10",
+  "rid": "fs_3leehom_10",
+  "v": false,
+  "why": "'Don't drive on them' and 'they all come out correct' make no sense together."
+ },
+ {
+  "sid": "fs_3leehom_07",
+  "rid": "fs_3leehom_07",
+  "v": false,
+  "why": "'The crowd was on them' has no referent; lateness explanation incoherent."
+ },
+ {
+  "sid": "fs_llnas_05",
+  "rid": "fs_llnas_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_13",
+  "rid": "fs_llnas_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_07",
+  "rid": "fs_llnas_07",
+  "v": false,
+  "why": "Being late because I told people I'm coming and they didn't come is illogical."
+ },
+ {
+  "sid": "fs_llnas_04",
+  "rid": "fs_llnas_04",
+  "v": false,
+  "why": "Ending 'all stopped on the clouds (el gheem)' is nonsensical."
+ },
+ {
+  "sid": "fs_elnass_02",
+  "rid": "fs_elnass_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_elnass_09",
+  "rid": "fs_elnass_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_elnass_08",
+  "rid": "fs_elnass_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_elnass_14",
+  "rid": "fs_elnass_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_02",
+  "rid": "fs_lown_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_05",
+  "rid": "fs_lown_05",
+  "v": false,
+  "why": "'Choose the color of the outing' is semantically nonsensical."
+ },
+ {
+  "sid": "fs_lown_03",
+  "rid": "fs_lown_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_04",
+  "rid": "fs_lown_04",
+  "v": false,
+  "why": "'Weather 3afeh' unclear and 'the crowd is tired' odd; scene incoherent."
+ },
+ {
+  "sid": "fs_le2n_11",
+  "rid": "fs_le2n_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_09",
+  "rid": "fs_le2n_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_02",
+  "rid": "fs_le2n_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_05",
+  "rid": "fs_le2n_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_13",
+  "rid": "fs_m7tag_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_03",
+  "rid": "fs_m7tag_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_10",
+  "rid": "fs_m7tag_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_05",
+  "rid": "fs_m7tag_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_04",
+  "rid": "fs_mo7taga_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_10",
+  "rid": "fs_mo7taga_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_01",
+  "rid": "fs_mo7taga_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_11",
+  "rid": "fs_mo7taga_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_09",
+  "rid": "fs_ma3roof_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_04",
+  "rid": "fs_ma3roof_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_14",
+  "rid": "fs_ma3roof_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_06",
+  "rid": "fs_ma3roof_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_07",
+  "rid": "fs_ma3rofa_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_04",
+  "rid": "fs_ma3rofa_04",
+  "v": false,
+  "why": "'Traffic stopped until el 3e8ya' is unintelligible ending."
+ },
+ {
+  "sid": "fs_ma3rofa_15",
+  "rid": "fs_ma3rofa_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_11",
+  "rid": "fs_ma3rofa_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_00",
+  "rid": "fs_magmo3at_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_15",
+  "rid": "fs_magmo3at_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_07",
+  "rid": "fs_magmo3at_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_02",
+  "rid": "fs_magmo3at_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_04",
+  "rid": "fs_magmo3et_04",
+  "v": false,
+  "why": "'group of cars nothing not moving' is garbled, no clear proposition."
+ },
+ {
+  "sid": "fs_magmo3et_03",
+  "rid": "fs_magmo3et_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_12",
+  "rid": "fs_magmo3et_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_06",
+  "rid": "fs_magmo3et_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_01",
+  "rid": "fs_mareed_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_11",
+  "rid": "fs_mareed_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_12",
+  "rid": "fs_mareed_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_09",
+  "rid": "fs_mareed_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_08",
+  "rid": "fs_mawred_08",
+  "v": false,
+  "why": "Diner judging the meat supplier's cleanliness is implausible."
+ },
+ {
+  "sid": "fs_mawred_00",
+  "rid": "fs_mawred_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_10",
+  "rid": "fs_mawred_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_14",
+  "rid": "fs_mawred_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_06",
+  "rid": "fs_masry_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_01",
+  "rid": "fs_masry_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_10",
+  "rid": "fs_masry_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_00",
+  "rid": "fs_masry_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_09",
+  "rid": "fs_masar_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_03",
+  "rid": "fs_masar_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_00",
+  "rid": "fs_masar_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_14",
+  "rid": "fs_mhtmma_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_08",
+  "rid": "fs_mhtmma_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_09",
+  "rid": "fs_mhtmma_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_01",
+  "rid": "fs_mhtmma_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_08",
+  "rid": "fs_mhtm_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_03",
+  "rid": "fs_mhtm_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_07",
+  "rid": "fs_mhtm_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_10",
+  "rid": "fs_mhtm_10",
+  "v": false,
+  "why": "Interest in a topic followed by street directions is a non-sequitur."
+ },
+ {
+  "sid": "fs_mo7adada_07",
+  "rid": "fs_mo7adada_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_00",
+  "rid": "fs_mo7adada_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_09",
+  "rid": "fs_mo7adada_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_02",
+  "rid": "fs_mo7adada_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_06",
+  "rid": "fs_mo7addad_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_11",
+  "rid": "fs_mo7addad_11",
+  "v": false,
+  "why": "Calling a TV series 'specified/defined' makes no sense."
+ },
+ {
+  "sid": "fs_mo7addad_15",
+  "rid": "fs_mo7addad_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_04",
+  "rid": "fs_mo7addad_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_02",
+  "rid": "fs_modda_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_05",
+  "rid": "fs_modda_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_01",
+  "rid": "fs_modda_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_12",
+  "rid": "fs_modda_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_media_12",
+  "rid": "fs_media_12",
+  "v": false,
+  "why": "'Bana2ash sabahy atfajjal' and 'fatar el 3afya' are garbled; routine unclear."
+ },
+ {
+  "sid": "fs_media_06",
+  "rid": "fs_media_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_media_07",
+  "rid": "fs_media_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_media_03",
+  "rid": "fs_media_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_14",
+  "rid": "fs_mokhtalafa_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_10",
+  "rid": "fs_mokhtalafa_10",
+  "v": false,
+  "why": "Mixes 'way differs from your hometown' with turn directions; muddled."
+ },
+ {
+  "sid": "fs_mokhtalafa_02",
+  "rid": "fs_mokhtalafa_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_05",
+  "rid": "fs_mokhtalafa_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_05",
+  "rid": "fs_mokhtalef_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_10",
+  "rid": "fs_mokhtalef_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_07",
+  "rid": "fs_mokhtalef_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_03",
+  "rid": "fs_mokhtalef_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_06",
+  "rid": "fs_momayza_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_03",
+  "rid": "fs_momayza_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_13",
+  "rid": "fs_momayza_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_15",
+  "rid": "fs_momayza_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_01",
+  "rid": "fs_momayez_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_07",
+  "rid": "fs_momayez_07",
+  "v": false,
+  "why": "Mechanic being 'distinctive' as reason it took time is a non-sequitur."
+ },
+ {
+  "sid": "fs_momayez_04",
+  "rid": "fs_momayez_04",
+  "v": false,
+  "why": "'The street crowd is very distinctive' is nonsensical in context."
+ },
+ {
+  "sid": "fs_momayez_03",
+  "rid": "fs_momayez_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3added_10",
+  "rid": "fs_mot3added_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3added_09",
+  "rid": "fs_mot3added_09",
+  "v": false,
+  "why": "'The past period had many congratulations' then 'means it's a happy day' contradicts."
+ },
+ {
+  "sid": "fs_mot3added_04",
+  "rid": "fs_mot3added_04",
+  "v": false,
+  "why": "'Traffic is very multiple' is nonsensical."
+ },
+ {
+  "sid": "fs_mot3added_13",
+  "rid": "fs_mot3added_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_09",
+  "rid": "fs_mot3adeda_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_06",
+  "rid": "fs_mot3adeda_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_14",
+  "rid": "fs_mot3adeda_14",
+  "v": true,
+  "why": ""
+ }
+]

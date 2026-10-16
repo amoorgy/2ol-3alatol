@@ -1,0 +1,1802 @@
+[
+{
+"sid": "3aroosa->aroosa",
+"rid": "3aroosa->aroosa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arosa->aarosa",
+"rid": "3arosa->aarosa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arosa->aarusa",
+"rid": "3arosa->aarusa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arosa->arosa",
+"rid": "3arosa->arosa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aroud->aarood",
+"rid": "3aroud->aarood",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aroud->aaroud",
+"rid": "3aroud->aaroud",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arousa->aarousa",
+"rid": "3arousa->aarousa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arousa->arousa",
+"rid": "3arousa->arousa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arsh->aarsh",
+"rid": "3arsh->aarsh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arsh->arsh",
+"rid": "3arsh->arsh",
+"v": false,
+"why": "arsh reads as أرش (arosh, I spray) with inner vowel dropped, or قرش (2ersh)"
+},
+{
+"sid": "3ary->aary",
+"rid": "3ary->aary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ary->ary",
+"rid": "3ary->ary",
+"v": false,
+"why": "ary reads as قاري/قارئ (2ary) with glottal stop dropped"
+},
+{
+"sid": "3arya->aarya",
+"rid": "3arya->aarya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arya->aaryaa",
+"rid": "3arya->aaryaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3arya->arya",
+"rid": "3arya->arya",
+"v": false,
+"why": "arya reads as قرية (2arya, village) with glottal stop dropped"
+},
+{
+"sid": "3asa->aasa",
+"rid": "3asa->aasa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asa->aasaa",
+"rid": "3asa->aasaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asa->asa",
+"rid": "3asa->asa",
+"v": false,
+"why": "asa reads as أسى (grief) or قسى (2asa, hardened)"
+},
+{
+"sid": "3asab->aasaab",
+"rid": "3asab->aasaab",
+"v": false,
+"why": "aasaab reads as أعصاب (a3saab, nerves) via medial ع written as vowel"
+},
+{
+"sid": "3asab->aasab",
+"rid": "3asab->aasab",
+"v": false,
+"why": "aasab reads as أعصاب (a3sab, nerves) via medial ع written as vowel"
+},
+{
+"sid": "3asab->asab",
+"rid": "3asab->asab",
+"v": false,
+"why": "asab reads as قصب (2asab, sugar cane) or أصاب (hit)"
+},
+{
+"sid": "3asaba->aasaba",
+"rid": "3asaba->aasaba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaba->asaba",
+"rid": "3asaba->asaba",
+"v": false,
+"why": "asaba reads as قصبة (2asaba) or أصابه (hit him)"
+},
+{
+"sid": "3asabeya->aasabeya",
+"rid": "3asabeya->aasabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asabeya->aasabya",
+"rid": "3asabeya->aasabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asabeya->asabeya",
+"rid": "3asabeya->asabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asabi->aasabi",
+"rid": "3asabi->aasabi",
+"v": false,
+"why": "aasabi reads as أعصابي (a3sabi, my nerves), very common Egyptian"
+},
+{
+"sid": "3asabi->aasaby",
+"rid": "3asabi->aasaby",
+"v": false,
+"why": "aasaby reads as أعصابي (a3sabi, my nerves), very common Egyptian"
+},
+{
+"sid": "3asabi->asabi",
+"rid": "3asabi->asabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaby->aasaaby",
+"rid": "3asaby->aasaaby",
+"v": false,
+"why": "aasaaby matches أعصابي (a3saabi, my nerves) with ع as vowel"
+},
+{
+"sid": "3asaby->aasabi",
+"rid": "3asaby->aasabi",
+"v": false,
+"why": "aasabi reads as أعصابي (a3sabi, my nerves), very common Egyptian"
+},
+{
+"sid": "3asaby->aasaby",
+"rid": "3asaby->aasaby",
+"v": false,
+"why": "aasaby reads as أعصابي (a3sabi, my nerves), very common Egyptian"
+},
+{
+"sid": "3asaby->asaby",
+"rid": "3asaby->asaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asabya->aasabya",
+"rid": "3asabya->aasabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asabya->asabya",
+"rid": "3asabya->asabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asafeer->aasafeer",
+"rid": "3asafeer->aasafeer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asafeer->aasafeir",
+"rid": "3asafeer->aasafeir",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asafeer->aasafer",
+"rid": "3asafeer->aasafer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asafeer->asafeer",
+"rid": "3asafeer->asafeer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaker->aasakeer",
+"rid": "3asaker->aasakeer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaker->aasaker",
+"rid": "3asaker->aasaker",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaker->aasakir",
+"rid": "3asaker->aasakir",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaker->asaker",
+"rid": "3asaker->asaker",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asal->aasaal",
+"rid": "3asal->aasaal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asal->aasal",
+"rid": "3asal->aasal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asal->asal",
+"rid": "3asal->asal",
+"v": false,
+"why": "asal reads as أسأل (as2al, I ask) with hamza dropped"
+},
+{
+"sid": "3asara->aasara",
+"rid": "3asara->aasara",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asara->aasaraa",
+"rid": "3asara->aasaraa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asara->asara",
+"rid": "3asara->asara",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asarat->aasarat",
+"rid": "3asarat->aasarat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asarat->asarat",
+"rid": "3asarat->asarat",
+"v": false,
+"why": "asarat reads as أثّرت (asarat, it affected)"
+},
+{
+"sid": "3asaya->aasaya",
+"rid": "3asaya->aasaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaya->aasayaa",
+"rid": "3asaya->aasayaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asaya->asaya",
+"rid": "3asaya->asaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asayer->aasayer",
+"rid": "3asayer->aasayer",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asayer->aasayir",
+"rid": "3asayer->aasayir",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asayer->asayer",
+"rid": "3asayer->asayer",
+"v": false,
+"why": "asayer reads as أساير (asayer, I go along with)"
+},
+{
+"sid": "3asby->aaasby",
+"rid": "3asby->aaasby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asby->aasbi",
+"rid": "3asby->aasbi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asby->aasby",
+"rid": "3asby->aasby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aseb->aasb",
+"rid": "3aseb->aasb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aseb->aaseb",
+"rid": "3aseb->aaseb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aseb->aseb",
+"rid": "3aseb->aseb",
+"v": false,
+"why": "aseb is a common spelling of أسيب (aseeb, I leave)"
+},
+{
+"sid": "3asebeya->aasebeya",
+"rid": "3asebeya->aasebeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asebeya->aasebiya",
+"rid": "3asebeya->aasebiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asebeya->aasebya",
+"rid": "3asebeya->aasebya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asebya->aasebya",
+"rid": "3asebya->aasebya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asebya->aasibya",
+"rid": "3asebya->aasibya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asef->aaseef",
+"rid": "3asef->aaseef",
+"v": false,
+"why": "aaseef reads as elongated آسف (aasef, sorry)"
+},
+{
+"sid": "3asef->aasef",
+"rid": "3asef->aasef",
+"v": false,
+"why": "aasef is the standard Franco spelling of آسف (sorry)"
+},
+{
+"sid": "3asef->aasf",
+"rid": "3asef->aasf",
+"v": false,
+"why": "aasf reads as آسف (sorry)"
+},
+{
+"sid": "3asef->asef",
+"rid": "3asef->asef",
+"v": false,
+"why": "asef is the standard Franco spelling of آسف (sorry)"
+},
+{
+"sid": "3asefa->aasefaa",
+"rid": "3asefa->aasefaa",
+"v": false,
+"why": "aasefaa reads as آسفة (sorry, feminine)"
+},
+{
+"sid": "3asefa->aasifa",
+"rid": "3asefa->aasifa",
+"v": false,
+"why": "aasifa reads as آسفة (aasifa, sorry, feminine)"
+},
+{
+"sid": "3asem->aasem",
+"rid": "3asem->aasem",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asem->aasim",
+"rid": "3asem->aasim",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asema->aasema",
+"rid": "3asema->aasema",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asema->asema",
+"rid": "3asema->asema",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemat->aasemat",
+"rid": "3asemat->aasemat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemat->aasimat",
+"rid": "3asemat->aasimat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemat->asemat",
+"rid": "3asemat->asemat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemataha->aasemataha",
+"rid": "3asemataha->aasemataha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemataha->aasimataha",
+"rid": "3asemataha->aasimataha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asemataha->asemataha",
+"rid": "3asemataha->asemataha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aser->aaser",
+"rid": "3aser->aaser",
+"v": false,
+"why": "aaser reads as آسر (captivating; the name Asser)"
+},
+{
+"sid": "3aser->aasir",
+"rid": "3aser->aasir",
+"v": false,
+"why": "aasir reads as عصير/عسير (3asir) or آسر (aasir)"
+},
+{
+"sid": "3aser->aser",
+"rid": "3aser->aser",
+"v": false,
+"why": "aser reads as the name آسر, أسر (captivity) or قاصر (2aser)"
+},
+{
+"sid": "3aseyan->aaseyan",
+"rid": "3aseyan->aaseyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aseyan->aasiyan",
+"rid": "3aseyan->aasiyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aseyan->aseyan",
+"rid": "3aseyan->aseyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asf->aasf",
+"rid": "3asf->aasf",
+"v": false,
+"why": "aasf reads as آسف (sorry)"
+},
+{
+"sid": "3asf->asf",
+"rid": "3asf->asf",
+"v": false,
+"why": "asf is a common Franco spelling of آسف (sorry)"
+},
+{
+"sid": "3asfa->aasfa",
+"rid": "3asfa->aasfa",
+"v": false,
+"why": "aasfa is the standard Franco spelling of آسفة (sorry, feminine)"
+},
+{
+"sid": "3asfa->aasfaa",
+"rid": "3asfa->aasfaa",
+"v": false,
+"why": "aasfaa reads as آسفة (sorry, feminine)"
+},
+{
+"sid": "3asfa->asfa",
+"rid": "3asfa->asfa",
+"v": false,
+"why": "asfa is a common Franco spelling of آسفة (sorry, feminine)"
+},
+{
+"sid": "3asfet->aasfet",
+"rid": "3asfet->aasfet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfet->aasfit",
+"rid": "3asfet->aasfit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfet->asfet",
+"rid": "3asfet->asfet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfoor->aasfoor",
+"rid": "3asfoor->aasfoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfoor->aasfor",
+"rid": "3asfoor->aasfor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfoor->asfoor",
+"rid": "3asfoor->asfoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asfour->aasfour",
+"rid": "3asfour->aasfour",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ash->aash",
+"rid": "3ash->aash",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ash->ash",
+"rid": "3ash->ash",
+"v": false,
+"why": "ash is an English word; also قش (2ash, straw)"
+},
+{
+"sid": "3asha->aasha",
+"rid": "3asha->aasha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asha->aashaa",
+"rid": "3asha->aashaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asha->asha",
+"rid": "3asha->asha",
+"v": false,
+"why": "asha reads as قشة (2asha, straw)"
+},
+{
+"sid": "3asha2->aasha2",
+"rid": "3asha2->aasha2",
+"v": false,
+"why": "aasha2 reads as أعشق (a3sha2, I adore) via medial ع as vowel"
+},
+{
+"sid": "3asha2->aashaa2",
+"rid": "3asha2->aashaa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asha2->asha2",
+"rid": "3asha2->asha2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashab->aashab",
+"rid": "3ashab->aashab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashab->ashab",
+"rid": "3ashab->ashab",
+"v": false,
+"why": "ashab is a very common spelling of أصحاب (as7ab, friends)"
+},
+{
+"sid": "3ashabeya->aashabeya",
+"rid": "3ashabeya->aashabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabeya->aashabiya",
+"rid": "3ashabeya->aashabiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabi->aashabe",
+"rid": "3ashabi->aashabe",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabi->aashabi",
+"rid": "3ashabi->aashabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabi->aashaby",
+"rid": "3ashabi->aashaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabi->ashabi",
+"rid": "3ashabi->ashabi",
+"v": false,
+"why": "ashabi reads as أصحابي (my friends), very common"
+},
+{
+"sid": "3ashaby->aashabi",
+"rid": "3ashaby->aashabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashaby->aashaby",
+"rid": "3ashaby->aashaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashaby->ashaby",
+"rid": "3ashaby->ashaby",
+"v": false,
+"why": "ashaby reads as أصحابي (my friends), very common"
+},
+{
+"sid": "3ashabya->aashabya",
+"rid": "3ashabya->aashabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabya->aashabyaa",
+"rid": "3ashabya->aashabyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashabya->ashabya",
+"rid": "3ashabya->ashabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashan->aashaan",
+"rid": "3ashan->aashaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashan->aashan",
+"rid": "3ashan->aashan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashan->ashan",
+"rid": "3ashan->ashan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashana->aashana",
+"rid": "3ashana->aashana",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashana->aashanaa",
+"rid": "3ashana->aashanaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashana->ashana",
+"rid": "3ashana->ashana",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanaha->aashanaha",
+"rid": "3ashanaha->aashanaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanaha->ashanaha",
+"rid": "3ashanaha->ashanaha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanak->aashanak",
+"rid": "3ashanak->aashanak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanak->ashanak",
+"rid": "3ashanak->ashanak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanha->aashanha",
+"rid": "3ashanha->aashanha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanha->aashanhaa",
+"rid": "3ashanha->aashanhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanha->ashanha",
+"rid": "3ashanha->ashanha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanna->aashana",
+"rid": "3ashanna->aashana",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanna->aashanna",
+"rid": "3ashanna->aashanna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanna->ashanna",
+"rid": "3ashanna->ashanna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashano->aashano",
+"rid": "3ashano->aashano",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashano->aashanoo",
+"rid": "3ashano->aashanoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashano->aashanu",
+"rid": "3ashano->aashanu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashano->ashano",
+"rid": "3ashano->ashano",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanoh->aashanoh",
+"rid": "3ashanoh->aashanoh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanoh->aashanooh",
+"rid": "3ashanoh->aashanooh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanoh->aashanuh",
+"rid": "3ashanoh->aashanuh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanoh->ashanoh",
+"rid": "3ashanoh->ashanoh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanohom->aashanohom",
+"rid": "3ashanohom->aashanohom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashanohom->ashanohom",
+"rid": "3ashanohom->ashanohom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashar->aashaar",
+"rid": "3ashar->aashaar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashar->aashar",
+"rid": "3ashar->aashar",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashar->ashar",
+"rid": "3ashar->ashar",
+"v": false,
+"why": "ashar reads as أشهر (most famous, attested in this chunk) or أسهر"
+},
+{
+"sid": "3ashara->aashara",
+"rid": "3ashara->aashara",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashara->aasharaa",
+"rid": "3ashara->aasharaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashara->ashara",
+"rid": "3ashara->ashara",
+"v": false,
+"why": "ashara reads as إشارة (sign) or أشار (pointed)"
+},
+{
+"sid": "3asharat->aasharaat",
+"rid": "3asharat->aasharaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asharat->aasharat",
+"rid": "3asharat->aasharat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asharat->asharat",
+"rid": "3asharat->asharat",
+"v": false,
+"why": "asharat reads as إشارات (signals) or أشارت (she pointed)"
+},
+{
+"sid": "3ashary->aashaary",
+"rid": "3ashary->aashaary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashary->aashari",
+"rid": "3ashary->aashari",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashary->aashary",
+"rid": "3ashary->aashary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashary->ashary",
+"rid": "3ashary->ashary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashba->aashba",
+"rid": "3ashba->aashba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashba->aashbaa",
+"rid": "3ashba->aashbaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashba->ashba",
+"rid": "3ashba->ashba",
+"v": false,
+"why": "ashba reads as أشبه (ashbah, more like) or أشبع"
+},
+{
+"sid": "3ashe2->aash2",
+"rid": "3ashe2->aash2",
+"v": false,
+"why": "aash2 reads as عشق (3ash2, love), a different word from عاشق"
+},
+{
+"sid": "3ashe2->aashee2",
+"rid": "3ashe2->aashee2",
+"v": false,
+"why": "aashee2 reads as عشيق (3ashee2, paramour), a different word"
+},
+{
+"sid": "3ashe2->aashi2",
+"rid": "3ashe2->aashi2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashe2->ashe2",
+"rid": "3ashe2->ashe2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asher->aasheer",
+"rid": "3asher->aasheer",
+"v": false,
+"why": "aasheer reads as عشير (3asheer, companion/clan) or أشير"
+},
+{
+"sid": "3asher->aasher",
+"rid": "3asher->aasher",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asher->asher",
+"rid": "3asher->asher",
+"v": false,
+"why": "asher reads as أشعر/أشير or the English name Asher"
+},
+{
+"sid": "3ashoo->aasho",
+"rid": "3ashoo->aasho",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashoo->aashoo",
+"rid": "3ashoo->aashoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashou->aashoo",
+"rid": "3ashou->aashoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashou->aashou",
+"rid": "3ashou->aashou",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashour->aashoor",
+"rid": "3ashour->aashoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashour->aashour",
+"rid": "3ashour->aashour",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashour->aashouur",
+"rid": "3ashour->aashouur",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashour->ashour",
+"rid": "3ashour->ashour",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashr->aashr",
+"rid": "3ashr->aashr",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashr->ashr",
+"rid": "3ashr->ashr",
+"v": false,
+"why": "ashr reads as أشهر (months) or ashar with inner vowel dropped"
+},
+{
+"sid": "3ashra->aashra",
+"rid": "3ashra->aashra",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashra->aashraa",
+"rid": "3ashra->aashraa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashra->ashra",
+"rid": "3ashra->ashra",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashrat->aashrat",
+"rid": "3ashrat->aashrat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashrat->ashrat",
+"rid": "3ashrat->ashrat",
+"v": false,
+"why": "ashrat reads as أشراط (signs) or أشارت with inner vowel dropped"
+},
+{
+"sid": "3ashreen->aashreen",
+"rid": "3ashreen->aashreen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashreen->aashren",
+"rid": "3ashreen->aashren",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashreya->aashreya",
+"rid": "3ashreya->aashreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashreya->aashriya",
+"rid": "3ashreya->aashriya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashreya->ashreya",
+"rid": "3ashreya->ashreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashry->aashri",
+"rid": "3ashry->aashri",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashry->aashry",
+"rid": "3ashry->aashry",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashry->ashry",
+"rid": "3ashry->ashry",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asht->aasht",
+"rid": "3asht->aasht",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asht->asht",
+"rid": "3asht->asht",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashu->aasho",
+"rid": "3ashu->aasho",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashu->aashu",
+"rid": "3ashu->aashu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashu->ashu",
+"rid": "3ashu->ashu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eya->aashwa2eya",
+"rid": "3ashwa2eya->aashwa2eya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eya->aashwa2iya",
+"rid": "3ashwa2eya->aashwa2iya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eya->ashwa2eya",
+"rid": "3ashwa2eya->ashwa2eya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eyat->aashwa2eyat",
+"rid": "3ashwa2eyat->aashwa2eyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eyat->aashwa2iyat",
+"rid": "3ashwa2eyat->aashwa2iyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2eyat->ashwa2eyat",
+"rid": "3ashwa2eyat->ashwa2eyat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2y->aashwa2i",
+"rid": "3ashwa2y->aashwa2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2y->aashwa2y",
+"rid": "3ashwa2y->aashwa2y",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2y->ashwa2y",
+"rid": "3ashwa2y->ashwa2y",
+"v": false,
+"why": "ashwa2y reads as أشواقي (ashwa2i, my longings)"
+},
+{
+"sid": "3ashwa2ya->aashwa2ya",
+"rid": "3ashwa2ya->aashwa2ya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2ya->aashwa2yaa",
+"rid": "3ashwa2ya->aashwa2yaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2ya->ashwa2ya",
+"rid": "3ashwa2ya->ashwa2ya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2yan->aashwa2yaan",
+"rid": "3ashwa2yan->aashwa2yaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2yan->aashwa2yan",
+"rid": "3ashwa2yan->aashwa2yan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwa2yan->ashwa2yan",
+"rid": "3ashwa2yan->ashwa2yan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaeya->aashwaeya",
+"rid": "3ashwaeya->aashwaeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaeya->ashwaeya",
+"rid": "3ashwaeya->ashwaeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaia->aashwaia",
+"rid": "3ashwaia->aashwaia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaia->ashwaia",
+"rid": "3ashwaia->ashwaia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaya->aashwaya",
+"rid": "3ashwaya->aashwaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaya->aashwayaa",
+"rid": "3ashwaya->aashwayaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ashwaya->ashwaya",
+"rid": "3ashwaya->ashwaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askareen->aaskareen",
+"rid": "3askareen->aaskareen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askareen->aaskaren",
+"rid": "3askareen->aaskaren",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askareen->askareen",
+"rid": "3askareen->askareen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askareya->aaskareya",
+"rid": "3askareya->aaskareya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askari->aaskare",
+"rid": "3askari->aaskare",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askari->askari",
+"rid": "3askari->askari",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askaria->3askara",
+"rid": "3askaria->3askara",
+"v": false,
+"why": "3askara is عسكرة (militarization), a different word"
+},
+{
+"sid": "3askaria->3askaraa",
+"rid": "3askaria->3askaraa",
+"v": false,
+"why": "3askaraa reads as عسكرة (militarization), a different word"
+},
+{
+"sid": "3askaria->aaskara",
+"rid": "3askaria->aaskara",
+"v": false,
+"why": "aaskara reads as عسكرة (3askara, militarization)"
+},
+{
+"sid": "3askaria->aaskaria",
+"rid": "3askaria->aaskaria",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askaria->askaria",
+"rid": "3askaria->askaria",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askariya->aaskareya",
+"rid": "3askariya->aaskareya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askariya->aaskariya",
+"rid": "3askariya->aaskariya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askariya->askariya",
+"rid": "3askariya->askariya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askary->aaskaary",
+"rid": "3askary->aaskaary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askary->aaskari",
+"rid": "3askary->aaskari",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askary->aaskary",
+"rid": "3askary->aaskary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askary->askary",
+"rid": "3askary->askary",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askarya->aaskarya",
+"rid": "3askarya->aaskarya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askarya->askarya",
+"rid": "3askarya->askarya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askerya->aaskerya",
+"rid": "3askerya->aaskerya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askerya->aaskirya",
+"rid": "3askerya->aaskirya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askreya->aaskreya",
+"rid": "3askreya->aaskreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askreya->aaskreyaa",
+"rid": "3askreya->aaskreyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askreya->aaskriya",
+"rid": "3askreya->aaskriya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askreya->askreya",
+"rid": "3askreya->askreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askry->aaskri",
+"rid": "3askry->aaskri",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askry->aaskry",
+"rid": "3askry->aaskry",
+"v": true,
+"why": ""
+},
+{
+"sid": "3askry->askry",
+"rid": "3askry->askry",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asly->aasli",
+"rid": "3asly->aasli",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asly->aasly",
+"rid": "3asly->aasly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asly->asly",
+"rid": "3asly->asly",
+"v": false,
+"why": "asly is the common spelling of أصلي (original / my origin)"
+},
+{
+"sid": "3asoor->aasoor",
+"rid": "3asoor->aasoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asoor->aasor",
+"rid": "3asoor->aasor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asoor->asoor",
+"rid": "3asoor->asoor",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asra->aasra",
+"rid": "3asra->aasra",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asra->aasraa",
+"rid": "3asra->aasraa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asra->asra",
+"rid": "3asra->asra",
+"v": false,
+"why": "asra reads as أسرى (captives), أسرع, or the name Esraa"
+},
+{
+"sid": "3asran->aasraan",
+"rid": "3asran->aasraan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asran->aasran",
+"rid": "3asran->aasran",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asran->asran",
+"rid": "3asran->asran",
+"v": false,
+"why": "asran reads as قسراً (2asran, forcibly)"
+},
+{
+"sid": "3asreya->aasreya",
+"rid": "3asreya->aasreya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asreya->aasriya",
+"rid": "3asreya->aasriya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asreya->asreya",
+"rid": "3asreya->asreya",
+"v": false,
+"why": "asreya reads as قصرية (2asreya, pot) or أسرية (familial)"
+},
+{
+"sid": "3asrna->aasrna",
+"rid": "3asrna->aasrna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asrna->asrna",
+"rid": "3asrna->asrna",
+"v": false,
+"why": "asrna reads as قصرنا (2asarna) or أسرنا (our family/captured)"
+},
+{
+"sid": "3asro->aasro",
+"rid": "3asro->aasro",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asro->asro",
+"rid": "3asro->asro",
+"v": false,
+"why": "asro reads as قصره (2asro, his palace) or أسره"
+},
+{
+"sid": "3asroh->aasroh",
+"rid": "3asroh->aasroh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asroh->aasruh",
+"rid": "3asroh->aasruh",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asroh->asroh",
+"rid": "3asroh->asroh",
+"v": false,
+"why": "asroh reads as قصره (2asroh, his palace) or أسره"
+},
+{
+"sid": "3asry->aasry",
+"rid": "3asry->aasry",
+"v": true,
+"why": ""
+},
+{
+"sid": "3asry->asry",
+"rid": "3asry->asry",
+"v": false,
+"why": "asry reads as قسري (2asry, forced) or أسري (familial)"
+},
+{
+"sid": "3ata->aata",
+"rid": "3ata->aata",
+"v": false,
+"why": "aata reads as أعطى (a3ta, he gave) via medial ع as vowel"
+},
+{
+"sid": "3ata->aatah",
+"rid": "3ata->aatah",
+"v": false,
+"why": "aatah reads as أعطاه (gave him) or أتاه (came to him)"
+},
+{
+"sid": "3ata->ata",
+"rid": "3ata->ata",
+"v": false,
+"why": "ata reads as أتى (came)"
+},
+{
+"sid": "3ata2->aata2",
+"rid": "3ata2->aata2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ata2->aataa2",
+"rid": "3ata2->aataa2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ata2->ata2",
+"rid": "3ata2->ata2",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ataba->aataba",
+"rid": "3ataba->aataba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ataba->aatabaa",
+"rid": "3ataba->aatabaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ataba->ataba",
+"rid": "3ataba->ataba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atabat->aatabaat",
+"rid": "3atabat->aatabaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atabat->aatabat",
+"rid": "3atabat->aatabat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atabat->atabat",
+"rid": "3atabat->atabat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafeya->aatafeya",
+"rid": "3atafeya->aatafeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafeya->aatafeyaa",
+"rid": "3atafeya->aatafeyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafeya->aatafiya",
+"rid": "3atafeya->aatafiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafeya->atafeya",
+"rid": "3atafeya->atafeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafy->aatafy",
+"rid": "3atafy->aatafy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafya->aatafya",
+"rid": "3atafya->aatafya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atafya->atafya",
+"rid": "3atafya->atafya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atal->aataal",
+"rid": "3atal->aataal",
+"v": false,
+"why": "aataal reads as أعطال (a3taal, faults) via medial ع as vowel"
+},
+{
+"sid": "3atal->aatal",
+"rid": "3atal->aatal",
+"v": false,
+"why": "aatal reads as أعطال (a3tal, faults) or قاتل (2aatal)"
+},
+{
+"sid": "3atal->atal",
+"rid": "3atal->atal",
+"v": false,
+"why": "atal reads as قتل (2atal, killed), very common"
+},
+{
+"sid": "3atareya->aatareya",
+"rid": "3atareya->aatareya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3atareya->aatariya",
+"rid": "3atareya->aatariya",
+"v": true,
+"why": ""
+}
+]

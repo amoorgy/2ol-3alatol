@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_2a2ema_02",
+  "rid": "fs_2a2ema_02",
+  "v": false,
+  "why": "Garbled trailing fragment 'akammel shy el yom' tacked onto the end."
+ },
+ {
+  "sid": "fs_2a2ema_05",
+  "rid": "fs_2a2ema_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2ema_09",
+  "rid": "fs_2a2ema_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2ema_13",
+  "rid": "fs_2a2ema_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_09",
+  "rid": "fs_2a2em_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_01",
+  "rid": "fs_2a2em_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_08",
+  "rid": "fs_2a2em_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2a2em_05",
+  "rid": "fs_2a2em_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adra_12",
+  "rid": "fs_2adra_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adra_06",
+  "rid": "fs_2adra_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adra_13",
+  "rid": "fs_2adra_13",
+  "v": false,
+  "why": "Garbled non-word 'mota3mil' where 'momken' was intended."
+ },
+ {
+  "sid": "fs_dayra_03",
+  "rid": "fs_dayra_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_dayra_13",
+  "rid": "fs_dayra_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_dayra_07",
+  "rid": "fs_dayra_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_dayra_10",
+  "rid": "fs_dayra_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_07",
+  "rid": "fs_2al_07",
+  "v": false,
+  "why": "Nonsense phrase 'el zar3a kanet kahla'; garbled generation."
+ },
+ {
+  "sid": "fs_2al_12",
+  "rid": "fs_2al_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_05",
+  "rid": "fs_2al_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al_01",
+  "rid": "fs_2al_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_15",
+  "rid": "fs_2awla_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_05",
+  "rid": "fs_2awla_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_09",
+  "rid": "fs_2awla_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2awla_08",
+  "rid": "fs_2awla_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_13",
+  "rid": "fs_2alb_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_11",
+  "rid": "fs_2alb_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2alb_03",
+  "rid": "fs_2alb_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_14",
+  "rid": "fs_2al3ab_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_02",
+  "rid": "fs_2al3ab_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2al3ab_03",
+  "rid": "fs_2al3ab_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_13",
+  "rid": "fs_2odam_13",
+  "v": false,
+  "why": "Repeats 'nesit ... nseet' (forgot) twice; redundant loop."
+ },
+ {
+  "sid": "fs_2odam_10",
+  "rid": "fs_2odam_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2odam_12",
+  "rid": "fs_2odam_12",
+  "v": false,
+  "why": "Garbled nonsense phrase 'batab telphoni'."
+ },
+ {
+  "sid": "fs_2odam_14",
+  "rid": "fs_2odam_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_06",
+  "rid": "fs_3edam_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_08",
+  "rid": "fs_3edam_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3edam_10",
+  "rid": "fs_3edam_10",
+  "v": false,
+  "why": "Double space, vowel-less garbled tokens ('htdy', 'dwr'), repeated '3la twl/3la tol'."
+ },
+ {
+  "sid": "fs_3edam_15",
+  "rid": "fs_3edam_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3abr_09",
+  "rid": "fs_3abr_09",
+  "v": false,
+  "why": "Repeats 'akhbarak' twice; formulaic greeting tacked onto end."
+ },
+ {
+  "sid": "fs_3abr_04",
+  "rid": "fs_3abr_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3abr_08",
+  "rid": "fs_3abr_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3abr_12",
+  "rid": "fs_3abr_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ebra_13",
+  "rid": "fs_3ebra_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ebra_06",
+  "rid": "fs_3ebra_06",
+  "v": false,
+  "why": "Garbled 'asa2ny' and incoherent trailing 'ba2a 3aref ra7ty'."
+ },
+ {
+  "sid": "fs_3ebra_12",
+  "rid": "fs_3ebra_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3adam_08",
+  "rid": "fs_3adam_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3adam_02",
+  "rid": "fs_3adam_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3adam_12",
+  "rid": "fs_3adam_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_09",
+  "rid": "fs_2adm_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_12",
+  "rid": "fs_2adm_12",
+  "v": false,
+  "why": "Trailing '3ala el-fatra' is a garbled, meaningless fragment."
+ },
+ {
+  "sid": "fs_2adm_04",
+  "rid": "fs_2adm_04",
+  "v": false,
+  "why": "Garbled non-word 'el ezma2'; broken token 'kobra'."
+ },
+ {
+  "sid": "fs_2adm_15",
+  "rid": "fs_2adm_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_15",
+  "rid": "fs_3ala2a_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_06",
+  "rid": "fs_3ala2a_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_13",
+  "rid": "fs_3ala2a_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ala2a_09",
+  "rid": "fs_3ala2a_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alya_03",
+  "rid": "fs_3alya_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alya_11",
+  "rid": "fs_3alya_11",
+  "v": false,
+  "why": "English 'stadium' unnatural here; an Egyptian would say 'el estad'."
+ },
+ {
+  "sid": "fs_3alya_05",
+  "rid": "fs_3alya_05",
+  "v": false,
+  "why": "Nonsense clause 'el se3a 3alya' glued to an unrelated plan; garbled 'el 3ala'."
+ },
+ {
+  "sid": "fs_3alya_02",
+  "rid": "fs_3alya_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_08",
+  "rid": "fs_3aleehom_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_02",
+  "rid": "fs_3aleehom_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3aleehom_11",
+  "rid": "fs_3aleehom_11",
+  "v": false,
+  "why": "Incoherent garbled clause 'el la3eeba 3aleehom kan le3boo'."
+ },
+ {
+  "sid": "fs_3aleehom_05",
+  "rid": "fs_3aleehom_05",
+  "v": false,
+  "why": "Repeats 'el weekend' twice; redundant with 'elgom3a elgaya'."
+ },
+ {
+  "sid": "fs_leehom_02",
+  "rid": "fs_leehom_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_08",
+  "rid": "fs_leehom_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_06",
+  "rid": "fs_leehom_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_15",
+  "rid": "fs_leehom_15",
+  "v": false,
+  "why": "Garbled word order 'bas leehom ma2olsh 7aga'; non-word 'm7adessesh'."
+ },
+ {
+  "sid": "fs_3alena_13",
+  "rid": "fs_3alena_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_10",
+  "rid": "fs_3alena_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3alena_14",
+  "rid": "fs_3alena_14",
+  "v": false,
+  "why": "Reduplicated non-word '3ad3ad' is a generation artifact."
+ },
+ {
+  "sid": "fs_3alena_06",
+  "rid": "fs_3alena_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lena_14",
+  "rid": "fs_lena_14",
+  "v": false,
+  "why": "English 'pound' unnatural (Egyptians say geneh); garbled 'el 5 pound wala arkhas'."
+ },
+ {
+  "sid": "fs_lena_04",
+  "rid": "fs_lena_04",
+  "v": false,
+  "why": "Garbled 'rheeela'; unnatural English 'traffic ta3ban'."
+ },
+ {
+  "sid": "fs_lena_09",
+  "rid": "fs_lena_09",
+  "v": false,
+  "why": "Redundant 'lena 3andena'; formulaic 'ezzayak w 3amel eh' tacked on end."
+ },
+ {
+  "sid": "fs_lena_10",
+  "rid": "fs_lena_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_04",
+  "rid": "fs_3am_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_05",
+  "rid": "fs_3am_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_11",
+  "rid": "fs_3am_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3am_13",
+  "rid": "fs_3am_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_06",
+  "rid": "fs_3om2_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_10",
+  "rid": "fs_3om2_10",
+  "v": false,
+  "why": "Garbled non-word 'maytoh'; doubled-vowel artifact 'mabnii'."
+ },
+ {
+  "sid": "fs_3om2_04",
+  "rid": "fs_3om2_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3om2_00",
+  "rid": "fs_3om2_00",
+  "v": false,
+  "why": "Trailing 'a7mel 3ala 7aga tanya' is incoherent filler."
+ },
+ {
+  "sid": "fs_3amal_06",
+  "rid": "fs_3amal_06",
+  "v": false,
+  "why": "Garbled non-word 'nolkaf'."
+ },
+ {
+  "sid": "fs_3amal_14",
+  "rid": "fs_3amal_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3amal_08",
+  "rid": "fs_3amal_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_04",
+  "rid": "fs_3wamel_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_06",
+  "rid": "fs_3wamel_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3wamel_15",
+  "rid": "fs_3wamel_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_00",
+  "rid": "fs_3an_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_13",
+  "rid": "fs_3an_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3an_15",
+  "rid": "fs_3an_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ana_12",
+  "rid": "fs_ana_12",
+  "v": false,
+  "why": "List-shaped w-chain; garbled '2afta7 3ala tol 3ala el ftoor'."
+ },
+ {
+  "sid": "fs_ana_10",
+  "rid": "fs_ana_10",
+  "v": false,
+  "why": "Incoherent fragment 'lama tekallem' inside directions."
+ },
+ {
+  "sid": "fs_ana_04",
+  "rid": "fs_ana_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_03",
+  "rid": "fs_3andha_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_00",
+  "rid": "fs_3andha_00",
+  "v": false,
+  "why": "Three unrelated clauses glued together with 'w'."
+ },
+ {
+  "sid": "fs_3andha_10",
+  "rid": "fs_3andha_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andha_08",
+  "rid": "fs_3andha_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andoh_01",
+  "rid": "fs_3andoh_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3andoh_00",
+  "rid": "fs_3andoh_00",
+  "v": false,
+  "why": "Garbled 'yirawwini'; dangling '3andoh' clause glued on."
+ },
+ {
+  "sid": "fs_3andoh_12",
+  "rid": "fs_3andoh_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3anha_00",
+  "rid": "fs_3anha_00",
+  "v": false,
+  "why": "Garbled 'm4el 3anha'; repeated tiredness filler (ta3b/ta3ban)."
+ },
+ {
+  "sid": "fs_3anha_02",
+  "rid": "fs_3anha_02",
+  "v": false,
+  "why": "Garbled tokens 'ashra7lol' and 'mad3oo3'."
+ },
+ {
+  "sid": "fs_3anha_14",
+  "rid": "fs_3anha_14",
+  "v": false,
+  "why": "Garbled phrase 'el se3er 3addeh'."
+ },
+ {
+  "sid": "fs_3anha_11",
+  "rid": "fs_3anha_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_14",
+  "rid": "fs_enha_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_05",
+  "rid": "fs_enha_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_03",
+  "rid": "fs_enha_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_enha_01",
+  "rid": "fs_enha_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_00",
+  "rid": "fs_3ard_00",
+  "v": false,
+  "why": "Trailing garbled fragment '2alle3 el ta3ban'."
+ },
+ {
+  "sid": "fs_3ard_11",
+  "rid": "fs_3ard_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_03",
+  "rid": "fs_3ard_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3ard_04",
+  "rid": "fs_3ard_04",
+  "v": false,
+  "why": "Repeats 'share3 ... shari3' twice in one sentence."
+ },
+ {
+  "sid": "fs_3arada_15",
+  "rid": "fs_3arada_15",
+  "v": true,
+  "why": ""
+ }
+]

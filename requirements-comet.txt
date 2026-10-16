@@ -1,0 +1,15 @@
+# XCOMET-XL meaning-fidelity metric (Dataset B arena benchmark, second pass).
+# Isolated from requirements-eval.txt / .venv on purpose: unbabel-comet pins
+# huggingface-hub<1.0, which conflicts with .venv's huggingface_hub>=1.28
+# (E1 tokenizer registry). Also needs Python <=3.12 -- comet's pinned
+# torchmetrics==0.10.3 imports private functools internals (_CacheInfo,
+# _HashedSeq) removed in Python 3.14, this project's default interpreter.
+# Install into its own venv:
+#   /opt/homebrew/bin/python3.12 -m venv .venv-comet && .venv-comet/bin/pip install -r requirements-comet.txt
+#
+# Local HF/PyTorch inference, not Ollama -- comet's own downloader pulls the
+# checkpoint from Hugging Face directly.
+
+torch>=2.5
+unbabel-comet>=2.2
+setuptools<81   # comet's pinned torchmetrics==0.10.3 still imports pkg_resources

@@ -1,0 +1,1802 @@
+[
+{
+"sid": "deana->danaa",
+"rid": "deana->danaa",
+"v": false,
+"why": "ya of diyana lost; danaa reads as dana'a (baseness), not ديانة"
+},
+{
+"sid": "deenia->deina",
+"rid": "deenia->deina",
+"v": false,
+"why": "nisba ya lost; deina reads as Dina/دينا, not دينية"
+},
+{
+"sid": "deenia->dena",
+"rid": "deenia->dena",
+"v": false,
+"why": "nisba ya lost; dena reads as Dina/دينا, not دينية"
+},
+{
+"sid": "dei->di",
+"rid": "dei->di",
+"v": false,
+"why": "in 'Mater Dei' example di reads as Egyptian دي (this), not Latin name"
+},
+{
+"sid": "dei->dii",
+"rid": "dei->dii",
+"v": false,
+"why": "Italian 'dei' in Trinità dei Monti; dii reads as Egyptian دي (this)"
+},
+{
+"sid": "dei->dy",
+"rid": "dei->dy",
+"v": false,
+"why": "surname Dei; dy reads as Egyptian دي (this), not the name"
+},
+{
+"sid": "deil->del",
+"rid": "deil->del",
+"v": true,
+"why": ""
+},
+{
+"sid": "deil->diil",
+"rid": "deil->diil",
+"v": false,
+"why": "name Dale (Melissa Dale); diil reads as different name/ديل"
+},
+{
+"sid": "deil->dil",
+"rid": "deil->dil",
+"v": false,
+"why": "Dale Mabry example: dil reads as a different name, not Dale"
+},
+{
+"sid": "deir->der",
+"rid": "deir->der",
+"v": true,
+"why": ""
+},
+{
+"sid": "deir->dir",
+"rid": "deir->dir",
+"v": true,
+"why": ""
+},
+{
+"sid": "delael->delal",
+"rid": "delael->delal",
+"v": false,
+"why": "delal reads as دلال (pampering/Dalal), not دلائل"
+},
+{
+"sid": "delael->dilal",
+"rid": "delael->dilal",
+"v": false,
+"why": "dilal reads as دلال/ظلال, not دلائل (evidence)"
+},
+{
+"sid": "demaghia->demagha",
+"rid": "demaghia->demagha",
+"v": false,
+"why": "demagha reads as دماغها (her brain), not دماغية"
+},
+{
+"sid": "demaghia->demaghaa",
+"rid": "demaghia->demaghaa",
+"v": false,
+"why": "demaghaa reads as دماغها (her brain), not دماغية"
+},
+{
+"sid": "demaghia->dimagha",
+"rid": "demaghia->dimagha",
+"v": false,
+"why": "dimagha reads as دماغها (her brain), not دماغية"
+},
+{
+"sid": "deoon->don",
+"rid": "deoon->don",
+"v": false,
+"why": "don reads as دون (without) or English Don, not ديون"
+},
+{
+"sid": "deoon->doon",
+"rid": "deoon->doon",
+"v": false,
+"why": "doon reads as دون (without/below), not ديون (debts)"
+},
+{
+"sid": "diesel->desel",
+"rid": "diesel->desel",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->desil",
+"rid": "diesel->desil",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->disel",
+"rid": "diesel->disel",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->disil",
+"rid": "diesel->disil",
+"v": true,
+"why": ""
+},
+{
+"sid": "diet->deet",
+"rid": "diet->deet",
+"v": true,
+"why": ""
+},
+{
+"sid": "diet->diit",
+"rid": "diet->diit",
+"v": true,
+"why": ""
+},
+{
+"sid": "dmoeya->dmoya",
+"rid": "dmoeya->dmoya",
+"v": true,
+"why": ""
+},
+{
+"sid": "dmoeya->dmuya",
+"rid": "dmoeya->dmuya",
+"v": true,
+"why": ""
+},
+{
+"sid": "doley->doli",
+"rid": "doley->doli",
+"v": true,
+"why": ""
+},
+{
+"sid": "domain->doman",
+"rid": "domain->doman",
+"v": true,
+"why": ""
+},
+{
+"sid": "domain->duman",
+"rid": "domain->duman",
+"v": true,
+"why": ""
+},
+{
+"sid": "donia->dona",
+"rid": "donia->dona",
+"v": false,
+"why": "ya lost; dona reads as Dona/دونا, not الدنيا"
+},
+{
+"sid": "donia->donaa",
+"rid": "donia->donaa",
+"v": false,
+"why": "ya lost; donaa reads as Dona/دونا, not الدنيا"
+},
+{
+"sid": "e3lamey->e3lami",
+"rid": "e3lamey->e3lami",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7saei->ehsai",
+"rid": "e7saei->ehsai",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teaty->e7tati",
+"rid": "e7teaty->e7tati",
+"v": false,
+"why": "ya lost; e7tati reads as احتاطي (be careful, fem.), not احتياطي"
+},
+{
+"sid": "e7teaty->i7taty",
+"rid": "e7teaty->i7taty",
+"v": false,
+"why": "ya lost; i7taty reads as احتاطي (be careful, fem.), not احتياطي"
+},
+{
+"sid": "e7teyiagat->e7teyagat",
+"rid": "e7teyiagat->e7teyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teyiagat->e7tiyagat",
+"rid": "e7teyiagat->e7tiyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teyiagat->i7teyagat",
+"rid": "e7teyiagat->i7teyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfeal->e7tfal",
+"rid": "e7tfeal->e7tfal",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfeal->ehtfal",
+"rid": "e7tfeal->ehtfal",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealat->e7tfalat",
+"rid": "e7tfealat->e7tfalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealat->i7tfalat",
+"rid": "e7tfealat->i7tfalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->e7tfalya",
+"rid": "e7tfealya->e7tfalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->e7tfalyaa",
+"rid": "e7tfealya->e7tfalyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->ehtfalya",
+"rid": "e7tfealya->ehtfalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tiajat->e7tajat",
+"rid": "e7tiajat->e7tajat",
+"v": false,
+"why": "ya lost; e7tajat reads as احتاجت (she needed), not احتياجات"
+},
+{
+"sid": "e7tiajat->i7tajat",
+"rid": "e7tiajat->i7tajat",
+"v": false,
+"why": "ya lost; i7tajat reads as احتاجت (she needed), not احتياجات"
+},
+{
+"sid": "e7tial->e7tal",
+"rid": "e7tial->e7tal",
+"v": false,
+"why": "ya lost; e7tal reads as احتل/احتال (verb), not احتيال"
+},
+{
+"sid": "e7tial->i7tal",
+"rid": "e7tial->i7tal",
+"v": false,
+"why": "ya lost; i7tal reads as احتل/احتال (verb), not احتيال"
+},
+{
+"sid": "e7tiazat->e7tazaat",
+"rid": "e7tiazat->e7tazaat",
+"v": false,
+"why": "ya lost; e7tazaat reads as verb احتازت, not the plural noun"
+},
+{
+"sid": "e7tiazat->e7tazat",
+"rid": "e7tiazat->e7tazat",
+"v": false,
+"why": "ya lost; e7tazat reads as verb احتازت, not the plural noun"
+},
+{
+"sid": "e7tiazat->i7tazat",
+"rid": "e7tiazat->i7tazat",
+"v": false,
+"why": "ya lost; i7tazat reads as verb احتازت, not the plural noun"
+},
+{
+"sid": "e7tiazeya->e7tazeya",
+"rid": "e7tiazeya->e7tazeya",
+"v": false,
+"why": "ya lost; e7tazeya no longer reads as the precautionary adjective"
+},
+{
+"sid": "e7tiazeya->e7taziya",
+"rid": "e7tiazeya->e7taziya",
+"v": false,
+"why": "ya lost; e7taziya no longer reads as the precautionary adjective"
+},
+{
+"sid": "ebay->ebi",
+"rid": "ebay->ebi",
+"v": false,
+"why": "diphthong lost; ebi not recognizable as eBay"
+},
+{
+"sid": "edaria->edara",
+"rid": "edaria->edara",
+"v": false,
+"why": "nisba lost; edara reads as إدارة (administration), not إدارية"
+},
+{
+"sid": "edaria->edaraa",
+"rid": "edaria->edaraa",
+"v": false,
+"why": "nisba lost; edaraa reads as إدارة (administration), not إدارية"
+},
+{
+"sid": "edaria->edarah",
+"rid": "edaria->edarah",
+"v": false,
+"why": "nisba lost; edarah reads as إدارة (administration), not إدارية"
+},
+{
+"sid": "edaria->idara",
+"rid": "edaria->idara",
+"v": false,
+"why": "nisba lost; idara reads as إدارة (administration), not إدارية"
+},
+{
+"sid": "edeih->edeh",
+"rid": "edeih->edeh",
+"v": false,
+"why": "edeh reads as إيده (his hand, singular), not إيديه"
+},
+{
+"sid": "edeih->edih",
+"rid": "edeih->edih",
+"v": false,
+"why": "edih reads as اديه (give him), not إيديه (his hands)"
+},
+{
+"sid": "edeih->ediih",
+"rid": "edeih->ediih",
+"v": false,
+"why": "ediih reads as اديه (give him), not إيديه (his hands)"
+},
+{
+"sid": "edeih->ideh",
+"rid": "edeih->ideh",
+"v": false,
+"why": "ideh reads as إيده (his hand, singular), not إيديه"
+},
+{
+"sid": "edeihom->edehom",
+"rid": "edeihom->edehom",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edehum",
+"rid": "edeihom->edehum",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edihom",
+"rid": "edeihom->edihom",
+"v": false,
+"why": "edihom reads as اديهم (give them), not إيديهم"
+},
+{
+"sid": "edeihom->edihoom",
+"rid": "edeihom->edihoom",
+"v": false,
+"why": "edihoom reads as اديهم (give them), not إيديهم"
+},
+{
+"sid": "edein->eden",
+"rid": "edein->eden",
+"v": false,
+"why": "eden reads as English Eden / عدن, not إيدين"
+},
+{
+"sid": "edein->edin",
+"rid": "edein->edin",
+"v": true,
+"why": ""
+},
+{
+"sid": "edein->idin",
+"rid": "edein->idin",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->egabeya",
+"rid": "egeabeya->egabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->egabiya",
+"rid": "egeabeya->egabiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->igabeya",
+"rid": "egeabeya->igabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->egabi",
+"rid": "egeaby->egabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->egaby",
+"rid": "egeaby->egaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->igaby",
+"rid": "egeaby->igaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->egabya",
+"rid": "egeabya->egabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->egabyaa",
+"rid": "egeabya->egabyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->igabya",
+"rid": "egeabya->igabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eghtsadia->e8tsada",
+"rid": "eghtsadia->e8tsada",
+"v": false,
+"why": "nisba lost; e8tsada reads as اقتصاده/اقتصادا, not اقتصادية"
+},
+{
+"sid": "egmaley->egmali",
+"rid": "egmaley->egmali",
+"v": true,
+"why": ""
+},
+{
+"sid": "egtema3ia->egtema3a",
+"rid": "egtema3ia->egtema3a",
+"v": false,
+"why": "nisba lost; egtema3a reads as اجتماعه/اجتماعها, not اجتماعية"
+},
+{
+"sid": "egtema3ia->egtima3a",
+"rid": "egtema3ia->egtima3a",
+"v": false,
+"why": "nisba lost; egtima3a reads as اجتماعه/اجتماعها, not اجتماعية"
+},
+{
+"sid": "egtema3ia->igtema3a",
+"rid": "egtema3ia->igtema3a",
+"v": false,
+"why": "nisba lost; igtema3a reads as اجتماعه/اجتماعها, not اجتماعية"
+},
+{
+"sid": "ehteam->ehtaam",
+"rid": "ehteam->ehtaam",
+"v": false,
+"why": "ehtaam reads as verb اهتم or garbled, not the noun اهتمام"
+},
+{
+"sid": "ehteam->ehtam",
+"rid": "ehteam->ehtam",
+"v": false,
+"why": "ehtam reads as verb اهتم (he cared), not the noun"
+},
+{
+"sid": "ehteam->ihtam",
+"rid": "ehteam->ihtam",
+"v": false,
+"why": "ihtam reads as verb اهتم (he cared), not the noun"
+},
+{
+"sid": "eidak->edaak",
+"rid": "eidak->edaak",
+"v": false,
+"why": "edaak reads as اداك (he gave you), not إيدك"
+},
+{
+"sid": "eidak->edak",
+"rid": "eidak->edak",
+"v": true,
+"why": ""
+},
+{
+"sid": "eidak->idak",
+"rid": "eidak->idak",
+"v": true,
+"why": ""
+},
+{
+"sid": "eih->eh",
+"rid": "eih->eh",
+"v": true,
+"why": ""
+},
+{
+"sid": "eih->ih",
+"rid": "eih->ih",
+"v": true,
+"why": ""
+},
+{
+"sid": "eihy->ehy",
+"rid": "eihy->ehy",
+"v": false,
+"why": "ehy reads as أهي (here she is), not إيه هي"
+},
+{
+"sid": "eihy->ihy",
+"rid": "eihy->ihy",
+"v": false,
+"why": "ihy reads as أهي (here she is), not إيه هي"
+},
+{
+"sid": "eijabeya->ejabeya",
+"rid": "eijabeya->ejabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabeya->ejabeyaa",
+"rid": "eijabeya->ejabeyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabeya->ijabeya",
+"rid": "eijabeya->ijabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ejabi",
+"rid": "eijabi->ejabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ejaby",
+"rid": "eijabi->ejaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ijabi",
+"rid": "eijabi->ijabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijaby->ejabi",
+"rid": "eijaby->ejabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijaby->ejaby",
+"rid": "eijaby->ejaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabya",
+"rid": "eijabya->ejabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabyaa",
+"rid": "eijabya->ejabyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabyah",
+"rid": "eijabya->ejabyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ijabya",
+"rid": "eijabya->ijabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->eraan",
+"rid": "eiran->eraan",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->eran",
+"rid": "eiran->eran",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->iran",
+"rid": "eiran->iran",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezai",
+"rid": "eizay->ezai",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezay",
+"rid": "eizay->ezay",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezei",
+"rid": "eizay->ezei",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->izay",
+"rid": "eizay->izay",
+"v": true,
+"why": ""
+},
+{
+"sid": "ejmalia->ejmala",
+"rid": "ejmalia->ejmala",
+"v": false,
+"why": "nisba lost; ejmala reads as إجمالا (in total), not إجمالية"
+},
+{
+"sid": "ejmalia->ejmalaa",
+"rid": "ejmalia->ejmalaa",
+"v": false,
+"why": "nisba lost; ejmalaa reads as إجمالا (in total), not إجمالية"
+},
+{
+"sid": "ejmalia->ijmala",
+"rid": "ejmalia->ijmala",
+"v": false,
+"why": "nisba lost; ijmala reads as إجمالا (in total), not إجمالية"
+},
+{
+"sid": "ejtem3ia->ejtem3a",
+"rid": "ejtem3ia->ejtem3a",
+"v": false,
+"why": "nisba lost; ejtem3a reads as اجتمعا/اجتماعه, not اجتماعية"
+},
+{
+"sid": "ejtem3ia->ejtim3a",
+"rid": "ejtem3ia->ejtim3a",
+"v": false,
+"why": "nisba lost; ejtim3a reads as اجتماعه/اجتمعا, not اجتماعية"
+},
+{
+"sid": "ekhtiar->e5tar",
+"rid": "ekhtiar->e5tar",
+"v": false,
+"why": "ya lost; e5tar reads as اختار (he chose), not اختيار"
+},
+{
+"sid": "ekhtiary->e5tary",
+"rid": "ekhtiary->e5tary",
+"v": false,
+"why": "ya lost; e5tary reads as اختاري (choose! fem.), not اختياري"
+},
+{
+"sid": "el2aids->el2aads",
+"rid": "el2aids->el2aads",
+"v": false,
+"why": "AIDS diphthong lost; el2aads not recognizable as الإيدز"
+},
+{
+"sid": "el2aids->el2ads",
+"rid": "el2aids->el2ads",
+"v": false,
+"why": "AIDS diphthong lost; el2ads reads as 'ads', not الإيدز"
+},
+{
+"sid": "el2aids->il2ads",
+"rid": "el2aids->il2ads",
+"v": false,
+"why": "AIDS diphthong lost; il2ads reads as 'ads', not الإيدز"
+},
+{
+"sid": "el2asasia->el2asasa",
+"rid": "el2asasia->el2asasa",
+"v": false,
+"why": "nisba lost; el2asasa reads as أساسه-like noun, not الأساسية"
+},
+{
+"sid": "el2asasia->il2asasa",
+"rid": "el2asasia->il2asasa",
+"v": false,
+"why": "nisba lost; il2asasa reads as أساسه-like noun, not الأساسية"
+},
+{
+"sid": "el2asasyia->el2asasya",
+"rid": "el2asasyia->el2asasya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2asasyia->el2asasyah",
+"rid": "el2asasyia->el2asasyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2asasyia->il2asasya",
+"rid": "el2asasyia->il2asasya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2awey->el2awi",
+"rid": "el2awey->el2awi",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2edaria->el2edara",
+"rid": "el2edaria->el2edara",
+"v": false,
+"why": "nisba lost; el2edara reads as الإدارة, not الإدارية"
+},
+{
+"sid": "el2etein->el2etin",
+"rid": "el2etein->el2etin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2etnein->el2etnin",
+"rid": "el2etnein->el2etnin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2etnein->il2etnin",
+"rid": "el2etnein->il2etnin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3alamey->el3alami",
+"rid": "el3alamey->el3alami",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3alamia->el3alama",
+"rid": "el3alamia->el3alama",
+"v": false,
+"why": "nisba lost; el3alama reads as العلامة (the mark)"
+},
+{
+"sid": "el3alamia->il3alama",
+"rid": "el3alamia->il3alama",
+"v": false,
+"why": "nisba lost; il3alama reads as العلامة (the mark)"
+},
+{
+"sid": "el3almia->el3alma",
+"rid": "el3almia->el3alma",
+"v": false,
+"why": "nisba lost; el3alma reads as العالمة (female scholar)"
+},
+{
+"sid": "el3almia->il3alma",
+"rid": "el3almia->il3alma",
+"v": false,
+"why": "nisba lost; il3alma reads as العالمة (female scholar)"
+},
+{
+"sid": "el3amaleiat->el3amaleaat",
+"rid": "el3amaleiat->el3amaleaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->el3amaleat",
+"rid": "el3amaleiat->el3amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->el3amaliat",
+"rid": "el3amaleiat->el3amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->il3amaleat",
+"rid": "el3amaleiat->il3amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->il3amaliat",
+"rid": "el3amaleiat->il3amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amalia->el3amala",
+"rid": "el3amalia->el3amala",
+"v": false,
+"why": "nisba lost; el3amala reads as العمالة (labor), not العملية"
+},
+{
+"sid": "el3amalia->il3amala",
+"rid": "el3amalia->il3amala",
+"v": false,
+"why": "nisba lost; il3amala reads as العمالة (labor), not العملية"
+},
+{
+"sid": "el3amaliat->el3amalat",
+"rid": "el3amaliat->el3amalat",
+"v": false,
+"why": "ya lost; el3amalat reads as العمالات/العملات, not العمليات"
+},
+{
+"sid": "el3amaliat->il3amalat",
+"rid": "el3amaliat->il3amalat",
+"v": false,
+"why": "ya lost; il3amalat reads as العمالات/العملات, not العمليات"
+},
+{
+"sid": "el3arabia->el3araba",
+"rid": "el3arabia->el3araba",
+"v": false,
+"why": "nisba lost; el3araba reads as العربة (the cart)"
+},
+{
+"sid": "el3arabia->el3arabaa",
+"rid": "el3arabia->el3arabaa",
+"v": false,
+"why": "nisba lost; el3arabaa reads as العربة (the cart)"
+},
+{
+"sid": "el3arabia->il3araba",
+"rid": "el3arabia->il3araba",
+"v": false,
+"why": "nisba lost; il3araba reads as العربة (the cart)"
+},
+{
+"sid": "el3arabiat->el3arabat",
+"rid": "el3arabiat->el3arabat",
+"v": false,
+"why": "ya lost; el3arabat reads as العربات (carts), not العربيات"
+},
+{
+"sid": "el3arabiat->il3arabat",
+"rid": "el3arabiat->il3arabat",
+"v": false,
+"why": "ya lost; il3arabat reads as العربات (carts), not العربيات"
+},
+{
+"sid": "el3ayla->el3ila",
+"rid": "el3ayla->el3ila",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3aylat->el3ilat",
+"rid": "el3aylat->el3ilat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eina->el3enaa",
+"rid": "el3eina->el3enaa",
+"v": false,
+"why": "el3enaa reads as العناء/عنا, not العينة"
+},
+{
+"sid": "el3eina->el3ina",
+"rid": "el3eina->el3ina",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eina->il3ina",
+"rid": "el3eina->il3ina",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eish->el3esh",
+"rid": "el3eish->el3esh",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eish->il3esh",
+"rid": "el3eish->il3esh",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eish->il3ish",
+"rid": "el3eish->il3ish",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3elmey->el3elmi",
+"rid": "el3elmey->el3elmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3elmia->el3elma",
+"rid": "el3elmia->el3elma",
+"v": false,
+"why": "nisba lost; el3elma no longer reads as العلمية"
+},
+{
+"sid": "el3elmia->el3ilma",
+"rid": "el3elmia->el3ilma",
+"v": false,
+"why": "nisba lost; el3ilma no longer reads as العلمية"
+},
+{
+"sid": "el3elmia->il3elma",
+"rid": "el3elmia->il3elma",
+"v": false,
+"why": "nisba lost; il3elma no longer reads as العلمية"
+},
+{
+"sid": "el3odwia->el3odwa",
+"rid": "el3odwia->el3odwa",
+"v": false,
+"why": "nisba lost; el3odwa reads as العضوة (female member)/العدوى"
+},
+{
+"sid": "el3odwia->el3udwa",
+"rid": "el3odwia->el3udwa",
+"v": false,
+"why": "nisba lost; el3udwa reads as العضوة (female member)/العدوى"
+},
+{
+"sid": "el3odwia->il3odwa",
+"rid": "el3odwia->il3odwa",
+"v": false,
+"why": "nisba lost; il3odwa reads as العضوة (female member)/العدوى"
+},
+{
+"sid": "el5alaia->el5ala",
+"rid": "el5alaia->el5ala",
+"v": false,
+"why": "el5ala reads as الخالة (the aunt)/الخلا, not الخلايا"
+},
+{
+"sid": "el5alaia->el5alaa",
+"rid": "el5alaia->el5alaa",
+"v": false,
+"why": "el5alaa reads as الخلاء (open space), not الخلايا"
+},
+{
+"sid": "el5alaia->elkhalaa",
+"rid": "el5alaia->elkhalaa",
+"v": false,
+"why": "elkhalaa reads as الخلاء (open space), not الخلايا"
+},
+{
+"sid": "el5alaia->il5alaa",
+"rid": "el5alaia->il5alaa",
+"v": false,
+"why": "il5alaa reads as الخلاء (open space), not الخلايا"
+},
+{
+"sid": "el5aregia->el5ariga",
+"rid": "el5aregia->el5ariga",
+"v": false,
+"why": "nisba lost; el5ariga reads as الخارجة (outgoing, fem.)"
+},
+{
+"sid": "el5aregia->elkharega",
+"rid": "el5aregia->elkharega",
+"v": false,
+"why": "nisba lost; elkharega reads as الخارجة (outgoing, fem.)"
+},
+{
+"sid": "el5aregia->il5arega",
+"rid": "el5aregia->il5arega",
+"v": false,
+"why": "nisba lost; il5arega reads as الخارجة (outgoing, fem.)"
+},
+{
+"sid": "el5aregyia->el5aregya",
+"rid": "el5aregyia->el5aregya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5aregyia->il5aregya",
+"rid": "el5aregyia->il5aregya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->el5arjia",
+"rid": "el5arjeia->el5arjia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->elkharjea",
+"rid": "el5arjeia->elkharjea",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->il5arjia",
+"rid": "el5arjeia->il5arjia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7a2ay2->el7a2i2",
+"rid": "el7a2ay2->el7a2i2",
+"v": false,
+"why": "plural lost; el7a2i2 reads as singular حقيق/الحقيقي, not الحقايق"
+},
+{
+"sid": "el7adaria->el7adara",
+"rid": "el7adaria->el7adara",
+"v": false,
+"why": "nisba lost; el7adara reads as الحضارة (civilization)"
+},
+{
+"sid": "el7adaria->el7adaraa",
+"rid": "el7adaria->el7adaraa",
+"v": false,
+"why": "nisba lost; el7adaraa reads as الحضارة (civilization)"
+},
+{
+"sid": "el7adaria->elhadara",
+"rid": "el7adaria->elhadara",
+"v": false,
+"why": "nisba lost; elhadara reads as الحضارة (civilization)"
+},
+{
+"sid": "el7adaria->il7adara",
+"rid": "el7adaria->il7adara",
+"v": false,
+"why": "nisba lost; il7adara reads as الحضارة (civilization)"
+},
+{
+"sid": "el7adey->el7adi",
+"rid": "el7adey->el7adi",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->el7afreat",
+"rid": "el7afreiat->el7afreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->el7afriat",
+"rid": "el7afreiat->el7afriat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->elhafreat",
+"rid": "el7afreiat->elhafreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->il7afreat",
+"rid": "el7afreiat->il7afreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->il7afriat",
+"rid": "el7afreiat->il7afriat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7alia->il7ala",
+"rid": "el7alia->il7ala",
+"v": false,
+"why": "nisba lost; il7ala reads as الحالة (the situation)"
+},
+{
+"sid": "el7araria->el7arara",
+"rid": "el7araria->el7arara",
+"v": false,
+"why": "nisba lost; el7arara reads as الحرارة (heat)"
+},
+{
+"sid": "el7araria->elharara",
+"rid": "el7araria->elharara",
+"v": false,
+"why": "nisba lost; elharara reads as الحرارة (heat)"
+},
+{
+"sid": "el7aray2->el7ari2",
+"rid": "el7aray2->el7ari2",
+"v": false,
+"why": "el7ari2 reads as الحريق (singular fire), not الحرايق"
+},
+{
+"sid": "el7asail->el7asaal",
+"rid": "el7asail->el7asaal",
+"v": false,
+"why": "el7asaal reads as الحاصل/حصل, not the crops plural"
+},
+{
+"sid": "el7asail->el7asal",
+"rid": "el7asail->el7asal",
+"v": false,
+"why": "el7asal reads as الحاصل (the outcome), not the crops plural"
+},
+{
+"sid": "el7asail->elhasal",
+"rid": "el7asail->elhasal",
+"v": false,
+"why": "elhasal reads as الحاصل (the outcome), not the crops plural"
+},
+{
+"sid": "el7asail->il7asal",
+"rid": "el7asail->il7asal",
+"v": false,
+"why": "il7asal reads as الحاصل (the outcome), not the crops plural"
+},
+{
+"sid": "el7asasia->el7asasa",
+"rid": "el7asasia->el7asasa",
+"v": false,
+"why": "nisba lost; el7asasa reads as حساسة (sensitive, fem.)"
+},
+{
+"sid": "el7asasia->elhasasa",
+"rid": "el7asasia->elhasasa",
+"v": false,
+"why": "nisba lost; elhasasa reads as حساسة (sensitive, fem.)"
+},
+{
+"sid": "el7etrazia->el7etraza",
+"rid": "el7etrazia->el7etraza",
+"v": false,
+"why": "nisba lost; el7etraza no longer reads as الاحترازية"
+},
+{
+"sid": "el7etrazia->il7etraza",
+"rid": "el7etrazia->il7etraza",
+"v": false,
+"why": "nisba lost; il7etraza no longer reads as الاحترازية"
+},
+{
+"sid": "el7tageat->el7tagat",
+"rid": "el7tageat->el7tagat",
+"v": false,
+"why": "ya lost; el7tagat reads as الحاجات/احتاجت, not الاحتياجات"
+},
+{
+"sid": "el7tageat->elhtagat",
+"rid": "el7tageat->elhtagat",
+"v": false,
+"why": "ya lost; elhtagat reads as الحاجات/احتاجت, not الاحتياجات"
+},
+{
+"sid": "el7tageat->il7tagat",
+"rid": "el7tageat->il7tagat",
+"v": false,
+"why": "ya lost; il7tagat reads as الحاجات/احتاجت, not الاحتياجات"
+},
+{
+"sid": "el7yaweia->el7yawia",
+"rid": "el7yaweia->el7yawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->elhyawia",
+"rid": "el7yaweia->elhyawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->il7yawea",
+"rid": "el7yaweia->il7yawea",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->il7yawia",
+"rid": "el7yaweia->il7yawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yawia->el7yawa",
+"rid": "el7yawia->el7yawa",
+"v": false,
+"why": "nisba lost; el7yawa reads as الحيوة/non-adjective, not الحيوية"
+},
+{
+"sid": "el7yawia->el7yawaa",
+"rid": "el7yawia->el7yawaa",
+"v": false,
+"why": "nisba lost; el7yawaa reads as الحيوة/non-adjective, not الحيوية"
+},
+{
+"sid": "el7yawia->il7yawa",
+"rid": "el7yawia->il7yawa",
+"v": false,
+"why": "nisba lost; il7yawa reads as الحيوة/non-adjective, not الحيوية"
+},
+{
+"sid": "eladwia->eladwa",
+"rid": "eladwia->eladwa",
+"v": false,
+"why": "ya lost; eladwa reads as الأضوا (lights)/العدوى, not الأدوية"
+},
+{
+"sid": "eladwia->eladwaa",
+"rid": "eladwia->eladwaa",
+"v": false,
+"why": "ya lost; eladwaa reads as الأضواء (lights), not الأدوية"
+},
+{
+"sid": "eladwia->iladwa",
+"rid": "eladwia->iladwa",
+"v": false,
+"why": "ya lost; iladwa reads as الأضوا (lights)/العدوى, not الأدوية"
+},
+{
+"sid": "elaids->elads",
+"rid": "elaids->elads",
+"v": false,
+"why": "AIDS diphthong lost; elads reads as 'ads', not الإيدز"
+},
+{
+"sid": "elaids->ilads",
+"rid": "elaids->ilads",
+"v": false,
+"why": "AIDS diphthong lost; ilads reads as 'ads', not الإيدز"
+},
+{
+"sid": "elamonia->elamona",
+"rid": "elamonia->elamona",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamonia->elamonaa",
+"rid": "elamonia->elamonaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamonia->elamuna",
+"rid": "elamonia->elamuna",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamonia->ilamona",
+"rid": "elamonia->ilamona",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamreekyia->elamreekya",
+"rid": "elamreekyia->elamreekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamreekyia->elamrekya",
+"rid": "elamreekyia->elamrekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekea->elamreka",
+"rid": "elamrekea->elamreka",
+"v": false,
+"why": "nisba lost; elamreka reads as أمريكا (America), not الأمريكية"
+},
+{
+"sid": "elamrekea->elamrika",
+"rid": "elamrekea->elamrika",
+"v": false,
+"why": "nisba lost; elamrika reads as أمريكا (America), not الأمريكية"
+},
+{
+"sid": "elamrekea->ilamreka",
+"rid": "elamrekea->ilamreka",
+"v": false,
+"why": "nisba lost; ilamreka reads as أمريكا (America), not الأمريكية"
+},
+{
+"sid": "elamrekeia->elamrekea",
+"rid": "elamrekeia->elamrekea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->elamrekia",
+"rid": "elamrekeia->elamrekia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->elamrikia",
+"rid": "elamrekeia->elamrikia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->ilamrekea",
+"rid": "elamrekeia->ilamrekea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekey->elamreki",
+"rid": "elamrekey->elamreki",
+"v": true,
+"why": ""
+},
+{
+"sid": "elarday->elardi",
+"rid": "elarday->elardi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elardey->elardi",
+"rid": "elardey->elardi",
+"v": true,
+"why": ""
+},
+{
+"sid": "elayman->eliman",
+"rid": "elayman->eliman",
+"v": false,
+"why": "eliman reads as الإيمان (faith), not الأيمن (right)"
+},
+{
+"sid": "elaysar->elisar",
+"rid": "elaysar->elisar",
+"v": false,
+"why": "elisar reads as اليسار (the left), not الأيسر"
+},
+{
+"sid": "elbahrain->elbahran",
+"rid": "elbahrain->elbahran",
+"v": false,
+"why": "elbahran reads as البحران/بحران (crisis), not البحرين"
+},
+{
+"sid": "elbahrain->ilbahran",
+"rid": "elbahrain->ilbahran",
+"v": false,
+"why": "ilbahran reads as البحران/بحران (crisis), not البحرين"
+},
+{
+"sid": "elbahria->elbahra",
+"rid": "elbahria->elbahra",
+"v": false,
+"why": "nisba lost; elbahra reads as بحرة (lake), not البحرية"
+},
+{
+"sid": "elbahria->ilbahra",
+"rid": "elbahria->ilbahra",
+"v": false,
+"why": "nisba lost; ilbahra reads as بحرة (lake), not البحرية"
+},
+{
+"sid": "elbakteeria->elbakteera",
+"rid": "elbakteeria->elbakteera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteeria->elbakteira",
+"rid": "elbakteeria->elbakteira",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteeria->elbaktera",
+"rid": "elbakteeria->elbaktera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteeria->ilbakteera",
+"rid": "elbakteeria->ilbakteera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->elbakterea",
+"rid": "elbaktereia->elbakterea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->elbaktirea",
+"rid": "elbaktereia->elbaktirea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->elbaktiria",
+"rid": "elbaktereia->elbaktiria",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->ilbakteria",
+"rid": "elbaktereia->ilbakteria",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteria->elbaktera",
+"rid": "elbakteria->elbaktera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteria->elbaktira",
+"rid": "elbakteria->elbaktira",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteria->ilbaktera",
+"rid": "elbakteria->ilbaktera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktiria->elbaktera",
+"rid": "elbaktiria->elbaktera",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktiria->elbaktira",
+"rid": "elbaktiria->elbaktira",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktiria->ilbaktira",
+"rid": "elbaktiria->ilbaktira",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaladein->elbaladen",
+"rid": "elbaladein->elbaladen",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaladein->elbaladin",
+"rid": "elbaladein->elbaladin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaladein->ilbaladin",
+"rid": "elbaladein->ilbaladin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbasharia->elbashara",
+"rid": "elbasharia->elbashara",
+"v": false,
+"why": "nisba lost; elbashara reads as البشارة (good news)"
+},
+{
+"sid": "elbasharia->elbasharaa",
+"rid": "elbasharia->elbasharaa",
+"v": false,
+"why": "nisba lost; elbasharaa reads as البشارة (good news)"
+},
+{
+"sid": "elbasharia->ilbashara",
+"rid": "elbasharia->ilbashara",
+"v": false,
+"why": "nisba lost; ilbashara reads as البشارة (good news)"
+},
+{
+"sid": "elbayd->elbid",
+"rid": "elbayd->elbid",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbayt->elbit",
+"rid": "elbayt->elbit",
+"v": false,
+"why": "elbit reads as البت (the girl), not البيت"
+},
+{
+"sid": "elbaytary->elbitary",
+"rid": "elbaytary->elbitary",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbe2ey->elbe2i",
+"rid": "elbe2ey->elbe2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbe2ia->elbi2a",
+"rid": "elbe2ia->elbi2a",
+"v": false,
+"why": "nisba lost; elbi2a reads as البيئة (noun), not البيئية"
+},
+{
+"sid": "elbedaia->elbeda",
+"rid": "elbedaia->elbeda",
+"v": false,
+"why": "elbeda reads as البيضا (the white), not البداية"
+},
+{
+"sid": "elbedaia->elbedaa",
+"rid": "elbedaia->elbedaa",
+"v": false,
+"why": "elbedaa reads as البيضا/البدء, not البداية"
+},
+{
+"sid": "elbedaia->elbidaa",
+"rid": "elbedaia->elbidaa",
+"v": false,
+"why": "elbidaa reads as البيضا (the white), not البداية"
+},
+{
+"sid": "elbedaia->ilbedaa",
+"rid": "elbedaia->ilbedaa",
+"v": false,
+"why": "ilbedaa reads as البيضا/البدء, not البداية"
+},
+{
+"sid": "elbeianat->elbianat",
+"rid": "elbeianat->elbianat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeianat->ilbeanat",
+"rid": "elbeianat->ilbeanat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeianat->ilbianat",
+"rid": "elbeianat->ilbianat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeid->elbed",
+"rid": "elbeid->elbed",
+"v": false,
+"why": "elbed reads as English 'el bed' (the bed), not البيض"
+},
+{
+"sid": "elbeid->elbid",
+"rid": "elbeid->elbid",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeid->ilbed",
+"rid": "elbeid->ilbed",
+"v": false,
+"why": "ilbed reads as English 'el bed' (the bed), not البيض"
+},
+{
+"sid": "elbeida->elbeda",
+"rid": "elbeida->elbeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbedaa",
+"rid": "elbeida->elbedaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbida",
+"rid": "elbeida->elbida",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbidaa",
+"rid": "elbeida->elbidaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->ilbeda",
+"rid": "elbeida->ilbeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbiology->elbulogy",
+"rid": "elbiology->elbulogy",
+"v": false,
+"why": "bi- syllable lost; elbulogy not recognizable as biology"
+},
+{
+"sid": "elbiologya->elbolugya",
+"rid": "elbiologya->elbolugya",
+"v": false,
+"why": "bi- syllable lost; elbolugya not recognizable as biologya"
+},
+{
+"sid": "elbiologya->ilbologya",
+"rid": "elbiologya->ilbologya",
+"v": false,
+"why": "bi- syllable lost; ilbologya not recognizable as biologya"
+},
+{
+"sid": "eldamoeya->eldamoya",
+"rid": "eldamoeya->eldamoya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eldamoeya->eldamuya",
+"rid": "eldamoeya->eldamuya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eldamoeya->ildamoya",
+"rid": "eldamoeya->ildamoya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eldawlia->eldawlaa",
+"rid": "eldawlia->eldawlaa",
+"v": false,
+"why": "nisba lost; eldawlaa reads as الدولة (the state)"
+},
+{
+"sid": "elday2a->eldi2a",
+"rid": "elday2a->eldi2a",
+"v": false,
+"why": "eldi2a reads as الدقة (precision), not the base word"
+},
+{
+"sid": "elday3a->eldi3a",
+"rid": "elday3a->eldi3a",
+"v": false,
+"why": "eldi3a reads as الضيعة/unclear, not الداعمة"
+},
+{
+"sid": "eldonia->eldona",
+"rid": "eldonia->eldona",
+"v": false,
+"why": "ya lost; eldona reads as Dona/دونا, not الدنيا"
+},
+{
+"sid": "elemail->ilemal",
+"rid": "elemail->ilemal",
+"v": false,
+"why": "ilemal reads as الأمل/العمال/الإهمال, not email"
+},
+{
+"sid": "elensania->elensana",
+"rid": "elensania->elensana",
+"v": false,
+"why": "nisba lost; elensana reads as الإنسانة (a woman/person)"
+},
+{
+"sid": "elensania->elensanaa",
+"rid": "elensania->elensanaa",
+"v": false,
+"why": "nisba lost; elensanaa reads as الإنسانة (a woman/person)"
+},
+{
+"sid": "elensania->ilensana",
+"rid": "elensania->ilensana",
+"v": false,
+"why": "nisba lost; ilensana reads as الإنسانة (a woman/person)"
+},
+{
+"sid": "elenteab->elentab",
+"rid": "elenteab->elentab",
+"v": false,
+"why": "elentab reads as انتاب (verb: befell), not الانتباه"
+},
+{
+"sid": "elenteab->elintab",
+"rid": "elenteab->elintab",
+"v": false,
+"why": "elintab reads as انتاب (verb: befell), not الانتباه"
+},
+{
+"sid": "elenteab->ilentab",
+"rid": "elenteab->ilentab",
+"v": false,
+"why": "ilentab reads as انتاب (verb: befell), not الانتباه"
+},
+{
+"sid": "elfaida->elfada",
+"rid": "elfaida->elfada",
+"v": false,
+"why": "elfada reads as الفضا (space/emptiness), not الفايدة"
+},
+{
+"sid": "elfaida->elfadaa",
+"rid": "elfaida->elfadaa",
+"v": false,
+"why": "elfadaa reads as الفضاء (outer space), not الفايدة"
+},
+{
+"sid": "elfaida->ilfada",
+"rid": "elfaida->ilfada",
+"v": false,
+"why": "ilfada reads as الفضا (space/emptiness), not الفايدة"
+},
+{
+"sid": "elfaney->elfani",
+"rid": "elfaney->elfani",
+"v": true,
+"why": ""
+}
+]

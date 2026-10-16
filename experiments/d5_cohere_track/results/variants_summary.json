@@ -1,0 +1,31 @@
+{
+ "schema_version": 1,
+ "provenance": "machine_derived (Command R+ transliteration); probe stimulus only",
+ "n_rows": 2817,
+ "n_items": 500,
+ "counts": {
+  "base": 500,
+  "variant_attested": 1010,
+  "trap": 418,
+  "variant_rule_safe": 889,
+  "council_invalid": 107,
+  "underfilled_words": 48
+ },
+ "by_ortho_class": {
+  "VOWEL_LENGTH": 897,
+  "VOWEL_SWAP": 477,
+  "DIGIT_AMBIG": 318,
+  "DIPHTHONG": 194,
+  "DEGEMINATION": 158,
+  "FINAL_Y_I": 154,
+  "VOWEL_DROP_MED": 129,
+  "DIGIT_SAFE": 85,
+  "TAA_MARBUTA": 62,
+  "VOWEL_DROP": 27,
+  "INITIAL_HAMZA": 15,
+  "CLIPPING": 2,
+  "DIGIT_POSITION": 1
+ },
+ "attest_min": 20,
+ "note_on_attested": "attested = attested in Command R+ output, not in human writing; the human-authored arm is the check"
+}

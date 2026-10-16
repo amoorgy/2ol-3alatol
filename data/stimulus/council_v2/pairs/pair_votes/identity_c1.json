@@ -1,0 +1,1802 @@
+[
+{
+"sid": "3adat->adat",
+"rid": "3adat->adat",
+"v": false,
+"why": "'adat' reads as أداة construct or قادة (2adat); '3andhom adat thaqafeya' = cultural tool."
+},
+{
+"sid": "3adatak->aadataak",
+"rid": "3adatak->aadataak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatak->aadatak",
+"rid": "3adatak->aadatak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatak->adatak",
+"rid": "3adatak->adatak",
+"v": false,
+"why": "'adatak' reads as أداتك (your tool); 'tasneef adatak' plausibly means classifying your tool."
+},
+{
+"sid": "3adatna->aadatna",
+"rid": "3adatna->aadatna",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatna->aadatnaa",
+"rid": "3adatna->aadatnaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatna->adatna",
+"rid": "3adatna->adatna",
+"v": false,
+"why": "'adatna' reads as قادتنا (2adatna) or أداتنا; 'men adatna el yahodya' = our leaders."
+},
+{
+"sid": "3adatohom->aadatohom",
+"rid": "3adatohom->aadatohom",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatohom->aadatohum",
+"rid": "3adatohom->aadatohum",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adatohom->adatohom",
+"rid": "3adatohom->adatohom",
+"v": false,
+"why": "'adatohom' reads as أداتهم/قادتهم; 'be-adatohom ghyer el-zera3eya' = with their tool."
+},
+{
+"sid": "3adaw->aadaaw",
+"rid": "3adaw->aadaaw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adaw->aadaw",
+"rid": "3adaw->aadaw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adaw->adaw",
+"rid": "3adaw->adaw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawa->aadawa",
+"rid": "3adawa->aadawa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawa->aadawaa",
+"rid": "3adawa->aadawaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawa->adawa",
+"rid": "3adawa->adawa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawi->aadawe",
+"rid": "3adawi->aadawe",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawi->aadawi",
+"rid": "3adawi->aadawi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawi->aadawy",
+"rid": "3adawi->aadawy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawi->adawi",
+"rid": "3adawi->adawi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawy->aadaawy",
+"rid": "3adawy->aadaawy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawy->aadawi",
+"rid": "3adawy->aadawi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adawy->aadawy",
+"rid": "3adawy->aadawy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3add->aad",
+"rid": "3add->aad",
+"v": false,
+"why": "'aad' drops the geminate and reads as عاد (returned), not عدد/عدّ."
+},
+{
+"sid": "3add->aadd",
+"rid": "3add->aadd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adda->aadda",
+"rid": "3adda->aadda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adda->aaddah",
+"rid": "3adda->aaddah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adda->adda",
+"rid": "3adda->adda",
+"v": false,
+"why": "'adda' is the common spelling of أدّى (performed/delivered), not عدّة."
+},
+{
+"sid": "3addad->aadad",
+"rid": "3addad->aadad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addad->aaddad",
+"rid": "3addad->aaddad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addad->addad",
+"rid": "3addad->addad",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addadat->aadadat",
+"rid": "3addadat->aadadat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addadat->aaddadat",
+"rid": "3addadat->aaddadat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addadat->addadat",
+"rid": "3addadat->addadat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addat->aadat",
+"rid": "3addat->aadat",
+"v": false,
+"why": "'aadat' is the standard ع-less spelling of عادات (habits); 'aadat tasweer' ≠ عدّة تصوير."
+},
+{
+"sid": "3addat->aaddaat",
+"rid": "3addat->aaddaat",
+"v": false,
+"why": "'aaddaat' reads as plural عدّات, not the singular construct عدّة in 'aaddat tasweer'."
+},
+{
+"sid": "3addat->aaddat",
+"rid": "3addat->aaddat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addat->addat",
+"rid": "3addat->addat",
+"v": false,
+"why": "'addat' reads as أدّت (she performed), not عدّة."
+},
+{
+"sid": "3addet->aaddet",
+"rid": "3addet->aaddet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addet->aaddit",
+"rid": "3addet->aaddit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addet->aadet",
+"rid": "3addet->aadet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addo->aaddo",
+"rid": "3addo->aaddo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addo->aaddoo",
+"rid": "3addo->aaddoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addo->aado",
+"rid": "3addo->aado",
+"v": false,
+"why": "'aado' reads as عدو (enemy, 3ado), not عدّوا (they passed)."
+},
+{
+"sid": "3addo->addo",
+"rid": "3addo->addo",
+"v": false,
+"why": "'addo' reads as قدّه (2addo, its size) or أدّوا; '2addo 7awaly 10 km' fits."
+},
+{
+"sid": "3addy->aaddi",
+"rid": "3addy->aaddi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addy->aaddy",
+"rid": "3addy->aaddy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3addy->addy",
+"rid": "3addy->addy",
+"v": false,
+"why": "'addy' reads as أدّى/قدّي (2addy); 'kan addy kam sana' = he served some years."
+},
+{
+"sid": "3adeda->aadda",
+"rid": "3adeda->aadda",
+"v": false,
+"why": "'aadda' reads as عدّة (several/equipment), a different word from عديدة."
+},
+{
+"sid": "3adeda->aadeda",
+"rid": "3adeda->aadeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeda->aadida",
+"rid": "3adeda->aadida",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adee->aade",
+"rid": "3adee->aade",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adee->aadee",
+"rid": "3adee->aadee",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adee->adee",
+"rid": "3adee->adee",
+"v": false,
+"why": "'adee' reads as أدي (here's) or قاضي (2adee); 'el-adee' = the judge."
+},
+{
+"sid": "3adeed->aaded",
+"rid": "3adeed->aaded",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeed->aadeed",
+"rid": "3adeed->aadeed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeed->aadeid",
+"rid": "3adeed->aadeid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeed->adeed",
+"rid": "3adeed->adeed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->3adeed",
+"rid": "3adeeid->3adeed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->3adid",
+"rid": "3adeeid->3adid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->3adiid",
+"rid": "3adeeid->3adiid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->aadeeid",
+"rid": "3adeeid->aadeeid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->aadeid",
+"rid": "3adeeid->aadeid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeid->adeeid",
+"rid": "3adeeid->adeeid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeem->aadeem",
+"rid": "3adeem->aadeem",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeem->aadem",
+"rid": "3adeem->aadem",
+"v": false,
+"why": "'aadem' reads as عادم/عدم (3adem), a different word from عديم."
+},
+{
+"sid": "3adeem->adeem",
+"rid": "3adeem->adeem",
+"v": false,
+"why": "'adeem' is the common q-dropped spelling of قديم (old); 'el dolphen adeem' = old dolphin."
+},
+{
+"sid": "3adeeya->aadeeya",
+"rid": "3adeeya->aadeeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeya->aadeya",
+"rid": "3adeeya->aadeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeeya->adeeya",
+"rid": "3adeeya->adeeya",
+"v": false,
+"why": "'adeeya' reads as قضية (2adeeya, case) with dropped 2."
+},
+{
+"sid": "3adeia->3adea",
+"rid": "3adeia->3adea",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeia->3adia",
+"rid": "3adeia->3adia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeia->3adiaa",
+"rid": "3adeia->3adiaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeia->aadeia",
+"rid": "3adeia->aadeia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeia->aadia",
+"rid": "3adeia->aadia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adel->aadel",
+"rid": "3adel->aadel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adel->aadil",
+"rid": "3adel->aadil",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adel->adel",
+"rid": "3adel->adel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adela->aadela",
+"rid": "3adela->aadela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adela->aadila",
+"rid": "3adela->aadila",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adela->adela",
+"rid": "3adela->adela",
+"v": false,
+"why": "'adela' reads as أدلة (evidence), a different word."
+},
+{
+"sid": "3adelt->aadelt",
+"rid": "3adelt->aadelt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adelt->aadilt",
+"rid": "3adelt->aadilt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adem->aadeem",
+"rid": "3adem->aadeem",
+"v": false,
+"why": "'aadeem' reads as عديم (lacking), a different word from عادم (exhaust)."
+},
+{
+"sid": "3adem->aadem",
+"rid": "3adem->aadem",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adem->aadim",
+"rid": "3adem->aadim",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adema->aadema",
+"rid": "3adema->aadema",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adema->aademaa",
+"rid": "3adema->aademaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adema->aadima",
+"rid": "3adema->aadima",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adema->adema",
+"rid": "3adema->adema",
+"v": false,
+"why": "'adema' reads as قديمة/قادمة (2adema) with dropped 2."
+},
+{
+"sid": "3aden->aaden",
+"rid": "3aden->aaden",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aden->aden",
+"rid": "3aden->aden",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adet->aadet",
+"rid": "3adet->aadet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adet->aadit",
+"rid": "3adet->aadit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adet->aadt",
+"rid": "3adet->aadt",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adet->adet",
+"rid": "3adet->adet",
+"v": false,
+"why": "'adet' reads as قضيت (2adet, spent) or أديت."
+},
+{
+"sid": "3adeya->aadeya",
+"rid": "3adeya->aadeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adeya->aadiya",
+"rid": "3adeya->aadiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adi->aade",
+"rid": "3adi->aade",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adi->aadi",
+"rid": "3adi->aadi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adi->adi",
+"rid": "3adi->adi",
+"v": false,
+"why": "'adi' reads as أدي (here's) or قاضي (2adi, judge)."
+},
+{
+"sid": "3adia->aadia",
+"rid": "3adia->aadia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adia->aadiaa",
+"rid": "3adia->aadiaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adia->adia",
+"rid": "3adia->adia",
+"v": false,
+"why": "'adia' reads as قضية (2adia, case) with dropped 2."
+},
+{
+"sid": "3adid->aadd",
+"rid": "3adid->aadd",
+"v": false,
+"why": "'aadd' reads as عدّ/عدد (number/count), a different word from عديد."
+},
+{
+"sid": "3adid->aadid",
+"rid": "3adid->aadid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adid->adid",
+"rid": "3adid->adid",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adila->aadela",
+"rid": "3adila->aadela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adila->aadila",
+"rid": "3adila->aadila",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adila->aadilaa",
+"rid": "3adila->aadilaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adila->adila",
+"rid": "3adila->adila",
+"v": false,
+"why": "'adila'/'el-adila' reads as أدلة/الأدلة (evidence)."
+},
+{
+"sid": "3adima->aadema",
+"rid": "3adima->aadema",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adima->aadimaa",
+"rid": "3adima->aadimaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adima->aadma",
+"rid": "3adima->aadma",
+"v": false,
+"why": "'aadma' reads as عظمة (3adma, bone) or قادمة, not عديمة."
+},
+{
+"sid": "3adima->adima",
+"rid": "3adima->adima",
+"v": false,
+"why": "'adima' is the common q-dropped spelling of قديمة (old)."
+},
+{
+"sid": "3adiya->aadiya",
+"rid": "3adiya->aadiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adiya->aadiyaa",
+"rid": "3adiya->aadiyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adiya->adiya",
+"rid": "3adiya->adiya",
+"v": false,
+"why": "'adiya'/'el-adiya' reads as قضية/القضية (2adiya, the case)."
+},
+{
+"sid": "3adl->aadl",
+"rid": "3adl->aadl",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adl->adl",
+"rid": "3adl->adl",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adla->aadla",
+"rid": "3adla->aadla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adla->adla",
+"rid": "3adla->adla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlaat->aadlaat",
+"rid": "3adlaat->aadlaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlaat->aadlat",
+"rid": "3adlaat->aadlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlaat->adlaat",
+"rid": "3adlaat->adlaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlak->aadlak",
+"rid": "3adlak->aadlak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlak->adlak",
+"rid": "3adlak->adlak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlal->aadlal",
+"rid": "3adlal->aadlal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlal->adlal",
+"rid": "3adlal->adlal",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlat->aadlaat",
+"rid": "3adlat->aadlaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlat->aadlat",
+"rid": "3adlat->aadlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlat->adlat",
+"rid": "3adlat->adlat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adleya->aadleya",
+"rid": "3adleya->aadleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adleya->aadliya",
+"rid": "3adleya->aadliya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adleya->adleya",
+"rid": "3adleya->adleya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adly->adly",
+"rid": "3adly->adly",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlya->aadlya",
+"rid": "3adlya->aadlya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adlya->adlya",
+"rid": "3adlya->adlya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adm->aaadm",
+"rid": "3adm->aaadm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adm->aadm",
+"rid": "3adm->aadm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adm->adm",
+"rid": "3adm->adm",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ado->aadu",
+"rid": "3ado->aadu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ado->ado",
+"rid": "3ado->ado",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adoa->aadoa",
+"rid": "3adoa->aadoa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adoa->adoa",
+"rid": "3adoa->adoa",
+"v": false,
+"why": "'adoa' reads as أدوية/أضواء; 'markaz adoa w 3elaj' = medicines and treatment center."
+},
+{
+"sid": "3ads->aads",
+"rid": "3ads->aads",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ads->ads",
+"rid": "3ads->ads",
+"v": false,
+"why": "'ads' is the English word 'ads' (advertisements); 'el ads b2a sa3ruh' reads as ads."
+},
+{
+"sid": "3adsa->aadsa",
+"rid": "3adsa->aadsa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adsa->aadsaa",
+"rid": "3adsa->aadsaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adsa->adsa",
+"rid": "3adsa->adsa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adset->aadset",
+"rid": "3adset->aadset",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adset->aadsit",
+"rid": "3adset->aadsit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adset->adset",
+"rid": "3adset->adset",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adwa->aadwa",
+"rid": "3adwa->aadwa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adwa->aadwaa",
+"rid": "3adwa->aadwaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adwa->adwa",
+"rid": "3adwa->adwa",
+"v": false,
+"why": "'adwa' reads as أضواء (lights) or أدوية; 'khayfen men el adwa' = afraid of lights."
+},
+{
+"sid": "3adwy->aadwi",
+"rid": "3adwy->aadwi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adwy->aadwy",
+"rid": "3adwy->aadwy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adwy->adwy",
+"rid": "3adwy->adwy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adya->aadyaa",
+"rid": "3adya->aadyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adya->aadyah",
+"rid": "3adya->aadyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adya->adya",
+"rid": "3adya->adya",
+"v": false,
+"why": "'adya' reads as قضية (2adya, case) with dropped 2."
+},
+{
+"sid": "3adyah->aadya",
+"rid": "3adyah->aadya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyah->aadyaah",
+"rid": "3adyah->aadyaah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyah->aadyah",
+"rid": "3adyah->aadyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyah->adyah",
+"rid": "3adyah->adyah",
+"v": false,
+"why": "'adyah' reads as قضية (2adyah, case) with dropped 2."
+},
+{
+"sid": "3adyan->aadyaan",
+"rid": "3adyan->aadyaan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyan->aadyan",
+"rid": "3adyan->aadyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyan->adyan",
+"rid": "3adyan->adyan",
+"v": false,
+"why": "'adyan' is the standard spelling of أديان (religions)."
+},
+{
+"sid": "3adyd->aadyd",
+"rid": "3adyd->aadyd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyd->adyd",
+"rid": "3adyd->adyd",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyeen->aadyeeen",
+"rid": "3adyeen->aadyeeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyeen->aadyeen",
+"rid": "3adyeen->aadyeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyia->3adya",
+"rid": "3adyia->3adya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyia->aadyia",
+"rid": "3adyia->aadyia",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyia->adyia",
+"rid": "3adyia->adyia",
+"v": false,
+"why": "'adyia' reads as قضية (2adyia, case) with dropped 2."
+},
+{
+"sid": "3adyya->aadya",
+"rid": "3adyya->aadya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3adyya->aadyya",
+"rid": "3adyya->aadyya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aed->3ad",
+"rid": "3aed->3ad",
+"v": false,
+"why": "'3ad' reads as عاد (returned), a different word from عائد (yield)."
+},
+{
+"sid": "3aed->aad",
+"rid": "3aed->aad",
+"v": false,
+"why": "'aad' reads as عاد (returned), a different word from عائد (yield)."
+},
+{
+"sid": "3aed->aaed",
+"rid": "3aed->aaed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aed->aed",
+"rid": "3aed->aed",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afa->aafa",
+"rid": "3afa->aafa",
+"v": false,
+"why": "'aafa'/'el aafa' reads as الآفة (the pest/scourge), not العفة."
+},
+{
+"sid": "3afa->aafaa",
+"rid": "3afa->aafaa",
+"v": false,
+"why": "'aafaa' can read as آفة (pest); '3an el aafaa' = about the scourge."
+},
+{
+"sid": "3afa->afa",
+"rid": "3afa->afa",
+"v": false,
+"why": "'afa' reads as قفا (2afa, nape) or آفة; 'bta3ab men el afa' fits."
+},
+{
+"sid": "3afan->aafan",
+"rid": "3afan->aafan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afan->afan",
+"rid": "3afan->afan",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afareet->aafareet",
+"rid": "3afareet->aafareet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afareet->aafaret",
+"rid": "3afareet->aafaret",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afareet->afareet",
+"rid": "3afareet->afareet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afn->aafn",
+"rid": "3afn->aafn",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afn->afn",
+"rid": "3afn->afn",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afreet->aafreet",
+"rid": "3afreet->aafreet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afreet->aafret",
+"rid": "3afreet->aafret",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afreet->afreet",
+"rid": "3afreet->afreet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afw->aafw",
+"rid": "3afw->aafw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afw->afw",
+"rid": "3afw->afw",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afweya->aafweya",
+"rid": "3afweya->aafweya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afweya->aafwiya",
+"rid": "3afweya->aafwiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afweya->afweya",
+"rid": "3afweya->afweya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afya->aafya",
+"rid": "3afya->aafya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afya->aafyaa",
+"rid": "3afya->aafyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3afya->afya",
+"rid": "3afya->afya",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ag->aag",
+"rid": "3ag->aag",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agab->aagab",
+"rid": "3agab->aagab",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agab->agab",
+"rid": "3agab->agab",
+"v": false,
+"why": "'agab' reads as أجاب (answered); 'agab nas ketir' = answered many people."
+},
+{
+"sid": "3agabetny->aagabeetny",
+"rid": "3agabetny->aagabeetny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabetny->aagabetny",
+"rid": "3agabetny->aagabetny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabny->aagabni",
+"rid": "3agabny->aagabni",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabny->aagabny",
+"rid": "3agabny->aagabny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabny->agabny",
+"rid": "3agabny->agabny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabtny->aagaabtny",
+"rid": "3agabtny->aagaabtny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabtny->aagabtni",
+"rid": "3agabtny->aagabtni",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabtny->aagabtny",
+"rid": "3agabtny->aagabtny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agabtny->agabtny",
+"rid": "3agabtny->agabtny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agayeb->aagayb",
+"rid": "3agayeb->aagayb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agayeb->aagayeb",
+"rid": "3agayeb->aagayeb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agayeb->agayeb",
+"rid": "3agayeb->agayeb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbak->aagbaak",
+"rid": "3agbak->aagbaak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbak->aagbak",
+"rid": "3agbak->aagbak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbak->agbak",
+"rid": "3agbak->agbak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbany->aagbany",
+"rid": "3agbany->aagbany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbany->agbany",
+"rid": "3agbany->agbany",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbny->aagbni",
+"rid": "3agbny->aagbni",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbny->aagbny",
+"rid": "3agbny->aagbny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbny->agbny",
+"rid": "3agbny->agbny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbo->aagbo",
+"rid": "3agbo->aagbo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbo->aagboo",
+"rid": "3agbo->aagboo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbo->agbo",
+"rid": "3agbo->agbo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbty->aagbty",
+"rid": "3agbty->aagbty",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agbty->agbty",
+"rid": "3agbty->agbty",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agebak->aagebak",
+"rid": "3agebak->aagebak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agebak->aagibak",
+"rid": "3agebak->aagibak",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agebak->agebak",
+"rid": "3agebak->agebak",
+"v": false,
+"why": "'agebak' reads as أجيبك (I bring you); 'law agebak el kalam dah' fits."
+},
+{
+"sid": "3agebny->aagebny",
+"rid": "3agebny->aagebny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agebny->aagibny",
+"rid": "3agebny->aagibny",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ageeb->aageb",
+"rid": "3ageeb->aageb",
+"v": false,
+"why": "'aageb' (vowel shortened) reads as عاجب (3ageb, pleasing), not عجيب."
+},
+{
+"sid": "3ageeb->aageeb",
+"rid": "3ageeb->aageeb",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ageeb->ageeb",
+"rid": "3ageeb->ageeb",
+"v": false,
+"why": "'ageeb' is the common spelling of أجيب (I bring), not عجيب."
+},
+{
+"sid": "3ageeba->ageeba",
+"rid": "3ageeba->ageeba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ageena->aageena",
+"rid": "3ageena->aageena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ageena->aagena",
+"rid": "3ageena->aagena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agel->aagel",
+"rid": "3agel->aagel",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agel->aagl",
+"rid": "3agel->aagl",
+"v": false,
+"why": "'aagl' reads as عجل (3agl, calf/wheel), not عاجل."
+},
+{
+"sid": "3agel->agel",
+"rid": "3agel->agel",
+"v": false,
+"why": "'agel' reads as آجل (deferred); '3ala el agel' = on deferred terms, opposite meaning."
+},
+{
+"sid": "3agena->aagena",
+"rid": "3agena->aagena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agena->aagina",
+"rid": "3agena->aagina",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agena->agena",
+"rid": "3agena->agena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agheeba->aagheba",
+"rid": "3agheeba->aagheba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agheeba->aagheiba",
+"rid": "3agheeba->aagheiba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agiba->aagba",
+"rid": "3agiba->aagba",
+"v": false,
+"why": "'aagba' reads as عاجبة (3agba, pleasing), not عجيبة."
+},
+{
+"sid": "3agiba->aageba",
+"rid": "3agiba->aageba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agiba->aagiba",
+"rid": "3agiba->aagiba",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agla->aagla",
+"rid": "3agla->aagla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agla->aaglaa",
+"rid": "3agla->aaglaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agla->agla",
+"rid": "3agla->agla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglat->aaglat",
+"rid": "3aglat->aaglat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglat->aglat",
+"rid": "3aglat->aglat",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglet->aagleet",
+"rid": "3aglet->aagleet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglet->aaglet",
+"rid": "3aglet->aaglet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglet->aaglit",
+"rid": "3aglet->aaglit",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aglet->aglet",
+"rid": "3aglet->aglet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouz->aagooz",
+"rid": "3agouz->aagooz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouz->aagouz",
+"rid": "3agouz->aagouz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouz->agouz",
+"rid": "3agouz->agouz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouza->aagooza",
+"rid": "3agouza->aagooza",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouza->aagouza",
+"rid": "3agouza->aagouza",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agouza->agouza",
+"rid": "3agouza->agouza",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agz->aagz",
+"rid": "3agz->aagz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3agz->agz",
+"rid": "3agz->agz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ahdo->aahdo",
+"rid": "3ahdo->aahdo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ahdo->aahdu",
+"rid": "3ahdo->aahdu",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ahdo->ahdo",
+"rid": "3ahdo->ahdo",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aj->aaj",
+"rid": "3aj->aaj",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aj->aj",
+"rid": "3aj->aj",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajeen->aajeen",
+"rid": "3ajeen->aajeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajeen->aajen",
+"rid": "3ajeen->aajen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajeen->ajeen",
+"rid": "3ajeen->ajeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajeena->aajeena",
+"rid": "3ajeena->aajeena",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajela->aajela",
+"rid": "3ajela->aajela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajela->aajila",
+"rid": "3ajela->aajila",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajela->aajla",
+"rid": "3ajela->aajla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajela->ajela",
+"rid": "3ajela->ajela",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajez->aajez",
+"rid": "3ajez->aajez",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajez->ajez",
+"rid": "3ajez->ajez",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajla->aajla",
+"rid": "3ajla->aajla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajla->ajla",
+"rid": "3ajla->ajla",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajz->aajz",
+"rid": "3ajz->aajz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3ajz->ajz",
+"rid": "3ajz->ajz",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akasha->aakasha",
+"rid": "3akasha->aakasha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akasha->aakashaa",
+"rid": "3akasha->aakashaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akasha->akasha",
+"rid": "3akasha->akasha",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akes->aakes",
+"rid": "3akes->aakes",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akes->aakis",
+"rid": "3akes->aakis",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akesy->aakesi",
+"rid": "3akesy->aakesi",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akesy->aakesy",
+"rid": "3akesy->aakesy",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aks->aaks",
+"rid": "3aks->aaks",
+"v": true,
+"why": ""
+},
+{
+"sid": "3aks->aks",
+"rid": "3aks->aks",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akset->aakseet",
+"rid": "3akset->aakseet",
+"v": true,
+"why": ""
+},
+{
+"sid": "3akset->aakset",
+"rid": "3akset->aakset",
+"v": true,
+"why": ""
+}
+]

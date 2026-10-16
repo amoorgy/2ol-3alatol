@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "3ayno->aayno",
+  "rid": "3ayno->aayno",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayno->aeino",
+  "rid": "3ayno->aeino",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayno->ayno",
+  "rid": "3ayno->ayno",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aysh->aeesh",
+  "rid": "3aysh->aeesh",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3aysh->aeish",
+  "rid": "3aysh->aeish",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3aysh->aysh",
+  "rid": "3aysh->aysh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aysha->aaysha",
+  "rid": "3aysha->aaysha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aysha->aeesha",
+  "rid": "3aysha->aeesha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3aysha->aysha",
+  "rid": "3aysha->aysha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshen->aayshen",
+  "rid": "3ayshen->aayshen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshen->ayshen",
+  "rid": "3ayshen->ayshen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshenha->3ishenha",
+  "rid": "3ayshenha->3ishenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshenha->aayshenha",
+  "rid": "3ayshenha->aayshenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshenha->aeeshenha",
+  "rid": "3ayshenha->aeeshenha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayshenha->aeishenha",
+  "rid": "3ayshenha->aeishenha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayshenha->ayshenha",
+  "rid": "3ayshenha->ayshenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshin->3ishin",
+  "rid": "3ayshin->3ishin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshin->aayshin",
+  "rid": "3ayshin->aayshin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayshin->aeishin",
+  "rid": "3ayshin->aeishin",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3aysho->3isho",
+  "rid": "3aysho->3isho",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aysho->aayshu",
+  "rid": "3aysho->aayshu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aysho->aeesho",
+  "rid": "3aysho->aeesho",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayshyn->ayshyn",
+  "rid": "3ayshyn->ayshyn",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayye->aaye",
+  "rid": "3ayye->aaye",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayye->aayye",
+  "rid": "3ayye->aayye",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayye->ayye",
+  "rid": "3ayye->ayye",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayyeen->3iyeen",
+  "rid": "3ayyeen->3iyeen",
+  "v": false,
+  "why": "ayy->iy yields 3iyeen, not a natural spelling; reads as a different word"
+ },
+ {
+  "sid": "3ayyeen->aayyeen",
+  "rid": "3ayyeen->aayyeen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayyeen->aayyen",
+  "rid": "3ayyeen->aayyen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayz->3iz",
+  "rid": "3ayz->3iz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayz->aayz",
+  "rid": "3ayz->aayz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayz->aeez",
+  "rid": "3ayz->aeez",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayz->ayz",
+  "rid": "3ayz->ayz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayza->3iza",
+  "rid": "3ayza->3iza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayza->aayza",
+  "rid": "3ayza->aayza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayza->aeiza",
+  "rid": "3ayza->aeiza",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayza->ayza",
+  "rid": "3ayza->ayza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzah->3izah",
+  "rid": "3ayzah->3izah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzah->aayzaah",
+  "rid": "3ayzah->aayzaah",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3ayzah->aeezah",
+  "rid": "3ayzah->aeezah",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzaha->3izaha",
+  "rid": "3ayzaha->3izaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzaha->aayzaha",
+  "rid": "3ayzaha->aayzaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzaha->aeezaha",
+  "rid": "3ayzaha->aeezaha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzaha->aeizaha",
+  "rid": "3ayzaha->aeizaha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzaha->ayzaha",
+  "rid": "3ayzaha->ayzaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzak->aayzaak",
+  "rid": "3ayzak->aayzaak",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzak->aayzak",
+  "rid": "3ayzak->aayzak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzak->aeezak",
+  "rid": "3ayzak->aeezak",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzak->ayzak",
+  "rid": "3ayzak->ayzak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzakom->3izakom",
+  "rid": "3ayzakom->3izakom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzakom->aayzakom",
+  "rid": "3ayzakom->aayzakom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzakom->aayzakoom",
+  "rid": "3ayzakom->aayzakoom",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzeenaha->aayzeenahaa",
+  "rid": "3ayzeenaha->aayzeenahaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzeenaha->aayzeinaha",
+  "rid": "3ayzeenaha->aayzeinaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenaha->aayzenaha",
+  "rid": "3ayzeenaha->aayzenaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenak->aayzeenaak",
+  "rid": "3ayzeenak->aayzeenaak",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzeenak->aayzenak",
+  "rid": "3ayzeenak->aayzenak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenha->3izeenha",
+  "rid": "3ayzeenha->3izeenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenha->aayzenha",
+  "rid": "3ayzeenha->aayzenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenha->aeezeenha",
+  "rid": "3ayzeenha->aeezeenha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzeenhom->3izeenhom",
+  "rid": "3ayzeenhom->3izeenhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenhom->aayzeenhum",
+  "rid": "3ayzeenhom->aayzeenhum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenhom->aayzenhom",
+  "rid": "3ayzeenhom->aayzenhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenhom->aeizeenhom",
+  "rid": "3ayzeenhom->aeizeenhom",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzeenhom->ayzeenhom",
+  "rid": "3ayzeenhom->ayzeenhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeeno->aayzeenoo",
+  "rid": "3ayzeeno->aayzeenoo",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzeeno->aayzeenu",
+  "rid": "3ayzeeno->aayzeenu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeeno->aeezeeno",
+  "rid": "3ayzeeno->aeezeeno",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzeenoh->3izeenoh",
+  "rid": "3ayzeenoh->3izeenoh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenoh->aayzeenoh",
+  "rid": "3ayzeenoh->aayzeenoh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenoh->aayzeinoh",
+  "rid": "3ayzeenoh->aayzeinoh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzeenoh->aayzenoh",
+  "rid": "3ayzeenoh->aayzenoh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzen->3izen",
+  "rid": "3ayzen->3izen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzen->aayzen",
+  "rid": "3ayzen->aayzen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzen->aayzin",
+  "rid": "3ayzen->aayzin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzen->aeizen",
+  "rid": "3ayzen->aeizen",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzena->aayzina",
+  "rid": "3ayzena->aayzina",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzenha->aayzenha",
+  "rid": "3ayzenha->aayzenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzenha->aayzenhaa",
+  "rid": "3ayzenha->aayzenhaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3ayzenha->aayzinha",
+  "rid": "3ayzenha->aayzinha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzenha->aeezenha",
+  "rid": "3ayzenha->aeezenha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzenha->aeizenha",
+  "rid": "3ayzenha->aeizenha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzha->3izha",
+  "rid": "3ayzha->3izha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzha->aayzha",
+  "rid": "3ayzha->aayzha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzha->aeizha",
+  "rid": "3ayzha->aeizha",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3ayzha->ayzha",
+  "rid": "3ayzha->ayzha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzna->aayzna",
+  "rid": "3ayzna->aayzna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzny->aayzny",
+  "rid": "3ayzny->aayzny",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzny->ayzny",
+  "rid": "3ayzny->ayzny",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzohm->aayzohm",
+  "rid": "3ayzohm->aayzohm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzohm->aayzuhm",
+  "rid": "3ayzohm->aayzuhm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ayzohm->aeezohm",
+  "rid": "3ayzohm->aeezohm",
+  "v": false,
+  "why": "'ae'+ee/ei opening is not how Egyptians spell 3ay- words; unnatural vowel cluster"
+ },
+ {
+  "sid": "3aza->aaza",
+  "rid": "3aza->aaza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aza->aza",
+  "rid": "3aza->aza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aza2->aaza2",
+  "rid": "3aza2->aaza2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aza2->aazaa2",
+  "rid": "3aza2->aazaa2",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3aza2->aza2",
+  "rid": "3aza2->aza2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azab->aazaab",
+  "rid": "3azab->aazaab",
+  "v": false,
+  "why": "aa plus lengthened second a; here 3azab is the short-vowel verb 'tortured'"
+ },
+ {
+  "sid": "3azab->aazab",
+  "rid": "3azab->aazab",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azab->azab",
+  "rid": "3azab->azab",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azafeen->aazafeen",
+  "rid": "3azafeen->aazafeen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azafeen->aazafen",
+  "rid": "3azafeen->aazafen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azafeen->azafeen",
+  "rid": "3azafeen->azafeen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azal->aazaal",
+  "rid": "3azal->aazaal",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azal->aazal",
+  "rid": "3azal->aazal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azal->azal",
+  "rid": "3azal->azal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azam->aazaam",
+  "rid": "3azam->aazaam",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azam->aazam",
+  "rid": "3azam->aazam",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azam->azam",
+  "rid": "3azam->azam",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azama->aazama",
+  "rid": "3azama->aazama",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azama->aazamaa",
+  "rid": "3azama->aazamaa",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azama->azama",
+  "rid": "3azama->azama",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azamy->aazami",
+  "rid": "3azamy->aazami",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azamy->aazamy",
+  "rid": "3azamy->aazamy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azamy->azamy",
+  "rid": "3azamy->azamy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azba->aazba",
+  "rid": "3azba->aazba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azba->aazbaa",
+  "rid": "3azba->aazbaa",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azba->azba",
+  "rid": "3azba->azba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeb->aazb",
+  "rid": "3azeb->aazb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeb->aazeb",
+  "rid": "3azeb->aazeb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeb->aazib",
+  "rid": "3azeb->aazib",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeb->azeb",
+  "rid": "3azeb->azeb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeem->aazeem",
+  "rid": "3azeem->aazeem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeem->azeem",
+  "rid": "3azeem->azeem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeema->aazeema",
+  "rid": "3azeema->aazeema",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeez->aazeez",
+  "rid": "3azeez->aazeez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeez->aazeiz",
+  "rid": "3azeez->aazeiz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeez->aazez",
+  "rid": "3azeez->aazez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeeza->aazeza",
+  "rid": "3azeeza->aazeza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeezy->aazeezy",
+  "rid": "3azeezy->aazeezy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeezy->aazeizy",
+  "rid": "3azeezy->aazeizy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeezy->azeezy",
+  "rid": "3azeezy->azeezy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azef->aazif",
+  "rid": "3azef->aazif",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azef->azef",
+  "rid": "3azef->azef",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeiz->3azez",
+  "rid": "3azeiz->3azez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeiz->3aziz",
+  "rid": "3azeiz->3aziz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azeiz->aazeiiz",
+  "rid": "3azeiz->aazeiiz",
+  "v": false,
+  "why": "tripled vowel 'eii' is not a real Egyptian spelling habit"
+ },
+ {
+  "sid": "3azel->aazel",
+  "rid": "3azel->aazel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azel->aazil",
+  "rid": "3azel->aazil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azel->azel",
+  "rid": "3azel->azel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azem->aazem",
+  "rid": "3azem->aazem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azem->aazim",
+  "rid": "3azem->aazim",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azem->aazm",
+  "rid": "3azem->aazm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azem->azem",
+  "rid": "3azem->azem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azema->aazima",
+  "rid": "3azema->aazima",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azema->aazma",
+  "rid": "3azema->aazma",
+  "v": false,
+  "why": "drops the long ee of عظيمة; no one spells 3azema as aazma"
+ },
+ {
+  "sid": "3azf->aaazf",
+  "rid": "3azf->aaazf",
+  "v": false,
+  "why": "tripled 'aaa' at the start is not a real spelling of 3azf"
+ },
+ {
+  "sid": "3azf->aazf",
+  "rid": "3azf->aazf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azf->azf",
+  "rid": "3azf->azf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azfeen->aazfeen",
+  "rid": "3azfeen->aazfeen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azfeen->aazfein",
+  "rid": "3azfeen->aazfein",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azfeen->aazfen",
+  "rid": "3azfeen->aazfen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azim->aazem",
+  "rid": "3azim->aazem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azim->aaziim",
+  "rid": "3azim->aaziim",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azim->aazim",
+  "rid": "3azim->aazim",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azim->azim",
+  "rid": "3azim->azim",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azima->aazema",
+  "rid": "3azima->aazema",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azima->aazma",
+  "rid": "3azima->aazma",
+  "v": false,
+  "why": "drops the long i of عظيمة; no one spells 3azima as aazma"
+ },
+ {
+  "sid": "3azl->aazl",
+  "rid": "3azl->aazl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azl->azl",
+  "rid": "3azl->azl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azla->aazla",
+  "rid": "3azla->aazla",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azla->aazlaa",
+  "rid": "3azla->aazlaa",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azlat->aazlaat",
+  "rid": "3azlat->aazlaat",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azlat->aazlat",
+  "rid": "3azlat->aazlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azlat->azlat",
+  "rid": "3azlat->azlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azleya->aazleya",
+  "rid": "3azleya->aazleya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azleya->aazliya",
+  "rid": "3azleya->aazliya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azleya->azleya",
+  "rid": "3azleya->azleya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azm->aazm",
+  "rid": "3azm->aazm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azm->azm",
+  "rid": "3azm->azm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azma->aazma",
+  "rid": "3azma->aazma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azma->aazmaa",
+  "rid": "3azma->aazmaa",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azma->azma",
+  "rid": "3azma->azma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmat->aazmaat",
+  "rid": "3azmat->aazmaat",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azmat->aazmat",
+  "rid": "3azmat->aazmat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmat->azmat",
+  "rid": "3azmat->azmat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->3azmea",
+  "rid": "3azmeia->3azmea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->3azmia",
+  "rid": "3azmeia->3azmia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->aazmea",
+  "rid": "3azmeia->aazmea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->aazmeia",
+  "rid": "3azmeia->aazmeia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->aazmia",
+  "rid": "3azmeia->aazmia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeia->azmeia",
+  "rid": "3azmeia->azmeia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmet->aazmeet",
+  "rid": "3azmet->aazmeet",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azmet->aazmet",
+  "rid": "3azmet->aazmet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmet->aazmit",
+  "rid": "3azmet->aazmit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmet->azmet",
+  "rid": "3azmet->azmet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeyya->aazmeyya",
+  "rid": "3azmeyya->aazmeyya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmeyya->aazmiyya",
+  "rid": "3azmeyya->aazmiyya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmi->aazme",
+  "rid": "3azmi->aazme",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmi->aazmi",
+  "rid": "3azmi->aazmi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmi->aazmy",
+  "rid": "3azmi->aazmy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmi->azmi",
+  "rid": "3azmi->azmi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmiya->aazmeya",
+  "rid": "3azmiya->aazmeya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmiya->aazmiya",
+  "rid": "3azmiya->aazmiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmiya->azmiya",
+  "rid": "3azmiya->azmiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmy->aazmi",
+  "rid": "3azmy->aazmi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmy->aazmy",
+  "rid": "3azmy->aazmy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azmy->azmy",
+  "rid": "3azmy->azmy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azol->aazol",
+  "rid": "3azol->aazol",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azol->aazool",
+  "rid": "3azol->aazool",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azol->azol",
+  "rid": "3azol->azol",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azym->aazym",
+  "rid": "3azym->aazym",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azym->azym",
+  "rid": "3azym->azym",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azyma->aazyma",
+  "rid": "3azyma->aazyma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3azyma->aazymaa",
+  "rid": "3azyma->aazymaa",
+  "v": false,
+  "why": "stacks a second vowel doubling on top of aa; looks like a typo, nobody types it"
+ },
+ {
+  "sid": "3azyma->azyma",
+  "rid": "3azyma->azyma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bad->abaad",
+  "rid": "3bad->abaad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bad->abad",
+  "rid": "3bad->abad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bada->abada",
+  "rid": "3bada->abada",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bar->abaar",
+  "rid": "3bar->abaar",
+  "v": false,
+  "why": "عبر has no long vowel; 'abaar' is unnatural doubling"
+ },
+ {
+  "sid": "3bar->abar",
+  "rid": "3bar->abar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bara->abara",
+  "rid": "3bara->abara",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bara->abaraa",
+  "rid": "3bara->abaraa",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bara->abarah",
+  "rid": "3bara->abarah",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3barat->abaraat",
+  "rid": "3barat->abaraat",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3barat->abarat",
+  "rid": "3barat->abarat",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bas->abas",
+  "rid": "3bas->abas",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3beed->abed",
+  "rid": "3beed->abed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3beed->abeed",
+  "rid": "3beed->abeed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3beed->abeid",
+  "rid": "3beed->abeid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bor->aboor",
+  "rid": "3bor->aboor",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3bor->abor",
+  "rid": "3bor->abor",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3bor->abur",
+  "rid": "3bor->abur",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3br->aabr",
+  "rid": "3br->aabr",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3br->abr",
+  "rid": "3br->abr",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bra->abra",
+  "rid": "3bra->abra",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bra->abraa",
+  "rid": "3bra->abraa",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bra->abrah",
+  "rid": "3bra->abrah",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3bril->abrel",
+  "rid": "3bril->abrel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3bril->abril",
+  "rid": "3bril->abril",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3da->adaa",
+  "rid": "3da->adaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3da->adah",
+  "rid": "3da->adah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3da2->ada2",
+  "rid": "3da2->ada2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3da2->adaa2",
+  "rid": "3da2->adaa2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dad->adaad",
+  "rid": "3dad->adaad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dad->adad",
+  "rid": "3dad->adad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dadat->adadat",
+  "rid": "3dadat->adadat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dala->adala",
+  "rid": "3dala->adala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dam->adaam",
+  "rid": "3dam->adaam",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3dam->adam",
+  "rid": "3dam->adam",
+  "v": false,
+  "why": "ع here carries i/e (e.g. عبارة/عظام); Egyptians write e/i for it, never a"
+ },
+ {
+  "sid": "3dasa->adasa",
+  "rid": "3dasa->adasa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dasa->adasaa",
+  "rid": "3dasa->adasaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3dasat->adasaat",
+  "rid": "3dasat->adasaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dasat->adasat",
+  "rid": "3dasat->adasat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ddad->adad",
+  "rid": "3ddad->adad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ddad->addaad",
+  "rid": "3ddad->addaad",
+  "v": false,
+  "why": "عدد has short vowels; 'addaad' adds an unnatural long vowel"
+ },
+ {
+  "sid": "3ddad->addad",
+  "rid": "3ddad->addad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3deda->adeda",
+  "rid": "3deda->adeda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3deda->adedaa",
+  "rid": "3deda->adedaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3deda->adida",
+  "rid": "3deda->adida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dl->aadl",
+  "rid": "3dl->aadl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dl->adl",
+  "rid": "3dl->adl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dlat->adlaat",
+  "rid": "3dlat->adlaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dlat->adlat",
+  "rid": "3dlat->adlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dm->adm",
+  "rid": "3dm->adm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3do->ado",
+  "rid": "3do->ado",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3do->adoo",
+  "rid": "3do->adoo",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3do->adu",
+  "rid": "3do->adu",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3doa->adoa",
+  "rid": "3doa->adoa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3doa->adoaa",
+  "rid": "3doa->adoaa",
+  "v": false,
+  "why": "lengthens a short vowel with no reason; unnatural doubling no Egyptian would type here"
+ },
+ {
+  "sid": "3dt->aadt",
+  "rid": "3dt->aadt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dt->adt",
+  "rid": "3dt->adt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dwa->adwa",
+  "rid": "3dwa->adwa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dwaney->3dwani",
+  "rid": "3dwaney->3dwani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dwaney->adwanei",
+  "rid": "3dwaney->adwanei",
+  "v": false,
+  "why": "a for ع with u-vowel plus final 'ei' is not a natural chat spelling"
+ },
+ {
+  "sid": "3dwaney->adwaniy",
+  "rid": "3dwaney->adwaniy",
+  "v": false,
+  "why": "'-iy' ending is academic transliteration, not Egyptian chat typing"
+ },
+ {
+  "sid": "3dwaneya->adwaneya",
+  "rid": "3dwaneya->adwaneya",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3dwaneya->adwaniya",
+  "rid": "3dwaneya->adwaniya",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3dwy->adwi",
+  "rid": "3dwy->adwi",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3dwy->adwy",
+  "rid": "3dwy->adwy",
+  "v": false,
+  "why": "ع here carries o/u (عضو/عبور/عضوي/عدواني); writing a misrepresents the vowel"
+ },
+ {
+  "sid": "3dyd->aadyd",
+  "rid": "3dyd->aadyd",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3dyd->adyd",
+  "rid": "3dyd->adyd",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3e2a->a2a",
+  "rid": "3e2a->a2a",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2a->ae2a",
+  "rid": "3e2a->ae2a",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2a->ae2aa",
+  "rid": "3e2a->ae2aa",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2a->ai2a",
+  "rid": "3e2a->ai2a",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2a2a->a2a2a",
+  "rid": "3e2a2a->a2a2a",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2a2a->ae2a2a",
+  "rid": "3e2a2a->ae2a2a",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2ab->ae2aab",
+  "rid": "3e2ab->ae2aab",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2ab->ae2ab",
+  "rid": "3e2ab->ae2ab",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2aqa->a2aqa",
+  "rid": "3e2aqa->a2aqa",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2aqa->ae2aqa",
+  "rid": "3e2aqa->ae2aqa",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2aqa->ae2aqaa",
+  "rid": "3e2aqa->ae2aqaa",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3e2aqa->ai2aqa",
+  "rid": "3e2aqa->ai2aqa",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb->ab",
+  "rid": "3eb->ab",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb->aeeb",
+  "rid": "3eb->aeeb",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb->aib",
+  "rid": "3eb->aib",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb2->ab2",
+  "rid": "3eb2->ab2",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb2->aeeb2",
+  "rid": "3eb2->aeeb2",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3eb2->aib2",
+  "rid": "3eb2->aib2",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebad->abad",
+  "rid": "3ebad->abad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ebad->aebad",
+  "rid": "3ebad->aebad",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebad->aibad",
+  "rid": "3ebad->aibad",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebada->abada",
+  "rid": "3ebada->abada",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebada->aebada",
+  "rid": "3ebada->aebada",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebada->aibada",
+  "rid": "3ebada->aibada",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebadat->aebadat",
+  "rid": "3ebadat->aebadat",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebadat->aibadat",
+  "rid": "3ebadat->aibadat",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebara->abara",
+  "rid": "3ebara->abara",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ },
+ {
+  "sid": "3ebara->aebara",
+  "rid": "3ebara->aebara",
+  "v": false,
+  "why": "'ae'/'ai'/'a' for ع with kasra is not a real habit; Egyptians would write e/i"
+ }
+]

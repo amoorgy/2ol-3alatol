@@ -1,0 +1,17 @@
+{
+ "total_rows": 11925,
+ "kept": 7370,
+ "rejected": 1013,
+ "unjudged": 3542,
+ "overridden_by_reviewer": 22,
+ "forced_to_review": 264,
+ "train": 6638,
+ "val": 732,
+ "format": "text",
+ "seeds": {
+  "generation": 13,
+  "split": 42
+ },
+ "provenance": "nilechat_machine_derived; council-verified; machine corpus is measurement/training material, never a benchmark artifact",
+ "fat_sha256": "a597470a17f5eae2"
+}

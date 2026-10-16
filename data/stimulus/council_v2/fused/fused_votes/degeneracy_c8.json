@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_shakhs_08",
+  "rid": "fs_shakhs_08",
+  "v": false,
+  "why": "trailing clause 'el makan zafar helw' is a garbled, contradictory fragment"
+ },
+ {
+  "sid": "fs_shakhs_15",
+  "rid": "fs_shakhs_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shakhsia_05",
+  "rid": "fs_shakhsia_05",
+  "v": false,
+  "why": "doubled article artifact 'fel el 3ela'"
+ },
+ {
+  "sid": "fs_shakhsia_10",
+  "rid": "fs_shakhsia_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shakhsia_09",
+  "rid": "fs_shakhsia_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shakhsia_04",
+  "rid": "fs_shakhsia_04",
+  "v": false,
+  "why": "unrelated clauses glued; garbled tokens 'mafisha 2aya', 'byestageel'"
+ },
+ {
+  "sid": "fs_shar_06",
+  "rid": "fs_shar_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar_01",
+  "rid": "fs_shar_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar_15",
+  "rid": "fs_shar_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2y_00",
+  "rid": "fs_shar2y_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2y_15",
+  "rid": "fs_shar2y_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2y_03",
+  "rid": "fs_shar2y_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2y_02",
+  "rid": "fs_shar2y_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2_14",
+  "rid": "fs_shar2_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2_02",
+  "rid": "fs_shar2_02",
+  "v": false,
+  "why": "nonsense/English token 'kandid' ('kan kandid gameel')"
+ },
+ {
+  "sid": "fs_shar2_13",
+  "rid": "fs_shar2_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar2_03",
+  "rid": "fs_shar2_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shr_00",
+  "rid": "fs_shr_00",
+  "v": false,
+  "why": "garbled trailing fragment 'makansh hayera7 meni 8ad'"
+ },
+ {
+  "sid": "fs_shr_11",
+  "rid": "fs_shr_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shr_02",
+  "rid": "fs_shr_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_share3_12",
+  "rid": "fs_share3_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_share3_15",
+  "rid": "fs_share3_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_share3_01",
+  "rid": "fs_share3_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_share3_10",
+  "rid": "fs_share3_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar_05",
+  "rid": "fs_shar_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shar_00",
+  "rid": "fs_shar_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shareka_03",
+  "rid": "fs_shareka_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shareka_09",
+  "rid": "fs_shareka_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shareka_14",
+  "rid": "fs_shareka_14",
+  "v": false,
+  "why": "redundant repetition: asks price twice ('bi kam el se3r' then 'a3raf el se3r')"
+ },
+ {
+  "sid": "fs_shareka_10",
+  "rid": "fs_shareka_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asharek_05",
+  "rid": "fs_asharek_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asharek_11",
+  "rid": "fs_asharek_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asharek_02",
+  "rid": "fs_asharek_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_asharek_12",
+  "rid": "fs_asharek_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shmal_04",
+  "rid": "fs_shmal_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shmal_00",
+  "rid": "fs_shmal_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shmal_09",
+  "rid": "fs_shmal_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_yshmel_09",
+  "rid": "fs_yshmel_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_yshmel_07",
+  "rid": "fs_yshmel_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_yshmel_15",
+  "rid": "fs_yshmel_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_yshmel_11",
+  "rid": "fs_yshmel_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shoghl_15",
+  "rid": "fs_shoghl_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shoghl_05",
+  "rid": "fs_shoghl_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shoghl_14",
+  "rid": "fs_shoghl_14",
+  "v": false,
+  "why": "garbled second clause 'law yet3mel be 5 el-3agazeh 2eh el-7al'"
+ },
+ {
+  "sid": "fs_shghal_10",
+  "rid": "fs_shghal_10",
+  "v": false,
+  "why": "English 'el kar' instead of 3arabeya; garbled 'el banzeen 2alat'"
+ },
+ {
+  "sid": "fs_shghal_02",
+  "rid": "fs_shghal_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shghal_08",
+  "rid": "fs_shghal_08",
+  "v": false,
+  "why": "corrupted token 'makln'"
+ },
+ {
+  "sid": "fs_shghal_00",
+  "rid": "fs_shghal_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shwaya_08",
+  "rid": "fs_shwaya_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shwaya_04",
+  "rid": "fs_shwaya_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shwaya_07",
+  "rid": "fs_shwaya_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shay2_11",
+  "rid": "fs_shay2_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shay2_09",
+  "rid": "fs_shay2_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shay2_05",
+  "rid": "fs_shay2_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_shay2_08",
+  "rid": "fs_shay2_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2_08",
+  "rid": "fs_so2_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2_01",
+  "rid": "fs_so2_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2_07",
+  "rid": "fs_so2_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2_11",
+  "rid": "fs_so2_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sw2a_15",
+  "rid": "fs_sw2a_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sw2a_13",
+  "rid": "fs_sw2a_13",
+  "v": false,
+  "why": "repeated 'forgot' (nseet el maw3ed ... nasyt kol 7aga)"
+ },
+ {
+  "sid": "fs_sw2a_01",
+  "rid": "fs_sw2a_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sw2a_12",
+  "rid": "fs_sw2a_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2al_03",
+  "rid": "fs_so2al_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2al_12",
+  "rid": "fs_so2al_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2al_08",
+  "rid": "fs_so2al_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_so2al_04",
+  "rid": "fs_so2al_04",
+  "v": false,
+  "why": "template opener glued to incoherent clause; garbled trailing 'mzen 3omri'"
+ },
+ {
+  "sid": "fs_sa2el_10",
+  "rid": "fs_sa2el_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sa2el_11",
+  "rid": "fs_sa2el_11",
+  "v": false,
+  "why": "redundant echo 'sa2el beys2al'"
+ },
+ {
+  "sid": "fs_sa2el_13",
+  "rid": "fs_sa2el_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sa2el_14",
+  "rid": "fs_sa2el_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayara_09",
+  "rid": "fs_soghayara_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayara_03",
+  "rid": "fs_soghayara_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayara_11",
+  "rid": "fs_soghayara_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayar_08",
+  "rid": "fs_soghayar_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayar_00",
+  "rid": "fs_soghayar_00",
+  "v": false,
+  "why": "repeats tiredness ('ta3b awi, ana ta3ban')"
+ },
+ {
+  "sid": "fs_soghayar_01",
+  "rid": "fs_soghayar_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_soghayar_11",
+  "rid": "fs_soghayar_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokkar_08",
+  "rid": "fs_sokkar_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokkar_12",
+  "rid": "fs_sokkar_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokkar_10",
+  "rid": "fs_sokkar_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokkar_00",
+  "rid": "fs_sokkar_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokary_02",
+  "rid": "fs_sokary_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokary_15",
+  "rid": "fs_sokary_15",
+  "v": false,
+  "why": "template opener 'fi el shoghl 3andy moshkela' glued to unrelated doctor clause"
+ },
+ {
+  "sid": "fs_sokary_12",
+  "rid": "fs_sokary_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_sokary_10",
+  "rid": "fs_sokary_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_t3raf_13",
+  "rid": "fs_t3raf_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_t3raf_08",
+  "rid": "fs_t3raf_08",
+  "v": false,
+  "why": "garbled trailing fragment 'el fahma el moftaha kwayes awi'"
+ },
+ {
+  "sid": "fs_t3raf_00",
+  "rid": "fs_t3raf_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_t3raf_03",
+  "rid": "fs_t3raf_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_atraf_09",
+  "rid": "fs_atraf_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_atraf_02",
+  "rid": "fs_atraf_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_atraf_04",
+  "rid": "fs_atraf_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_05",
+  "rid": "fs_ta2a_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_12",
+  "rid": "fs_ta2a_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_07",
+  "rid": "fs_ta2a_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta2a_01",
+  "rid": "fs_ta2a_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa2t_15",
+  "rid": "fs_wa2t_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa2t_13",
+  "rid": "fs_wa2t_13",
+  "v": false,
+  "why": "repeated 'ma3lesh' opening and closing the sentence"
+ },
+ {
+  "sid": "fs_wa2t_06",
+  "rid": "fs_wa2t_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_wa2t_14",
+  "rid": "fs_wa2t_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7t_05",
+  "rid": "fs_ta7t_05",
+  "v": false,
+  "why": "garbled trailing fragment '3alasha2 ne2oloom el nas'"
+ },
+ {
+  "sid": "fs_ta7t_02",
+  "rid": "fs_ta7t_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7t_07",
+  "rid": "fs_ta7t_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7t_00",
+  "rid": "fs_ta7t_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7tia_15",
+  "rid": "fs_ta7tia_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7tia_11",
+  "rid": "fs_ta7tia_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7tia_05",
+  "rid": "fs_ta7tia_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ta7tia_08",
+  "rid": "fs_ta7tia_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabee3y_14",
+  "rid": "fs_tabee3y_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabee3y_15",
+  "rid": "fs_tabee3y_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabee3y_01",
+  "rid": "fs_tabee3y_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabee3y_03",
+  "rid": "fs_tabee3y_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabe3_14",
+  "rid": "fs_tabe3_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_tabe3_13",
+  "rid": "fs_tabe3_13",
+  "v": true,
+  "why": ""
+ }
+]

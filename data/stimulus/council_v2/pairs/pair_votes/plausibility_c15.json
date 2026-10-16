@@ -1,0 +1,1802 @@
+[
+{
+"sid": "deana->danaa",
+"rid": "deana->danaa",
+"v": false,
+"why": "Drops the ya glide consonant; Egyptians keep it, form reads as a different word"
+},
+{
+"sid": "deenia->deina",
+"rid": "deenia->deina",
+"v": false,
+"why": "Mangles deeneya (religious); nobody types deina for it"
+},
+{
+"sid": "deenia->dena",
+"rid": "deenia->dena",
+"v": false,
+"why": "Nisba dropped; dena reads as a name, not deeneya"
+},
+{
+"sid": "dei->di",
+"rid": "dei->di",
+"v": true,
+"why": ""
+},
+{
+"sid": "dei->dii",
+"rid": "dei->dii",
+"v": false,
+"why": "Italian name (Trinita dei Monti); no Egyptian respells it dii"
+},
+{
+"sid": "dei->dy",
+"rid": "dei->dy",
+"v": false,
+"why": "Foreign surname Dei; no Egyptian respells it dy"
+},
+{
+"sid": "deil->del",
+"rid": "deil->del",
+"v": true,
+"why": ""
+},
+{
+"sid": "deil->diil",
+"rid": "deil->diil",
+"v": false,
+"why": "Foreign surname Deil; no Egyptian respells it diil"
+},
+{
+"sid": "deil->dil",
+"rid": "deil->dil",
+"v": true,
+"why": ""
+},
+{
+"sid": "deir->der",
+"rid": "deir->der",
+"v": true,
+"why": ""
+},
+{
+"sid": "deir->dir",
+"rid": "deir->dir",
+"v": true,
+"why": ""
+},
+{
+"sid": "delael->delal",
+"rid": "delael->delal",
+"v": false,
+"why": "delal reads as dalal (pampering); nobody writes dala2el this way"
+},
+{
+"sid": "delael->dilal",
+"rid": "delael->dilal",
+"v": false,
+"why": "dilal reads as zelal/dalal; not how dala2el is typed"
+},
+{
+"sid": "demaghia->demagha",
+"rid": "demaghia->demagha",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "demaghia->demaghaa",
+"rid": "demaghia->demaghaa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "demaghia->dimagha",
+"rid": "demaghia->dimagha",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "deoon->don",
+"rid": "deoon->don",
+"v": false,
+"why": "Drops the ya of deyoon; don reads as English/doon (without)"
+},
+{
+"sid": "deoon->doon",
+"rid": "deoon->doon",
+"v": false,
+"why": "doon reads as doon (without); deyoon keeps its ya"
+},
+{
+"sid": "diesel->desel",
+"rid": "diesel->desel",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->desil",
+"rid": "diesel->desil",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->disel",
+"rid": "diesel->disel",
+"v": true,
+"why": ""
+},
+{
+"sid": "diesel->disil",
+"rid": "diesel->disil",
+"v": true,
+"why": ""
+},
+{
+"sid": "diet->deet",
+"rid": "diet->deet",
+"v": false,
+"why": "Egyptians say/write dayet or diet; deet is not typed"
+},
+{
+"sid": "diet->diit",
+"rid": "diet->diit",
+"v": false,
+"why": "Egyptians say/write dayet or diet; diit is not typed"
+},
+{
+"sid": "dmoeya->dmoya",
+"rid": "dmoeya->dmoya",
+"v": false,
+"why": "Collapses damaweya; dmoya is not how Egyptians type it"
+},
+{
+"sid": "dmoeya->dmuya",
+"rid": "dmoeya->dmuya",
+"v": false,
+"why": "Collapses damaweya; dmuya is not how Egyptians type it"
+},
+{
+"sid": "doley->doli",
+"rid": "doley->doli",
+"v": true,
+"why": ""
+},
+{
+"sid": "domain->doman",
+"rid": "domain->doman",
+"v": false,
+"why": "Egyptians write domain or domein; doman is not typed"
+},
+{
+"sid": "domain->duman",
+"rid": "domain->duman",
+"v": false,
+"why": "Egyptians write domain or domein; duman is not typed"
+},
+{
+"sid": "donia->dona",
+"rid": "donia->dona",
+"v": false,
+"why": "donya keeps its ya; dona is never typed for it"
+},
+{
+"sid": "donia->donaa",
+"rid": "donia->donaa",
+"v": false,
+"why": "donya keeps its ya; donaa is never typed for it"
+},
+{
+"sid": "e3lamey->e3lami",
+"rid": "e3lamey->e3lami",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7saei->ehsai",
+"rid": "e7saei->ehsai",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teaty->e7tati",
+"rid": "e7teaty->e7tati",
+"v": false,
+"why": "Drops the ya of e7teyati; e7tati is not typed"
+},
+{
+"sid": "e7teaty->i7taty",
+"rid": "e7teaty->i7taty",
+"v": false,
+"why": "Drops the ya of e7teyati; i7taty is not typed"
+},
+{
+"sid": "e7teyiagat->e7teyagat",
+"rid": "e7teyiagat->e7teyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teyiagat->e7tiyagat",
+"rid": "e7teyiagat->e7tiyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7teyiagat->i7teyagat",
+"rid": "e7teyiagat->i7teyagat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfeal->e7tfal",
+"rid": "e7tfeal->e7tfal",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfeal->ehtfal",
+"rid": "e7tfeal->ehtfal",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealat->e7tfalat",
+"rid": "e7tfealat->e7tfalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealat->i7tfalat",
+"rid": "e7tfealat->i7tfalat",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->e7tfalya",
+"rid": "e7tfealya->e7tfalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->e7tfalyaa",
+"rid": "e7tfealya->e7tfalyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tfealya->ehtfalya",
+"rid": "e7tfealya->ehtfalya",
+"v": true,
+"why": ""
+},
+{
+"sid": "e7tiajat->e7tajat",
+"rid": "e7tiajat->e7tajat",
+"v": false,
+"why": "Drops the ya of e7teyagat; e7tajat not typed"
+},
+{
+"sid": "e7tiajat->i7tajat",
+"rid": "e7tiajat->i7tajat",
+"v": false,
+"why": "Drops the ya of e7teyagat; i7tajat not typed"
+},
+{
+"sid": "e7tial->e7tal",
+"rid": "e7tial->e7tal",
+"v": false,
+"why": "e7tal is the verb ehtal, not the noun e7teyal"
+},
+{
+"sid": "e7tial->i7tal",
+"rid": "e7tial->i7tal",
+"v": false,
+"why": "i7tal is the verb ehtal, not the noun e7teyal"
+},
+{
+"sid": "e7tiazat->e7tazaat",
+"rid": "e7tiazat->e7tazaat",
+"v": false,
+"why": "Drops a full syllable of e7terazat; e7tazaat not typed"
+},
+{
+"sid": "e7tiazat->e7tazat",
+"rid": "e7tiazat->e7tazat",
+"v": false,
+"why": "Drops a full syllable of e7terazat; e7tazat not typed"
+},
+{
+"sid": "e7tiazat->i7tazat",
+"rid": "e7tiazat->i7tazat",
+"v": false,
+"why": "Drops a full syllable of e7terazat; i7tazat not typed"
+},
+{
+"sid": "e7tiazeya->e7tazeya",
+"rid": "e7tiazeya->e7tazeya",
+"v": false,
+"why": "Drops a full syllable of e7terazeya; not typed"
+},
+{
+"sid": "e7tiazeya->e7taziya",
+"rid": "e7tiazeya->e7taziya",
+"v": false,
+"why": "Drops a full syllable of e7terazeya; not typed"
+},
+{
+"sid": "ebay->ebi",
+"rid": "ebay->ebi",
+"v": false,
+"why": "Brand eBay is written ebay; ebi is not typed"
+},
+{
+"sid": "edaria->edara",
+"rid": "edaria->edara",
+"v": false,
+"why": "edara is idara (administration), not the adjective edareya"
+},
+{
+"sid": "edaria->edaraa",
+"rid": "edaria->edaraa",
+"v": false,
+"why": "Nisba dropped; edaraa reads as idara, not edareya"
+},
+{
+"sid": "edaria->edarah",
+"rid": "edaria->edarah",
+"v": false,
+"why": "Nisba dropped; edarah reads as idara, not edareya"
+},
+{
+"sid": "edaria->idara",
+"rid": "edaria->idara",
+"v": false,
+"why": "idara is a different word (administration), not edareya"
+},
+{
+"sid": "edeih->edeh",
+"rid": "edeih->edeh",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeih->edih",
+"rid": "edeih->edih",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeih->ediih",
+"rid": "edeih->ediih",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeih->ideh",
+"rid": "edeih->ideh",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edehom",
+"rid": "edeihom->edehom",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edehum",
+"rid": "edeihom->edehum",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edihom",
+"rid": "edeihom->edihom",
+"v": true,
+"why": ""
+},
+{
+"sid": "edeihom->edihoom",
+"rid": "edeihom->edihoom",
+"v": false,
+"why": "Doubling the short vowel of suffix -hom is not an Egyptian habit"
+},
+{
+"sid": "edein->eden",
+"rid": "edein->eden",
+"v": true,
+"why": ""
+},
+{
+"sid": "edein->edin",
+"rid": "edein->edin",
+"v": true,
+"why": ""
+},
+{
+"sid": "edein->idin",
+"rid": "edein->idin",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->egabeya",
+"rid": "egeabeya->egabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->egabiya",
+"rid": "egeabeya->egabiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabeya->igabeya",
+"rid": "egeabeya->igabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->egabi",
+"rid": "egeaby->egabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->egaby",
+"rid": "egeaby->egaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeaby->igaby",
+"rid": "egeaby->igaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->egabya",
+"rid": "egeabya->egabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->egabyaa",
+"rid": "egeabya->egabyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "egeabya->igabya",
+"rid": "egeabya->igabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eghtsadia->e8tsada",
+"rid": "eghtsadia->e8tsada",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "egmaley->egmali",
+"rid": "egmaley->egmali",
+"v": true,
+"why": ""
+},
+{
+"sid": "egtema3ia->egtema3a",
+"rid": "egtema3ia->egtema3a",
+"v": false,
+"why": "egtema3a reads as egtema3 (meeting); nisba dropped"
+},
+{
+"sid": "egtema3ia->egtima3a",
+"rid": "egtema3ia->egtima3a",
+"v": false,
+"why": "egtima3a reads as egtema3 (meeting); nisba dropped"
+},
+{
+"sid": "egtema3ia->igtema3a",
+"rid": "egtema3ia->igtema3a",
+"v": false,
+"why": "igtema3a reads as egtema3 (meeting); nisba dropped"
+},
+{
+"sid": "ehteam->ehtaam",
+"rid": "ehteam->ehtaam",
+"v": false,
+"why": "ehtaam is not how ehtemam is typed"
+},
+{
+"sid": "ehteam->ehtam",
+"rid": "ehteam->ehtam",
+"v": false,
+"why": "ehtam is the verb (he cared), not the noun ehtemam"
+},
+{
+"sid": "ehteam->ihtam",
+"rid": "ehteam->ihtam",
+"v": false,
+"why": "ihtam is the verb (he cared), not the noun ehtemam"
+},
+{
+"sid": "eidak->edaak",
+"rid": "eidak->edaak",
+"v": false,
+"why": "Doubling the short a of suffix -ak is not typical"
+},
+{
+"sid": "eidak->edak",
+"rid": "eidak->edak",
+"v": true,
+"why": ""
+},
+{
+"sid": "eidak->idak",
+"rid": "eidak->idak",
+"v": true,
+"why": ""
+},
+{
+"sid": "eih->eh",
+"rid": "eih->eh",
+"v": true,
+"why": ""
+},
+{
+"sid": "eih->ih",
+"rid": "eih->ih",
+"v": true,
+"why": ""
+},
+{
+"sid": "eihy->ehy",
+"rid": "eihy->ehy",
+"v": true,
+"why": ""
+},
+{
+"sid": "eihy->ihy",
+"rid": "eihy->ihy",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabeya->ejabeya",
+"rid": "eijabeya->ejabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabeya->ejabeyaa",
+"rid": "eijabeya->ejabeyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabeya->ijabeya",
+"rid": "eijabeya->ijabeya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ejabi",
+"rid": "eijabi->ejabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ejaby",
+"rid": "eijabi->ejaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabi->ijabi",
+"rid": "eijabi->ijabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijaby->ejabi",
+"rid": "eijaby->ejabi",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijaby->ejaby",
+"rid": "eijaby->ejaby",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabya",
+"rid": "eijabya->ejabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabyaa",
+"rid": "eijabya->ejabyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ejabyah",
+"rid": "eijabya->ejabyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "eijabya->ijabya",
+"rid": "eijabya->ijabya",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->eraan",
+"rid": "eiran->eraan",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->eran",
+"rid": "eiran->eran",
+"v": true,
+"why": ""
+},
+{
+"sid": "eiran->iran",
+"rid": "eiran->iran",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezai",
+"rid": "eizay->ezai",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezay",
+"rid": "eizay->ezay",
+"v": true,
+"why": ""
+},
+{
+"sid": "eizay->ezei",
+"rid": "eizay->ezei",
+"v": false,
+"why": "ezei loses the long a of ezzay; not typed"
+},
+{
+"sid": "eizay->izay",
+"rid": "eizay->izay",
+"v": true,
+"why": ""
+},
+{
+"sid": "ejmalia->ejmala",
+"rid": "ejmalia->ejmala",
+"v": false,
+"why": "ejmala reads as egmalan; nisba dropped"
+},
+{
+"sid": "ejmalia->ejmalaa",
+"rid": "ejmalia->ejmalaa",
+"v": false,
+"why": "ejmalaa reads as egmalan; nisba dropped"
+},
+{
+"sid": "ejmalia->ijmala",
+"rid": "ejmalia->ijmala",
+"v": false,
+"why": "ijmala reads as egmalan; nisba dropped"
+},
+{
+"sid": "ejtem3ia->ejtem3a",
+"rid": "ejtem3ia->ejtem3a",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "ejtem3ia->ejtim3a",
+"rid": "ejtem3ia->ejtim3a",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "ekhtiar->e5tar",
+"rid": "ekhtiar->e5tar",
+"v": false,
+"why": "e5tar is the verb (he chose), not the noun e5teyar"
+},
+{
+"sid": "ekhtiary->e5tary",
+"rid": "ekhtiary->e5tary",
+"v": false,
+"why": "e5tary reads as ekhtari (choose!), not e5teyari"
+},
+{
+"sid": "el2aids->el2aads",
+"rid": "el2aids->el2aads",
+"v": false,
+"why": "AIDS is written aids or edz; el2aads not typed"
+},
+{
+"sid": "el2aids->el2ads",
+"rid": "el2aids->el2ads",
+"v": false,
+"why": "AIDS is written aids or edz; el2ads not typed"
+},
+{
+"sid": "el2aids->il2ads",
+"rid": "el2aids->il2ads",
+"v": false,
+"why": "AIDS is written aids or edz; il2ads not typed"
+},
+{
+"sid": "el2asasia->el2asasa",
+"rid": "el2asasia->el2asasa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el2asasia->il2asasa",
+"rid": "el2asasia->il2asasa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el2asasyia->el2asasya",
+"rid": "el2asasyia->el2asasya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2asasyia->el2asasyah",
+"rid": "el2asasyia->el2asasyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2asasyia->il2asasya",
+"rid": "el2asasyia->il2asasya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2awey->el2awi",
+"rid": "el2awey->el2awi",
+"v": false,
+"why": "el2awi is el2awi (the strong), not el2owa (forces)"
+},
+{
+"sid": "el2edaria->el2edara",
+"rid": "el2edaria->el2edara",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el2etein->el2etin",
+"rid": "el2etein->el2etin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2etnein->el2etnin",
+"rid": "el2etnein->el2etnin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el2etnein->il2etnin",
+"rid": "el2etnein->il2etnin",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3alamey->el3alami",
+"rid": "el3alamey->el3alami",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3alamia->el3alama",
+"rid": "el3alamia->el3alama",
+"v": false,
+"why": "el3alama reads as 3alama (sign); nisba dropped"
+},
+{
+"sid": "el3alamia->il3alama",
+"rid": "el3alamia->il3alama",
+"v": false,
+"why": "il3alama reads as 3alama (sign); nisba dropped"
+},
+{
+"sid": "el3almia->el3alma",
+"rid": "el3almia->el3alma",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el3almia->il3alma",
+"rid": "el3almia->il3alma",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el3amaleiat->el3amaleaat",
+"rid": "el3amaleiat->el3amaleaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->el3amaleat",
+"rid": "el3amaleiat->el3amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->el3amaliat",
+"rid": "el3amaleiat->el3amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->il3amaleat",
+"rid": "el3amaleiat->il3amaleat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amaleiat->il3amaliat",
+"rid": "el3amaleiat->il3amaliat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3amalia->el3amala",
+"rid": "el3amalia->el3amala",
+"v": false,
+"why": "el3amala is el3amala (labor), a different word"
+},
+{
+"sid": "el3amalia->il3amala",
+"rid": "el3amalia->il3amala",
+"v": false,
+"why": "il3amala is el3amala (labor), a different word"
+},
+{
+"sid": "el3amaliat->el3amalat",
+"rid": "el3amaliat->el3amalat",
+"v": false,
+"why": "Drops the ya of 3amaleyat; 3amalat not typed"
+},
+{
+"sid": "el3amaliat->il3amalat",
+"rid": "el3amaliat->il3amalat",
+"v": false,
+"why": "Drops the ya of 3amaleyat; 3amalat not typed"
+},
+{
+"sid": "el3arabia->el3araba",
+"rid": "el3arabia->el3araba",
+"v": false,
+"why": "el3araba is the car/cart, not el3arabeya"
+},
+{
+"sid": "el3arabia->el3arabaa",
+"rid": "el3arabia->el3arabaa",
+"v": false,
+"why": "el3arabaa reads as el3araba (car); nisba dropped"
+},
+{
+"sid": "el3arabia->il3araba",
+"rid": "el3arabia->il3araba",
+"v": false,
+"why": "il3araba is the car/cart, not el3arabeya"
+},
+{
+"sid": "el3arabiat->el3arabat",
+"rid": "el3arabiat->el3arabat",
+"v": false,
+"why": "el3arabat is 3arabat (carts), not 3arabeyat"
+},
+{
+"sid": "el3arabiat->il3arabat",
+"rid": "el3arabiat->il3arabat",
+"v": false,
+"why": "il3arabat is 3arabat (carts), not 3arabeyat"
+},
+{
+"sid": "el3ayla->el3ila",
+"rid": "el3ayla->el3ila",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3aylat->el3ilat",
+"rid": "el3aylat->el3ilat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eina->el3enaa",
+"rid": "el3eina->el3enaa",
+"v": false,
+"why": "3ayyena has a doubled ya; el3enaa reads as 3ena (us)"
+},
+{
+"sid": "el3eina->el3ina",
+"rid": "el3eina->el3ina",
+"v": false,
+"why": "3ayyena has a doubled ya consonant; el3ina not typed"
+},
+{
+"sid": "el3eina->il3ina",
+"rid": "el3eina->il3ina",
+"v": false,
+"why": "3ayyena has a doubled ya consonant; il3ina not typed"
+},
+{
+"sid": "el3eish->el3esh",
+"rid": "el3eish->el3esh",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eish->il3esh",
+"rid": "el3eish->il3esh",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3eish->il3ish",
+"rid": "el3eish->il3ish",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3elmey->el3elmi",
+"rid": "el3elmey->el3elmi",
+"v": true,
+"why": ""
+},
+{
+"sid": "el3elmia->el3elma",
+"rid": "el3elmia->el3elma",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el3elmia->el3ilma",
+"rid": "el3elmia->el3ilma",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el3elmia->il3elma",
+"rid": "el3elmia->il3elma",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el3odwia->el3odwa",
+"rid": "el3odwia->el3odwa",
+"v": false,
+"why": "el3odwa reads as 3odwa (member); nisba dropped"
+},
+{
+"sid": "el3odwia->el3udwa",
+"rid": "el3odwia->el3udwa",
+"v": false,
+"why": "el3udwa reads as 3odwa (member); nisba dropped"
+},
+{
+"sid": "el3odwia->il3odwa",
+"rid": "el3odwia->il3odwa",
+"v": false,
+"why": "il3odwa reads as 3odwa (member); nisba dropped"
+},
+{
+"sid": "el5alaia->el5ala",
+"rid": "el5alaia->el5ala",
+"v": false,
+"why": "el5ala is el5ala (void), not el5alaya"
+},
+{
+"sid": "el5alaia->el5alaa",
+"rid": "el5alaia->el5alaa",
+"v": false,
+"why": "Drops the ya of 5alaya; el5alaa reads as khala2"
+},
+{
+"sid": "el5alaia->elkhalaa",
+"rid": "el5alaia->elkhalaa",
+"v": false,
+"why": "Drops the ya of 5alaya; elkhalaa reads as khala2"
+},
+{
+"sid": "el5alaia->il5alaa",
+"rid": "el5alaia->il5alaa",
+"v": false,
+"why": "Drops the ya of 5alaya; il5alaa reads as khala2"
+},
+{
+"sid": "el5aregia->el5ariga",
+"rid": "el5aregia->el5ariga",
+"v": false,
+"why": "el5ariga reads as 5arga (going out); nisba dropped"
+},
+{
+"sid": "el5aregia->elkharega",
+"rid": "el5aregia->elkharega",
+"v": false,
+"why": "elkharega reads as 5arga; nisba dropped"
+},
+{
+"sid": "el5aregia->il5arega",
+"rid": "el5aregia->il5arega",
+"v": false,
+"why": "il5arega reads as 5arga; nisba dropped"
+},
+{
+"sid": "el5aregyia->el5aregya",
+"rid": "el5aregyia->el5aregya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5aregyia->il5aregya",
+"rid": "el5aregyia->il5aregya",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->el5arjia",
+"rid": "el5arjeia->el5arjia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->elkharjea",
+"rid": "el5arjeia->elkharjea",
+"v": true,
+"why": ""
+},
+{
+"sid": "el5arjeia->il5arjia",
+"rid": "el5arjeia->il5arjia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7a2ay2->el7a2i2",
+"rid": "el7a2ay2->el7a2i2",
+"v": false,
+"why": "Drops the ya of 7a2aye2; reads like 7a2ee2a"
+},
+{
+"sid": "el7adaria->el7adara",
+"rid": "el7adaria->el7adara",
+"v": false,
+"why": "el7adara is 7adara (civilization), not 7adareya"
+},
+{
+"sid": "el7adaria->el7adaraa",
+"rid": "el7adaria->el7adaraa",
+"v": false,
+"why": "el7adaraa reads as 7adara (civilization); nisba dropped"
+},
+{
+"sid": "el7adaria->elhadara",
+"rid": "el7adaria->elhadara",
+"v": false,
+"why": "elhadara is 7adara (civilization), not 7adareya"
+},
+{
+"sid": "el7adaria->il7adara",
+"rid": "el7adaria->il7adara",
+"v": false,
+"why": "il7adara is 7adara (civilization), not 7adareya"
+},
+{
+"sid": "el7adey->el7adi",
+"rid": "el7adey->el7adi",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->el7afreat",
+"rid": "el7afreiat->el7afreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->el7afriat",
+"rid": "el7afreiat->el7afriat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->elhafreat",
+"rid": "el7afreiat->elhafreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->il7afreat",
+"rid": "el7afreiat->il7afreat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7afreiat->il7afriat",
+"rid": "el7afreiat->il7afriat",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7alia->il7ala",
+"rid": "el7alia->il7ala",
+"v": false,
+"why": "il7ala is el7ala (the state), not el7aleya"
+},
+{
+"sid": "el7araria->el7arara",
+"rid": "el7araria->el7arara",
+"v": false,
+"why": "el7arara is heat (noun), not 7arareya"
+},
+{
+"sid": "el7araria->elharara",
+"rid": "el7araria->elharara",
+"v": false,
+"why": "elharara is heat (noun), not 7arareya"
+},
+{
+"sid": "el7aray2->el7ari2",
+"rid": "el7aray2->el7ari2",
+"v": false,
+"why": "el7ari2 is the singular fire, not the plural 7araye2"
+},
+{
+"sid": "el7asail->el7asaal",
+"rid": "el7asail->el7asaal",
+"v": false,
+"why": "el7asaal is not how ma7aseel/7asayel is typed"
+},
+{
+"sid": "el7asail->el7asal",
+"rid": "el7asail->el7asal",
+"v": false,
+"why": "el7asal reads as 7asal (happened); not typed for this"
+},
+{
+"sid": "el7asail->elhasal",
+"rid": "el7asail->elhasal",
+"v": false,
+"why": "elhasal reads as 7asal (happened); not typed for this"
+},
+{
+"sid": "el7asail->il7asal",
+"rid": "el7asail->il7asal",
+"v": false,
+"why": "il7asal reads as 7asal (happened); not typed for this"
+},
+{
+"sid": "el7asasia->el7asasa",
+"rid": "el7asasia->el7asasa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el7asasia->elhasasa",
+"rid": "el7asasia->elhasasa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el7etrazia->el7etraza",
+"rid": "el7etrazia->el7etraza",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el7etrazia->il7etraza",
+"rid": "el7etrazia->il7etraza",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "el7tageat->el7tagat",
+"rid": "el7tageat->el7tagat",
+"v": false,
+"why": "Drops the ya of e7teyagat; el7tagat not typed"
+},
+{
+"sid": "el7tageat->elhtagat",
+"rid": "el7tageat->elhtagat",
+"v": false,
+"why": "Drops the ya of e7teyagat; elhtagat not typed"
+},
+{
+"sid": "el7tageat->il7tagat",
+"rid": "el7tageat->il7tagat",
+"v": false,
+"why": "Drops the ya of e7teyagat; il7tagat not typed"
+},
+{
+"sid": "el7yaweia->el7yawia",
+"rid": "el7yaweia->el7yawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->elhyawia",
+"rid": "el7yaweia->elhyawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->il7yawea",
+"rid": "el7yaweia->il7yawea",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yaweia->il7yawia",
+"rid": "el7yaweia->il7yawia",
+"v": true,
+"why": ""
+},
+{
+"sid": "el7yawia->el7yawa",
+"rid": "el7yawia->el7yawa",
+"v": false,
+"why": "el7yawa reads as el7ayah; nisba dropped"
+},
+{
+"sid": "el7yawia->el7yawaa",
+"rid": "el7yawia->el7yawaa",
+"v": false,
+"why": "el7yawaa reads as el7ayah; nisba dropped"
+},
+{
+"sid": "el7yawia->il7yawa",
+"rid": "el7yawia->il7yawa",
+"v": false,
+"why": "il7yawa reads as el7ayah; nisba dropped"
+},
+{
+"sid": "eladwia->eladwa",
+"rid": "eladwia->eladwa",
+"v": false,
+"why": "eladwa reads as adwa2/3adwa; adweya keeps its ya"
+},
+{
+"sid": "eladwia->eladwaa",
+"rid": "eladwia->eladwaa",
+"v": false,
+"why": "eladwaa reads as adwa2 (lights); adweya keeps its ya"
+},
+{
+"sid": "eladwia->iladwa",
+"rid": "eladwia->iladwa",
+"v": false,
+"why": "iladwa reads as adwa2/3adwa; adweya keeps its ya"
+},
+{
+"sid": "elaids->elads",
+"rid": "elaids->elads",
+"v": false,
+"why": "AIDS is written aids or edz; elads not typed"
+},
+{
+"sid": "elaids->ilads",
+"rid": "elaids->ilads",
+"v": false,
+"why": "AIDS is written aids or edz; ilads not typed"
+},
+{
+"sid": "elamonia->elamona",
+"rid": "elamonia->elamona",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elamonia->elamonaa",
+"rid": "elamonia->elamonaa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elamonia->elamuna",
+"rid": "elamonia->elamuna",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elamonia->ilamona",
+"rid": "elamonia->ilamona",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elamreekyia->elamreekya",
+"rid": "elamreekyia->elamreekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamreekyia->elamrekya",
+"rid": "elamreekyia->elamrekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekea->elamreka",
+"rid": "elamrekea->elamreka",
+"v": false,
+"why": "elamreka reads as Amreeka (America), not the adjective"
+},
+{
+"sid": "elamrekea->elamrika",
+"rid": "elamrekea->elamrika",
+"v": false,
+"why": "elamrika reads as Amreeka (America), not the adjective"
+},
+{
+"sid": "elamrekea->ilamreka",
+"rid": "elamrekea->ilamreka",
+"v": false,
+"why": "ilamreka reads as Amreeka (America), not the adjective"
+},
+{
+"sid": "elamrekeia->elamrekea",
+"rid": "elamrekeia->elamrekea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->elamrekia",
+"rid": "elamrekeia->elamrekia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->elamrikia",
+"rid": "elamrekeia->elamrikia",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekeia->ilamrekea",
+"rid": "elamrekeia->ilamrekea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elamrekey->elamreki",
+"rid": "elamrekey->elamreki",
+"v": true,
+"why": ""
+},
+{
+"sid": "elarday->elardi",
+"rid": "elarday->elardi",
+"v": false,
+"why": "elardi is el2ardi (ground/earthly), not el2arady (lands)"
+},
+{
+"sid": "elardey->elardi",
+"rid": "elardey->elardi",
+"v": false,
+"why": "elardi is el2ardi (ground/earthly), not el2arady (lands)"
+},
+{
+"sid": "elayman->eliman",
+"rid": "elayman->eliman",
+"v": false,
+"why": "eliman reads as el-eman (faith), not el-ayman"
+},
+{
+"sid": "elaysar->elisar",
+"rid": "elaysar->elisar",
+"v": false,
+"why": "elisar is not typed for el-aysar"
+},
+{
+"sid": "elbahrain->elbahran",
+"rid": "elbahrain->elbahran",
+"v": false,
+"why": "Egyptians say el-ba7reen; elbahran not typed"
+},
+{
+"sid": "elbahrain->ilbahran",
+"rid": "elbahrain->ilbahran",
+"v": false,
+"why": "Egyptians say el-ba7reen; ilbahran not typed"
+},
+{
+"sid": "elbahria->elbahra",
+"rid": "elbahria->elbahra",
+"v": false,
+"why": "elbahra is not the adjective ba7reya; nisba dropped"
+},
+{
+"sid": "elbahria->ilbahra",
+"rid": "elbahria->ilbahra",
+"v": false,
+"why": "ilbahra is not the adjective ba7reya; nisba dropped"
+},
+{
+"sid": "elbakteeria->elbakteera",
+"rid": "elbakteeria->elbakteera",
+"v": false,
+"why": "Drops the -ya of bakterya; elbakteera not typed"
+},
+{
+"sid": "elbakteeria->elbakteira",
+"rid": "elbakteeria->elbakteira",
+"v": false,
+"why": "Drops the -ya of bakterya; elbakteira not typed"
+},
+{
+"sid": "elbakteeria->elbaktera",
+"rid": "elbakteeria->elbaktera",
+"v": false,
+"why": "Drops the -ya of bakterya; elbaktera not typed"
+},
+{
+"sid": "elbakteeria->ilbakteera",
+"rid": "elbakteeria->ilbakteera",
+"v": false,
+"why": "Drops the -ya of bakterya; ilbakteera not typed"
+},
+{
+"sid": "elbaktereia->elbakterea",
+"rid": "elbaktereia->elbakterea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->elbaktirea",
+"rid": "elbaktereia->elbaktirea",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->elbaktiria",
+"rid": "elbaktereia->elbaktiria",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaktereia->ilbakteria",
+"rid": "elbaktereia->ilbakteria",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbakteria->elbaktera",
+"rid": "elbakteria->elbaktera",
+"v": false,
+"why": "Drops the -ya of bakterya; elbaktera not typed"
+},
+{
+"sid": "elbakteria->elbaktira",
+"rid": "elbakteria->elbaktira",
+"v": false,
+"why": "Drops the -ya of bakterya; elbaktira not typed"
+},
+{
+"sid": "elbakteria->ilbaktera",
+"rid": "elbakteria->ilbaktera",
+"v": false,
+"why": "Drops the -ya of bakterya; ilbaktera not typed"
+},
+{
+"sid": "elbaktiria->elbaktera",
+"rid": "elbaktiria->elbaktera",
+"v": false,
+"why": "Drops the -ya of bakterya; elbaktera not typed"
+},
+{
+"sid": "elbaktiria->elbaktira",
+"rid": "elbaktiria->elbaktira",
+"v": false,
+"why": "Drops the -ya of bakterya; elbaktira not typed"
+},
+{
+"sid": "elbaktiria->ilbaktira",
+"rid": "elbaktiria->ilbaktira",
+"v": false,
+"why": "Drops the -ya of bakterya; ilbaktira not typed"
+},
+{
+"sid": "elbaladein->elbaladen",
+"rid": "elbaladein->elbaladen",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaladein->elbaladin",
+"rid": "elbaladein->elbaladin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaladein->ilbaladin",
+"rid": "elbaladein->ilbaladin",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbasharia->elbashara",
+"rid": "elbasharia->elbashara",
+"v": false,
+"why": "elbashara is the annunciation/good news, not bashareya"
+},
+{
+"sid": "elbasharia->elbasharaa",
+"rid": "elbasharia->elbasharaa",
+"v": false,
+"why": "elbasharaa reads as bashara; nisba dropped"
+},
+{
+"sid": "elbasharia->ilbashara",
+"rid": "elbasharia->ilbashara",
+"v": false,
+"why": "ilbashara is the annunciation/good news, not bashareya"
+},
+{
+"sid": "elbayd->elbid",
+"rid": "elbayd->elbid",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbayt->elbit",
+"rid": "elbayt->elbit",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbaytary->elbitary",
+"rid": "elbaytary->elbitary",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbe2ey->elbe2i",
+"rid": "elbe2ey->elbe2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbe2ia->elbi2a",
+"rid": "elbe2ia->elbi2a",
+"v": false,
+"why": "elbi2a is the noun (environment), not the adjective"
+},
+{
+"sid": "elbedaia->elbeda",
+"rid": "elbedaia->elbeda",
+"v": false,
+"why": "Drops the ya of bedaya; elbeda reads as el-beda (white)"
+},
+{
+"sid": "elbedaia->elbedaa",
+"rid": "elbedaia->elbedaa",
+"v": false,
+"why": "Drops the ya of bedaya; not typed"
+},
+{
+"sid": "elbedaia->elbidaa",
+"rid": "elbedaia->elbidaa",
+"v": false,
+"why": "Drops the ya of bedaya; not typed"
+},
+{
+"sid": "elbedaia->ilbedaa",
+"rid": "elbedaia->ilbedaa",
+"v": false,
+"why": "Drops the ya of bedaya; not typed"
+},
+{
+"sid": "elbeianat->elbianat",
+"rid": "elbeianat->elbianat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeianat->ilbeanat",
+"rid": "elbeianat->ilbeanat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeianat->ilbianat",
+"rid": "elbeianat->ilbianat",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeid->elbed",
+"rid": "elbeid->elbed",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeid->elbid",
+"rid": "elbeid->elbid",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeid->ilbed",
+"rid": "elbeid->ilbed",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbeda",
+"rid": "elbeida->elbeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbedaa",
+"rid": "elbeida->elbedaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbida",
+"rid": "elbeida->elbida",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->elbidaa",
+"rid": "elbeida->elbidaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbeida->ilbeda",
+"rid": "elbeida->ilbeda",
+"v": true,
+"why": ""
+},
+{
+"sid": "elbiology->elbulogy",
+"rid": "elbiology->elbulogy",
+"v": false,
+"why": "Egyptians say bayoloji/biology; elbulogy not typed"
+},
+{
+"sid": "elbiologya->elbolugya",
+"rid": "elbiologya->elbolugya",
+"v": false,
+"why": "Egyptians say bayolojya; elbolugya not typed"
+},
+{
+"sid": "elbiologya->ilbologya",
+"rid": "elbiologya->ilbologya",
+"v": false,
+"why": "Egyptians say bayolojya; ilbologya not typed"
+},
+{
+"sid": "eldamoeya->eldamoya",
+"rid": "eldamoeya->eldamoya",
+"v": false,
+"why": "Collapses damaweya; eldamoya not typed"
+},
+{
+"sid": "eldamoeya->eldamuya",
+"rid": "eldamoeya->eldamuya",
+"v": false,
+"why": "Collapses damaweya; eldamuya not typed"
+},
+{
+"sid": "eldamoeya->ildamoya",
+"rid": "eldamoeya->ildamoya",
+"v": false,
+"why": "Collapses damaweya; ildamoya not typed"
+},
+{
+"sid": "eldawlia->eldawlaa",
+"rid": "eldawlia->eldawlaa",
+"v": false,
+"why": "eldawlaa reads as eldawla (the state); nisba dropped"
+},
+{
+"sid": "elday2a->eldi2a",
+"rid": "elday2a->eldi2a",
+"v": false,
+"why": "dayya2a has a doubled ya; eldi2a reads as el-de22a"
+},
+{
+"sid": "elday3a->eldi3a",
+"rid": "elday3a->eldi3a",
+"v": false,
+"why": "Drops the ya/glide; eldi3a not typed for this word"
+},
+{
+"sid": "eldonia->eldona",
+"rid": "eldonia->eldona",
+"v": false,
+"why": "donya keeps its ya; eldona is never typed"
+},
+{
+"sid": "elemail->ilemal",
+"rid": "elemail->ilemal",
+"v": false,
+"why": "Email is written email/emeil; ilemal not typed"
+},
+{
+"sid": "elensania->elensana",
+"rid": "elensania->elensana",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elensania->elensanaa",
+"rid": "elensania->elensanaa",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elensania->ilensana",
+"rid": "elensania->ilensana",
+"v": false,
+"why": "Nisba -ia ending dropped; no Egyptian writes the adjective this way, reads as another word"
+},
+{
+"sid": "elenteab->elentab",
+"rid": "elenteab->elentab",
+"v": false,
+"why": "elentab reads as entab (befell), not el-entebah"
+},
+{
+"sid": "elenteab->elintab",
+"rid": "elenteab->elintab",
+"v": false,
+"why": "elintab reads as entab (befell), not el-entebah"
+},
+{
+"sid": "elenteab->ilentab",
+"rid": "elenteab->ilentab",
+"v": false,
+"why": "ilentab reads as entab (befell), not el-entebah"
+},
+{
+"sid": "elfaida->elfada",
+"rid": "elfaida->elfada",
+"v": false,
+"why": "fayda keeps its ya sound; elfada not typed"
+},
+{
+"sid": "elfaida->elfadaa",
+"rid": "elfaida->elfadaa",
+"v": false,
+"why": "fayda keeps its ya sound; elfadaa not typed"
+},
+{
+"sid": "elfaida->ilfada",
+"rid": "elfaida->ilfada",
+"v": false,
+"why": "fayda keeps its ya sound; ilfada not typed"
+},
+{
+"sid": "elfaney->elfani",
+"rid": "elfaney->elfani",
+"v": true,
+"why": ""
+}
+]

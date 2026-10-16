@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "ghizia->ghizah",
+  "rid": "ghizia->ghizah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gineih->ginih",
+  "rid": "gineih->ginih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gneih->gneh",
+  "rid": "gneih->gneh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gneih->gnih",
+  "rid": "gneih->gnih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gofia->gofa",
+  "rid": "gofia->gofa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gofia->gufa",
+  "rid": "gofia->gufa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografea->gografa",
+  "rid": "gografea->gografa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografea->gugrafa",
+  "rid": "gografea->gugrafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografeia->gografea",
+  "rid": "gografeia->gografea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografeia->gografia",
+  "rid": "gografeia->gografia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografeia->gografiaa",
+  "rid": "gografeia->gografiaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gografeia->gugrafea",
+  "rid": "gografeia->gugrafea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gomhoria->gomhora",
+  "rid": "gomhoria->gomhora",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gomhoria->gomhoraa",
+  "rid": "gomhoria->gomhoraa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gomhoria->gomhura",
+  "rid": "gomhoria->gomhura",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gomhoria->gumhora",
+  "rid": "gomhoria->gumhora",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "guez2->goz2",
+  "rid": "guez2->goz2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "guez2->guz2",
+  "rid": "guez2->guz2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "guitar->gotar",
+  "rid": "guitar->gotar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "guitar->gutaar",
+  "rid": "guitar->gutaar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "guitar->gutar",
+  "rid": "guitar->gutar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haday2->hadi2",
+  "rid": "haday2->hadi2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hadeamy->hadami",
+  "rid": "hadeamy->hadami",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hadeamy->hadamy",
+  "rid": "hadeamy->hadamy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hadia->hada",
+  "rid": "hadia->hada",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hadia->hadaa",
+  "rid": "hadia->hadaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haia->ha",
+  "rid": "haia->ha",
+  "v": false,
+  "why": "ha collapses to a distinct existing particle/interjection, not read as hiya"
+ },
+ {
+  "sid": "haia->haa",
+  "rid": "haia->haa",
+  "v": false,
+  "why": "haa collapses to a distinct existing interjection, not read as hiya"
+ },
+ {
+  "sid": "hawaeey->haway",
+  "rid": "hawaeey->haway",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haway->hawi",
+  "rid": "haway->hawi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hawayya->hawiya",
+  "rid": "hawayya->hawiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay23od->hi23od",
+  "rid": "hay23od->hi23od",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2addemo->hi2addemo",
+  "rid": "hay2addemo->hi2addemo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2adem->hi2adem",
+  "rid": "hay2adem->hi2adem",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2adro->hi2adro",
+  "rid": "hay2adro->hi2adro",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2alel->hi2alel",
+  "rid": "hay2alel->hi2alel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2allal->hi2allal",
+  "rid": "hay2allal->hi2allal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2at->hi2at",
+  "rid": "hay2at->hi2at",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2ather->hi2ather",
+  "rid": "hay2ather->hi2ather",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2et->hi2et",
+  "rid": "hay2et->hi2et",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2od->hi2od",
+  "rid": "hay2od->hi2od",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2odi->hi2odi",
+  "rid": "hay2odi->hi2odi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2ody->hi2ody",
+  "rid": "hay2ody->hi2ody",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2olak->hi2olak",
+  "rid": "hay2olak->hi2olak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2t->hi2t",
+  "rid": "hay2t->hi2t",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay2ther->hi2ther",
+  "rid": "hay2ther->hi2ther",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3ady->hi3ady",
+  "rid": "hay3ady->hi3ady",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3amelo->hi3amelo",
+  "rid": "hay3amelo->hi3amelo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3amlo->hi3amlo",
+  "rid": "hay3amlo->hi3amlo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3awezna->hi3awezna",
+  "rid": "hay3awezna->hi3awezna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3eesh->hi3eesh",
+  "rid": "hay3eesh->hi3eesh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3mel->hi3mel",
+  "rid": "hay3mel->hi3mel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3melo->hi3melo",
+  "rid": "hay3melo->hi3melo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3ml->hi3ml",
+  "rid": "hay3ml->hi3ml",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3mlo->hi3mlo",
+  "rid": "hay3mlo->hi3mlo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay3raf->hi3raf",
+  "rid": "hay3raf->hi3raf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay5aly->hi5aly",
+  "rid": "hay5aly->hi5aly",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7addad->hi7addad",
+  "rid": "hay7addad->hi7addad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7afez->hi7afez",
+  "rid": "hay7afez->hi7afez",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7asal->hi7asal",
+  "rid": "hay7asal->hi7asal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7asan->hi7asan",
+  "rid": "hay7asan->hi7asan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7ot->hi7ot",
+  "rid": "hay7ot->hi7ot",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7sal->hi7sal",
+  "rid": "hay7sal->hi7sal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7sl->hi7sl",
+  "rid": "hay7sl->hi7sl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7tag->hi7tag",
+  "rid": "hay7tag->hi7tag",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hay7tago->hi7tago",
+  "rid": "hay7tago->hi7tago",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayban->hiban",
+  "rid": "hayban->hiban",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haybda->hibda",
+  "rid": "haybda->hibda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayda3->hida3",
+  "rid": "hayda3->hida3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haydar->hidar",
+  "rid": "haydar->hidar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haydeena->hideena",
+  "rid": "haydeena->hideena",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haydy->hidy",
+  "rid": "haydy->hidy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayfar2->hifar2",
+  "rid": "hayfar2->hifar2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayfed->hifed",
+  "rid": "hayfed->hifed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayfedna->hifedna",
+  "rid": "hayfedna->hifedna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayfeed->hifeed",
+  "rid": "hayfeed->hifeed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayft7->hift7",
+  "rid": "hayft7->hift7",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haygeb->higeb",
+  "rid": "haygeb->higeb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haygeeb->higeeb",
+  "rid": "haygeeb->higeeb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haykl->hikl",
+  "rid": "haykl->hikl",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haykon->hikon",
+  "rid": "haykon->hikon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haynf3->hinf3",
+  "rid": "haynf3->hinf3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haynzel->hinzel",
+  "rid": "haynzel->hinzel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayrga3->hirga3",
+  "rid": "hayrga3->hirga3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haysa3d->hisa3d",
+  "rid": "haysa3d->hisa3d",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haysa3dna->hisa3dna",
+  "rid": "haysa3dna->hisa3dna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haysa3do->hisa3do",
+  "rid": "haysa3do->hisa3do",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayse3dak->hise3dak",
+  "rid": "hayse3dak->hise3dak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayse3ed->hise3ed",
+  "rid": "hayse3ed->hise3ed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayseeb->hiseeb",
+  "rid": "hayseeb->hiseeb",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haysharek->hisharek",
+  "rid": "haysharek->hisharek",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haysharko->hisharko",
+  "rid": "haysharko->hisharko",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayshof->hishof",
+  "rid": "hayshof->hishof",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayshofo->hishofo",
+  "rid": "hayshofo->hishofo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayshofou->hishofou",
+  "rid": "hayshofou->hishofou",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haytalab->hitalab",
+  "rid": "haytalab->hitalab",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayth->hith",
+  "rid": "hayth->hith",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haywafro->hiwafro",
+  "rid": "haywafro->hiwafro",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "haywanak->hiwanak",
+  "rid": "haywanak->hiwanak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayya->hiya",
+  "rid": "hayya->hiya",
+  "v": false,
+  "why": "hiya collides with the common pronoun hiya (she/it), not read as hayya (alive)"
+ },
+ {
+  "sid": "hayzid->hizid",
+  "rid": "hayzid->hizid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayzod->hizod",
+  "rid": "hayzod->hizod",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayzodo->hizodo",
+  "rid": "hayzodo->hizodo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hayzood->hizood",
+  "rid": "hayzood->hizood",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hazemey->hazemi",
+  "rid": "hazemey->hazemi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hea->ha",
+  "rid": "hea->ha",
+  "v": false,
+  "why": "ha collapses to a distinct existing particle, not read as hea/hiya"
+ },
+ {
+  "sid": "hea->haa",
+  "rid": "hea->haa",
+  "v": false,
+  "why": "haa collapses to a distinct existing interjection, not read as hea/hiya"
+ },
+ {
+  "sid": "hea->hah",
+  "rid": "hea->hah",
+  "v": false,
+  "why": "hah reads as the interjection/laugh hah, not hea/hiya"
+ },
+ {
+  "sid": "header->hadeer",
+  "rid": "header->hadeer",
+  "v": false,
+  "why": "header (tech term) reads as hadeer (roar), a real unrelated Arabic word"
+ },
+ {
+  "sid": "header->hader",
+  "rid": "header->hader",
+  "v": false,
+  "why": "header (tech term) reads as hader (present/ready), a real unrelated Arabic word"
+ },
+ {
+  "sid": "header->hadir",
+  "rid": "header->hadir",
+  "v": false,
+  "why": "header (tech term) reads as hadir, a real unrelated Arabic word"
+ },
+ {
+  "sid": "heia->hea",
+  "rid": "heia->hea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heia->heaa",
+  "rid": "heia->heaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heia->hia",
+  "rid": "heia->hia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heia->hiaa",
+  "rid": "heia->hiaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "helium->helum",
+  "rid": "helium->helum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "helium->hilum",
+  "rid": "helium->hilum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heroen->heron",
+  "rid": "heroen->heron",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heroen->heroon",
+  "rid": "heroen->heroon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heroen->herun",
+  "rid": "heroen->herun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heroin->heron",
+  "rid": "heroin->heron",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "heroin->hiron",
+  "rid": "heroin->hiron",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "hia->ha",
+  "rid": "hia->ha",
+  "v": false,
+  "why": "ha collapses to a distinct existing particle, not read as hia/hiya"
+ },
+ {
+  "sid": "hia->haa",
+  "rid": "hia->haa",
+  "v": false,
+  "why": "haa collapses to a distinct existing interjection, not read as hia/hiya"
+ },
+ {
+  "sid": "hia->hah",
+  "rid": "hia->hah",
+  "v": false,
+  "why": "hah reads as the interjection/laugh hah, not hia/hiya"
+ },
+ {
+  "sid": "holandia->holanda",
+  "rid": "holandia->holanda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "holandia->holandaa",
+  "rid": "holandia->holandaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "iqtesadia->eqtesada",
+  "rid": "iqtesadia->eqtesada",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "iraney->irani",
+  "rid": "iraney->irani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "italia->etala",
+  "rid": "italia->etala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "italia->itala",
+  "rid": "italia->itala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "italia->italaa",
+  "rid": "italia->italaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jarayda->jarida",
+  "rid": "jarayda->jarida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jayza->jiza",
+  "rid": "jayza->jiza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jeans->jaans",
+  "rid": "jeans->jaans",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jeans->jans",
+  "rid": "jeans->jans",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jensein->jensen",
+  "rid": "jensein->jensen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jensein->jensin",
+  "rid": "jensein->jensin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jensein->jinsen",
+  "rid": "jensein->jinsen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jensey->jensi",
+  "rid": "jensey->jensi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jeology->jologi",
+  "rid": "jeology->jologi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jeology->jology",
+  "rid": "jeology->jology",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jeology->jolugy",
+  "rid": "jeology->jolugy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jinsia->jensa",
+  "rid": "jinsia->jensa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "jinsia->jinsa",
+  "rid": "jinsia->jinsa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "joeh->joh",
+  "rid": "joeh->joh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "joeh->juh",
+  "rid": "joeh->juh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "k3ayla->k3ila",
+  "rid": "k3ayla->k3ila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kaeinat->kaenat",
+  "rid": "kaeinat->kaenat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kaeinat->kainat",
+  "rid": "kaeinat->kainat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kafaia->kafa",
+  "rid": "kafaia->kafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kafein->kafen",
+  "rid": "kafein->kafen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kafein->kafin",
+  "rid": "kafein->kafin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kafia->kafa",
+  "rid": "kafia->kafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kafia->kafaa",
+  "rid": "kafia->kafaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrabaia->kahraba",
+  "rid": "kahrabaia->kahraba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrabaia->kahrabaa",
+  "rid": "kahrabaia->kahrabaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrabey->kahrabi",
+  "rid": "kahrabey->kahrabi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrabia->kahraba",
+  "rid": "kahrabia->kahraba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrabia->kahrabaa",
+  "rid": "kahrabia->kahrabaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kahrebia->kahreba",
+  "rid": "kahrebia->kahreba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalifornia->kaliforna",
+  "rid": "kalifornia->kaliforna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalifornia->kalifurna",
+  "rid": "kalifornia->kalifurna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalseeum->kalsium",
+  "rid": "kalseeum->kalsium",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalseeum->kalsum",
+  "rid": "kalseeum->kalsum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalsium->kalsom",
+  "rid": "kalsium->kalsom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kalsium->kalsum",
+  "rid": "kalsium->kalsum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kamia->kama",
+  "rid": "kamia->kama",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kamia->kamaa",
+  "rid": "kamia->kamaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kamiat->kamaat",
+  "rid": "kamiat->kamaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kamiat->kamat",
+  "rid": "kamiat->kamat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kanadey->kanadi",
+  "rid": "kanadey->kanadi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kawadeid->kawaded",
+  "rid": "kawadeid->kawaded",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kawadeid->kawadid",
+  "rid": "kawadeid->kawadid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kawmey->kawmi",
+  "rid": "kawmey->kawmi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kay2anat->ki2anat",
+  "rid": "kay2anat->ki2anat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kay2at->ki2at",
+  "rid": "kay2at->ki2at",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kays->kis",
+  "rid": "kays->kis",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kaysy->kisy",
+  "rid": "kaysy->kisy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kbeeer->kbier",
+  "rid": "kbeeer->kbier",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kbeir->kbiir",
+  "rid": "kbeir->kbiir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keameya->kameya",
+  "rid": "keameya->kameya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keameya->kamiya",
+  "rid": "keameya->kamiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kedaia->kedaa",
+  "rid": "kedaia->kedaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kedaia->kidaa",
+  "rid": "kedaia->kidaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keemia->keema",
+  "rid": "keemia->keema",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keemia->keima",
+  "rid": "keemia->keima",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keemia->kema",
+  "rid": "keemia->kema",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kefaia->kefa",
+  "rid": "kefaia->kefa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kefaia->kefaa",
+  "rid": "kefaia->kefaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kefaia->kifaa",
+  "rid": "kefaia->kifaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keis->kes",
+  "rid": "keis->kes",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keis->kiis",
+  "rid": "keis->kiis",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "keis->kis",
+  "rid": "keis->kis",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemea->kema",
+  "rid": "kemea->kema",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemea->kemaa",
+  "rid": "kemea->kemaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemea->kima",
+  "rid": "kemea->kima",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeaweya->kemaweya",
+  "rid": "kemeaweya->kemaweya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeaweya->kimaweya",
+  "rid": "kemeaweya->kimaweya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeawy->kemawi",
+  "rid": "kemeawy->kemawi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeawy->kemawy",
+  "rid": "kemeawy->kemawy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeawy->kemooy",
+  "rid": "kemeawy->kemooy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeawy->kimawy",
+  "rid": "kemeawy->kimawy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeia->kemea",
+  "rid": "kemeia->kemea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeia->kemeaa",
+  "rid": "kemeia->kemeaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeia->kemia",
+  "rid": "kemeia->kemia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kemeia->kimia",
+  "rid": "kemeia->kimia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kenaes->kenaas",
+  "rid": "kenaes->kenaas",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kenaes->kenas",
+  "rid": "kenaes->kenas",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kezay->kezi",
+  "rid": "kezay->kezi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaayfa->khaifa",
+  "rid": "khaayfa->khaifa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaef->5af",
+  "rid": "khaef->5af",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaef->khaaf",
+  "rid": "khaef->khaaf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaef->khaf",
+  "rid": "khaef->khaf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaefa->5afa",
+  "rid": "khaefa->5afa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaefa->khafa",
+  "rid": "khaefa->khafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khafeia->5afea",
+  "rid": "khafeia->5afea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khafeia->5afia",
+  "rid": "khafeia->5afia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khafeia->khafea",
+  "rid": "khafeia->khafea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khafeia->khafia",
+  "rid": "khafeia->khafia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khafeia->khafiaa",
+  "rid": "khafeia->khafiaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaief->5aif",
+  "rid": "khaief->5aif",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaief->khaef",
+  "rid": "khaief->khaef",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaief->khaif",
+  "rid": "khaief->khaif",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaif->5af",
+  "rid": "khaif->5af",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaif->khaf",
+  "rid": "khaif->khaf",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaifa->5afa",
+  "rid": "khaifa->5afa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaifa->khafa",
+  "rid": "khaifa->khafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaifa->khafaa",
+  "rid": "khaifa->khafaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khair->5ar",
+  "rid": "khair->5ar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khair->khaar",
+  "rid": "khair->khaar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khair->khar",
+  "rid": "khair->khar",
+  "v": false,
+  "why": "khar reads as khara (crap), an unrelated offensive word, not kheir/khair"
+ },
+ {
+  "sid": "khalaia->5alaa",
+  "rid": "khalaia->5alaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalaia->khala",
+  "rid": "khalaia->khala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalaia->khalaa",
+  "rid": "khalaia->khalaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalaia->khalaah",
+  "rid": "khalaia->khalaah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->5alea",
+  "rid": "khaleia->5alea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->5alia",
+  "rid": "khaleia->5alia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->khalea",
+  "rid": "khaleia->khalea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->khaleaa",
+  "rid": "khaleia->khaleaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->khalia",
+  "rid": "khaleia->khalia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khaleia->khaliaa",
+  "rid": "khaleia->khaliaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalfia->5alfa",
+  "rid": "khalfia->5alfa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalfia->khalfa",
+  "rid": "khalfia->khalfa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalia->5ala",
+  "rid": "khalia->5ala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khalia->khala",
+  "rid": "khalia->khala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khamseneiat->5amseneat",
+  "rid": "khamseneiat->5amseneat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khamseneiat->5amseniat",
+  "rid": "khamseneiat->5amseniat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khamseneiat->khamseneat",
+  "rid": "khamseneiat->khamseneat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khamseneiat->khamsineat",
+  "rid": "khamseneiat->khamsineat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharegia->5arega",
+  "rid": "kharegia->5arega",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharegia->khariga",
+  "rid": "kharegia->khariga",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharegyia->5aregya",
+  "rid": "kharegyia->5aregya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharegyia->kharegya",
+  "rid": "kharegyia->kharegya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharejia->5areja",
+  "rid": "kharejia->5areja",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharejia->khareja",
+  "rid": "kharejia->khareja",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kharejia->kharija",
+  "rid": "kharejia->kharija",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khawazmeiat->5awazmeat",
+  "rid": "khawazmeiat->5awazmeat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khawazmeiat->5awazmiat",
+  "rid": "khawazmeiat->5awazmiat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khawazmeiat->khawazmeaat",
+  "rid": "khawazmeiat->khawazmeaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khawazmeiat->khawazmeat",
+  "rid": "khawazmeiat->khawazmeat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khawazmeiat->khawazmiat",
+  "rid": "khawazmeiat->khawazmiat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayalia->5ayala",
+  "rid": "khayalia->5ayala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayalia->khayala",
+  "rid": "khayalia->khayala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayfa->khifa",
+  "rid": "khayfa->khifa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayreya->khireya",
+  "rid": "khayreya->khireya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayria->khayra",
+  "rid": "khayria->khayra",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayria->kheera",
+  "rid": "khayria->kheera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khayria->khiria",
+  "rid": "khayria->khiria",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheir->5er",
+  "rid": "kheir->5er",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheir->5ir",
+  "rid": "kheir->5ir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheir->kher",
+  "rid": "kheir->kher",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheir->khir",
+  "rid": "kheir->khir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheit->5et",
+  "rid": "kheit->5et",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheit->khet",
+  "rid": "kheit->khet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kheit->khit",
+  "rid": "kheit->khit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khelia->khela",
+  "rid": "khelia->khela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khelia->khelaa",
+  "rid": "khelia->khelaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khelia->khila",
+  "rid": "khelia->khila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khosoosia->khosoosa",
+  "rid": "khosoosia->khosoosa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "khosoosia->khusoosa",
+  "rid": "khosoosia->khusoosa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kilobait->kelobat",
+  "rid": "kilobait->kelobat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kilobait->kilobat",
+  "rid": "kilobait->kilobat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kilobait->kilubat",
+  "rid": "kilobait->kilubat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "klasikia->klaseka",
+  "rid": "klasikia->klaseka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "klasikia->klasika",
+  "rid": "klasikia->klasika",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "klasikia->klasikaa",
+  "rid": "klasikia->klasikaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "klassikia->klasseka",
+  "rid": "klassikia->klasseka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeaa->kma",
+  "rid": "kmeaa->kma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeaa->kmaa",
+  "rid": "kmeaa->kmaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeat->kmaat",
+  "rid": "kmeat->kmaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeat->kmat",
+  "rid": "kmeat->kmat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeia->kmea",
+  "rid": "kmeia->kmea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeia->kmeaa",
+  "rid": "kmeia->kmeaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeia->kmeah",
+  "rid": "kmeia->kmeah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeia->kmia",
+  "rid": "kmeia->kmia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeiat->kmeat",
+  "rid": "kmeiat->kmeat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmeiat->kmiat",
+  "rid": "kmeiat->kmiat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmia->kma",
+  "rid": "kmia->kma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "kmia->kmaa",
+  "rid": "kmia->kmaa",
+  "v": true,
+  "why": ""
+ }
+]

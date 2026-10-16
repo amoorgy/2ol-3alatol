@@ -1,0 +1,1661 @@
+{
+ "name": "pairs_v2_c0_sonnet_medium_vs_opus",
+ "command": "python3 experiments/d5_cohere_track/training_data/council/compare_councils.py --council pairs --chunk-dir data/generated/v2/council/pair_chunks --a-dir data/generated/v2/council/pair_votes --a-label opus/xhigh --b-dir data/generated/v2/council/pair_votes_sonnet --b-label sonnet/medium --name pairs_v2_c0_sonnet_medium_vs_opus --chunks c0 --by why_flagged",
+ "seed": null,
+ "deterministic": true,
+ "config": {
+  "council": "pairs",
+  "lenses": [
+   "coherence",
+   "identity",
+   "plausibility",
+   "register",
+   "skeptic"
+  ],
+  "min_agree": 4,
+  "chunk_dir": "data/generated/v2/council/pair_chunks",
+  "chunks": [
+   "c0"
+  ],
+  "by": [
+   "why_flagged"
+  ],
+  "a": {
+   "label": "opus/xhigh",
+   "dir": "data/generated/v2/council/pair_votes",
+   "stamp": {
+    "council": "pairs",
+    "model": "opus",
+    "effort": "xhigh",
+    "chunk_dir": "data/generated/v2/council/pair_chunks"
+   }
+  },
+  "b": {
+   "label": "sonnet/medium",
+   "dir": "data/generated/v2/council/pair_votes_sonnet",
+   "stamp": {
+    "council": "pairs",
+    "model": "sonnet",
+    "effort": "medium",
+    "chunk_dir": "data/generated/v2/council/pair_chunks"
+   }
+  }
+ },
+ "corpus": {
+  "n_chunks": 1,
+  "n_items": 300,
+  "chunk_sha256": {
+   "c0": "c66630735579d85f6894bcb67a8690b9a2714b962046623bc459efbb81fa1a4c"
+  }
+ },
+ "verdict_sha256": {
+  "a": {
+   "coherence_c0.json": "b79327f8e8b0b09b0eeab1f4cd857206f7ee791793b29a670aeb087a7dc04d55",
+   "identity_c0.json": "8b8f720e97185a77cb1f9d03732bb2e2ace9a27a2b3af3af98cf071ee029964d",
+   "plausibility_c0.json": "caa88f93fb3e1f8912d9ab1d55507d5cca2fc905e960f334a8ea864ea3fc78e3",
+   "register_c0.json": "3e6e4b5dbcd747c839d8d2dc06cad0905eec72ee1a1b64e0e716b3312707250a",
+   "skeptic_c0.json": "dff5945460d2991edcd8cb65d33d82dcd878ec770b76decf263293b00a3b72d1"
+  },
+  "b": {
+   "coherence_c0.json": "4052b741e9b1dc793090d6a2cde0978d07d4b85067d959da5e757346f84710c4",
+   "identity_c0.json": "96d3f3212ac9fe8a9ed8ea603d5566a8158eb8948d5ffe49764d5a19f029000f",
+   "plausibility_c0.json": "3de689f60f92c4156504a0118cd9715a0bf4497eb141b0a4816ae3c17f62cba7",
+   "register_c0.json": "e802de43942a20fcb86ffad20aa178abdf96b51a4db98c64f4f92f22311b8d08",
+   "skeptic_c0.json": "9065f618849741a7cdea1148561532f175652bd821f3b871d0fc65ea4834dc2d"
+  }
+ },
+ "coverage": {
+  "complete": true,
+  "a_complete_items": 300,
+  "b_complete_items": 300,
+  "both_complete_items": 300,
+  "a_pending_jobs": [],
+  "b_pending_jobs": []
+ },
+ "warnings": [],
+ "final": {
+  "n": 300,
+  "confusion": {
+   "a_accept_b_accept": 221,
+   "a_accept_b_reject": 0,
+   "a_reject_b_accept": 76,
+   "a_reject_b_reject": 3
+  },
+  "a": {
+   "accept_rate": 0.7367,
+   "reject_rate": 0.2633
+  },
+  "b": {
+   "accept_rate": 0.99,
+   "reject_rate": 0.01
+  },
+  "leniency_pp": 25.33,
+  "agreement": 0.7467,
+  "cohen_kappa": 0.055,
+  "b_false_accept_vs_a": {
+   "k": 76,
+   "n": 297,
+   "rate": 0.2559,
+   "wilson95": [
+    0.2096,
+    0.3084
+   ]
+  },
+  "b_miss_rate_vs_a": {
+   "k": 76,
+   "n": 79,
+   "rate": 0.962,
+   "wilson95": [
+    0.8942,
+    0.987
+   ]
+  }
+ },
+ "fleiss_kappa_across_lenses": {
+  "a": 0.6257,
+  "b": -0.006
+ },
+ "lenses": {
+  "coherence": {
+   "n": 300,
+   "a_accept_rate": 0.7567,
+   "b_accept_rate": 1.0,
+   "leniency_pp": 24.33,
+   "cohen_kappa": 0.0,
+   "counts": {
+    "both_accept": 227,
+    "a_only_accept": 0,
+    "b_only_accept": 73,
+    "both_reject": 0
+   }
+  },
+  "identity": {
+   "n": 300,
+   "a_accept_rate": 0.78,
+   "b_accept_rate": 0.99,
+   "leniency_pp": 21.0,
+   "cohen_kappa": 0.0691,
+   "counts": {
+    "both_accept": 234,
+    "a_only_accept": 0,
+    "b_only_accept": 63,
+    "both_reject": 3
+   }
+  },
+  "plausibility": {
+   "n": 300,
+   "a_accept_rate": 0.84,
+   "b_accept_rate": 1.0,
+   "leniency_pp": 16.0,
+   "cohen_kappa": 0.0,
+   "counts": {
+    "both_accept": 252,
+    "a_only_accept": 0,
+    "b_only_accept": 48,
+    "both_reject": 0
+   }
+  },
+  "register": {
+   "n": 300,
+   "a_accept_rate": 0.8533,
+   "b_accept_rate": 1.0,
+   "leniency_pp": 14.67,
+   "cohen_kappa": 0.0,
+   "counts": {
+    "both_accept": 256,
+    "a_only_accept": 0,
+    "b_only_accept": 44,
+    "both_reject": 0
+   }
+  },
+  "skeptic": {
+   "n": 300,
+   "a_accept_rate": 0.76,
+   "b_accept_rate": 0.8367,
+   "leniency_pp": 7.67,
+   "cohen_kappa": 0.4358,
+   "counts": {
+    "both_accept": 212,
+    "a_only_accept": 16,
+    "b_only_accept": 39,
+    "both_reject": 33
+   }
+  }
+ },
+ "b_threshold_sensitivity": [
+  {
+   "b_min_agree": 1,
+   "b_accept_rate": 1.0,
+   "agreement": 0.7367,
+   "cohen_kappa": 0.0,
+   "b_false_accept_vs_a": {
+    "k": 79,
+    "n": 300,
+    "rate": 0.2633,
+    "wilson95": [
+     0.2167,
+     0.3159
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 79,
+    "n": 79,
+    "rate": 1.0,
+    "wilson95": [
+     0.9536,
+     1.0
+    ]
+   }
+  },
+  {
+   "b_min_agree": 2,
+   "b_accept_rate": 1.0,
+   "agreement": 0.7367,
+   "cohen_kappa": 0.0,
+   "b_false_accept_vs_a": {
+    "k": 79,
+    "n": 300,
+    "rate": 0.2633,
+    "wilson95": [
+     0.2167,
+     0.3159
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 79,
+    "n": 79,
+    "rate": 1.0,
+    "wilson95": [
+     0.9536,
+     1.0
+    ]
+   }
+  },
+  {
+   "b_min_agree": 3,
+   "b_accept_rate": 1.0,
+   "agreement": 0.7367,
+   "cohen_kappa": 0.0,
+   "b_false_accept_vs_a": {
+    "k": 79,
+    "n": 300,
+    "rate": 0.2633,
+    "wilson95": [
+     0.2167,
+     0.3159
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 79,
+    "n": 79,
+    "rate": 1.0,
+    "wilson95": [
+     0.9536,
+     1.0
+    ]
+   }
+  },
+  {
+   "b_min_agree": 4,
+   "b_accept_rate": 0.99,
+   "agreement": 0.7467,
+   "cohen_kappa": 0.055,
+   "b_false_accept_vs_a": {
+    "k": 76,
+    "n": 297,
+    "rate": 0.2559,
+    "wilson95": [
+     0.2096,
+     0.3084
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 76,
+    "n": 79,
+    "rate": 0.962,
+    "wilson95": [
+     0.8942,
+     0.987
+    ]
+   }
+  },
+  {
+   "b_min_agree": 5,
+   "b_accept_rate": 0.8367,
+   "agreement": 0.7867,
+   "cohen_kappa": 0.3737,
+   "b_false_accept_vs_a": {
+    "k": 47,
+    "n": 251,
+    "rate": 0.1873,
+    "wilson95": [
+     0.1438,
+     0.2401
+    ]
+   },
+   "b_miss_rate_vs_a": {
+    "k": 47,
+    "n": 79,
+    "rate": 0.5949,
+    "wilson95": [
+     0.4847,
+     0.6963
+    ]
+   }
+  }
+ ],
+ "by": {
+  "why_flagged": {
+   "vowel dropped beside a vowel: judge per pair": {
+    "n": 55,
+    "a_reject_rate": 0.7636,
+    "b_reject_rate": 0.0364,
+    "leniency_pp": 72.73,
+    "b_miss_rate_vs_a": {
+     "k": 40,
+     "n": 42,
+     "rate": 0.9524,
+     "wilson95": [
+      0.8421,
+      0.9868
+     ]
+    }
+   },
+   "word-initial ع-deletion: judge per pair": {
+    "n": 245,
+    "a_reject_rate": 0.151,
+    "b_reject_rate": 0.0041,
+    "leniency_pp": 14.69,
+    "b_miss_rate_vs_a": {
+     "k": 36,
+     "n": 37,
+     "rate": 0.973,
+     "wilson95": [
+      0.8618,
+      0.9952
+     ]
+    }
+   }
+  }
+ },
+ "disagreements": [
+  {
+   "sid": "2a2dea->2a2da",
+   "rid": "2a2dea->2a2da",
+   "chunk": "c0",
+   "text": "2a2dea -> 2a2da",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses the -iyya ending; 2a2da reads like qada (fate/judiciary), not qadiyya (issue).",
+    "identity": "Loses the -iyya ending of قضية; 2a2da reads as قضا, not قضية.",
+    "plausibility": "qadeyya loses its y vowel; 2a2da is not how Egyptians spell this word",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2a2dea->2a2dah",
+   "rid": "2a2dea->2a2dah",
+   "chunk": "c0",
+   "text": "2a2dea -> 2a2dah",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses the -iyya ending; 2a2dah no longer reads as qadiyya (issue).",
+    "identity": "2a2dah reads as قضاة/قضاه (judges/judged it), not قضية.",
+    "plausibility": "qadeyya loses its y vowel; 2a2dah is not a real spelling of this word",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2a2dea->a2da",
+   "rid": "2a2dea->a2da",
+   "chunk": "c0",
+   "text": "2a2dea -> a2da",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses the -iyya ending; a2da reads like a2di/ada, not qadiyya (issue).",
+    "identity": "a2da reads as أقضي/أقضى (I spend), not قضية.",
+    "plausibility": "qadeyya loses its y vowel; a2da is not a real spelling of this word",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2ablia->2abla",
+   "rid": "2ablia->2abla",
+   "chunk": "c0",
+   "text": "2ablia -> 2abla",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2abla reads as 'before her' or 'kiss', not qabiliyya (susceptibility).",
+    "identity": "2abla reads as قابلة (midwife) / أبلة, not قابلية.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2abla reads as قابلة (receptive/midwife) or قبلة, a different word from قابلية."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2ablia->2ablah",
+   "rid": "2ablia->2ablah",
+   "chunk": "c0",
+   "text": "2ablia -> 2ablah",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2ablah reads as 'before him', not qabiliyya (susceptibility).",
+    "identity": "2ablah reads as قابلة / أبلة, not قابلية.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2ablah reads as قابلة/قبلة, a different word from قابلية."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2adea->2ada",
+   "rid": "2adea->2ada",
+   "chunk": "c0",
+   "text": "2adea -> 2ada",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2ada reads as qada2 (judiciary), not qadiyya (lawsuit).",
+    "identity": "2ada reads as قضا(ء) (judiciary/fate), a different word from قضية.",
+    "plausibility": "2adeya loses its y vowel; 2ada reads as a different word, not typed for this",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2ada is a common spelling of قضا/قضى (fate, he spent) and of أداء."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2ada/qada (spent/fate), a different real word"
+   }
+  },
+  {
+   "sid": "2adea->2adaa",
+   "rid": "2adea->2adaa",
+   "chunk": "c0",
+   "text": "2adea -> 2adaa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2adaa reads as qada2 (judiciary), not qadiyya (case).",
+    "identity": "2adaa reads as قضاء (judiciary), not قضية.",
+    "plausibility": "2adeya loses its y vowel; 2adaa is not a real spelling of this word",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2adaa reads as قضاء (judiciary/fate) or أداء (performance)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2adea->2adah",
+   "rid": "2adea->2adah",
+   "chunk": "c0",
+   "text": "2adea -> 2adah",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses the -iyya ending; 2adah no longer reads as qadiyya (lawsuit).",
+    "identity": "2adah reads as قضاة/قضاه, not قضية.",
+    "plausibility": "2adeya loses its y vowel; 2adah is not a real spelling of this word",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2adah reads as قضاه (he spent it), a different word."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2adey->2adi",
+   "rid": "2adey->2adi",
+   "chunk": "c0",
+   "text": "2adey -> 2adi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "2adi is the usual spelling of قاضي (judge), not أدّى.",
+    "skeptic": "2adi is the standard Franco spelling of قاضي (judge)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2aema->2ama",
+   "rid": "2aema->2ama",
+   "chunk": "c0",
+   "text": "2aema -> 2ama",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2ama reads as qama (stature), not qa2ima/qima (list/value).",
+    "identity": "2ama reads as قامة (stature) / قام, not قيمة.",
+    "plausibility": "2eema/2ayma needs the ee/ay vowel; 2ama is not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "2ama reads as قامة (stature), a different word."
+   },
+   "b_rejected_on": {
+    "skeptic": "close to 2ama/qama (stature, height), a different word"
+   }
+  },
+  {
+   "sid": "2aema->2amaa",
+   "rid": "2aema->2amaa",
+   "chunk": "c0",
+   "text": "2aema -> 2amaa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2amaa reads as qama (stature), not qima (value).",
+    "identity": "2amaa reads as قامة (stature), not قيمة.",
+    "plausibility": "2eema/2ayma needs the ee/ay vowel; 2amaa is not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "2amaa is emphatic 2ama, i.e. قامة (stature)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, close to 2ama/qama (height)"
+   }
+  },
+  {
+   "sid": "2aema->ama",
+   "rid": "2aema->ama",
+   "chunk": "c0",
+   "text": "2aema -> ama",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "ama reads as amma/omma; 'mn ama el-eeman' loses 'value of faith'.",
+    "identity": "ama reads as أما (as for), not قيمة.",
+    "plausibility": "2eema/2ayma needs the ee/ay vowel; ama is not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "ama is the very common Franco spelling of أما (as for)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with ama/amma (as-for/but), a common discourse word"
+   }
+  },
+  {
+   "sid": "2aids->2ads",
+   "rid": "2aids->2ads",
+   "chunk": "c0",
+   "text": "2aids -> 2ads",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Diphthong lost; el-2ads reads like el-2ods (Jerusalem), not AIDS.",
+    "identity": "Loses the ai of AIDS; 2ads reads like قدس, not الإيدز.",
+    "plausibility": "the ai diphthong of AIDS is essential; 2ads is not a real spelling",
+    "register": "drops the i of AIDS; Egyptians say eidz, 2ads/ads is not the Egyptian pronunciation",
+    "skeptic": "2ads loses the AI of AIDS; reads as قدس (Jerusalem) or English ads."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2aima->2ama",
+   "rid": "2aima->2ama",
+   "chunk": "c0",
+   "text": "2aima -> 2ama",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2ama reads as qama (stature), not qima (value).",
+    "identity": "2ama reads as قامة (stature) / قام, not قيمة.",
+    "plausibility": "2eema needs its ee vowel; 2ama reads 2aama, not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "2ama reads as قامة (stature), a different word."
+   },
+   "b_rejected_on": {
+    "skeptic": "close to 2ama/qama (height), a different word"
+   }
+  },
+  {
+   "sid": "2aima->ama",
+   "rid": "2aima->ama",
+   "chunk": "c0",
+   "text": "2aima -> ama",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "ama reads as amma (as for), not qima (value).",
+    "identity": "ama reads as أما (as for), not قيمة.",
+    "plausibility": "2eema needs its ee vowel; ama is not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "ama is the very common Franco spelling of أما (as for)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with ama/amma (as-for/but), a common word"
+   }
+  },
+  {
+   "sid": "2albia->2alba",
+   "rid": "2albia->2alba",
+   "chunk": "c0",
+   "text": "2albia -> 2alba",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2alba reads as 'her heart', not 2albiyya (cardiac); 'heart diseases' changes.",
+    "identity": "Drops nisba -iyya; 2alba reads as قلبة, not قلبية.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2alba reads as Egyptian قلبة (a flip/overturn)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2albia->2albaa",
+   "rid": "2albia->2albaa",
+   "chunk": "c0",
+   "text": "2albia -> 2albaa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2albaa reads as 'her heart', not the adjective 2albiyya (cardiac).",
+    "identity": "Drops nisba -iyya; 2albaa reads as قلبة-like, not قلبية.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2albaa is emphatic 2alba, i.e. قلبة (a flip/overturn)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2albia->alba",
+   "rid": "2albia->alba",
+   "chunk": "c0",
+   "text": "2albia -> alba",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "alba loses the nisba ending; not recoverable as 2albiyya (cardiac).",
+    "identity": "alba reads as ألبا / علبة, not قلبية.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "alba reads as علبة (box) via initial-ع drop, or as ألبا."
+   },
+   "b_rejected_on": {
+    "skeptic": "Alba is a well-known Egyptian appliance brand name"
+   }
+  },
+  {
+   "sid": "2almania->2almana",
+   "rid": "2almania->2almana",
+   "chunk": "c0",
+   "text": "2almania -> 2almana",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses -ia; 2almana reads like el-amana (trust), not Germany/German.",
+    "plausibility": "almanya loses its y; 2almana is not how Egyptians spell Germany",
+    "register": "drops the ya of Almanya; Egyptian pronunciation keeps -ya"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2almania->almana",
+   "rid": "2almania->almana",
+   "chunk": "c0",
+   "text": "2almania -> almana",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "almana reads as el-amana (trust/secretariat), not Germany/German.",
+    "plausibility": "almanya loses its y; almana is not how Egyptians spell Germany",
+    "register": "drops the ya of Almanya; Egyptian pronunciation keeps -ya",
+    "skeptic": "almana can read as علمنة (secularization) via initial-ع drop."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2asasia->2asasa",
+   "rid": "2asasia->2asasa",
+   "chunk": "c0",
+   "text": "2asasia -> 2asasa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Loses the nisba -iyya; 2asasa reads like asaso (its foundation), not 'basic'.",
+    "identity": "2asasa can read as قصاصة (clipping); nisba -iyya of أساسية lost.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "2asasa reads as أساساً/أساسه (basically, its foundation), not أساسية."
+   },
+   "b_rejected_on": {
+    "skeptic": "close to asasan (basically, adverb), a different word/part of speech"
+   }
+  },
+  {
+   "sid": "2asasia->asasa",
+   "rid": "2asasia->asasa",
+   "chunk": "c0",
+   "text": "2asasia -> asasa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Loses the nisba -iyya; asasa no longer means 'basic/essential'.",
+    "identity": "asasa reads as أساسه/أساسا, nisba -iyya of أساسية lost.",
+    "plausibility": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so",
+    "register": "drops the ya of the -eya/-ia ending; Egyptian pronunciation keeps -eyya, form misrepresents it",
+    "skeptic": "asasa reads as أساساً/أساسه (basically, its foundation), not أساسية."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, close to asasan (basically)"
+   }
+  },
+  {
+   "sid": "2ay->2i",
+   "rid": "2ay->2i",
+   "chunk": "c0",
+   "text": "2ay -> 2i",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "In the vomiting example, 2i does not read as 2ay2; ayy is not ee.",
+    "plausibility": "ayy/ay diphthong written as bare i is not a real spelling of this word",
+    "register": "collapses geminate ayy of Egyptian ay (any) to i; not an Egyptian spelling"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2ayd->2id",
+   "rid": "2ayd->2id",
+   "chunk": "c0",
+   "text": "2ayd -> 2id",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "'3ala 2id el7aya' reads as 3ala eid (at the hand of), not 2ayd.",
+    "identity": "2id reads as إيد (hand) or عيد, not قيد.",
+    "skeptic": "2id is a common spelling of إيد (hand); 3ala 2id = at the hands of."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2eid/3eid (Eid holiday), a very common word"
+   }
+  },
+  {
+   "sid": "2ayda->2ida",
+   "rid": "2ayda->2ida",
+   "chunk": "c0",
+   "text": "2ayda -> 2ida",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2ida reads as eidha (her hand), not 2ayd (under research).",
+    "identity": "2ida reads as إيده/إيدها (his/her hand), not قيد.",
+    "skeptic": "2ida reads as إيده (his hand) or إذا (if)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same Eid-word collision risk"
+   }
+  },
+  {
+   "sid": "2eamet->2ameet",
+   "rid": "2eamet->2ameet",
+   "chunk": "c0",
+   "text": "2eamet -> 2ameet",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Vowel moved; 2ameet no longer reads as 2eemet (value of).",
+    "identity": "2ameet no longer reads as قيمة; vowel shifted, reads like قامت.",
+    "plausibility": "2eemet needs the ee vowel; 2ameet shifts it, not a real spelling",
+    "register": "moves long ee to second syllable; Egyptian pronounces 2eemet, not 2ameet",
+    "skeptic": "2ameet reads as قامت (she rose/carried out), a very common verb."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2eamet->2amet",
+   "rid": "2eamet->2amet",
+   "chunk": "c0",
+   "text": "2eamet -> 2amet",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2amet reads as 2amet (she stood up), not 2eemet (value of).",
+    "identity": "2amet is the spelling of قامت (she stood/arose), not قيمة.",
+    "plausibility": "2eemet needs the ee vowel; 2amet reads as 2aamet, not typed for this",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "2amet is the common spelling of قامت (she stood/carried out)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2amet/qamet (she stood up), a common verb"
+   }
+  },
+  {
+   "sid": "2eamet->2amit",
+   "rid": "2eamet->2amit",
+   "chunk": "c0",
+   "text": "2eamet -> 2amit",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "2amit reads as 2amet (she stood up), not 2eemet (value of).",
+    "identity": "2amit reads as قامت (she stood/arose), not قيمة.",
+    "plausibility": "2eemet needs the ee vowel; 2amit reads as 2aamit, not typed for this",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "2amit reads as قامت (she stood/carried out)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, close to qamet (stood up)"
+   }
+  },
+  {
+   "sid": "2eamet->amet",
+   "rid": "2eamet->amet",
+   "chunk": "c0",
+   "text": "2eamet -> amet",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "amet reads as ommet/2amet, not 2eemet (value of).",
+    "identity": "amet reads as أمة/قامت-like, not قيمة.",
+    "plausibility": "2eemet needs the ee vowel; amet is not typed for this word",
+    "register": "writes 'a' where Egyptian says long ee (2eema); not an Egyptian spelling of this word",
+    "skeptic": "amet reads as Cairene قامت (she got up) or عامت; also Latin amet."
+   },
+   "b_rejected_on": {
+    "skeptic": "casually pronounced like qamet (stood up) even without hamza"
+   }
+  },
+  {
+   "sid": "2eima->2ema",
+   "rid": "2eima->2ema",
+   "chunk": "c0",
+   "text": "2eima -> 2ema",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "2ema reads as قمة (summit) or إما (either), not قيمة.",
+    "skeptic": "2ema is a common spelling of قمة (summit) and إما (either)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2eima->ima",
+   "rid": "2eima->ima",
+   "chunk": "c0",
+   "text": "2eima -> ima",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "ima collides with imma (either); 'bit2adr ima el2ersh' loses 'value'.",
+    "identity": "ima reads as إما (either), not قيمة.",
+    "skeptic": "ima reads as إما (either); also a common name."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with ema/imma (either), a common word"
+   }
+  },
+  {
+   "sid": "2esay->2esi",
+   "rid": "2esay->2esi",
+   "chunk": "c0",
+   "text": "2esay -> 2esi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2esi reads like 2asi (harsh); the base noun is lost.",
+    "identity": "ay->i changes the word; 2esi reads like قاسي/قصي, not the base.",
+    "plausibility": "final ay/as vowel changed to i; 2esi is not a real spelling here",
+    "register": "collapses final ay to i, losing the long aa; not Egyptian pronunciation",
+    "skeptic": "2esi reads as Egyptian قِسي (became hard/harsh), a different word."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2etrain->2etran",
+   "rid": "2etrain->2etran",
+   "chunk": "c0",
+   "text": "2etrain -> 2etran",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2etran reads as 2etran (tar), not train.",
+    "identity": "2etran reads as قطران (tar); loses 'train'.",
+    "plausibility": "the ai diphthong of train is essential; 2etran is not a real spelling",
+    "register": "2etran reads as qatraan (tar); matches no Egyptian pronunciation of train/qatr",
+    "skeptic": "2etran reads like قطران (tar), a different word."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2etrain->etran",
+   "rid": "2etrain->etran",
+   "chunk": "c0",
+   "text": "2etrain -> etran",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "etran reads as 2atran (tar), not train.",
+    "identity": "etran loses the ai of 'train'; not recognisable as train.",
+    "plausibility": "the ai diphthong of train is essential; etran is not a real spelling",
+    "register": "etran reads as qatraan (tar); matches no Egyptian pronunciation of train/qatr",
+    "skeptic": "etran reads like قطران (tar) with the initial q-hamza dropped."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2ey->2i",
+   "rid": "2ey->2i",
+   "chunk": "c0",
+   "text": "2ey -> 2i",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "ey (pronounced ay) written as bare i is not a real spelling of ayy",
+    "register": "collapses Egyptian ey/ayy (any) to i; Egyptians do not write or say it so"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2ezay->2ezi",
+   "rid": "2ezay->2ezi",
+   "chunk": "c0",
+   "text": "2ezay -> 2ezi",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "2ezi reads as English 'easy' ('masha easy'); loses stressed -ay of ezzay.",
+    "plausibility": "final -ay of ezzay is essential; 2ezi is not how Egyptians write it",
+    "register": "ezay has long aa (ezzaay); ezi drops it, not Egyptian pronunciation"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2onlain->2onlaan",
+   "rid": "2onlain->2onlaan",
+   "chunk": "c0",
+   "text": "2onlain -> 2onlaan",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "2onlaan loses the ai of 'online'; not recognisable as online.",
+    "plausibility": "the ai diphthong of online is essential; 2onlaan is not a real spelling",
+    "register": "online is said onlayn in Egyptian; onlaan drops the diphthong"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "2onlain->2unlan",
+   "rid": "2onlain->2unlan",
+   "chunk": "c0",
+   "text": "2onlain -> 2unlan",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "Two changes with bare context; 2unlan no longer recognizable as 'online'.",
+    "identity": "2unlan loses the ai of 'online'; not recognisable as online.",
+    "plausibility": "the ai diphthong of online is essential; 2unlan is not a real spelling",
+    "register": "online is said onlayn in Egyptian; unlan drops the diphthong"
+   },
+   "b_rejected_on": {
+    "skeptic": "close to 2e3lan (announcement/ad), a different common word"
+   }
+  },
+  {
+   "sid": "32l->a2l",
+   "rid": "32l->a2l",
+   "chunk": "c0",
+   "text": "32l -> a2l",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2l collides with a2al (less): 'ma3 a2l mt2bl' misreads.",
+    "identity": "Vowel-less a2l is a common spelling of أقل (less), not عقل.",
+    "skeptic": "a2l is the very common Franco spelling of أقل (less)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with a2l/a2al (less), a very common word"
+   }
+  },
+  {
+   "sid": "32ol->a2ol",
+   "rid": "32ol->a2ol",
+   "chunk": "c0",
+   "text": "32ol -> a2ol",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2ol collides with a2ool (I say), not 3o2ool (minds).",
+    "identity": "a2ol is the standard spelling of أقول (I say), not عقول.",
+    "plausibility": "ع here carries o/u (3o2ool); writing a changes the vowel, not typed",
+    "skeptic": "a2ol is the standard Franco spelling of أقول (I say)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with a2ol/a2oul (I say), a common verb"
+   }
+  },
+  {
+   "sid": "32ol->a2ool",
+   "rid": "32ol->a2ool",
+   "chunk": "c0",
+   "text": "32ol -> a2ool",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2ool collides with a2ool (I say), not 3o2ool (minds).",
+    "identity": "a2ool reads as أقول (I say), not عقول.",
+    "plausibility": "ع here carries o/u (3o2ool); writing a changes the vowel, not typed",
+    "skeptic": "a2ool is the standard Franco spelling of أقول (I say)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, a2oul (I say) collision"
+   }
+  },
+  {
+   "sid": "32ol->a2ul",
+   "rid": "32ol->a2ul",
+   "chunk": "c0",
+   "text": "32ol -> a2ul",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "1/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2ul collides with a2ool (I say): 'la3b be a2ul elnas' breaks.",
+    "identity": "a2ul reads as أقول (I say), not عقول.",
+    "plausibility": "ع here carries o/u (3o2ool); writing a changes the vowel, not typed",
+    "skeptic": "a2ul reads as أقول (I say)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, standard spelling of a2oul (I say)"
+   }
+  },
+  {
+   "sid": "3a2ar->a2ar",
+   "rid": "3a2ar->a2ar",
+   "chunk": "c0",
+   "text": "3a2ar -> a2ar",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "identity": "a2ar is the spelling of أقرّ (approved/acknowledged), not عقار.",
+    "skeptic": "a2ar reads as أقرّ (approved/acknowledged), common in news Franco."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with a2ar/aqar (affirmed/approved), plausible in this register"
+   }
+  },
+  {
+   "sid": "3a2areb->a2areb",
+   "rid": "3a2areb->a2areb",
+   "chunk": "c0",
+   "text": "3a2areb -> a2areb",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2areb collides with a2areb (relatives): 'relatives of the clock'.",
+    "identity": "a2areb is the standard spelling of أقارب (relatives), not عقارب.",
+    "skeptic": "a2areb is the standard spelling of أقارب (relatives)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with a2areb/a2arib (relatives), a very common word"
+   }
+  },
+  {
+   "sid": "3a2eda->aa2da",
+   "rid": "3a2eda->aa2da",
+   "chunk": "c0",
+   "text": "3a2eda -> aa2da",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "aa2da reads as 3o2da (knot); 'ekhtlaf el 3a2eeda' (belief) is lost.",
+    "identity": "aa2da reads as عقدة (knot/complex), not عقيدة/عائدة.",
+    "skeptic": "aa2da reads as عاقدة (knitting/holding) or عقدة, not عقيدة/عائدة."
+   },
+   "b_rejected_on": {
+    "skeptic": "close to 2a3da/qaeda (rule/base), a very common word"
+   }
+  },
+  {
+   "sid": "3a2el->a2el",
+   "rid": "3a2el->a2el",
+   "chunk": "c0",
+   "text": "3a2el -> a2el",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "a2el collides with a2al (less): 'ragel a2el', 'yeb2a a2el' misread.",
+    "identity": "a2el reads as أقل (less), e.g. 'yeb2a a2el', not عاقل.",
+    "skeptic": "a2el reads as أقل (less; a2al/a2el), Franco vowels being fluid."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2el->aa2eel",
+   "rid": "3a2el->aa2eel",
+   "chunk": "c0",
+   "text": "3a2el -> aa2eel",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "aa2eel reads as 3a2eel (a name), not 3aa2el (sane/host).",
+    "skeptic": "aa2eel suggests the name عقيل (Aqeel), not عاقل/عائل."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2ela->aa2la",
+   "rid": "3a2ela->aa2la",
+   "chunk": "c0",
+   "text": "3a2ela -> aa2la",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "aa2la reads as 3a2la (wise, fem.), not 3a2ela (family).",
+    "identity": "aa2la reads as عاقلة (sane), not عائلة.",
+    "skeptic": "aa2la reads as عاقلة (sensible, fem.), a different word from عائلة."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2elya->a2elya",
+   "rid": "3a2elya->a2elya",
+   "chunk": "c0",
+   "text": "3a2elya -> a2elya",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "a2elya reads close to أقلية (minority), not عائلية.",
+    "skeptic": "a2elya reads close to أقلية (minority; a2alya), a different word."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2elya->aa2lya",
+   "rid": "3a2elya->aa2lya",
+   "chunk": "c0",
+   "text": "3a2elya -> aa2lya",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "aa2lya reads as 3a2liyya (mental); 'family comedy' becomes 'mental comedy'.",
+    "identity": "aa2lya reads as عقلية (mentality), not عائلية.",
+    "skeptic": "aa2lya reads as عقلية (mentality), not عائلية (familial)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2em->a2em",
+   "rid": "3a2em->a2em",
+   "chunk": "c0",
+   "text": "3a2em -> a2em",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "a2em reads as أقيم/أقم (I establish), not عقّم.",
+    "skeptic": "a2em reads as أقيم (I reside/establish), a different word."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2ema->a2ema",
+   "rid": "3a2ema->a2ema",
+   "chunk": "c0",
+   "text": "3a2ema -> a2ema",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2ema collides with a2emma (imams): 'farms of imams'.",
+    "identity": "a2ema reads as قائمة/إقامة with hamza dropped, not عائمة.",
+    "skeptic": "a2ema is a common spelling of أئمة (imams), a different word."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2eima/qeema (value), which appears elsewhere in dataset"
+   }
+  },
+  {
+   "sid": "3a2lia->3a2la",
+   "rid": "3a2lia->3a2la",
+   "chunk": "c0",
+   "text": "3a2lia -> 3a2la",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "Loses the nisba ending; 3a2la reads as 3a2la (wise) or 3a2laha.",
+    "identity": "3a2la reads as عاقلة (sane), not عائلية.",
+    "plausibility": "3a2leyya loses its y vowel; 3a2la is not typed for this word",
+    "register": "drops the ya of 3a2leyya ending; Egyptian pronunciation keeps -eyya",
+    "skeptic": "3a2la is عاقلة (sensible, fem.; Abu 3a2la), not عائلية/عقلية."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2lia->a2lia",
+   "rid": "3a2lia->a2lia",
+   "chunk": "c0",
+   "text": "3a2lia -> a2lia",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "a2lia collides with a2alliyya (minority): 'minority health'.",
+    "identity": "a2lia reads as أقلية (minority), not عائلية.",
+    "skeptic": "a2lia is a common spelling of أقلية (minority)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2ly->a2ly",
+   "rid": "3a2ly->a2ly",
+   "chunk": "c0",
+   "text": "3a2ly -> a2ly",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "identity": "a2ly reads as أقلي (I fry), not عقلي.",
+    "skeptic": "a2ly reads as أقلي (I fry) or Cairene قال لي (told me)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2lya->a2lya",
+   "rid": "3a2lya->a2lya",
+   "chunk": "c0",
+   "text": "3a2lya -> a2lya",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "a2lya collides with a2alliyya (minority): 'something minority-like'.",
+    "identity": "a2lya reads as أقلية (minority), not عائلية.",
+    "skeptic": "a2lya is a common spelling of أقلية (minority)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3a2rab->a2rab",
+   "rid": "3a2rab->a2rab",
+   "chunk": "c0",
+   "text": "3a2rab -> a2rab",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "a2rab collides with a2rab (closer): 'this insect is closer Australian'.",
+    "identity": "a2rab is the standard spelling of أقرب (closer), not عقرب.",
+    "skeptic": "a2rab is the standard spelling of أقرب (closer/nearest)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with a2rab (closer/nearer), a very common word"
+   }
+  },
+  {
+   "sid": "3aada->aaada",
+   "rid": "3aada->aaada",
+   "chunk": "c0",
+   "text": "3aada -> aaada",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "triple a is not a real spelling of 3aada",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3aada->aaadaa",
+   "rid": "3aada->aaadaa",
+   "chunk": "c0",
+   "text": "3aada -> aaadaa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "triple a is not a real spelling of 3aada",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3aalem->aaalim",
+   "rid": "3aalem->aaalim",
+   "chunk": "c0",
+   "text": "3aalem -> aaalim",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "aaalim shifts to 3aalim (scientist); 'oceans of the world' is lost.",
+    "plausibility": "triple a is not a real spelling of 3aalem",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3aaly->aaaly",
+   "rid": "3aaly->aaaly",
+   "chunk": "c0",
+   "text": "3aaly -> aaaly",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "triple a is not a real spelling of 3aaly",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3aam->aaaam",
+   "rid": "3aam->aaaam",
+   "chunk": "c0",
+   "text": "3aam -> aaaam",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "quadruple a is not a real spelling of 3aam",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3aama->aaama",
+   "rid": "3aama->aaama",
+   "chunk": "c0",
+   "text": "3aama -> aaama",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "plausibility": "triple a is not a real spelling of 3aama",
+    "register": "ع plus long aa written as three-plus a's; no Franco convention spells it this way"
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3ab->ab",
+   "rid": "3ab->ab",
+   "chunk": "c0",
+   "text": "3ab -> ab",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "'lal ab' reads as 'for the father': children need the father.",
+    "identity": "ab reads as أب (father) or English 'ab'.",
+    "skeptic": "ab is the standard spelling of أب (father)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3abar->aabar",
+   "rid": "3abar->aabar",
+   "chunk": "c0",
+   "text": "3abar -> aabar",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "After 'gaz', aabar reads as abaar (wells): 'gas and wells'.",
+    "skeptic": "aabar reads as آبار (wells), aa marking آ."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3abar->abar",
+   "rid": "3abar->abar",
+   "chunk": "c0",
+   "text": "3abar -> abar",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "abar reads as abaar (wells), not 3abar (crossed/expressed).",
+    "identity": "abar reads as آبار (wells), not عبر.",
+    "skeptic": "abar reads as آبار (wells)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3abed->abed",
+   "rid": "3abed->abed",
+   "chunk": "c0",
+   "text": "3abed -> abed",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "'el abed' reads as el-abad (eternity): 'labor of eternity'.",
+    "identity": "abed reads as أبد (forever) or English 'abed', not عبيد/عابد."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3abt->abt",
+   "rid": "3abt->abt",
+   "chunk": "c0",
+   "text": "3abt -> abt",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "3/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "abt reads as English 'abt' (about) or abat (refused).",
+    "skeptic": "abt is common English chat shorthand for about."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3ad->ad",
+   "rid": "3ad->ad",
+   "chunk": "c0",
+   "text": "3ad -> ad",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "'el ad' reads as 2ad or English 'ad', not 3ad (count).",
+    "identity": "ad is the English word 'ad'.",
+    "skeptic": "ad is the English word ad and Cairene قد (2ad, as much)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2ad/2add (common quantity word 'ad')"
+   }
+  },
+  {
+   "sid": "3ada2->ada2",
+   "rid": "3ada2->ada2",
+   "chunk": "c0",
+   "text": "3ada2 -> ada2",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "ada2 collides with ada2 (performance): 'performance of Islam' replaces 'enemies'.",
+    "identity": "ada2 is the standard spelling of أداء (performance), not عداء.",
+    "skeptic": "ada2 is the standard spelling of أداء (performance)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with 2ada2/adaa2 (performance), a common word"
+   }
+  },
+  {
+   "sid": "3adaa->adaa",
+   "rid": "3adaa->adaa",
+   "chunk": "c0",
+   "text": "3adaa -> adaa",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "adaa collides with adaa2 (performance), not 3adwa (infection).",
+    "identity": "adaa reads as أداء/أداة (performance/tool), not عدوى.",
+    "skeptic": "adaa reads as أداء (performance)."
+   },
+   "b_rejected_on": {
+    "skeptic": "same, adaa2 (performance) collision"
+   }
+  },
+  {
+   "sid": "3adaina->3adana",
+   "rid": "3adaina->3adana",
+   "chunk": "c0",
+   "text": "3adaina -> 3adana",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "-ana is the object suffix: 3adana reads 'passed us', not 'we passed'.",
+    "identity": "3adana reads as عدّانا (he passed us), not عدّينا (we passed).",
+    "plausibility": "3addeena loses its ee/ai vowel; 3adana is not typed for this word",
+    "register": "drops the long ee of 3addeena; Egyptian pronunciation keeps it",
+    "skeptic": "3adana reads as عادانا (he antagonized us), not عدّينا (we passed)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3adaina->aadana",
+   "rid": "3adaina->aadana",
+   "chunk": "c0",
+   "text": "3adaina -> aadana",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "0/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "-ana is the object suffix: aadana reads 'passed us', not 'we passed'.",
+    "identity": "aadana reads as عدّانا/عدنا, not عدّينا.",
+    "plausibility": "3addeena loses its ee/ai vowel; aadana is not typed for this word",
+    "register": "drops the long ee of 3addeena; Egyptian pronunciation keeps it",
+    "skeptic": "aadana reads as عادانا (he antagonized us), not عدّينا (we passed)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3adaina->adaina",
+   "rid": "3adaina->adaina",
+   "chunk": "c0",
+   "text": "3adaina -> adaina",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "adaina reads as addeina (we gave), not 3addeina (we passed).",
+    "identity": "adaina reads as أدّينا (we gave/paid), not عدّينا.",
+    "skeptic": "adaina reads as Egyptian أدينا (here we are)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3adala->adala",
+   "rid": "3adala->adala",
+   "chunk": "c0",
+   "text": "3adala -> adala",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "5/5",
+   "a_rejected_on": {
+    "coherence": "adala reads as adella (evidence): 'confirming the evidence'.",
+    "identity": "adala can read as أدلة (evidence), not عدالة.",
+    "skeptic": "adala reads close to أدلة (evidence; adella/adela)."
+   },
+   "b_rejected_on": {}
+  },
+  {
+   "sid": "3adam->adam",
+   "rid": "3adam->adam",
+   "chunk": "c0",
+   "text": "3adam -> adam",
+   "a_accept": false,
+   "b_accept": true,
+   "a_votes": "2/5",
+   "b_votes": "4/5",
+   "a_rejected_on": {
+    "coherence": "adam collides with Adam (the name): 'because of Adam of commitment'.",
+    "identity": "adam reads as آدم (Adam), not عدم.",
+    "skeptic": "adam is the name Adam (آدم)."
+   },
+   "b_rejected_on": {
+    "skeptic": "collides with adam/Adam (humankind), an extremely common word"
+   }
+  }
+ ]
+}

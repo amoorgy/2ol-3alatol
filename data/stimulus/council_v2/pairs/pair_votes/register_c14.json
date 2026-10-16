@@ -1,0 +1,1802 @@
+[
+{
+"sid": "alyia->alyah",
+"rid": "alyia->alyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "amerikey->ameriki",
+"rid": "amerikey->ameriki",
+"v": true,
+"why": ""
+},
+{
+"sid": "amerikia->amerika",
+"rid": "amerikia->amerika",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "amerikia->amerikaa",
+"rid": "amerikia->amerikaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "amerikia->amirika",
+"rid": "amerikia->amirika",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "amerkey->amerki",
+"rid": "amerkey->amerki",
+"v": true,
+"why": ""
+},
+{
+"sid": "ammonia->ammona",
+"rid": "ammonia->ammona",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "ammonia->ammuna",
+"rid": "ammonia->ammuna",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "amonia->amona",
+"rid": "amonia->amona",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "amonia->amuna",
+"rid": "amonia->amuna",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "amreekyia->amreekya",
+"rid": "amreekyia->amreekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekea->amreka",
+"rid": "amrekea->amreka",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "amrekea->amrika",
+"rid": "amrekea->amrika",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "amrekeia->amrekea",
+"rid": "amrekeia->amrekea",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekeia->amrekia",
+"rid": "amrekeia->amrekia",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekeia->amrekiaa",
+"rid": "amrekeia->amrekiaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekeia->amrikea",
+"rid": "amrekeia->amrikea",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekeia->amrikia",
+"rid": "amrekeia->amrikia",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekyia->amrekya",
+"rid": "amrekyia->amrekya",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekyia->amrekyaa",
+"rid": "amrekyia->amrekyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "amrekyia->amrikya",
+"rid": "amrekyia->amrikya",
+"v": true,
+"why": ""
+},
+{
+"sid": "anemia->anema",
+"rid": "anemia->anema",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "anemia->anemaa",
+"rid": "anemia->anemaa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "animation->anematon",
+"rid": "animation->anematon",
+"v": false,
+"why": "'-ton' fits neither English spelling nor Egyptian pronunciation (-shon) of animation."
+},
+{
+"sid": "animation->animaton",
+"rid": "animation->animaton",
+"v": false,
+"why": "'-ton' fits neither English spelling nor Egyptian pronunciation (-shon) of animation."
+},
+{
+"sid": "animation->animatoon",
+"rid": "animation->animatoon",
+"v": false,
+"why": "'-ton' fits neither English spelling nor Egyptian pronunciation (-shon) of animation."
+},
+{
+"sid": "animation->animatun",
+"rid": "animation->animatun",
+"v": false,
+"why": "'-ton' fits neither English spelling nor Egyptian pronunciation (-shon) of animation."
+},
+{
+"sid": "ardia->arda",
+"rid": "ardia->arda",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "ardia->ardaa",
+"rid": "ardia->ardaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "artia7->arta7",
+"rid": "artia7->arta7",
+"v": false,
+"why": "Irtiya7 keeps its y in Egyptian (ertya7); dropping it gives irtaa7, not this word's pronunciation."
+},
+{
+"sid": "artia7->artah",
+"rid": "artia7->artah",
+"v": false,
+"why": "Irtiya7 keeps its y in Egyptian (ertya7); dropping it gives irtaa7, not this word's pronunciation."
+},
+{
+"sid": "asasia->asasa",
+"rid": "asasia->asasa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "asasia->asasaa",
+"rid": "asasia->asasaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "asasyia->asasya",
+"rid": "asasyia->asasya",
+"v": true,
+"why": ""
+},
+{
+"sid": "asasyia->asasyaa",
+"rid": "asasyia->asasyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "asasyia->asasyah",
+"rid": "asasyia->asasyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "asia->asa",
+"rid": "asia->asa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "asia->asaa",
+"rid": "asia->asaa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "aslia->asla",
+"rid": "aslia->asla",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "aslia->aslaa",
+"rid": "aslia->aslaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "aslia->aslah",
+"rid": "aslia->aslah",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "aw3ia->aw3a",
+"rid": "aw3ia->aw3a",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "aw3ia->aw3aa",
+"rid": "aw3ia->aw3aa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "awael->awal",
+"rid": "awael->awal",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "awail->awal",
+"rid": "awail->awal",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "away->awi",
+"rid": "away->awi",
+"v": false,
+"why": "English 'away' (in English text) respelled as Egyptian 'awi'; not a Franco rendering of it."
+},
+{
+"sid": "awlombiad->awlombaad",
+"rid": "awlombiad->awlombaad",
+"v": false,
+"why": "Olombyad keeps its y in Egyptian; dropping it follows no pronunciation or convention."
+},
+{
+"sid": "awlombiad->awlombad",
+"rid": "awlombiad->awlombad",
+"v": false,
+"why": "Olombyad keeps its y in Egyptian; dropping it follows no pronunciation or convention."
+},
+{
+"sid": "awlombiad->oolombad",
+"rid": "awlombiad->oolombad",
+"v": false,
+"why": "Olombyad keeps its y in Egyptian; dropping it follows no pronunciation or convention."
+},
+{
+"sid": "awrasia->awrasa",
+"rid": "awrasia->awrasa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "awrobey->awrobi",
+"rid": "awrobey->awrobi",
+"v": true,
+"why": ""
+},
+{
+"sid": "aydean->aydan",
+"rid": "aydean->aydan",
+"v": true,
+"why": ""
+},
+{
+"sid": "aydean->eidan",
+"rid": "aydean->eidan",
+"v": true,
+"why": ""
+},
+{
+"sid": "b2oliat->b2olaat",
+"rid": "b2oliat->b2olaat",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "b2oliat->b2olat",
+"rid": "b2oliat->b2olat",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "b2oliat->b2ulat",
+"rid": "b2oliat->b2ulat",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "b7aira->b7ara",
+"rid": "b7aira->b7ara",
+"v": false,
+"why": "Bo7eera has Egyptian long ee; ai->a loses it (reads b7ara, sailors)."
+},
+{
+"sid": "b7aira->b7araa",
+"rid": "b7aira->b7araa",
+"v": false,
+"why": "Bo7eera has Egyptian long ee; ai->a loses it (reads b7ara, sailors)."
+},
+{
+"sid": "b7aira->bhara",
+"rid": "b7aira->bhara",
+"v": false,
+"why": "Bo7eera has Egyptian long ee; ai->a loses it (reads b7ara, sailors)."
+},
+{
+"sid": "b7ayrat->b7irat",
+"rid": "b7ayrat->b7irat",
+"v": true,
+"why": ""
+},
+{
+"sid": "b7eirat->b7erat",
+"rid": "b7eirat->b7erat",
+"v": true,
+"why": ""
+},
+{
+"sid": "b7eirat->b7irat",
+"rid": "b7eirat->b7irat",
+"v": true,
+"why": ""
+},
+{
+"sid": "b7eirat->bhirat",
+"rid": "b7eirat->bhirat",
+"v": true,
+"why": ""
+},
+{
+"sid": "ba2ey->ba2i",
+"rid": "ba2ey->ba2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "bahria->bahra",
+"rid": "bahria->bahra",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "baida->bada",
+"rid": "baida->bada",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "baida->badaa",
+"rid": "baida->badaa",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bain->baan",
+"rid": "bain->baan",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "baina->bana",
+"rid": "baina->bana",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "baina->banaa",
+"rid": "baina->banaa",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "baina->banah",
+"rid": "baina->banah",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "baini->banii",
+"rid": "baini->banii",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bait->baat",
+"rid": "bait->baat",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bait->bat",
+"rid": "bait->bat",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bakteeria->bakteera",
+"rid": "bakteeria->bakteera",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "bakteeria->baktera",
+"rid": "bakteeria->baktera",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "bakterei->bakteri",
+"rid": "bakterei->bakteri",
+"v": true,
+"why": ""
+},
+{
+"sid": "bakterei->bakterii",
+"rid": "bakterei->bakterii",
+"v": true,
+"why": ""
+},
+{
+"sid": "bakterei->baktiri",
+"rid": "bakterei->baktiri",
+"v": true,
+"why": ""
+},
+{
+"sid": "baktereia->bakterea",
+"rid": "baktereia->bakterea",
+"v": true,
+"why": ""
+},
+{
+"sid": "baktereia->bakteria",
+"rid": "baktereia->bakteria",
+"v": true,
+"why": ""
+},
+{
+"sid": "baktereia->baktirea",
+"rid": "baktereia->baktirea",
+"v": true,
+"why": ""
+},
+{
+"sid": "baktereia->baktiria",
+"rid": "baktereia->baktiria",
+"v": true,
+"why": ""
+},
+{
+"sid": "bakteria->baktera",
+"rid": "bakteria->baktera",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "bakteria->bakteraa",
+"rid": "bakteria->bakteraa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "bakteria->baktira",
+"rid": "bakteria->baktira",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "baktiria->baktera",
+"rid": "baktiria->baktera",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "baktiria->baktira",
+"rid": "baktiria->baktira",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "baladein->baladen",
+"rid": "baladein->baladen",
+"v": true,
+"why": ""
+},
+{
+"sid": "baladein->baladin",
+"rid": "baladein->baladin",
+"v": true,
+"why": ""
+},
+{
+"sid": "baley->bali",
+"rid": "baley->bali",
+"v": false,
+"why": "Ballet is 'baleh' in Egyptian; the -i ending reflects no Egyptian pronunciation."
+},
+{
+"sid": "baria->baraa",
+"rid": "baria->baraa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "basaria->basara",
+"rid": "basaria->basara",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "basaria->basaraa",
+"rid": "basaria->basaraa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "basharia->bashara",
+"rid": "basharia->bashara",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "basharia->basharaa",
+"rid": "basharia->basharaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "batania->batana",
+"rid": "batania->batana",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "batania->batanaa",
+"rid": "batania->batanaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bay2y->bi2y",
+"rid": "bay2y->bi2y",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayania->bayana",
+"rid": "bayania->bayana",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bayania->bayanaa",
+"rid": "bayania->bayanaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bayania->bayanah",
+"rid": "bayania->bayanah",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bayda->bida",
+"rid": "bayda->bida",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayda2->bida2",
+"rid": "bayda2->bida2",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayn->bin",
+"rid": "bayn->bin",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayna->bina",
+"rid": "bayna->bina",
+"v": true,
+"why": ""
+},
+{
+"sid": "baynakom->binakom",
+"rid": "baynakom->binakom",
+"v": true,
+"why": ""
+},
+{
+"sid": "baytareen->bitareen",
+"rid": "baytareen->bitareen",
+"v": true,
+"why": ""
+},
+{
+"sid": "baytary->bitary",
+"rid": "baytary->bitary",
+"v": true,
+"why": ""
+},
+{
+"sid": "baytarya->bitarya",
+"rid": "baytarya->bitarya",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayty->bity",
+"rid": "bayty->bity",
+"v": true,
+"why": ""
+},
+{
+"sid": "bayyan->biyan",
+"rid": "bayyan->biyan",
+"v": true,
+"why": ""
+},
+{
+"sid": "bday3->bdi3",
+"rid": "bday3->bdi3",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "bdayt->bdit",
+"rid": "bdayt->bdit",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "bdayya->bdiya",
+"rid": "bdayya->bdiya",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "be2ey->be2i",
+"rid": "be2ey->be2i",
+"v": true,
+"why": ""
+},
+{
+"sid": "be2ia->be2a",
+"rid": "be2ia->be2a",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "be2ia->be2ah",
+"rid": "be2ia->be2ah",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "be2ia->bi2a",
+"rid": "be2ia->bi2a",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bedael->bedaal",
+"rid": "bedael->bedaal",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "bedael->bedal",
+"rid": "bedael->bedal",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "bedael->bidal",
+"rid": "bedael->bidal",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "bedaia->bedaa",
+"rid": "bedaia->bedaa",
+"v": false,
+"why": "Bedaya keeps its y in Egyptian; bedaa drops it, no convention fits."
+},
+{
+"sid": "beeedak->biedak",
+"rid": "beeedak->biedak",
+"v": true,
+"why": ""
+},
+{
+"sid": "beianat->beanaat",
+"rid": "beianat->beanaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "beianat->beanat",
+"rid": "beianat->beanat",
+"v": true,
+"why": ""
+},
+{
+"sid": "beianat->bianaat",
+"rid": "beianat->bianaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "beianat->bianat",
+"rid": "beianat->bianat",
+"v": true,
+"why": ""
+},
+{
+"sid": "beid->bed",
+"rid": "beid->bed",
+"v": true,
+"why": ""
+},
+{
+"sid": "beid->bid",
+"rid": "beid->bid",
+"v": true,
+"why": ""
+},
+{
+"sid": "beida->beda",
+"rid": "beida->beda",
+"v": true,
+"why": ""
+},
+{
+"sid": "beida->bedaa",
+"rid": "beida->bedaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "beida->bida",
+"rid": "beida->bida",
+"v": true,
+"why": ""
+},
+{
+"sid": "beida->bidaa",
+"rid": "beida->bidaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "beih->beh",
+"rid": "beih->beh",
+"v": true,
+"why": ""
+},
+{
+"sid": "beih->bih",
+"rid": "beih->bih",
+"v": true,
+"why": ""
+},
+{
+"sid": "beik->bek",
+"rid": "beik->bek",
+"v": true,
+"why": ""
+},
+{
+"sid": "beik->biik",
+"rid": "beik->biik",
+"v": true,
+"why": ""
+},
+{
+"sid": "beik->bik",
+"rid": "beik->bik",
+"v": true,
+"why": ""
+},
+{
+"sid": "bein->biin",
+"rid": "bein->biin",
+"v": false,
+"why": "Only example is the brand beIN; respelling a brand name follows no Franco convention."
+},
+{
+"sid": "bein->bin",
+"rid": "bein->bin",
+"v": true,
+"why": ""
+},
+{
+"sid": "beina->bena",
+"rid": "beina->bena",
+"v": true,
+"why": ""
+},
+{
+"sid": "beina->benaa",
+"rid": "beina->benaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "beina->benah",
+"rid": "beina->benah",
+"v": true,
+"why": ""
+},
+{
+"sid": "beina->bina",
+"rid": "beina->bina",
+"v": true,
+"why": ""
+},
+{
+"sid": "beina->binaa",
+"rid": "beina->binaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinma->benma",
+"rid": "beinma->benma",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinma->binma",
+"rid": "beinma->binma",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinma->binmaa",
+"rid": "beinma->binmaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinohom->binohom",
+"rid": "beinohom->binohom",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinohom->binohoom",
+"rid": "beinohom->binohoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "beinohom->binuhom",
+"rid": "beinohom->binuhom",
+"v": true,
+"why": ""
+},
+{
+"sid": "beir->ber",
+"rid": "beir->ber",
+"v": true,
+"why": ""
+},
+{
+"sid": "beir->bir",
+"rid": "beir->bir",
+"v": true,
+"why": ""
+},
+{
+"sid": "beit->bet",
+"rid": "beit->bet",
+"v": true,
+"why": ""
+},
+{
+"sid": "beit->biit",
+"rid": "beit->biit",
+"v": true,
+"why": ""
+},
+{
+"sid": "beit->bit",
+"rid": "beit->bit",
+"v": true,
+"why": ""
+},
+{
+"sid": "beitak->betak",
+"rid": "beitak->betak",
+"v": true,
+"why": ""
+},
+{
+"sid": "beitak->bitak",
+"rid": "beitak->bitak",
+"v": true,
+"why": ""
+},
+{
+"sid": "beiti->beti",
+"rid": "beiti->beti",
+"v": true,
+"why": ""
+},
+{
+"sid": "beiti->betii",
+"rid": "beiti->betii",
+"v": true,
+"why": ""
+},
+{
+"sid": "beiti->bety",
+"rid": "beiti->bety",
+"v": true,
+"why": ""
+},
+{
+"sid": "beiti->bite",
+"rid": "beiti->bite",
+"v": true,
+"why": ""
+},
+{
+"sid": "beiti->biti",
+"rid": "beiti->biti",
+"v": true,
+"why": ""
+},
+{
+"sid": "beitna->betna",
+"rid": "beitna->betna",
+"v": true,
+"why": ""
+},
+{
+"sid": "beitna->bitna",
+"rid": "beitna->bitna",
+"v": true,
+"why": ""
+},
+{
+"sid": "beito->beto",
+"rid": "beito->beto",
+"v": true,
+"why": ""
+},
+{
+"sid": "beito->bito",
+"rid": "beito->bito",
+"v": true,
+"why": ""
+},
+{
+"sid": "beity->bety",
+"rid": "beity->bety",
+"v": true,
+"why": ""
+},
+{
+"sid": "beity->biti",
+"rid": "beity->biti",
+"v": true,
+"why": ""
+},
+{
+"sid": "beity->bity",
+"rid": "beity->bity",
+"v": true,
+"why": ""
+},
+{
+"sid": "bekhair->be5ar",
+"rid": "bekhair->be5ar",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bektier->bekteer",
+"rid": "bektier->bekteer",
+"v": true,
+"why": ""
+},
+{
+"sid": "bektier->bekter",
+"rid": "bektier->bekter",
+"v": true,
+"why": ""
+},
+{
+"sid": "bektier->bektir",
+"rid": "bektier->bektir",
+"v": true,
+"why": ""
+},
+{
+"sid": "bektier->biktir",
+"rid": "bektier->biktir",
+"v": true,
+"why": ""
+},
+{
+"sid": "belleil->belel",
+"rid": "belleil->belel",
+"v": true,
+"why": ""
+},
+{
+"sid": "belleil->bellel",
+"rid": "belleil->bellel",
+"v": true,
+"why": ""
+},
+{
+"sid": "belleil->bellil",
+"rid": "belleil->bellil",
+"v": true,
+"why": ""
+},
+{
+"sid": "benzain->benzan",
+"rid": "benzain->benzan",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "benzain->binzan",
+"rid": "benzain->binzan",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "beria->bera",
+"rid": "beria->bera",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "beria->bira",
+"rid": "beria->bira",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bet2odey->bet2odi",
+"rid": "bet2odey->bet2odi",
+"v": true,
+"why": ""
+},
+{
+"sid": "bet7mey->bet7mi",
+"rid": "bet7mey->bet7mi",
+"v": true,
+"why": ""
+},
+{
+"sid": "betbein->betben",
+"rid": "betbein->betben",
+"v": false,
+"why": "Egyptian 'betbayyen' (shows) has geminate yy; betbin/betben is Levantine-like 'appears'."
+},
+{
+"sid": "betbein->betbin",
+"rid": "betbein->betbin",
+"v": false,
+"why": "Egyptian 'betbayyen' (shows) has geminate yy; betbin/betben is Levantine-like 'appears'."
+},
+{
+"sid": "betbein->bitben",
+"rid": "betbein->bitben",
+"v": false,
+"why": "Egyptian 'betbayyen' (shows) has geminate yy; betbin/betben is Levantine-like 'appears'."
+},
+{
+"sid": "betbein->bitbin",
+"rid": "betbein->bitbin",
+"v": false,
+"why": "Egyptian 'betbayyen' (shows) has geminate yy; betbin/betben is Levantine-like 'appears'."
+},
+{
+"sid": "betday2->betdi2",
+"rid": "betday2->betdi2",
+"v": true,
+"why": ""
+},
+{
+"sid": "beteknologia->beteknologa",
+"rid": "beteknologia->beteknologa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "beteknologia->beteknoluga",
+"rid": "beteknologia->beteknoluga",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "beteknologia->betiknologa",
+"rid": "beteknologia->betiknologa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "beteknologia->biteknologa",
+"rid": "beteknologia->biteknologa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "betfaid->betfad",
+"rid": "betfaid->betfad",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "betfaid->bitfad",
+"rid": "betfaid->bitfad",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "bey3aysho->bey3isho",
+"rid": "bey3aysho->bey3isho",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "billion->bellon",
+"rid": "billion->bellon",
+"v": false,
+"why": "Egyptian says belyon/bilyoon; dropping the y glide reflects no Egyptian pronunciation."
+},
+{
+"sid": "billion->billon",
+"rid": "billion->billon",
+"v": false,
+"why": "Egyptian says belyon/bilyoon; dropping the y glide reflects no Egyptian pronunciation."
+},
+{
+"sid": "billion->billun",
+"rid": "billion->billun",
+"v": false,
+"why": "Egyptian says belyon/bilyoon; dropping the y glide reflects no Egyptian pronunciation."
+},
+{
+"sid": "billion->bilon",
+"rid": "billion->bilon",
+"v": false,
+"why": "Egyptian says belyon/bilyoon; dropping the y glide reflects no Egyptian pronunciation."
+},
+{
+"sid": "bio->bo",
+"rid": "bio->bo",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "bio->bu",
+"rid": "bio->bu",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biolegy->bolegy",
+"rid": "biolegy->bolegy",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biolegy->bulegy",
+"rid": "biolegy->bulegy",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "bioleogy->biologi",
+"rid": "bioleogy->biologi",
+"v": true,
+"why": ""
+},
+{
+"sid": "bioleogy->biology",
+"rid": "bioleogy->biology",
+"v": true,
+"why": ""
+},
+{
+"sid": "bioleogy->biolugy",
+"rid": "bioleogy->biolugy",
+"v": true,
+"why": ""
+},
+{
+"sid": "bioleogy->boleogy",
+"rid": "bioleogy->boleogy",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "bioleogy->buleogy",
+"rid": "bioleogy->buleogy",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologee->bologe",
+"rid": "biologee->bologe",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologee->bologei",
+"rid": "biologee->bologei",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologee->bolugee",
+"rid": "biologee->bolugee",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologee->bulogee",
+"rid": "biologee->bulogee",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologya->bologya",
+"rid": "biologya->bologya",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologya->bologyaa",
+"rid": "biologya->bologyaa",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologya->bolugya",
+"rid": "biologya->bolugya",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biologya->bulogya",
+"rid": "biologya->bulogya",
+"v": false,
+"why": "Drops the i of bio-; Egyptians say bayo/bio, 'bo-' reflects no pronunciation."
+},
+{
+"sid": "biskoit->beskot",
+"rid": "biskoit->beskot",
+"v": false,
+"why": "biskot/baskot is Levantine/Gulf; Egyptian says baskaweet, the dropped vowel is the stressed ee."
+},
+{
+"sid": "biskoit->biskoot",
+"rid": "biskoit->biskoot",
+"v": false,
+"why": "biskot/baskot is Levantine/Gulf; Egyptian says baskaweet, the dropped vowel is the stressed ee."
+},
+{
+"sid": "biskoit->biskot",
+"rid": "biskoit->biskot",
+"v": false,
+"why": "biskot/baskot is Levantine/Gulf; Egyptian says baskaweet, the dropped vowel is the stressed ee."
+},
+{
+"sid": "biskoit->biskut",
+"rid": "biskoit->biskut",
+"v": false,
+"why": "biskot/baskot is Levantine/Gulf; Egyptian says baskaweet, the dropped vowel is the stressed ee."
+},
+{
+"sid": "blues->blos",
+"rid": "blues->blos",
+"v": true,
+"why": ""
+},
+{
+"sid": "blues->blus",
+"rid": "blues->blus",
+"v": true,
+"why": ""
+},
+{
+"sid": "boley->boli",
+"rid": "boley->boli",
+"v": true,
+"why": ""
+},
+{
+"sid": "brail->braal",
+"rid": "brail->braal",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "brail->bral",
+"rid": "brail->bral",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "brayd->brid",
+"rid": "brayd->brid",
+"v": true,
+"why": ""
+},
+{
+"sid": "break->braak",
+"rid": "break->braak",
+"v": false,
+"why": "Egyptians say 'brek' for break; brak/braak matches no Egyptian pronunciation."
+},
+{
+"sid": "break->brak",
+"rid": "break->brak",
+"v": false,
+"why": "Egyptians say 'brek' for break; brak/braak matches no Egyptian pronunciation."
+},
+{
+"sid": "bretania->bretana",
+"rid": "bretania->bretana",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bretania->bretanaa",
+"rid": "bretania->bretanaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bretania->britana",
+"rid": "bretania->britana",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bria->bra",
+"rid": "bria->bra",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bria->braa",
+"rid": "bria->braa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "bria->brah",
+"rid": "bria->brah",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "britania->bretana",
+"rid": "britania->bretana",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "britania->britana",
+"rid": "britania->britana",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "britania->britanaa",
+"rid": "britania->britanaa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "britanyia->bretanya",
+"rid": "britanyia->bretanya",
+"v": true,
+"why": ""
+},
+{
+"sid": "britanyia->britanya",
+"rid": "britanyia->britanya",
+"v": true,
+"why": ""
+},
+{
+"sid": "britanyia->britanyaa",
+"rid": "britanyia->britanyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "britanyia->britanyah",
+"rid": "britanyia->britanyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "briterania->breterana",
+"rid": "briterania->breterana",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "briterania->briterana",
+"rid": "briterania->briterana",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "briterania->britirana",
+"rid": "briterania->britirana",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "brotein->broten",
+"rid": "brotein->broten",
+"v": true,
+"why": ""
+},
+{
+"sid": "brotein->brotin",
+"rid": "brotein->brotin",
+"v": true,
+"why": ""
+},
+{
+"sid": "brotein->bruten",
+"rid": "brotein->bruten",
+"v": true,
+"why": ""
+},
+{
+"sid": "brotein->brutin",
+"rid": "brotein->brutin",
+"v": true,
+"why": ""
+},
+{
+"sid": "broteinat->brotenat",
+"rid": "broteinat->brotenat",
+"v": true,
+"why": ""
+},
+{
+"sid": "broteinat->brotinaat",
+"rid": "broteinat->brotinaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "broteinat->brotinat",
+"rid": "broteinat->brotinat",
+"v": true,
+"why": ""
+},
+{
+"sid": "bulgaria->bolgara",
+"rid": "bulgaria->bolgara",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "bulgaria->bulgaraa",
+"rid": "bulgaria->bulgaraa",
+"v": false,
+"why": "Drops the y glide of the loanword ending; Egyptians say -ya, no convention writes -a."
+},
+{
+"sid": "byea->bya",
+"rid": "byea->bya",
+"v": false,
+"why": "Erases the e/hamza of bee2a; bya reflects no Egyptian pronunciation of this word."
+},
+{
+"sid": "byea->byaa",
+"rid": "byea->byaa",
+"v": false,
+"why": "Erases the e/hamza of bee2a; bya reflects no Egyptian pronunciation of this word."
+},
+{
+"sid": "byeat->byaat",
+"rid": "byeat->byaat",
+"v": false,
+"why": "Erases the e/hamza of bee2a; bya reflects no Egyptian pronunciation of this word."
+},
+{
+"sid": "byeat->byat",
+"rid": "byeat->byat",
+"v": false,
+"why": "Erases the e/hamza of bee2a; bya reflects no Egyptian pronunciation of this word."
+},
+{
+"sid": "byodey->byodi",
+"rid": "byodey->byodi",
+"v": true,
+"why": ""
+},
+{
+"sid": "da2ae2->da2a2",
+"rid": "da2ae2->da2a2",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "da2ae2->da2aa2",
+"rid": "da2ae2->da2aa2",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "da2aeq->da2aaq",
+"rid": "da2aeq->da2aaq",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "da2aeq->da2aq",
+"rid": "da2aeq->da2aq",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "da2ay2->da2i2",
+"rid": "da2ay2->da2i2",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "daema->dama",
+"rid": "daema->dama",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "daema->damaa",
+"rid": "daema->damaa",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "daeman->damaan",
+"rid": "daeman->damaan",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "daeman->daman",
+"rid": "daeman->daman",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "daif->daaf",
+"rid": "daif->daaf",
+"v": false,
+"why": "Writes the ee/ay vowel as plain a; Egyptian monophthong is e/i, not a."
+},
+{
+"sid": "daif->daf",
+"rid": "daif->daf",
+"v": false,
+"why": "Here daif is Dayyef (hosted), geminate y; daf drops it entirely."
+},
+{
+"sid": "daiman->damaan",
+"rid": "daiman->damaan",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "daiman->daman",
+"rid": "daiman->daman",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "dakhelia->da5ela",
+"rid": "dakhelia->da5ela",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "dakhelia->dakhela",
+"rid": "dakhelia->dakhela",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "dakhelia->dakhila",
+"rid": "dakhelia->dakhila",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "damoeya->damoya",
+"rid": "damoeya->damoya",
+"v": true,
+"why": ""
+},
+{
+"sid": "damoeya->damoyaa",
+"rid": "damoeya->damoyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "damoeya->damuya",
+"rid": "damoeya->damuya",
+"v": true,
+"why": ""
+},
+{
+"sid": "damwia->damwa",
+"rid": "damwia->damwa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "damwia->damwaa",
+"rid": "damwia->damwaa",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "danial->danaal",
+"rid": "danial->danaal",
+"v": false,
+"why": "Daniel is danyal/daniel in Egyptian; danal drops the y glide, no convention fits."
+},
+{
+"sid": "danial->danal",
+"rid": "danial->danal",
+"v": false,
+"why": "Daniel is danyal/daniel in Egyptian; danal drops the y glide, no convention fits."
+},
+{
+"sid": "daroria->darora",
+"rid": "daroria->darora",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "daroria->darura",
+"rid": "daroria->darura",
+"v": false,
+"why": "Drops the -eyya/-ya ending; Egyptian pronunciation keeps the y, no Franco convention writes it -a."
+},
+{
+"sid": "darsey->darsi",
+"rid": "darsey->darsi",
+"v": true,
+"why": ""
+},
+{
+"sid": "dawair->dawaar",
+"rid": "dawair->dawaar",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "dawair->dawar",
+"rid": "dawair->dawar",
+"v": false,
+"why": "Erases the hamza/e syllable; Egyptian pronounces it (e.g. -aye-, -a2e-), so no convention fits."
+},
+{
+"sid": "day2->di2",
+"rid": "day2->di2",
+"v": true,
+"why": ""
+},
+{
+"sid": "day2a->di2a",
+"rid": "day2a->di2a",
+"v": false,
+"why": "Egyptian form has geminate yy, not a diphthong; the monophthong drops it."
+},
+{
+"sid": "day3->di3",
+"rid": "day3->di3",
+"v": false,
+"why": "Egyptian form has geminate yy, not a diphthong; the monophthong drops it."
+},
+{
+"sid": "day3a->di3a",
+"rid": "day3a->di3a",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "day5el->di5el",
+"rid": "day5el->di5el",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "daylo->dilo",
+"rid": "daylo->dilo",
+"v": true,
+"why": ""
+},
+{
+"sid": "dayma->dima",
+"rid": "dayma->dima",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "dayman->diman",
+"rid": "dayman->diman",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "dayr->dir",
+"rid": "dayr->dir",
+"v": true,
+"why": ""
+},
+{
+"sid": "dayra->dira",
+"rid": "dayra->dira",
+"v": false,
+"why": "Base has long aa before y; dropping it loses the long vowel, not Egyptian pronunciation."
+},
+{
+"sid": "days->dis",
+"rid": "days->dis",
+"v": false,
+"why": "English 'days' respelled as 'dis'; matches neither English spelling nor Egyptian pronunciation."
+},
+{
+"sid": "deana->dana",
+"rid": "deana->dana",
+"v": false,
+"why": "Deyaana keeps its y in Egyptian; dana drops it, no convention fits."
+}
+]

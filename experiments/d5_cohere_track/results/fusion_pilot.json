@@ -1,0 +1,247 @@
+{
+ "description": "Dataset B FusioN 3-arm pilot: same 5 teacher drafts, different fusor model, per anchor. Pilot scale (n=20 anchors) before the full 50/anchor run.",
+ "paper_reference": "arXiv:2510.00931, Making, not Taking, the Best of N -- N=5 teacher drafts at tau=0.3 matches the paper's own synthetic-data-generation setting",
+ "n_anchors_attempted": 20,
+ "anchor_source": "data/stimulus/nilechat/trap_votes.tsv (confirmed-trap pairs, first 20 in file order)",
+ "teachers": [
+  "aya-expanse:8b",
+  "gemma4:e2b",
+  "llama3.1:8b",
+  "jwnder/jais-adaptive:7b",
+  "nemotron-3-nano:30b"
+ ],
+ "seeds": {
+  "teacher_temp": 0.3,
+  "fusor_temp": 0.3,
+  "seed": 13
+ },
+ "arms": {
+  "zai:glm-5.3": {
+   "scale": "frontier cloud-scale (Z.AI GLM Coding Plan, dedicated endpoint)",
+   "note": "substituted for glm-5.2:cloud after the Ollama-routed cloud arm required a subscription upgrade this account doesn't have. glm-5.3 has mandatory reasoning that cannot be disabled -- num_ctx padded and reasoning_effort=low set to keep the reasoning trace short enough to leave room for an actual answer.",
+   "gate_passed": 15,
+   "gate_pass_rate": 0.75,
+   "gate_rejected_reasons": {
+    "gated_out": 5
+   },
+   "council_lenses_agreeing_natural_ge4_of_5": 14,
+   "council_naturalness_rate_of_gate_passed": 0.933,
+   "end_to_end_usable_of_20_attempted": 14,
+   "end_to_end_yield": 0.7
+  },
+  "command-r:35b": {
+   "scale_b": 35,
+   "note": "substituted for the placeholder falcon-h1-arabic-34b (not a real Ollama tag); ~35B, natively hosted on Ollama's registry",
+   "gate_passed": 11,
+   "gate_pass_rate": 0.55,
+   "gate_rejected_reasons": {
+    "gated_out": 9
+   },
+   "council_lenses_agreeing_natural_ge4_of_5": 4,
+   "council_naturalness_rate_of_gate_passed": 0.364,
+   "end_to_end_usable_of_20_attempted": 4,
+   "end_to_end_yield": 0.2
+  },
+  "qwen3.8:27b-mlx": {
+   "scale_b": 27,
+   "gate_passed": 15,
+   "gate_pass_rate": 0.75,
+   "gate_rejected_reasons": {
+    "gated_out": 5
+   },
+   "council_lenses_agreeing_natural_ge4_of_5": 2,
+   "council_naturalness_rate_of_gate_passed": 0.133,
+   "end_to_end_usable_of_20_attempted": 2,
+   "end_to_end_yield": 0.1
+  }
+ },
+ "council_method": {
+  "design": "blind naturalness review -- each candidate sentence relabeled Arm A/B/C (private key withheld from judges), 5 independent judge lenses each reviewing the full blinded chunk, >=4/5 agreement = natural (same bar as Dataset A's 5-lens council)",
+  "lenses": [
+   "fluency",
+   "anchor_fidelity",
+   "degeneracy",
+   "coherence",
+   "register"
+  ],
+  "n_candidate_sentences_judged": 41,
+  "n_anchors_with_candidates_from_multiple_arms": 21,
+  "chunk_file": "/tmp/council_fb_chunks/c0.json (ephemeral, not committed)",
+  "arm_key_file": "data/generated/fusion_pilot/arm_key.json (gitignored, private -- not shown to judges)"
+ },
+ "key_finding": "zai:glm-5.3 (frontier cloud-scale) overwhelmingly outperformed both local fusors -- 93.3% naturalness among gate-passed candidates vs 36.4% (command-r:35b) and 13.3% (qwen3.8:27b-mlx), and 70% end-to-end yield vs 20% and 10%. Naturalness rate tracks fusor scale monotonically across all three arms (27B < 35B < frontier), a clean replication of the FusioN paper's own scale ablation (bigger fusor -> better fusion quality) -- and a much larger effect size than the two-local-arm comparison alone suggested.",
+ "observed_failure_mode": "qwen3.8:27b-mlx repeatedly produced repetition-loop degeneracy (the same 2-4 word phrase repeated 3-4 times) that passed all mechanical gates (length/anchor/language checks) but was caught by every naturalness lens -- gates alone are not sufficient quality signal.",
+ "bugs_fixed_during_this_run": [
+  "build_dataset_b.py's anchors_from_traps() read the wrong TSV column names (gloss_word/gloss_trap) and always got empty glosses; fixed to meaning_en_word/meaning_en_trap",
+  "model_clients.GenConfig had no num_ctx override; command-r:35b's Ollama package defaults to a 131072-token context window, and allocating that KV cache for an 80-token completion pushed every fusor call past the 240s timeout -- added num_ctx and pinned it to 4096 in build_dataset_b.py",
+  "glm-5.2:cloud requires an Ollama subscription this account doesn't have (HTTP 403); the Z.AI GLM Coding Plan key authenticates but the GENERIC pay-as-you-go endpoint (api.z.ai/api/paas/v4) returned an insufficient-balance error -- the coding plan's quota lives behind a separate DEDICATED endpoint (api.z.ai/api/coding/paas/v4) not mentioned on the quick-start page. New src/franco_eval/zai_client.py routes zai:<model> fusor names through the correct endpoint.",
+  "glm-5.3's reasoning is mandatory and cannot be disabled; a bounded token budget (80, even 600) was consumed entirely by the reasoning trace, leaving an empty answer (finish_reason: length). Fixed with reasoning_effort=low plus a padded token budget."
+ ],
+ "next_steps": "superseded -- see second_pass below",
+ "second_pass": {
+  "description": "Same 3 arms, same 20 anchors, same teachers, same council method (fixed ruler for a real before/after). Two prompt changes: (1) one shared scenario per anchor given to every teacher AND the fusor, so drafts have real content instead of a bare word to place; (2) fusion_prompt() adopts the paper's own compare-strengths-and-weaknesses-then-fuse structure (Table 6, Appendix A).",
+  "naturalness_v1_to_v2": {
+   "zai:glm-5.3": {
+    "naturalness": [
+     0.933,
+     0.889
+    ],
+    "end_to_end_yield": [
+     0.7,
+     0.8
+    ]
+   },
+   "command-r:35b": {
+    "naturalness": [
+     0.364,
+     0.667
+    ],
+    "end_to_end_yield": [
+     0.2,
+     0.4
+    ]
+   },
+   "qwen3.8:27b-mlx": {
+    "naturalness": [
+     0.133,
+     0.267
+    ],
+    "end_to_end_yield": [
+     0.1,
+     0.2
+    ]
+   }
+  },
+  "key_finding": "Both local arms roughly doubled their naturalness rate (36%->67%, 13%->27%); the already-near-ceiling frontier arm held flat within noise (93%->89%). Some repetition-loop degeneracy persisted in qwen3.8:27b-mlx even with scenario grounding -- reduced, not eliminated, suggesting a decoding/capability limit rather than a pure lack-of-content problem.",
+  "arena_benchmark": {
+   "description": "New: FusioN's fused output vs a Best-of-N baseline (first raw teacher draft, no fusion, that passes the same gates -- no extra model call). Single blind Claude judge, position randomized. No pairwise win-rate judge code existed in this repo before this pass (new run_arena_judge.py).",
+   "fusion_win_rate_vs_bon": {
+    "zai:glm-5.3": {
+     "wins": 16,
+     "n": 16,
+     "rate": 1.0
+    },
+    "command-r:35b": {
+     "wins": 10,
+     "n": 11,
+     "rate": 0.909
+    },
+    "qwen3.8:27b-mlx": {
+     "wins": 8,
+     "n": 15,
+     "ties": 2,
+     "rate_of_wins": 0.533
+    }
+   },
+   "key_finding": "A second, independent measurement telling the same story as the naturalness council: FusioN's win rate over Best-of-N scales with fusor capability, replicating the paper's central claim two different ways in this setting.",
+   "vs_bon_note": "These numbers are from the deepseek-v4-pro re-run below (same underlying fused/BoN sentence pairs -- the audit files didn't change -- but run_arena_judge.py regenerates and re-judges ALL comparisons including vs_bon every invocation, since the RNG position-shuffle sequence shifts whenever the count of usable DeepSeek references changes). The prior instance of this table (93.8%/63.6%/53.3%) used the same pairs judged by a different blind Claude instance; the shift to 100%/90.9%/53.3% is ordinary judge-to-judge variance on an already-decisive comparison, not a new finding -- the qwen arm (the closest to a coin flip) barely moved."
+  },
+  "external_frontier_reference_deepseek": {
+   "status": "corrected mid-analysis after a user counter-example, then genuinely revealing",
+   "model": "deepseek-v4-flash via api.deepseek.com (new src/franco_eval/deepseek_client.py)",
+   "correction_note": "First attempt used reasoning_effort=low (mirroring glm-5.3's fix) and got 0/45 usable references -- DeepSeek answered in full Arabic script almost every time despite an explicit Latin-only rule, initially reported here as a 'genuine finding' about DeepSeek's Franco capability. This was WRONG: a user pointed out DeepSeek writes Franco easily in a normal chat, which prompted a live re-test. The actual cause was reasoning_effort=low itself -- under this pipeline's multi-constraint prompt (exact word, exact spelling, exact position, ASCII-only, word count), low reasoning effort made the model rush and drop the script constraint specifically, confirmed by switching to reasoning_effort=high across 3/3 spot-checks before the full re-run. Not a capability limit; an artifact of one parameter choice.",
+   "bugs_fixed": [
+    "deepseek-v4's reasoning is mandatory like glm-5.3's; reasoning_effort=high (not low) plus a larger padded token budget (num_predict*10, min 800) is required for this multi-constraint prompt shape -- low effort caused the model to drop the Latin-script constraint under load, not a lack of Franco capability",
+    "run_arena_judge.py's deepseek_reference() forced caching of empty completions (raw: text or ' '), permanently blocking retries after one failed call; removed, JsonlCache's built-in skip-caching-failures behavior was correct all along"
+   ],
+   "usable_references": "27/45 (up from 0/45 with reasoning_effort=low); remaining ~40% gate failures are a real, smaller residual script-drift tendency, greatly reduced but not eliminated",
+   "fusion_win_rate_vs_deepseek": {
+    "zai:glm-5.3": {
+     "wins": 7,
+     "n": 13,
+     "ties": 4,
+     "rate_of_wins": 0.538
+    },
+    "command-r:35b": {
+     "wins": 1,
+     "n": 8,
+     "rate_of_wins": 0.125
+    },
+    "qwen3.8:27b-mlx": {
+     "wins": 0,
+     "n": 6,
+     "rate_of_wins": 0.0
+    }
+   },
+   "finding": "Fusion only earns its keep over simply asking a frontier model directly when the fusor ITSELF is frontier-tier -- zai:glm-5.3 comes out roughly even with DeepSeek's single-shot attempts, while the local fusors (command-r:35b, qwen3.8:27b-mlx) lose to it almost every time. A real refinement of the paper's own claim: fusion beats selection (Best-of-N) reliably regardless of fusor scale, but fusion does not automatically beat just asking a strong model directly unless the fusor is itself strong."
+  },
+  "xcomet_xl_metric": {
+   "status": "obtained, but disagrees with the naturalness council and arena benchmark",
+   "setup_issues_fixed": [
+    "unbabel-comet pins huggingface-hub<1.0, incompatible with the main .venv's huggingface_hub>=1.28 -- isolated into its own .venv-comet (see requirements-comet.txt)",
+    "comet's pinned torchmetrics==0.10.3 imports private functools internals removed in Python 3.14 -- .venv-comet uses Python 3.12",
+    "Unbabel/XCOMET-XL is a gated HF repo -- required the user's own HF account access request",
+    "comet/models/base.py unconditionally sets multiprocessing_context='fork' whenever Apple's MPS backend is available, crashing with num_workers=0 on any Apple Silicon Mac (a bug in comet's own code) -- worked around with num_workers=1"
+   ],
+   "scoring_method": "reference-free: source = anchor's Arabic script, hypothesis = the generated sentence directly. Verified live that omitting 'ref' entirely gives the same score as an empty one (0.578 vs 0.580 on a test pair).",
+   "mean_scores": {
+    "command-r:35b": 0.303,
+    "qwen3.8:27b-mlx": 0.245,
+    "zai:glm-5.3": 0.241
+   },
+   "interpretation": "Disagrees with both other measurements (which agree zai:glm-5.3 is clearly best). All three scores are also uniformly low (0.24-0.30, well below the ~0.7-0.9 range these models produce for genuine translations) -- consistent with the mismatch flagged when this metric was first proposed: XCOMET is built to score a real cross-lingual translation against a reference, not a single Arabic word against an unrelated full sentence. The naturalness council and arena benchmark are the trustworthy signal here; this result looks like noise from a stretched application, not a genuine third opinion."
+  },
+  "other_bugs_fixed": [
+   "run_arena_judge.py originally took one --audit/--arm pair and wrote to fixed non-arm-specific output paths, silently clobbering the previous arm's data on each run -- fixed to accept multiple --audit/--arm pairs pooled into one combined judging pass",
+   "running Ollama generation and the 11GB XCOMET-XL PyTorch checkpoint concurrently exhausted this machine's 32GB RAM into swap and silently SIGKILL'd both processes with no error output -- now run strictly sequentially"
+  ],
+  "next_steps": [
+   "if the signal holds, scale toward the 628-anchor headroom in trap_votes.tsv (314 confirmed pairs x2)",
+   "decide whether DeepSeek's script-drift problem is worth chasing further or simply not a good fit as an external reference for this orthography"
+  ],
+  "external_frontier_reference_deepseek_v4_pro": {
+   "status": "redo at user's request with a stronger, pricier external reference",
+   "model": "deepseek-v4-pro via api.deepseek.com (GA since 2026-08-13, 1.6T total / 49B active params -- the larger reasoning-tier sibling of deepseek-v4-flash's 284B/13B active)",
+   "bugs_found_and_fixed_before_the_real_run": [
+    "JsonlCache for the DeepSeek reference cache was keyed on (anchor, scenario) only, missing 'model' -- switching --deepseek-model from flash to pro without this fix would have silently replayed flash's cached answers under the pro label. Added 'model' to the key fields (caught proactively, before any bad data was produced).",
+    "v4-pro's reasoning routinely spent 1100-2750 tokens on this one-sentence task (confirmed via live isolated test showing finish_reason='length', empty content, reasoning_tokens=800 exactly at cap) -- the 800-token budget sized for v4-flash left v4-pro unable to ever finish. Not the same bug as the earlier reasoning_effort=low/high issue: reasoning_effort was already 'high' throughout; this is v4-pro simply being a bigger model that reasons longer in absolute tokens on the identical task. Raised max_tokens to a flat 4500 (confirmed live, 3/3 clean) -- costs nothing extra for flash calls since DeepSeek bills tokens actually used, not the cap."
+   ],
+   "usable_references": "40/45 (vs. flash's 27/45 and pro's own first, budget-broken attempt at 5/45)",
+   "fusion_win_rate_vs_deepseek_v4_pro": {
+    "zai:glm-5.3": {
+     "wins": 1,
+     "n": 16,
+     "rate_of_wins": 0.0625
+    },
+    "command-r:35b": {
+     "wins": 0,
+     "n": 12,
+     "rate_of_wins": 0.0
+    },
+    "qwen3.8:27b-mlx": {
+     "wins": 0,
+     "n": 12,
+     "rate_of_wins": 0.0
+    }
+   },
+   "finding": "Against a stronger external reference, even the frontier-tier fusor loses almost every time (zai:glm-5.3: 6%, down from 54%+ties against deepseek-v4-flash). This sharpens the flash-era finding rather than contradicting it: fusion's ability to match a strong external model isn't just about the fusor being frontier-tier in isolation -- it depends on the fusor being at least as strong as whatever it's being compared against. A frontier fusor pulls even with a comparably-sized single model (flash) but loses decisively once the external reference itself moves up a tier (pro). Best-of-N's dominance ranking over BoN is untouched by this -- see arena_benchmark above -- this result is specific to the 'or just ask a strong model directly' comparison, not to fusion-vs-selection generally."
+  },
+  "teacher_ceiling_probe": {
+   "motivation": "User question during analysis: is fusion losing to DeepSeek because fusion is weak, or because the teacher pool (8B-30B open models) is outclassed by DeepSeek regardless of fusion?",
+   "method": "bon_pick (the single best raw teacher draft, no fusor involved) vs the same cached deepseek-v4-pro references, per anchor per arm. Zero new model calls -- both sides already existed from prior runs. New script: probe_teacher_ceiling.py.",
+   "bon_win_rate_vs_deepseek_v4_pro": {
+    "qwen3.8:27b-mlx": {
+     "wins": 0,
+     "n": 15,
+     "rate": 0.0
+    },
+    "command-r:35b": {
+     "wins": 0,
+     "n": 11,
+     "rate": 0.0
+    },
+    "zai:glm-5.3": {
+     "wins": 0,
+     "n": 15,
+     "rate": 0.0
+    },
+    "pooled": {
+     "wins": 0,
+     "n": 41,
+     "rate": 0.0
+    }
+   },
+   "finding": "Confirmed: the teacher pool is the bottleneck, not fusion. 0/41 -- every single raw teacher draft from all three arms lost to deepseek-v4-pro, before any fusor touched the drafts. Fusion was never going to overcome a gap that exists at the raw-material level. One wrinkle survives: for the two weaker fusors, fusion adds exactly nothing on top of the 0% floor (still 0/12 each). The frontier fusor (zai:glm-5.3) lifts it to 1/16 -- small, but the only arm where fusion beats deepseek-v4-pro at all when no single raw draft ever did, suggesting a frontier-scale fusor injects some of its own generative capability rather than purely recombining draft content."
+  }
+ }
+}

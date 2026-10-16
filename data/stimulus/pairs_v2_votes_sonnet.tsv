@@ -1,0 +1,1405 @@
+sentence_id	rendering_id	valid	votes_valid	votes_invalid	n_judges	bad_substitutions	reason
+ghizia->ghizah	ghizia->ghizah	false	4	1	5		ghizah reads as Giza, the governorate name
+gineih->ginih	gineih->ginih	true	5	0	5		
+gneih->gneh	gneih->gneh	true	5	0	5		
+gneih->gnih	gneih->gnih	true	5	0	5		
+gofia->gofa	gofia->gofa	false	4	1	5		gofa reads as the common word for a woven basket
+gofia->gufa	gofia->gufa	false	4	1	5		gufa reads as the common word for a woven basket
+gografea->gografa	gografea->gografa	true	5	0	5		
+gografea->gugrafa	gografea->gugrafa	true	5	0	5		
+gografeia->gografea	gografeia->gografea	true	5	0	5		
+gografeia->gografia	gografeia->gografia	true	5	0	5		
+gografeia->gografiaa	gografeia->gografiaa	true	5	0	5		
+gografeia->gugrafea	gografeia->gugrafea	true	5	0	5		
+gomhoria->gomhora	gomhoria->gomhora	true	5	0	5		
+gomhoria->gomhoraa	gomhoria->gomhoraa	true	5	0	5		
+gomhoria->gomhura	gomhoria->gomhura	true	5	0	5		
+gomhoria->gumhora	gomhoria->gumhora	true	5	0	5		
+guez2->goz2	guez2->goz2	true	5	0	5		
+guez2->guz2	guez2->guz2	true	5	0	5		
+guitar->gotar	guitar->gotar	true	5	0	5		
+guitar->gutaar	guitar->gutaar	true	5	0	5		
+guitar->gutar	guitar->gutar	true	5	0	5		
+haday2->hadi2	haday2->hadi2	false	4	1	5		hadi2 reads as hadi (calm/quiet), a very common word
+hadeamy->hadami	hadeamy->hadami	true	5	0	5		
+hadeamy->hadamy	hadeamy->hadamy	true	5	0	5		
+hadia->hada	hadia->hada	true	5	0	5		
+hadia->hadaa	hadia->hadaa	true	5	0	5		
+haia->ha	haia->ha	false	3	2	5		ha collapses to a distinct existing particle/interjection, not read as hiya || ha reads as the interjection ha (huh/what)
+haia->haa	haia->haa	false	3	2	5		haa collapses to a distinct existing interjection, not read as hiya || haa reads as the interjection haa (huh/what)
+hawaeey->haway	hawaeey->haway	false	4	1	5		haway reads as hawi/haway (amateur, hobbyist)
+haway->hawi	haway->hawi	false	4	1	5		hawi reads as amateur/snake-charmer, a real distinct word
+hawayya->hawiya	hawayya->hawiya	false	3	2	5		hawiya reads as 'identity/ID', a common unrelated word, not 'hobby' || hawiya is the extremely common word for ID card
+hay23od->hi23od	hay23od->hi23od	true	5	0	5		
+hay2addemo->hi2addemo	hay2addemo->hi2addemo	true	5	0	5		
+hay2adem->hi2adem	hay2adem->hi2adem	true	5	0	5		
+hay2adro->hi2adro	hay2adro->hi2adro	true	5	0	5		
+hay2alel->hi2alel	hay2alel->hi2alel	true	5	0	5		
+hay2allal->hi2allal	hay2allal->hi2allal	true	5	0	5		
+hay2at->hi2at	hay2at->hi2at	false	4	1	5		hi2at collides with the productive hi2-verb future pattern, not the noun hay2a (authority)
+hay2ather->hi2ather	hay2ather->hi2ather	true	5	0	5		
+hay2et->hi2et	hay2et->hi2et	false	4	1	5		hi2et collides with the hi2-verb future pattern, not the noun hay2a (authority)
+hay2od->hi2od	hay2od->hi2od	true	5	0	5		
+hay2odi->hi2odi	hay2odi->hi2odi	true	5	0	5		
+hay2ody->hi2ody	hay2ody->hi2ody	true	5	0	5		
+hay2olak->hi2olak	hay2olak->hi2olak	true	5	0	5		
+hay2t->hi2t	hay2t->hi2t	false	4	1	5		hi2t collides with the hi2-verb future pattern, not the noun hay2a (authority)
+hay2ther->hi2ther	hay2ther->hi2ther	true	5	0	5		
+hay3ady->hi3ady	hay3ady->hi3ady	true	5	0	5		
+hay3amelo->hi3amelo	hay3amelo->hi3amelo	true	5	0	5		
+hay3amlo->hi3amlo	hay3amlo->hi3amlo	true	5	0	5		
+hay3awezna->hi3awezna	hay3awezna->hi3awezna	true	5	0	5		
+hay3eesh->hi3eesh	hay3eesh->hi3eesh	true	5	0	5		
+hay3mel->hi3mel	hay3mel->hi3mel	true	5	0	5		
+hay3melo->hi3melo	hay3melo->hi3melo	true	5	0	5		
+hay3ml->hi3ml	hay3ml->hi3ml	true	5	0	5		
+hay3mlo->hi3mlo	hay3mlo->hi3mlo	true	5	0	5		
+hay3raf->hi3raf	hay3raf->hi3raf	true	5	0	5		
+hay5aly->hi5aly	hay5aly->hi5aly	true	5	0	5		
+hay7addad->hi7addad	hay7addad->hi7addad	true	5	0	5		
+hay7afez->hi7afez	hay7afez->hi7afez	true	5	0	5		
+hay7asal->hi7asal	hay7asal->hi7asal	true	5	0	5		
+hay7asan->hi7asan	hay7asan->hi7asan	true	5	0	5		
+hay7ot->hi7ot	hay7ot->hi7ot	true	5	0	5		
+hay7sal->hi7sal	hay7sal->hi7sal	true	5	0	5		
+hay7sl->hi7sl	hay7sl->hi7sl	true	5	0	5		
+hay7tag->hi7tag	hay7tag->hi7tag	true	5	0	5		
+hay7tago->hi7tago	hay7tago->hi7tago	true	5	0	5		
+hayban->hiban	hayban->hiban	true	5	0	5		
+haybda->hibda	haybda->hibda	true	5	0	5		
+hayda3->hida3	hayda3->hida3	true	5	0	5		
+haydar->hidar	haydar->hidar	true	5	0	5		
+haydeena->hideena	haydeena->hideena	true	5	0	5		
+haydy->hidy	haydy->hidy	true	5	0	5		
+hayfar2->hifar2	hayfar2->hifar2	true	5	0	5		
+hayfed->hifed	hayfed->hifed	true	5	0	5		
+hayfedna->hifedna	hayfedna->hifedna	true	5	0	5		
+hayfeed->hifeed	hayfeed->hifeed	true	5	0	5		
+hayft7->hift7	hayft7->hift7	true	5	0	5		
+haygeb->higeb	haygeb->higeb	true	5	0	5		
+haygeeb->higeeb	haygeeb->higeeb	true	5	0	5		
+haykl->hikl	haykl->hikl	true	5	0	5		
+haykon->hikon	haykon->hikon	true	5	0	5		
+haynf3->hinf3	haynf3->hinf3	true	5	0	5		
+haynzel->hinzel	haynzel->hinzel	true	5	0	5		
+hayrga3->hirga3	hayrga3->hirga3	true	5	0	5		
+haysa3d->hisa3d	haysa3d->hisa3d	true	5	0	5		
+haysa3dna->hisa3dna	haysa3dna->hisa3dna	true	5	0	5		
+haysa3do->hisa3do	haysa3do->hisa3do	true	5	0	5		
+hayse3dak->hise3dak	hayse3dak->hise3dak	true	5	0	5		
+hayse3ed->hise3ed	hayse3ed->hise3ed	true	5	0	5		
+hayseeb->hiseeb	hayseeb->hiseeb	true	5	0	5		
+haysharek->hisharek	haysharek->hisharek	true	5	0	5		
+haysharko->hisharko	haysharko->hisharko	true	5	0	5		
+hayshof->hishof	hayshof->hishof	true	5	0	5		
+hayshofo->hishofo	hayshofo->hishofo	true	5	0	5		
+hayshofou->hishofou	hayshofou->hishofou	true	5	0	5		
+haytalab->hitalab	haytalab->hitalab	true	5	0	5		
+hayth->hith	hayth->hith	true	5	0	5		
+haywafro->hiwafro	haywafro->hiwafro	true	5	0	5		
+haywanak->hiwanak	haywanak->hiwanak	true	5	0	5		
+hayya->hiya	hayya->hiya	false	2	3	5		hiya collides with the common pronoun she/it, breaking 'alive' in both examples || hiya collides with the common pronoun hiya (she/it), not read as hayya (alive) || hiya is the extremely common pronoun she/it, losing the alive meaning
+hayzid->hizid	hayzid->hizid	true	5	0	5		
+hayzod->hizod	hayzod->hizod	true	5	0	5		
+hayzodo->hizodo	hayzodo->hizodo	true	5	0	5		
+hayzood->hizood	hayzood->hizood	true	5	0	5		
+hazemey->hazemi	hazemey->hazemi	true	5	0	5		
+hea->ha	hea->ha	false	3	2	5		ha collapses to a distinct existing particle, not read as hea/hiya || ha reads as the interjection ha (huh/what)
+hea->haa	hea->haa	false	3	2	5		haa collapses to a distinct existing interjection, not read as hea/hiya || haa reads as the interjection haa (huh/what)
+hea->hah	hea->hah	false	2	3	5		"hah reads as the interjection/laugh hah, not hea/hiya || adds a trailing h (reads as laugh ""hah""), not a plausible way to spell hiya/hia || hah reads as the interjection hah"
+header->hadeer	header->hadeer	false	3	2	5		header (tech term) reads as hadeer (roar), a real unrelated Arabic word || hadeer collides with hadeer (roar), a real word
+header->hader	header->hader	false	3	2	5		header (tech term) reads as hader (present/ready), a real unrelated Arabic word || hader collides with the extremely common word hader (ready/present)
+header->hadir	header->hadir	false	3	2	5		header (tech term) reads as hadir, a real unrelated Arabic word || hadir collides with hader/hadir (ready/present)
+heia->hea	heia->hea	true	5	0	5		
+heia->heaa	heia->heaa	true	5	0	5		
+heia->hia	heia->hia	true	5	0	5		
+heia->hiaa	heia->hiaa	true	5	0	5		
+helium->helum	helium->helum	true	5	0	5		
+helium->hilum	helium->hilum	true	5	0	5		
+heroen->heron	heroen->heron	false	4	1	5		heron is the English word for the bird
+heroen->heroon	heroen->heroon	true	5	0	5		
+heroen->herun	heroen->herun	true	5	0	5		
+heroin->heron	heroin->heron	false	4	1	5		heron is the English word for the bird
+heroin->hiron	heroin->hiron	true	5	0	5		
+hia->ha	hia->ha	false	3	2	5		ha collapses to a distinct existing particle, not read as hia/hiya || ha reads as the interjection ha (huh/what)
+hia->haa	hia->haa	false	3	2	5		haa collapses to a distinct existing interjection, not read as hia/hiya || haa reads as the interjection haa (huh/what)
+hia->hah	hia->hah	false	2	3	5		"hah reads as the interjection/laugh hah, not hia/hiya || adds a trailing h (reads as laugh ""hah""), not a plausible way to spell hiya/hia || hah reads as the interjection hah"
+holandia->holanda	holandia->holanda	true	5	0	5		
+holandia->holandaa	holandia->holandaa	true	5	0	5		
+iqtesadia->eqtesada	iqtesadia->eqtesada	true	5	0	5		
+iraney->irani	iraney->irani	true	5	0	5		
+italia->etala	italia->etala	true	5	0	5		
+italia->itala	italia->itala	true	5	0	5		
+italia->italaa	italia->italaa	true	5	0	5		
+jarayda->jarida	jarayda->jarida	true	5	0	5		
+jayza->jiza	jayza->jiza	false	4	1	5		jiza reads as Giza, the governorate name
+jeans->jaans	jeans->jaans	true	5	0	5		
+jeans->jans	jeans->jans	true	5	0	5		
+jensein->jensen	jensein->jensen	false	4	1	5		jensen reads as the Western surname Jensen
+jensein->jensin	jensein->jensin	false	4	1	5		jensin is close enough to read as the surname Jensen
+jensein->jinsen	jensein->jinsen	false	4	1	5		jinsen is close enough to read as the surname Jensen
+jensey->jensi	jensey->jensi	true	5	0	5		
+jeology->jologi	jeology->jologi	true	5	0	5		
+jeology->jology	jeology->jology	true	5	0	5		
+jeology->jolugy	jeology->jolugy	true	5	0	5		
+jinsia->jensa	jinsia->jensa	true	5	0	5		
+jinsia->jinsa	jinsia->jinsa	true	5	0	5		
+joeh->joh	joeh->joh	true	5	0	5		
+joeh->juh	joeh->juh	true	5	0	5		
+k3ayla->k3ila	k3ayla->k3ila	true	5	0	5		
+kaeinat->kaenat	kaeinat->kaenat	true	5	0	5		
+kaeinat->kainat	kaeinat->kainat	true	5	0	5		
+kafaia->kafa	kafaia->kafa	true	5	0	5		
+kafein->kafen	kafein->kafen	false	4	1	5		kafen collides with kafan (burial shroud)
+kafein->kafin	kafein->kafin	false	4	1	5		kafin collides with kafi (enough/sufficient)
+kafia->kafa	kafia->kafa	true	5	0	5		
+kafia->kafaa	kafia->kafaa	true	5	0	5		
+kahrabaia->kahraba	kahrabaia->kahraba	true	5	0	5		
+kahrabaia->kahrabaa	kahrabaia->kahrabaa	true	5	0	5		
+kahrabey->kahrabi	kahrabey->kahrabi	true	5	0	5		
+kahrabia->kahraba	kahrabia->kahraba	true	5	0	5		
+kahrabia->kahrabaa	kahrabia->kahrabaa	true	5	0	5		
+kahrebia->kahreba	kahrebia->kahreba	true	5	0	5		
+kalifornia->kaliforna	kalifornia->kaliforna	true	5	0	5		
+kalifornia->kalifurna	kalifornia->kalifurna	true	5	0	5		
+kalseeum->kalsium	kalseeum->kalsium	true	5	0	5		
+kalseeum->kalsum	kalseeum->kalsum	false	4	1	5		kalsum evokes the name Kalsoum/Um Kulthum
+kalsium->kalsom	kalsium->kalsom	false	4	1	5		kalsom evokes the name Kalsoum/Um Kulthum
+kalsium->kalsum	kalsium->kalsum	false	4	1	5		kalsum evokes the name Kalsoum/Um Kulthum
+kamia->kama	kamia->kama	false	4	1	5		kama is the extremely common conjunction meaning as/like
+kamia->kamaa	kamia->kamaa	false	4	1	5		kamaa is close enough to read as kama (as/like)
+kamiat->kamaat	kamiat->kamaat	true	5	0	5		
+kamiat->kamat	kamiat->kamat	true	5	0	5		
+kanadey->kanadi	kanadey->kanadi	true	5	0	5		
+kawadeid->kawaded	kawadeid->kawaded	true	5	0	5		
+kawadeid->kawadid	kawadeid->kawadid	true	5	0	5		
+kawmey->kawmi	kawmey->kawmi	true	5	0	5		
+kay2anat->ki2anat	kay2anat->ki2anat	true	5	0	5		
+kay2at->ki2at	kay2at->ki2at	true	5	0	5		
+kays->kis	kays->kis	true	5	0	5		
+kaysy->kisy	kaysy->kisy	true	5	0	5		
+kbeeer->kbier	kbeeer->kbier	true	5	0	5		
+kbeir->kbiir	kbeir->kbiir	true	5	0	5		
+keameya->kameya	keameya->kameya	true	5	0	5		
+keameya->kamiya	keameya->kamiya	true	5	0	5		
+kedaia->kedaa	kedaia->kedaa	false	4	1	5		kedaa collides with the very common keda (like this)
+kedaia->kidaa	kedaia->kidaa	false	4	1	5		kidaa collides with the very common keda (like this)
+keemia->keema	keemia->keema	true	5	0	5		
+keemia->keima	keemia->keima	true	5	0	5		
+keemia->kema	keemia->kema	true	5	0	5		
+kefaia->kefa	kefaia->kefa	true	5	0	5		
+kefaia->kefaa	kefaia->kefaa	true	5	0	5		
+kefaia->kifaa	kefaia->kifaa	true	5	0	5		
+keis->kes	keis->kes	true	5	0	5		
+keis->kiis	keis->kiis	true	5	0	5		
+keis->kis	keis->kis	true	5	0	5		
+kemea->kema	kemea->kema	true	5	0	5		
+kemea->kemaa	kemea->kemaa	true	5	0	5		
+kemea->kima	kemea->kima	true	5	0	5		
+kemeaweya->kemaweya	kemeaweya->kemaweya	true	5	0	5		
+kemeaweya->kimaweya	kemeaweya->kimaweya	true	5	0	5		
+kemeawy->kemawi	kemeawy->kemawi	true	5	0	5		
+kemeawy->kemawy	kemeawy->kemawy	true	5	0	5		
+kemeawy->kemooy	kemeawy->kemooy	true	5	0	5		
+kemeawy->kimawy	kemeawy->kimawy	true	5	0	5		
+kemeia->kemea	kemeia->kemea	true	5	0	5		
+kemeia->kemeaa	kemeia->kemeaa	true	5	0	5		
+kemeia->kemia	kemeia->kemia	true	5	0	5		
+kemeia->kimia	kemeia->kimia	true	5	0	5		
+kenaes->kenaas	kenaes->kenaas	true	5	0	5		
+kenaes->kenas	kenaes->kenas	true	5	0	5		
+kezay->kezi	kezay->kezi	true	5	0	5		
+khaayfa->khaifa	khaayfa->khaifa	true	5	0	5		
+khaef->5af	khaef->5af	false	4	1	5		5af collides with 5af/khaf (became light), a different real verb
+khaef->khaaf	khaef->khaaf	true	5	0	5		
+khaef->khaf	khaef->khaf	false	4	1	5		khaf collides with khaf (became light), a different real verb
+khaefa->5afa	khaefa->5afa	true	5	0	5		
+khaefa->khafa	khaefa->khafa	true	5	0	5		
+khafeia->5afea	khafeia->5afea	true	5	0	5		
+khafeia->5afia	khafeia->5afia	true	5	0	5		
+khafeia->khafea	khafeia->khafea	true	5	0	5		
+khafeia->khafia	khafeia->khafia	true	5	0	5		
+khafeia->khafiaa	khafeia->khafiaa	true	5	0	5		
+khaief->5aif	khaief->5aif	true	5	0	5		
+khaief->khaef	khaief->khaef	true	5	0	5		
+khaief->khaif	khaief->khaif	true	5	0	5		
+khaif->5af	khaif->5af	false	4	1	5		5af collides with 5af/khaf (became light), a different real verb
+khaif->khaf	khaif->khaf	false	4	1	5		khaf collides with khaf (became light), a different real verb
+khaifa->5afa	khaifa->5afa	true	5	0	5		
+khaifa->khafa	khaifa->khafa	true	5	0	5		
+khaifa->khafaa	khaifa->khafaa	true	5	0	5		
+khair->5ar	khair->5ar	true	5	0	5		
+khair->khaar	khair->khaar	false	4	1	5		khaar collides with khaar (mooed/became weak), a real verb
+khair->khar	khair->khar	false	3	2	5		khar reads as khara (crap), an unrelated offensive word, not kheir/khair || khar reads as the vulgar khara (shit)
+khalaia->5alaa	khalaia->5alaa	false	4	1	5		5alaa collides with 5ala/khala (aunt)
+khalaia->khala	khalaia->khala	false	4	1	5		khala is the extremely common word for aunt
+khalaia->khalaa	khalaia->khalaa	false	4	1	5		khalaa is close enough to read as khala (aunt)
+khalaia->khalaah	khalaia->khalaah	true	5	0	5		
+khaleia->5alea	khaleia->5alea	true	5	0	5		
+khaleia->5alia	khaleia->5alia	false	4	1	5		5alia collides with khalia/5alia (empty), shifting the cell meaning
+khaleia->khalea	khaleia->khalea	true	5	0	5		
+khaleia->khaleaa	khaleia->khaleaa	true	5	0	5		
+khaleia->khalia	khaleia->khalia	false	4	1	5		khalia collides with the common word khalia (empty), shifting the cell meaning
+khaleia->khaliaa	khaleia->khaliaa	true	5	0	5		
+khalfia->5alfa	khalfia->5alfa	true	5	0	5		
+khalfia->khalfa	khalfia->khalfa	true	5	0	5		
+khalia->5ala	khalia->5ala	false	4	1	5		5ala collides with khala/5ala (aunt)
+khalia->khala	khalia->khala	false	4	1	5		khala is the extremely common word for aunt
+khamseneiat->5amseneat	khamseneiat->5amseneat	true	5	0	5		
+khamseneiat->5amseniat	khamseneiat->5amseniat	true	5	0	5		
+khamseneiat->khamseneat	khamseneiat->khamseneat	true	5	0	5		
+khamseneiat->khamsineat	khamseneiat->khamsineat	true	5	0	5		
+kharegia->5arega	kharegia->5arega	true	5	0	5		
+kharegia->khariga	kharegia->khariga	true	5	0	5		
+kharegyia->5aregya	kharegyia->5aregya	true	5	0	5		
+kharegyia->kharegya	kharegyia->kharegya	true	5	0	5		
+kharejia->5areja	kharejia->5areja	true	5	0	5		
+kharejia->khareja	kharejia->khareja	true	5	0	5		
+kharejia->kharija	kharejia->kharija	true	5	0	5		
+khawazmeiat->5awazmeat	khawazmeiat->5awazmeat	true	5	0	5		
+khawazmeiat->5awazmiat	khawazmeiat->5awazmiat	true	5	0	5		
+khawazmeiat->khawazmeaat	khawazmeiat->khawazmeaat	true	5	0	5		
+khawazmeiat->khawazmeat	khawazmeiat->khawazmeat	true	5	0	5		
+khawazmeiat->khawazmiat	khawazmeiat->khawazmiat	true	5	0	5		
+khayalia->5ayala	khayalia->5ayala	true	5	0	5		
+khayalia->khayala	khayalia->khayala	true	5	0	5		
+khayfa->khifa	khayfa->khifa	true	5	0	5		
+khayreya->khireya	khayreya->khireya	true	5	0	5		
+khayria->khayra	khayria->khayra	true	5	0	5		
+khayria->kheera	khayria->kheera	true	5	0	5		
+khayria->khiria	khayria->khiria	true	5	0	5		
+kheir->5er	kheir->5er	true	5	0	5		
+kheir->5ir	kheir->5ir	true	5	0	5		
+kheir->kher	kheir->kher	true	5	0	5		
+kheir->khir	kheir->khir	true	5	0	5		
+kheit->5et	kheit->5et	true	5	0	5		
+kheit->khet	kheit->khet	true	5	0	5		
+kheit->khit	kheit->khit	true	5	0	5		
+khelia->khela	khelia->khela	false	4	1	5		khela is close enough to read as khala (aunt)
+khelia->khelaa	khelia->khelaa	true	5	0	5		
+khelia->khila	khelia->khila	true	5	0	5		
+khosoosia->khosoosa	khosoosia->khosoosa	false	4	1	5		khosoosa collides with khosoosan (especially)
+khosoosia->khusoosa	khosoosia->khusoosa	false	4	1	5		khusoosa collides with khosoosan (especially)
+kilobait->kelobat	kilobait->kelobat	true	5	0	5		
+kilobait->kilobat	kilobait->kilobat	true	5	0	5		
+kilobait->kilubat	kilobait->kilubat	true	5	0	5		
+klasikia->klaseka	klasikia->klaseka	true	5	0	5		
+klasikia->klasika	klasikia->klasika	true	5	0	5		
+klasikia->klasikaa	klasikia->klasikaa	true	5	0	5		
+klassikia->klasseka	klassikia->klasseka	true	5	0	5		
+kmeaa->kma	kmeaa->kma	false	4	1	5		kma collides with kama (as/like)
+kmeaa->kmaa	kmeaa->kmaa	false	4	1	5		kmaa collides with kama (as/like)
+kmeat->kmaat	kmeat->kmaat	true	5	0	5		
+kmeat->kmat	kmeat->kmat	true	5	0	5		
+kmeia->kmea	kmeia->kmea	true	5	0	5		
+kmeia->kmeaa	kmeia->kmeaa	true	5	0	5		
+kmeia->kmeah	kmeia->kmeah	true	5	0	5		
+kmeia->kmia	kmeia->kmia	true	5	0	5		
+kmeiat->kmeat	kmeiat->kmeat	true	5	0	5		
+kmeiat->kmiat	kmeiat->kmiat	true	5	0	5		
+kmia->kma	kmia->kma	false	4	1	5		kma collides with kama (as/like)
+kmia->kmaa	kmia->kmaa	false	4	1	5		kmaa collides with kama (as/like)
+koays->kois	koays->kois	true	5	0	5		
+koaysa->koisa	koaysa->koisa	true	5	0	5		
+kobaia->koba	kobaia->koba	false	4	1	5		koba reads as Kobe (proper noun, e.g. Kobe steak/Bryant)
+kobaia->kobaa	kobaia->kobaa	true	5	0	5		
+kobaia->kubaa	kobaia->kubaa	false	4	1	5		kubaa reads as Cuba, the country
+koees->kois	koees->kois	true	5	0	5		
+koees->kos	koees->kos	false	1	4	5		"kos reads as a vulgar slang word, breaks the sentence's meaning || Reads as ""kos"", a vulgar slang word, not the same word as koees. || kos is a well-known vulgar/taboo word; no Egyptian writes it for koees by accident. || kos is a common Egyptian vulgar slang word"
+koeesa->koisa	koeesa->koisa	true	5	0	5		
+koeesa->kosa	koeesa->kosa	false	1	4	5		"kosa means zucchini, so sentence reads as 'not zucchini' instead of 'not good' || Reads as ""kosa"" (zucchini), a different common Egyptian word. || kosa is the common word for zucchini; collides with an unrelated everyday word. || kosa is the real Arabic word for zucchini"
+koisa->kosa	koisa->kosa	false	1	4	5		"kosa means zucchini, changes 'a good thing' into 'a zucchini thing' || Reads as ""kosa"" (zucchini), a different common Egyptian word. || kosa is the common word for zucchini; collides with an unrelated everyday word. || kosa is the real word for zucchini"
+koisa->kosah	koisa->kosah	false	0	5	5		"kosah/kosa means zucchini, breaks 'good things' into 'zucchini things' || Reads as ""kosa"" (zucchini), a different common Egyptian word. || kosah reads as kosa (zucchini), an unrelated common word. || trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a) ||"
+koisa->kusa	koisa->kusa	false	1	4	5		"kusa means zucchini, breaks 'good results/job' into 'zucchini results/job' || Reads as ""kusa"" (zucchini), a different common Egyptian word. || kusa is a standard spelling of zucchini; collides with an unrelated common word. || kusa reads as zucchini (kosa)"
+kolia->kola	kolia->kola	false	3	2	5		kola reads as cola/soda, breaks 'engineering college' into 'engineering cola' || kola reads as cola, the drink
+kolia->kolaa	kolia->kolaa	false	4	1	5		kolaa still reads as cola, the drink
+kolia->kula	kolia->kula	true	5	0	5		
+kolombia->kolomba	kolombia->kolomba	true	5	0	5		
+kolombia->kolombaa	kolombia->kolombaa	true	5	0	5		
+kolombia->kolumba	kolombia->kolumba	true	5	0	5		
+kolumbia->kolomba	kolumbia->kolomba	true	5	0	5		
+kolumbia->kolumba	kolumbia->kolumba	true	5	0	5		
+kolumbia->kolumbaa	kolumbia->kolumbaa	true	5	0	5		
+komedia->komida	komedia->komida	true	5	0	5		
+korey->kori	korey->kori	true	5	0	5		
+koria->kora	koria->kora	false	1	4	5		"kora means ball/football, breaks 'North Korea' into 'the Northern ball' || Reads as ""kora"" (ball/football), a very common distinct word. || kora is the everyday word for ball/football; strong collision, not a plausible respelling of Korea. || kora is the common Egyptian word for ball/football"
+koria->koraa	koria->koraa	false	1	4	5		"koraa reads as kora (ball), breaks 'Korea national team' into 'ball team' || Phonetically reads as ""kora"" (ball/football), a distinct word. || koraa reads as kora (ball/football); same collision as kora. || koraa still reads as kora, ball/football"
+koria->kura	koria->kura	false	1	4	5		"kura is the standard word for ball, breaks Korean language/culture into 'ball' || Phonetically reads as ""kora"" (ball/football), a distinct word. || kura is a common alt spelling of kora (ball); collides with an unrelated common word. || kura still reads as kora, ball/football"
+koroeya->koroya	koroeya->koroya	true	5	0	5		
+koroeya->kuroya	koroeya->kuroya	true	5	0	5		
+kream->kraam	kream->kraam	true	5	0	5		
+kream->kram	kream->kram	false	4	1	5		kram reads as karam, generosity/hospitality, a common word
+kreamat->kramaat	kreamat->kramaat	false	4	1	5		kramaat reads as karamat, miracles (of saints), a real word
+kreamat->kramat	kreamat->kramat	false	4	1	5		kramat reads as karamat, miracles, a real word
+kway->kwi	kway->kwi	true	5	0	5		
+kwaysa->kwisa	kwaysa->kwisa	true	5	0	5		
+kwayseen->kwiseen	kwayseen->kwiseen	true	5	0	5		
+kwayyes->kwiyes	kwayyes->kwiyes	true	5	0	5		
+kwayyis->kwiyis	kwayyis->kwiyis	true	5	0	5		
+lahwey->lahwi	lahwey->lahwi	true	5	0	5		
+laif->laaf	laif->laaf	false	4	1	5		laaf reads as laff, the common verb meaning to wrap/turn
+laif->laf	laif->laf	false	4	1	5		laf is literally the common word laff, to wrap/turn
+latinia->latena	latinia->latena	true	5	0	5		
+latinia->latina	latinia->latina	false	4	1	5		latina reads as the English/Spanish word Latina
+latinyia->latenya	latinyia->latenya	true	5	0	5		
+latinyia->latinya	latinyia->latinya	true	5	0	5		
+lawae7->lawa7	lawae7->lawa7	true	5	0	5		
+laway7->lawi7	laway7->lawi7	true	5	0	5		
+layl->lil	layl->lil	false	4	1	5		lil collides with the very common prefix lil- (for the)
+laym->lim	laym->lim	true	5	0	5		
+leaktar->laktar	leaktar->laktar	true	5	0	5		
+leay->lay	leay->lay	true	5	0	5		
+leezay->leezi	leezay->leezi	true	5	0	5		
+leih->liih	leih->liih	true	5	0	5		
+leil->lel	leil->lel	false	4	1	5		lel collides with the common prefix lel- (for the)
+leil->lil	leil->lil	false	4	1	5		lil collides with the very common prefix lil- (for the)
+leila->lela	leila->lela	true	5	0	5		
+leila->lelaa	leila->lelaa	true	5	0	5		
+leila->lelah	leila->lelah	false	4	1	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+leila->lila	leila->lila	true	5	0	5		
+leily->lely	leily->lely	true	5	0	5		
+leily->lily	leily->lily	false	4	1	5		lily reads as the English flower/name Lily
+lelmayya->lelmiya	lelmayya->lelmiya	true	5	0	5		
+lesenien->lesinen	lesenien->lesinen	true	5	0	5		
+lesenien->lisenin	lesenien->lisenin	true	5	0	5		
+ley->li	ley->li	false	4	1	5		li collides with the common word li (to/for me)
+liltaknologia->liltaknologa	liltaknologia->liltaknologa	true	5	0	5		
+liltaknologia->liltaknuloga	liltaknologia->liltaknuloga	true	5	0	5		
+listeria->lestera	listeria->lestera	true	5	0	5		
+listeria->listera	listeria->listera	true	5	0	5		
+listeria->listira	listeria->listira	true	5	0	5		
+lithium->lithom	lithium->lithom	true	5	0	5		
+lithium->lithum	lithium->lithum	true	5	0	5		
+lithium->lithuum	lithium->lithuum	true	5	0	5		
+llteknologia->lteknologa	llteknologia->lteknologa	true	5	0	5		
+lotion->loton	lotion->loton	true	5	0	5		
+lotion->lotun	lotion->lotun	true	5	0	5		
+lotion->luton	lotion->luton	false	4	1	5		luton reads as Luton, the English city/airport
+lughatayn->lughatin	lughatayn->lughatin	true	5	0	5		
+m3ayra->m3ira	m3ayra->m3ira	true	5	0	5		
+m3ayyr->m3iyr	m3ayyr->m3iyr	true	5	0	5		
+m7ayda->m7ida	m7ayda->m7ida	true	5	0	5		
+ma2ey->ma2i	ma2ey->ma2i	true	5	0	5		
+ma3melia->ma3mela	ma3melia->ma3mela	true	5	0	5		
+ma3melia->ma3melaa	ma3melia->ma3melaa	true	5	0	5		
+ma3melia->ma3mila	ma3melia->ma3mila	true	5	0	5		
+mabaney->mabani	mabaney->mabani	true	5	0	5		
+mabnia->mabna	mabnia->mabna	true	5	0	5		
+mabnia->mabnaa	mabnia->mabnaa	true	5	0	5		
+madania->madana	madania->madana	true	5	0	5		
+madania->madanaa	madania->madanaa	true	5	0	5		
+maday2->madi2	maday2->madi2	true	5	0	5		
+madia->mada	madia->mada	false	4	1	5		mada is the real Arabic word for range/extent
+madia->madah	madia->madah	false	4	1	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+mafia->mafa	mafia->mafa	true	5	0	5		
+mafia->mafaa	mafia->mafaa	true	5	0	5		
+maganey->magani	maganey->magani	true	5	0	5		
+magania->magana	magania->magana	false	4	1	5		magana is the common word for watch/clock; collides with an unrelated everyday word.
+magania->maganaa	magania->maganaa	false	4	1	5		maganaa reads as magana (watch); same collision.
+magmo3atain->magmo3atan	magmo3atain->magmo3atan	true	5	0	5		
+magmo3atain->magmu3atan	magmo3atain->magmu3atan	true	5	0	5		
+magnatisia->magnatesa	magnatisia->magnatesa	true	5	0	5		
+magnatisia->magnatisa	magnatisia->magnatisa	true	5	0	5		
+magnatisia->magnatisaa	magnatisia->magnatisaa	true	5	0	5		
+magnesium->magnesom	magnesium->magnesom	true	5	0	5		
+magnesium->magnesum	magnesium->magnesum	true	5	0	5		
+magnesium->magnisum	magnesium->magnisum	true	5	0	5		
+mahalia->mahala	mahalia->mahala	false	4	1	5		mahala reads as El Mahalla, the Egyptian city
+mahalia->mahalaa	mahalia->mahalaa	false	4	1	5		mahalaa still reads as Mahalla, the city
+mahallia->mahala	mahallia->mahala	false	4	1	5		mahala reads as El Mahalla, the Egyptian city
+mahallia->mahalla	mahallia->mahalla	false	3	2	5		mahalla is the well-known city name (El-Mahalla); strong collision, not a plausible respelling. || mahalla is directly the name of the Egyptian city Mahalla
+mahasoil->mahasol	mahasoil->mahasol	true	5	0	5		
+mahasoil->mahasool	mahasoil->mahasool	true	5	0	5		
+mahasoil->mahasul	mahasoil->mahasul	true	5	0	5		
+maik->maak	maik->maak	false	3	2	5		maak means 'with you', breaks 'said Mike Meacham' into 'said with-you Meacham' || maak is the common Egyptian word ma3ak, with you
+maik->mak	maik->mak	false	4	1	5		mak reads as Mac (name/brand), a different name than Mike
+maikel->makel	maikel->makel	false	4	1	5		makel reads close to makul, edible/eaten, a common word
+main->maan	main->maan	true	5	0	5		
+main->man	main->man	false	2	3	5		"man means 'who', breaks 'Portland, Maine' into 'Portland, who' || Reads as the English word ""man"", not the place name Main. || man reads as English 'man' or Arabic 'man' (who)"
+majeal->majaal	majeal->majaal	false	4	1	5		majaal is the common Arabic word for field/domain
+majeal->majal	majeal->majal	false	4	1	5		majal still reads as majaal, field/domain
+makania->makana	makania->makana	false	2	3	5		"makana means 'machine', shifts 'mechanical data/requirements' into 'the machine's data' || Reads as noun ""makana"" (a machine), not the adjective mechanical. || makana is the common Egyptian word for machine"
+makania->makanaa	makania->makanaa	false	4	1	5		makanaa still reads as makana, machine
+makdonia->makdona	makdonia->makdona	true	5	0	5		
+makdonia->makduna	makdonia->makduna	true	5	0	5		
+malakia->malaka	malakia->malaka	false	3	2	5		"Reads as ""malaka"" (a queen), a different common noun. || malaka reads as malika/malaka, queen"
+malakia->malakaa	malakia->malakaa	false	4	1	5		malakaa still reads as malaka, queen
+malaria->malara	malaria->malara	true	5	0	5		
+malaria->malaraa	malaria->malaraa	true	5	0	5		
+malayzia->malayza	malayzia->malayza	true	5	0	5		
+malayzia->maleeza	malayzia->maleeza	true	5	0	5		
+malayzia->maleiza	malayzia->maleiza	true	5	0	5		
+malayzia->malizia	malayzia->malizia	true	5	0	5		
+maley->mali	maley->mali	false	3	2	5		mali means 'financial', breaks 'the poor/salt district' into 'the financial district' || mali reads as the real word mali, financial
+malia->mala	malia->mala	false	3	2	5		mala/mala reads as 'filled', breaks 'fiscal year/financial aid' into 'filled year/filled aid' || mala reads as the verb mala, to fill
+malia->malaa	malia->malaa	false	3	2	5		malaa reads as 'filled', breaks 'financial statements' into 'filled statements' || malaa still reads as mala, to fill
+malian->malaan	malian->malaan	false	3	2	5		in the second example malaan reads as 'full' not 'financially', losing 'protect yourself financially' || malaan is the very common Egyptian word for full
+malian->malan	malian->malan	false	4	1	5		malan still reads as malaan, full
+malion->maloon	malion->maloon	false	4	1	5		maloon reads as mal3oon, cursed/damned
+malion->malun	malion->malun	false	4	1	5		malun still reads as maloon, cursed
+malizia->maleza	malizia->maleza	true	5	0	5		
+malizia->maliza	malizia->maliza	true	5	0	5		
+mamayza->mamiza	mamayza->mamiza	true	5	0	5		
+manakhia->mana5a	manakhia->mana5a	true	5	0	5		
+manakhia->manakha	manakhia->manakha	true	5	0	5		
+manzelia->manzela	manzelia->manzela	true	5	0	5		
+manzelia->manzila	manzelia->manzila	false	4	1	5		manzila reads as manzila, rank/status, a real word
+mar2ey->mar2i	mar2ey->mar2i	true	5	0	5		
+maratein->maraten	maratein->maraten	true	5	0	5		
+maratein->maratin	maratein->maratin	true	5	0	5		
+markazia->markaza	markazia->markaza	true	5	0	5		
+markazia->markazaa	markazia->markazaa	true	5	0	5		
+marratayn->marratin	marratayn->marratin	true	5	0	5		
+marretayn->marretin	marretayn->marretin	true	5	0	5		
+masael->masaal	masael->masaal	true	5	0	5		
+masael->masal	masael->masal	false	2	3	5		"masal reads as mathal (example/proverb), breaks 'math problems' into 'math examples' || Reads as ""masal"" (proverb/example), a different common word. || masal is the common word masal/mathal, proverb/example"
+masay->masi	masay->masi	false	4	1	5		masi reads as Messi, the footballer, very salient in Egypt
+mashea->masha	mashea->masha	false	4	1	5		masha is the common verb masha, walked
+mashea->mashaa	mashea->mashaa	false	4	1	5		mashaa still reads as masha, walked
+mashea->mashah	mashea->mashah	false	3	2	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a) || mashah still reads as masha, walked
+mashey->mashi	mashey->mashi	false	4	1	5		mashi is the extremely common Egyptian word for okay/fine
+masria->masra	masria->masra	true	5	0	5		
+masria->masraa	masria->masraa	true	5	0	5		
+masria->masrah	masria->masrah	false	0	5	5		"masrah means 'theatre', breaks 'a genuine Egyptian housewife' into 'a theatre housewife' || Reads as ""masrah"" (theater), a different common word. || masrah means theater; collides with an unrelated common word. || trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the "
+mawadeee3->mawadie3	mawadeee3->mawadie3	true	5	0	5		
+may2dar->mi2dar	may2dar->mi2dar	true	5	0	5		
+may2el->mi2el	may2el->mi2el	true	5	0	5		
+may3rafosh->mi3rafosh	may3rafosh->mi3rafosh	true	5	0	5		
+mayb2ash->mib2ash	mayb2ash->mib2ash	true	5	0	5		
+maydan->midan	maydan->midan	true	5	0	5		
+maydania->maydana	maydania->maydana	true	5	0	5		
+maydania->meedana	maydania->meedana	true	5	0	5		
+maydania->meidana	maydania->meidana	true	5	0	5		
+maydany->midany	maydany->midany	true	5	0	5		
+maydanya->midanya	maydanya->midanya	true	5	0	5		
+maydar->midar	maydar->midar	true	5	0	5		
+mayia->maya	mayia->maya	false	4	1	5		maya reads as the name Maya
+mayia->mayah	mayia->mayah	false	4	1	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+mayk->mik	mayk->mik	true	5	0	5		
+maykrobat->mikrobat	maykrobat->mikrobat	true	5	0	5		
+mayla->mila	mayla->mila	true	5	0	5		
+mayleen->mileen	mayleen->mileen	true	5	0	5		
+maymn3sh->mimn3sh	maymn3sh->mimn3sh	true	5	0	5		
+maymnash->mimnash	maymnash->mimnash	true	5	0	5		
+mayna2->mina2	mayna2->mina2	true	5	0	5		
+maynf3sh->minf3sh	maynf3sh->minf3sh	true	5	0	5		
+mayw->miw	mayw->miw	true	5	0	5		
+mayya->miya	mayya->miya	true	5	0	5		
+mayza->miza	mayza->miza	true	5	0	5		
+mazaia->maza	mazaia->maza	false	3	2	5		maza means appetizer/snack, breaks 'production features' into 'production appetizer' || maza is Egyptian slang for an attractive girl/snack (meze)
+mazaia->mazaa	mazaia->mazaa	false	4	1	5		mazaa still reads as maza, slang for attractive girl/snack
+mbaney->mbani	mbaney->mbani	true	5	0	5		
+mbay3at->mbi3at	mbay3at->mbi3at	true	5	0	5		
+mday2a->mdi2a	mday2a->mdi2a	true	5	0	5		
+mday3a->mdi3a	mday3a->mdi3a	true	5	0	5		
+media->meda	media->meda	true	5	0	5		
+media->medaa	media->medaa	true	5	0	5		
+meelion->meelon	meelion->meelon	false	4	1	5		meelon reads as melon, the fruit
+meelion->meelun	meelion->meelun	false	4	1	5		meelun still reads as melon, the fruit
+meelion->melon	meelion->melon	false	1	4	5		"melon is the fruit, breaks '80 million Americans' into '80 melon Americans' || Reads as English ""melon"" (the fruit), not the number million. || melon is the fruit name; collides with an unrelated common word, not a plausible respelling of million. || melon is directly the English/Franco word for the"
+meia->mea	meia->mea	true	5	0	5		
+meia->mia	meia->mia	true	5	0	5		
+meia->miah	meia->miah	false	4	1	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+meidan->medan	meidan->medan	true	5	0	5		
+meidan->midan	meidan->midan	true	5	0	5		
+meidaneya->medaneya	meidaneya->medaneya	true	5	0	5		
+meidaneya->medaniya	meidaneya->medaniya	true	5	0	5		
+meidaneya->midaneya	meidaneya->midaneya	true	5	0	5		
+meidaneya->midaniya	meidaneya->midaniya	true	5	0	5		
+meina2->mena2	meina2->mena2	true	5	0	5		
+meina2->mina2	meina2->mina2	true	5	0	5		
+meisal->mesal	meisal->mesal	false	4	1	5		mesal reads as masal/mathal, example, a common word
+meisal->misaal	meisal->misaal	false	4	1	5		misaal is the standard spelling of masal, example
+meisal->misal	meisal->misal	false	4	1	5		misal still reads as masal, example
+melean->melaan	melean->melaan	false	4	1	5		melaan is the common Egyptian word for full
+melean->melan	melean->melan	false	4	1	5		melan still reads as melaan, full
+melean->milan	melean->milan	false	1	4	5		milan is the Italian city, breaks 'eggs full of nutrients' into 'eggs, Milan, of nutrients' || Reads as the city name Milan, not the intended word. || milan reads as the city/club name Milan; collides with an unrelated proper noun. || milan reads as Milan, the Italian city/football club
+meleon->melon	meleon->melon	false	1	4	5		"melon is the fruit, breaks '940 million dollars' into '940 melon dollars' || Reads as English ""melon"" (the fruit), not the number million. || melon is the fruit name; collides with an unrelated common word. || melon is directly the fruit"
+meleon->meloon	meleon->meloon	false	4	1	5		meloon still reads as melon, the fruit
+meleon->melun	meleon->melun	false	4	1	5		melun still reads as melon, the fruit
+meleon->milon	meleon->milon	false	4	1	5		milon still reads as melon, the fruit
+melian->melaan	melian->melaan	false	4	1	5		melaan is the common word for full
+melian->melan	melian->melan	false	4	1	5		melan still reads as melaan, full
+melian->milan	melian->milan	false	1	4	5		milan is the Italian city, breaks 'an era full of innovations' into 'an era, Milan, of innovations' || Reads as the city name Milan, not the intended word. || milan reads as the city/club name Milan; collides with an unrelated proper noun. || milan reads as Milan, the city/football club
+meliana->melana	meliana->melana	true	5	0	5		
+memayza->memiza	memayza->memiza	true	5	0	5		
+metday2->metdi2	metday2->metdi2	true	5	0	5		
+metday2a->metdi2a	metday2a->metdi2a	true	5	0	5		
+mezaia->meza	mezaia->meza	false	4	1	5		meza is Egyptian slang for an attractive girl/snack
+mezaia->mezaa	mezaia->mezaa	false	4	1	5		mezaa still reads as meza, slang term
+mezyania->mezyana	mezyania->mezyana	true	5	0	5		
+mezyania->mizyana	mezyania->mizyana	true	5	0	5		
+mfeeed->mfied	mfeeed->mfied	true	5	0	5		
+mganey->mgani	mganey->mgani	true	5	0	5		
+mia->mah	mia->mah	false	3	2	5		mah is too truncated to read as meya/mia; not a recognizable spelling a real speaker would use. || trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+milion->melon	milion->melon	false	1	4	5		"melon is the fruit, breaks '60 million Egyptians' into '60 melon Egyptians' || Reads as English ""melon"" (the fruit), not the number million. || melon is the fruit name; collides with an unrelated common word. || melon is directly the fruit"
+milion->milon	milion->milon	false	4	1	5		milon reads as melon, the fruit
+milion->miloon	milion->miloon	false	4	1	5		miloon reads as melon, the fruit
+milion->milun	milion->milun	false	4	1	5		milun reads as melon, the fruit
+milkia->melka	milkia->melka	false	4	1	5		melka reads as malaka/melka, queen
+milkia->milka	milkia->milka	false	4	1	5		milka still close to malaka, queen
+million->mellon	million->mellon	false	2	3	5		"Phonetically reads as English ""melon"" (the fruit). || mellon reads too close to melon/a surname; not a plausible casual respelling of million. || mellon reads as melon, the fruit"
+million->millon	million->millon	false	4	1	5		millon reads as melon, the fruit
+million->millun	million->millun	false	4	1	5		millun reads as melon, the fruit
+million->milon	million->milon	false	4	1	5		milon reads as melon, the fruit
+mlayyn->mliyn	mlayyn->mliyn	true	5	0	5		
+mmayza->mmiza	mmayza->mmiza	true	5	0	5		
+mmeiz->mez	mmeiz->mez	true	5	0	5		
+mmeiz->mmez	mmeiz->mmez	true	5	0	5		
+mmeizat->mezat	mmeizat->mezat	true	5	0	5		
+mmeizat->mizat	mmeizat->mizat	true	5	0	5		
+mmeizat->mmezaat	mmeizat->mmezaat	true	5	0	5		
+mmeizat->mmezat	mmeizat->mmezat	true	5	0	5		
+mmeizat->mmizat	mmeizat->mmizat	true	5	0	5		
+mnain->mnaan	mnain->mnaan	true	5	0	5		
+mnain->mnan	mnain->mnan	true	5	0	5		
+mo3ayn->mo3in	mo3ayn->mo3in	false	3	2	5		mo3in means 'helper/aide', breaks 'a specific topic' into 'a helper topic' || mo3in reads as mu3een, helper, a different real word
+mo3ayyerat->mo3iyerat	mo3ayyerat->mo3iyerat	true	5	0	5		
+mobayl->mobil	mobayl->mobil	true	5	0	5		
+mobileat->mobelat	mobileat->mobelat	true	5	0	5		
+mobileat->mobilat	mobileat->mobilat	true	5	0	5		
+mobileat->mubilat	mobileat->mubilat	true	5	0	5		
+moed->mod	moed->mod	true	5	0	5		
+moed->mood	moed->mood	false	3	2	5		"Reads as loanword ""mood"" (feeling), a different common word. || mood reads as the English word mood"
+moed->mud	moed->mud	false	4	1	5		mud reads as the English word mud
+moedl->modl	moedl->modl	true	5	0	5		
+moedl->moodl	moedl->moodl	true	5	0	5		
+moedl->mudl	moedl->mudl	true	5	0	5		
+moedlat->modlaat	moedlat->modlaat	true	5	0	5		
+moedlat->modlat	moedlat->modlat	true	5	0	5		
+moedlat->mudlat	moedlat->mudlat	true	5	0	5		
+moedrat->modrat	moedrat->modrat	true	5	0	5		
+moedrat->mudrat	moedrat->mudrat	true	5	0	5		
+moeya->moya	moeya->moya	false	4	1	5		moya means water, breaks '5 degrees Celsius' into '5 degrees of water'
+moeya->moyaa	moeya->moyaa	false	4	1	5		moyaa reads as moya/water, breaks 'Celsius degree' into 'degree of water'
+moeya->muya	moeya->muya	false	4	1	5		muya is colloquial for water, breaks 'Celsius degree' into 'degree of water'
+moghzia->mo8za	moghzia->mo8za	true	5	0	5		
+mograed->mograad	mograed->mograad	true	5	0	5		
+mograed->mograd	mograed->mograd	true	5	0	5		
+mograed->mugrad	mograed->mugrad	true	5	0	5		
+mohaymena->mohimena	mohaymena->mohimena	true	5	0	5		
+momayza->momiza	momayza->momiza	true	5	0	5		
+momayzat->momizat	momayzat->momizat	true	5	0	5		
+momayzeen->momizeen	momayzeen->momizeen	true	5	0	5		
+momteaz->momtaz	momteaz->momtaz	true	5	0	5		
+momteaz->mumtaz	momteaz->mumtaz	true	5	0	5		
+momteaza->momtaza	momteaza->momtaza	true	5	0	5		
+momteaza->momtazaa	momteaza->momtazaa	true	5	0	5		
+momteaza->momtazah	momteaza->momtazah	false	4	1	5		trailing -ah for taa marbuta is not usual Egyptian Franco; usual convention drops the h (just -a)
+momteaza->mumtaza	momteaza->mumtaza	true	5	0	5		
+mon7aneat->mon7anat	mon7aneat->mon7anat	true	5	0	5		
+mon7aneat->monhanat	mon7aneat->monhanat	true	5	0	5		
+moneasab->monasab	moneasab->monasab	true	5	0	5		
+moneasab->munasab	moneasab->munasab	true	5	0	5		
+moneasb->monasb	moneasb->monasb	true	5	0	5		
+moneasb->munasb	moneasb->munasb	true	5	0	5		
+moneasib->monaseb	moneasib->monaseb	true	5	0	5		
+moneasib->monasib	moneasib->monasib	true	5	0	5		
+moneasib->munasib	moneasib->munasib	true	5	0	5		
+mongolia->mongola	mongolia->mongola	true	5	0	5		
+mongolia->mongula	mongolia->mongula	true	5	0	5		
+mongolia->mungola	mongolia->mungola	true	5	0	5		
+mosaeed->mosad	mosaeed->mosad	false	2	3	5		form 'mosad' reads as Mossad (agency), breaks 'assistant' meaning || Drops the whole ee hiatus at once, beyond a single vowel elision. || Mosad reads as Mossad, the Israeli intelligence agency.
+mosaeed->mosaid	mosaeed->mosaid	true	5	0	5		
+mosta3dein->mosta3den	mosta3dein->mosta3den	true	5	0	5		
+mosta3dein->mosta3din	mosta3dein->mosta3din	true	5	0	5		
+motafael->motafaal	motafael->motafaal	true	5	0	5		
+motafael->motafal	motafael->motafal	true	5	0	5		
+motafael->mutafal	motafael->mutafal	false	4	1	5		mu- prefix follows MSA transliteration, not Egyptian colloquial mo- register.
+motaghayra->motaghira	motaghayra->motaghira	true	5	0	5		
+motaghayrat->motaghirat	motaghayrat->motaghirat	true	5	0	5		
+motaghayyer->motaghiyer	motaghayyer->motaghiyer	true	5	0	5		
+motahayla->motahila	motahayla->motahila	true	5	0	5		
+motahia->motaha	motahia->motaha	true	5	0	5		
+motamayzeen->motamizeen	motamayzeen->motamizeen	true	5	0	5		
+motanawea->motanawa	motanawea->motanawa	true	5	0	5		
+motanawea->motanawaa	motanawea->motanawaa	true	5	0	5		
+motanawea->mutanawa	motanawea->mutanawa	false	4	1	5		mu- prefix is MSA/formal style; Egyptian colloquial keeps mo-.
+motasawey->motasawi	motasawey->motasawi	true	5	0	5		
+motataleabat->motatalabat	motataleabat->motatalabat	true	5	0	5		
+motataleabat->mutatalabat	motataleabat->mutatalabat	false	4	1	5		mu- prefix is MSA style; Egyptian colloquial uses mo-.
+motataleia->motatalea	motataleia->motatalea	true	5	0	5		
+motataleia->motatalia	motataleia->motatalia	true	5	0	5		
+motataleia->mutatalea	motataleia->mutatalea	false	4	1	5		mu- prefix is MSA style; Egyptian colloquial uses mo-.
+motataleia->mutatalia	motataleia->mutatalia	false	4	1	5		mu- prefix is MSA style; Egyptian colloquial uses mo-.
+motawadea->motawada	motawadea->motawada	true	5	0	5		
+mratayn->mratin	mratayn->mratin	true	5	0	5		
+mray7->mri7	mray7->mri7	true	5	0	5		
+mulkia->molka	mulkia->molka	true	5	0	5		
+mulkia->mulka	mulkia->mulka	true	5	0	5		
+mulkia->mulkaa	mulkia->mulkaa	true	5	0	5		
+mzaia->mza	mzaia->mza	false	4	1	5		Drops both suffix vowels together, deleting the whole word ending.
+mzaia->mzaa	mzaia->mzaa	true	5	0	5		
+mzayd->mzid	mzayd->mzid	true	5	0	5		
+mzayna->mzina	mzayna->mzina	true	5	0	5		
+n7mey->n7mi	n7mey->n7mi	true	5	0	5		
+nabateat->nabatat	nabateat->nabatat	true	5	0	5		
+nabatey->nabati	nabatey->nabati	true	5	0	5		
+nabatia->nabata	nabatia->nabata	false	4	1	5		nabata reads as a plant (noun), not vegetarian; herbivore-is-a-plant is a plausible false parse.
+nabatia->nabataa	nabatia->nabataa	false	4	1	5		nabataa reads as a plant (noun); phrase 'basis of a-plant' is a plausible different meaning.
+nabatia->nabatah	nabatia->nabatah	false	3	2	5		nabatah reads as a plant (noun); 'the herbivore is a plant' is a plausible wrong parse. || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+nafsey->nafsi	nafsey->nafsi	true	5	0	5		
+nafsia->nafsa	nafsia->nafsa	true	5	0	5		
+nafsia->nafsaa	nafsia->nafsaa	true	5	0	5		
+nafsia->nafsah	nafsia->nafsah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+nahaeyet->nahayet	nahaeyet->nahayet	true	5	0	5		
+nahaeyet->nahayit	nahaeyet->nahayit	true	5	0	5		
+nahaia->naha	nahaia->naha	false	4	1	5		Drops two vowels at once, collapsing to unrelated word naha.
+nahaia->nahaa	nahaia->nahaa	true	5	0	5		
+nahayey->nahayi	nahayey->nahayi	true	5	0	5		
+namey->nami	namey->nami	true	5	0	5		
+nanoeya->nanoya	nanoeya->nanoya	true	5	0	5		
+nanoeya->nanoyah	nanoeya->nanoyah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+nanoeya->nanuya	nanoeya->nanuya	false	4	1	5		u swaps the loanword root 'nano' spelling; not an Egyptian habit.
+nasaay7->nasai7	nasaay7->nasai7	true	5	0	5		
+nashional->nashonaal	nashional->nashonaal	true	5	0	5		
+nashional->nashonal	nashional->nashonal	true	5	0	5		
+nashional->nashunal	nashional->nashunal	true	5	0	5		
+nataeja->nataja	nataeja->nataja	true	5	0	5		
+nataeja->natajaa	nataeja->natajaa	true	5	0	5		
+nataiga->nataga	nataiga->nataga	true	5	0	5		
+nataiga->natagaa	nataiga->natagaa	true	5	0	5		
+nawaia->nawa	nawaia->nawa	false	3	2	5		Drops two vowels at once, collapsing to unrelated word nawa. || nawa collides with nawa (pit/intended), a distinct word.
+nawaia->nawaa	nawaia->nawaa	false	4	1	5		nawaa collides with nawa (pit/intended).
+naway->nawi	naway->nawi	false	4	1	5		nawi is the common word for intending to.
+nayma->nima	nayma->nima	true	5	0	5		
+naymeen->nimeen	naymeen->nimeen	true	5	0	5		
+nazaria->nazara	nazaria->nazara	false	4	1	5		nazara is the common word for eyeglasses.
+nazaria->nazaraa	nazaria->nazaraa	false	4	1	5		nazaraa reads as nazara, eyeglasses.
+nazaria->nazarah	nazaria->nazarah	false	2	3	5		nazarah reads as 'a general overview' (نظرة عامة), a common phrase distinct from 'general theory'. || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a. || nazarah reads as nazara, eyeglasses.
+nazariat->nazaraat	nazariat->nazaraat	false	4	1	5		nazaraat is the plural of nazara, eyeglasses.
+nazariat->nazarat	nazariat->nazarat	false	4	1	5		nazarat reads as glasses or glances, a different word.
+ne7mey->ne7mi	ne7mey->ne7mi	true	5	0	5		
+nehayt->nehit	nehayt->nehit	true	5	0	5		
+neon->non	neon->non	false	4	1	5		'non' reads as English 'no/not', obscures element name neon
+neon->noon	neon->noon	false	2	3	5		'noon' is the Arabic letter name, breaks 'neon' meaning || noon reads as the English word 'noon', unrelated to neon. || noon collides with the letter name/English midday word.
+neon->nun	neon->nun	false	2	3	5		'nun' is the Arabic letter name, breaks 'neon' instructions meaning || nun reads as English 'nun' or Arabic letter name, unrelated to neon. || nun collides with the English word for a religious sister.
+nesbian->nesban	nesbian->nesban	true	5	0	5		
+nesbian->nisban	nesbian->nisban	true	5	0	5		
+nesia->nesa	nesia->nesa	true	5	0	5		
+nesia->nesaa	nesia->nesaa	true	5	0	5		
+nesia->nisa	nesia->nisa	false	3	2	5		'nisa' reads as women (نساء), breaks 'percentage' meaning || nisa collides with nisa' (women).
+netayga->netiga	netayga->netiga	true	5	0	5		
+neutron->notron	neutron->notron	true	5	0	5		
+neutron->nutron	neutron->nutron	true	5	0	5		
+neutron->nutrun	neutron->nutrun	true	5	0	5		
+niaba->naba	niaba->naba	false	3	2	5		'naba' reads as news (nabaa), breaks prosecution/legal meaning || naba reads as naba' (news/tiding).
+niaba->nabaa	niaba->nabaa	false	3	2	5		'nabaa' reads as news (nabaa), clashes with prosecution investigating || nabaa reads as naba' (news/tiding).
+niaba->nabah	niaba->nabah	false	2	3	5		'nabah' reads as barking (nabah), breaks 'on behalf of' idiom || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a. || nabah reads as nabah (barking).
+no2tein->no2ten	no2tein->no2ten	true	5	0	5		
+no2tein->no2tin	no2tein->no2tin	true	5	0	5		
+no2tein->nu2ten	no2tein->nu2ten	false	4	1	5		nu- prefix on native root is MSA-style, not Egyptian colloquial no-.
+no2tein->nu2tin	no2tein->nu2tin	false	4	1	5		nu- prefix on native root is MSA-style, not Egyptian colloquial no-.
+no3ein->no3en	no3ein->no3en	true	5	0	5		
+no3ein->no3in	no3ein->no3in	true	5	0	5		
+no3ein->nu3in	no3ein->nu3in	false	4	1	5		nu- prefix on native root is MSA-style, not Egyptian colloquial no-.
+nsebian->nseban	nsebian->nseban	true	5	0	5		
+nsebian->nsiban	nsebian->nsiban	true	5	0	5		
+ohayw->ohiw	ohayw->ohiw	true	5	0	5		
+okay->oki	okay->oki	true	5	0	5		
+okeanos->okanos	okeanos->okanos	true	5	0	5		
+okeanos->okanus	okeanos->okanus	true	5	0	5		
+onlain->onlaan	onlain->onlaan	true	5	0	5		
+onlain->onlan	onlain->onlan	true	5	0	5		
+onlain->unlan	onlain->unlan	false	4	1	5		un- breaks the recognizable English 'on-' prefix; not how Egyptians spell 'online'.
+qalbia->qalba	qalbia->qalba	true	5	0	5		
+qanonia->qanona	qanonia->qanona	true	5	0	5		
+qanonia->qanonaa	qanonia->qanonaa	true	5	0	5		
+qanonia->qanuna	qanonia->qanuna	false	4	1	5		u swap not attested; Egyptian colloquial spells this root with o (qanoon).
+qanonyia->qanonya	qanonyia->qanonya	true	5	0	5		
+qanonyia->qanonyah	qanonyia->qanonyah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+qanounia->qanoona	qanounia->qanoona	true	5	0	5		
+qanounia->qanouna	qanounia->qanouna	true	5	0	5		
+qanounia->qanounaa	qanounia->qanounaa	true	5	0	5		
+qay2->qi2	qay2->qi2	true	5	0	5		
+qayma->qima	qayma->qima	false	4	1	5		qima reads as qima (value), a different word than list.
+qaysar->qisar	qaysar->qisar	true	5	0	5		
+qeima->qema	qeima->qema	true	5	0	5		
+qeima->qima	qeima->qima	true	5	0	5		
+qotbia->qotba	qotbia->qotba	true	5	0	5		
+qotbia->qutba	qotbia->qutba	false	4	1	5		u swap follows MSA root vowel, not Egyptian colloquial qo-.
+quiz->qoz	quiz->qoz	true	5	0	5		
+quiz->quuz	quiz->quuz	true	5	0	5		
+quiz->quz	quiz->quz	true	5	0	5		
+qweia->qwea	qweia->qwea	true	5	0	5		
+qweia->qwia	qweia->qwia	true	5	0	5		
+qwey->qwi	qwey->qwi	true	5	0	5		
+r2meia->r2mea	r2meia->r2mea	true	5	0	5		
+r2meia->r2mia	r2meia->r2mia	true	5	0	5		
+r2meia->r2miaa	r2meia->r2miaa	true	5	0	5		
+ra2eesia->ra2eesa	ra2eesia->ra2eesa	true	5	0	5		
+ra2eesia->ra2eisa	ra2eesia->ra2eisa	true	5	0	5		
+ra2eesia->ra2esa	ra2eesia->ra2esa	true	5	0	5		
+ra2eisa->ra2esa	ra2eisa->ra2esa	true	5	0	5		
+ra2eisa->ra2esaa	ra2eisa->ra2esaa	true	5	0	5		
+ra2eisa->ra2isa	ra2eisa->ra2isa	true	5	0	5		
+ra2eisa->ra2isaa	ra2eisa->ra2isaa	true	5	0	5		
+ra2eisi->ra2ese	ra2eisi->ra2ese	true	5	0	5		
+ra2eisi->ra2esi	ra2eisi->ra2esi	true	5	0	5		
+ra2eisi->ra2ise	ra2eisi->ra2ise	true	5	0	5		
+ra2eisi->ra2isi	ra2eisi->ra2isi	true	5	0	5		
+ra2eisia->ra2eisa	ra2eisia->ra2eisa	true	5	0	5		
+ra2eisia->ra2esiaa	ra2eisia->ra2esiaa	true	5	0	5		
+ra2eisia->ra2isia	ra2eisia->ra2isia	true	5	0	5		
+ra2eisia->ra2isiaa	ra2eisia->ra2isiaa	true	5	0	5		
+ra2eissy->ra2essi	ra2eissy->ra2essi	true	5	0	5		
+ra2eissy->ra2isy	ra2eissy->ra2isy	true	5	0	5		
+ra2eisy->ra2esi	ra2eisy->ra2esi	true	5	0	5		
+ra2eisy->ra2isi	ra2eisy->ra2isi	true	5	0	5		
+ra2eisy->ra2isy	ra2eisy->ra2isy	true	5	0	5		
+ra2isia->ra2esa	ra2isia->ra2esa	true	5	0	5		
+ra2isia->ra2isa	ra2isia->ra2isa	true	5	0	5		
+ra3aia->ra3a	ra3aia->ra3a	false	3	2	5		Drops two vowels together, beyond a single-vowel elision habit. || ra3a collides with the verb ra3a (he tended/grazed).
+raday->radi	raday->radi	false	4	1	5		radi collides with radi (satisfied).
+radey->radi	radey->radi	false	4	1	5		radi collides with radi (satisfied).
+radio->radoo	radio->radoo	true	5	0	5		
+radio->radu	radio->radu	true	5	0	5		
+radioya->radoya	radioya->radoya	true	5	0	5		
+radioya->radoyaa	radioya->radoyaa	true	5	0	5		
+radioya->raduya	radioya->raduya	true	5	0	5		
+ragmey->ragmi	ragmey->ragmi	true	5	0	5		
+ragmia->ragma	ragmia->ragma	true	5	0	5		
+ragmia->ragmaa	ragmia->ragmaa	true	5	0	5		
+raqmeia->raqmea	raqmeia->raqmea	true	5	0	5		
+raqmeia->raqmia	raqmeia->raqmia	true	5	0	5		
+raqmia->raqma	raqmia->raqma	true	5	0	5		
+raqmia->raqmaa	raqmia->raqmaa	true	5	0	5		
+rasmeia->rasmea	rasmeia->rasmea	true	5	0	5		
+rasmeia->rasmeaa	rasmeia->rasmeaa	true	5	0	5		
+rasmeia->rasmia	rasmeia->rasmia	true	5	0	5		
+rasmeia->rasmiaa	rasmeia->rasmiaa	true	5	0	5		
+rawai7->rawa7	rawai7->rawa7	true	5	0	5		
+rawai7->rawaa7	rawai7->rawaa7	true	5	0	5		
+rawai7->rawah	rawai7->rawah	false	2	3	5		'rawah' reads as went-home (rawwah), breaks 'scent' meaning || Swaps 7 (h-heavy) for h (h-light), a consonant change, not a vowel drop. || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+ray->ri	ray->ri	false	4	1	5		In the x-ray example, 'x-ri' destroys the English loanword; unrecognizable as x-ray.
+ray2->ri2	ray2->ri2	true	5	0	5		
+ray2a->ri2a	ray2a->ri2a	false	4	1	5		'ri2a' spells lung (رئة), breaks 'relaxed/at ease' meaning
+ray2esya->ri2esya	ray2esya->ri2esya	true	5	0	5		
+ray3a->ri3a	ray3a->ri3a	true	5	0	5		
+ray3aya->ri3aya	ray3aya->ri3aya	true	5	0	5		
+ray7etha->ri7etha	ray7etha->ri7etha	true	5	0	5		
+rayhom->rihom	rayhom->rihom	true	5	0	5		
+raykom->rikom	raykom->rikom	true	5	0	5		
+rays->ris	rays->ris	true	5	0	5		
+rayseya->riseya	rayseya->riseya	true	5	0	5		
+raysya->risya	raysya->risya	true	5	0	5		
+rayt->rit	rayt->rit	true	5	0	5		
+rayya->riya	rayya->riya	false	4	1	5		riya collides with riya (hypocrisy/ostentation).
+rayyes->riyes	rayyes->riyes	true	5	0	5		
+rea->ra	rea->ra	true	5	0	5		
+rea->raa	rea->raa	true	5	0	5		
+rea->rah	rea->rah	false	3	2	5		'rah' reads as went (راح), breaks 'lung' meaning || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+reada->rada	reada->rada	true	5	0	5		
+reada->radaa	reada->radaa	true	5	0	5		
+reada->radah	reada->radah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+reaya->raya	reaya->raya	false	4	1	5		raya collides with raya (flag).
+reaya->rayaa	reaya->rayaa	false	4	1	5		rayaa reads as raya (flag).
+reglayn->reglin	reglayn->reglin	true	5	0	5		
+relay->reli	relay->reli	false	4	1	5		reli collides with the English loanword rally.
+resael->resaal	resael->resaal	true	5	0	5		
+resael->resal	resael->resal	true	5	0	5		
+resael->risal	resael->risal	true	5	0	5		
+resmian->resman	resmian->resman	true	5	0	5		
+resmian->risman	resmian->risman	true	5	0	5		
+rewayy->rewiy	rewayy->rewiy	true	5	0	5		
+rey->ri	rey->ri	true	5	0	5		
+riada->rada	riada->rada	true	5	0	5		
+riada->radah	riada->radah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+riadi->radi	riadi->radi	false	4	1	5		radi collides with radi (satisfied).
+riadi->rady	riadi->rady	false	4	1	5		rady collides with radi (satisfied).
+riyadia->reyada	riyadia->reyada	false	4	1	5		'reyada' reads as sport, contradicts dyscalculia/math context
+riyadia->riyada	riyadia->riyada	false	4	1	5		'riyada' reads as sport, clashes with 'pure math' subject context
+riyadia->riyadaa	riyadia->riyadaa	false	4	1	5		'riyadaa' reads as sport, clashes with 'pure math' subject context
+romansia->romansa	romansia->romansa	true	5	0	5		
+rousia->roosa	rousia->roosa	true	5	0	5		
+rousia->rousa	rousia->rousa	true	5	0	5		
+ryaadyia->ryaadya	ryaadyia->ryaadya	true	5	0	5		
+ryaadyia->ryaadyah	ryaadyia->ryaadyah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+ryaadyia->ryadya	ryaadyia->ryadya	true	5	0	5		
+sa3odia->sa3oda	sa3odia->sa3oda	true	5	0	5		
+sa3odia->sa3odaa	sa3odia->sa3odaa	true	5	0	5		
+sa3odia->sa3uda	sa3odia->sa3uda	false	4	1	5		u swap here follows MSA/Gulf spelling, not this word's Egyptian o.
+sa3oodia->sa3oda	sa3oodia->sa3oda	true	5	0	5		
+sa3oodia->sa3ooda	sa3oodia->sa3ooda	true	5	0	5		
+sa3udia->sa3oda	sa3udia->sa3oda	true	5	0	5		
+sa3udia->sa3uda	sa3udia->sa3uda	true	5	0	5		
+sa7ia->sa7a	sa7ia->sa7a	false	4	1	5		sa7a is the noun health itself, a different word.
+sa7ia->saha	sa7ia->saha	false	3	2	5		Swaps 7 for h, changing the consonant sound, not plausible elision. || saha collides with saha (plaza) or the interjection well-done.
+sab3eeniat->sab3eenaat	sab3eeniat->sab3eenaat	true	5	0	5		
+sab3eeniat->sab3eenat	sab3eeniat->sab3eenat	true	5	0	5		
+sab3eeniat->sab3enat	sab3eeniat->sab3enat	true	5	0	5		
+sae2a->sa2a	sae2a->sa2a	false	4	1	5		sa2a collides with the verb sa2a (watered).
+sae2a->sa2aa	sae2a->sa2aa	false	4	1	5		sa2aa collides with the verb sa2a (watered).
+sael->saal	sael->saal	false	4	1	5		saal collides with the verb saal (flowed).
+sael->sal	sael->sal	false	4	1	5		sal collides with sal (tuberculosis).
+safear->safaar	safear->safaar	false	4	1	5		safaar collides with safar (travel).
+saiba->saba	saiba->saba	true	5	0	5		
+saiba->sabaa	saiba->sabaa	true	5	0	5		
+saiba->sabah	saiba->sabah	false	2	3	5		'sabah' reads as morning, breaks 'neglected/left' meaning || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a. || sabah is the common word for morning.
+saif->saaf	saif->saaf	false	4	1	5		saaf collides with saaf (clear/pure).
+saini->sane	saini->sane	false	4	1	5		sane is an English word (rational).
+saini->sani	saini->sani	true	5	0	5		
+saini->sany	saini->sany	true	5	0	5		
+sakania->sakana	sakania->sakana	true	5	0	5		
+sakania->sakanaa	sakania->sakanaa	true	5	0	5		
+sakhria->sa5ra	sakhria->sa5ra	false	2	3	5		'sa5ra' reads as rock, breaks 'irony' meaning in one example || sa5ra reads as 'rock' (a real word), breaking the list of philosophical isms. || sa5ra collides with sakhra (rock).
+salbeia->salbea	salbeia->salbea	true	5	0	5		
+salbeia->salbeaa	salbeia->salbeaa	true	5	0	5		
+salbeia->salbia	salbeia->salbia	true	5	0	5		
+salbeia->salbiaa	salbeia->salbiaa	true	5	0	5		
+salbia->salba	salbia->salba	false	4	1	5		salba collides with salba (solid/hard).
+salbia->salbah	salbia->salbah	false	3	2	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a. || salbah collides with salba (solid/hard).
+samyia->samya	samyia->samya	true	5	0	5		
+samyia->samyaa	samyia->samyaa	true	5	0	5		
+samyia->samyah	samyia->samyah	false	4	1	5		-ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a.
+san3ey->san3i	san3ey->san3i	true	5	0	5		
+sanoeya->sanoya	sanoeya->sanoya	true	5	0	5		
+sanoeya->sanuya	sanoeya->sanuya	false	4	1	5		u swap on native root 'sanawiya' is not an Egyptian colloquial habit.
+sarea->sara	sarea->sara	false	4	1	5		sara collides with the name Sara.
+sarea->saraa	sarea->saraa	true	5	0	5		
+sarea->sarah	sarea->sarah	false	2	3	5		'sarah' reads as the name Sarah, breaks 'quickly/fast' meaning || -ah ending for ة is Levantine/Gulf convention; Egyptian Franco writes plain -a. || sarah collides with the name Sarah.
+sarie3->sare3	sarie3->sare3	true	5	0	5		
+sarie3->saree3	sarie3->saree3	true	5	0	5		
+sarie3->sari3	sarie3->sari3	true	5	0	5		
+sarie3->sarii3	sarie3->sarii3	true	5	0	5		
+sarie3a->sare3a	sarie3a->sare3a	true	5	0	5		
+sarie3a->sari3a	sarie3a->sari3a	true	5	0	5		
+sawael->sawal	sawael->sawal	false	4	1	5		sawal reads as singular 'question', a common different word from plural 'fluids'.
+sawtia->sawta	sawtia->sawta	true	5	0	5		
+sawtia->soota	sawtia->soota	true	5	0	5		
+say2->si2	say2->si2	true	5	0	5		
+say2a->si2a	say2a->si2a	true	5	0	5		
+say2an->si2an	say2an->si2an	true	5	0	5		
+say2een->si2een	say2een->si2een	true	5	0	5		
+say7eya->si7eya	say7eya->si7eya	true	5	0	5		
+saybeen->sibeen	saybeen->sibeen	true	5	0	5		
+sayd->sid	sayd->sid	false	2	3	5		'sid' reads as Mister (سيد), breaks 'hunting/fishing' meaning || sid reads as 'Mister/Sir', a common word unrelated to hunting/fishing. || sid collides with sid (sir/mister).
+saydala->sidala	saydala->sidala	true	5	0	5		
+saydaly->sidaly	saydaly->sidaly	true	5	0	5		
+saydalyat->sidalyat	saydalyat->sidalyat	true	5	0	5		
+sayf->sif	sayf->sif	true	5	0	5		
+sayfee->sifee	sayfee->sifee	true	5	0	5		
+saygha->sigha	saygha->sigha	true	5	0	5		
+saykoon->sikoon	saykoon->sikoon	false	4	1	5		sikoon collides with sukoon (stillness).
+sayla->sila	sayla->sila	false	3	2	5		'sila' reads as connection/link (صلة), breaks 'liquid' meaning || sila collides with sila (connection).
+sayns->sins	sayns->sins	false	3	2	5		sins reads as the English word 'sins', unrelated to science. || sins is an English word.
+sayr->sir	sayr->sir	false	4	1	5		sir is an English word/title.
+saytara->sitara	saytara->sitara	false	2	3	5		'sitara' reads as curtain, breaks 'control' (incl. Disease Control) meaning || sitara reads as 'curtain'; 'freed from the curtain' is a plausible different meaning. || sitara collides with sitara (curtain).
+saytra->sitra	saytra->sitra	false	2	3	5		'sitra' reads as jacket, breaks 'control' meaning || sitra reads as 'curtain'; 'under the curtain' is a natural idiom for hidden/covered, not control. || sitra collides with sitra (jacket).
+se7ia->se7aa	se7ia->se7aa	false	4	1	5		se7aa collides with si7a/sa7a (health).
+se7ia->si7a	se7ia->si7a	false	4	1	5		si7a is the noun health, a different word.
+seatl->satl	seatl->satl	false	2	3	5		'satl' reads as bucket, breaks 'Seattle' place-name meaning || satl reads as 'bucket', a common word unrelated to the place name Seattle. || satl is the common word for bucket.
+seenay->seeni	seenay->seeni	false	2	3	5		'seeni' reads as Chinese, breaks 'Sinai' place-name meaning || seeni reads as 'Chinese'; 'heroic Chinese people' is a plausible different meaning than Sinai. || seeni collides with seeni (Chinese).
+seeney->seeni	seeney->seeni	false	4	1	5		seeni collides with seeni (Chinese).
+seid->sed	seid->sed	false	2	3	5		'sed' reads as dam, breaks 'hunting/fishing grounds' meaning || sed reads as 'dam'; 'the dam's water' is a natural, plausible different meaning. || sed collides with sed (dam).
+seid->sid	seid->sid	false	2	3	5		'sid' reads as Mister (سيد), breaks 'hunting' meaning || sid reads as 'Mister/Sir', a common word unrelated to hunting. || sid collides with sid (sir/mister).
+seif->sef	seif->sef	true	5	0	5		
+seif->sif	seif->sif	true	5	0	5		
+seirfer->serfer	seirfer->serfer	true	5	0	5		
+seirfer->serfir	seirfer->serfir	true	5	0	5		
+seirfer->sirfer	seirfer->sirfer	true	5	0	5		
+seirferat->serferaat	seirferat->serferaat	true	5	0	5		
+seirferat->serferat	seirferat->serferat	true	5	0	5		
+seirferat->serfirat	seirferat->serfirat	true	5	0	5		
+seirferat->sirferat	seirferat->sirferat	true	5	0	5		
+seirferat->sirfirat	seirferat->sirfirat	true	5	0	5		
+selenium->selenum	selenium->selenum	true	5	0	5		
+selenium->selinum	selenium->selinum	true	5	0	5		
+selenium->silenum	selenium->silenum	true	5	0	5		
+selfie->selfe	selfie->selfe	true	5	0	5		
+selfie->selfee	selfie->selfee	true	5	0	5		
+selfie->selfi	selfie->selfi	true	5	0	5		
+selfie->silfe	selfie->silfe	true	5	0	5		
+senario->senaro	senario->senaro	true	5	0	5		
+senario->senaru	senario->senaru	true	5	0	5		
+senario->sinaro	senario->sinaro	true	5	0	5		
+series->seres	series->seres	true	5	0	5		
+series->seriis	series->seriis	true	5	0	5		
+series->seris	series->seris	true	5	0	5		
+series->siris	series->siris	true	5	0	5		
+session->seson	session->seson	true	5	0	5		
+session->sesson	session->sesson	true	5	0	5		
+session->sessoon	session->sessoon	true	5	0	5		
+session->sessun	session->sessun	true	5	0	5		
+session->sisson	session->sisson	true	5	0	5		
+sessions->sesons	sessions->sesons	true	5	0	5		
+sessions->sessons	sessions->sessons	true	5	0	5		
+sessions->sessuns	sessions->sessuns	true	5	0	5		
+sessions->sissons	sessions->sissons	true	5	0	5		
+seteeniat->seteenat	seteeniat->seteenat	true	5	0	5		
+seteeniat->siteenat	seteeniat->siteenat	true	5	0	5		
+sha2eat->sha2aat	sha2eat->sha2aat	true	5	0	5		
+sha2eat->sha2at	sha2eat->sha2at	true	5	0	5		
+sha3bia->sha3ba	sha3bia->sha3ba	false	4	1	5		sha3ba reads as شعبة (branch/division), a different word
+sha3bia->sha3baa	sha3bia->sha3baa	true	5	0	5		
+shaayf->shaif	shaayf->shaif	true	5	0	5		
+shaayfa->shaifa	shaayfa->shaifa	true	5	0	5		
+shaee3->sha3	shaee3->sha3	false	4	1	5		Drops entire middle syllable (both vowels of 'ee'), too aggressive for a single vowel-drop; real spelling keeps one, e.g. 'shai3'.
+shaee3->shai3	shaee3->shai3	true	5	0	5		
+shaela->shala	shaela->shala	true	5	0	5		
+shafaif->shafaaf	shafaif->shafaaf	false	2	3	5		Collides with real word shafaf/shafaaf (transparent); eye-color example reads as transparent, not lips. || shafaaf reads as shafaf (transparent), a real distinct word || shafaaf reads as شفاف (transparent), a different word
+shafaif->shafaf	shafaif->shafaf	false	2	3	5		Collides with real word shafaf (transparent); breaks lips meaning in context. || shafaf reads as the real word shafaf (transparent) || shafaf reads as شفاف (transparent), a different word
+shahia->shaha	shahia->shaha	true	5	0	5		
+shahrayn->shahrin	shahrayn->shahrin	true	5	0	5		
+shahria->shahra	shahria->shahra	true	5	0	5		
+shahria->shahraa	shahria->shahraa	true	5	0	5		
+shaif->shaaf	shaif->shaaf	false	3	2	5		Collides with the real, common, semantically different verb form 'shaaf' (saw, past tense), unlike the participle meaning of shaif. || shaaf reads as شاف (he saw, past tense), different word
+shaif->shaf	shaif->shaf	false	4	1	5		shaf reads as شاف (he saw, past tense), different word
+shaifa->shafa	shaifa->shafa	false	4	1	5		shafa reads as شفا (healed) or lip, different word
+shaifah->shafa	shaifah->shafa	false	4	1	5		shafa reads as شفا (healed) or lip, different word
+shaifah->shafah	shaifah->shafah	false	4	1	5		shafah reads as شفة (lip), a different word
+shaifaha->shafaha	shaifaha->shafaha	false	4	1	5		shafaha reads as شفاها (orally), a different word
+shaifaha->shafahaa	shaifaha->shafahaa	false	4	1	5		shafahaa reads as شفاها (orally), a different word
+shaifeen->shafeen	shaifeen->shafeen	true	5	0	5		
+shaifeen->shafein	shaifeen->shafein	true	5	0	5		
+shaifeen->shafen	shaifeen->shafen	true	5	0	5		
+shaifha->shafha	shaifha->shafha	false	4	1	5		shafha reads as شافها (he saw her), different phrase
+shaifha->shafhaa	shaifha->shafhaa	false	4	1	5		shafhaa reads as شافها (he saw her), different phrase
+shaifo->shafo	shaifo->shafo	false	4	1	5		shafo reads as شافه/شافوا (saw him/they saw)
+shaifo->shafoo	shaifo->shafoo	false	4	1	5		shafoo reads as شافه/شافوا (saw him/they saw)
+shaifo->shafu	shaifo->shafu	false	4	1	5		shafu reads as شافوا (they saw), different word
+shakhsia->sha5sa	shakhsia->sha5sa	true	5	0	5		
+shakhsyia->sha5sya	shakhsyia->sha5sya	true	5	0	5		
+shamaley->shamali	shamaley->shamali	true	5	0	5		
+shamalia->shamala	shamalia->shamala	true	5	0	5		
+sharay7->shari7	sharay7->shari7	true	5	0	5		
+sharea->shara	sharea->shara	true	5	0	5		
+sharea->sharaa	sharea->sharaa	true	5	0	5		
+sharea->sharah	sharea->sharah	false	3	2	5		ah ending for taa marbuta is not Egyptian franco convention, reads as formal/Gulf transliteration || sharah reads as شرح (he explained), different word
+shay2->shi2	shay2->shi2	true	5	0	5		
+shay2a->shi2a	shay2a->shi2a	true	5	0	5		
+shay2an->shi2an	shay2an->shi2an	true	5	0	5		
+shay3->shi3	shay3->shi3	false	4	1	5		shi3 could be read as clipped shi3a (Shia sect)
+shay3a->shi3a	shay3a->shi3a	false	3	2	5		shi3a reads as Shia (the sect), a real distinct word || shi3a is the common spelling of Shia (the sect)
+shay3an->shi3an	shay3an->shi3an	true	5	0	5		
+shay3at->shi3at	shay3at->shi3at	true	5	0	5		
+shayf->shif	shayf->shif	true	5	0	5		
+shayfa->shifa	shayfa->shifa	false	4	1	5		shifa reads as شفاء (healing/cure), different word
+shayfah->shifah	shayfah->shifah	false	4	1	5		shifah reads as شفاء (healing/cure), different word
+shayfeen->shifeen	shayfeen->shifeen	true	5	0	5		
+shaytan->shitan	shaytan->shitan	false	4	1	5		shitan starts with English 'shit', reads as that
+shia->sha	shia->sha	true	5	0	5		
+shia->shaa	shia->shaa	true	5	0	5		
+shia->shah	shia->shah	false	1	4	5		Collides with Shah (king); chia-seeds example becomes seeds of the Shah, meaning destroyed. || shah reads as Shah (Persian king title), a different word || shah reads as Persian royal title, not Egyptian register for Shia || shah reads as shah (king/chess title), different word
+shimalia->shemala	shimalia->shemala	true	5	0	5		
+shimalia->shimala	shimalia->shimala	true	5	0	5		
+siyasia->seyasa	siyasia->seyasa	false	4	1	5		seyasa reads as سياسة (policy/politics, noun)
+siyasia->siyasa	siyasia->siyasa	false	4	1	5		siyasa reads as سياسة (policy/politics, noun)
+siyasia->siyasaa	siyasia->siyasaa	false	4	1	5		siyasaa reads as سياسة (policy/politics, noun)
+so7ial->so7al	so7ial->so7al	true	5	0	5		
+so7ial->sohal	so7ial->sohal	true	5	0	5		
+so7ial->su7al	so7ial->su7al	true	5	0	5		
+sodiom->sodom	sodiom->sodom	false	4	1	5		sodom is exactly the Biblical city name Sodom
+sodiom->sodoom	sodiom->sodoom	true	5	0	5		
+sodiom->sodum	sodiom->sodum	true	5	0	5		
+sodiom->sudom	sodiom->sudom	true	5	0	5		
+sodium->sodom	sodium->sodom	false	4	1	5		sodom is exactly the Biblical city name Sodom
+sodium->sodum	sodium->sodum	true	5	0	5		
+sodium->sudum	sodium->sudum	true	5	0	5		
+soghayr->soghir	soghayr->soghir	true	5	0	5		
+soghayra->soghira	soghayra->soghira	true	5	0	5		
+sokariat->sokarat	sokariat->sokarat	true	5	0	5		
+sokariat->sukarat	sokariat->sukarat	true	5	0	5		
+solayman->soliman	solayman->soliman	true	5	0	5		
+sowtia->sowta	sowtia->sowta	true	5	0	5		
+sowtia->sowtaa	sowtia->sowtaa	true	5	0	5		
+soyia->soya	soyia->soya	true	5	0	5		
+soyia->soyaa	soyia->soyaa	true	5	0	5		
+soyia->suya	soyia->suya	true	5	0	5		
+srayr->srir	srayr->srir	true	5	0	5		
+stainless->stanles	stainless->stanles	true	5	0	5		
+stainless->stanless	stainless->stanless	true	5	0	5		
+stayr->stir	stayr->stir	false	4	1	5		stir reads as the English word stir (to mix)
+steak->stak	steak->stak	true	5	0	5		
+stereo->stero	stereo->stero	true	5	0	5		
+stereo->steru	stereo->steru	true	5	0	5		
+steroid->sterod	steroid->sterod	true	5	0	5		
+steroid->stirod	steroid->stirod	true	5	0	5		
+steroidat->sterodat	steroidat->sterodat	true	5	0	5		
+steroidat->sterudat	steroidat->sterudat	true	5	0	5		
+sueez->suz	sueez->suz	true	5	0	5		
+swael->swaal	swael->swaal	false	4	1	5		swaal reads as سؤال (question), different word
+swael->swal	swael->swal	false	4	1	5		swal reads as سؤال (question), different word
+sway->swi	sway->swi	false	4	1	5		swi could be read as سوى (siwa, except/other than)
+sway2a->swi2a	sway2a->swi2a	true	5	0	5		
+sway2an->swi2an	sway2an->swi2an	true	5	0	5		
+syasia->syasa	syasia->syasa	false	4	1	5		syasa reads as سياسة (policy/politics, noun)
+syasia->syasaa	syasia->syasaa	false	4	1	5		syasaa reads as سياسة (policy/politics, noun)
+syasia->syasah	syasia->syasah	false	3	2	5		ah ending for taa marbuta is not Egyptian franco convention here || syasah reads as سياسة (policy/politics, noun)
+t3leemia->t3leema	t3leemia->t3leema	true	5	0	5		
+t3leemia->t3leemaa	t3leemia->t3leemaa	true	5	0	5		
+t3leemia->t3leima	t3leemia->t3leima	false	4	1	5		Swaps letter order (m/i) rather than dropping a vowel; a metathesis typo, not a real spelling habit.
+t7tia->t7ta	t7tia->t7ta	false	4	1	5		t7ta reads as تحت (under), a different word/preposition
+t7tia->t7taa	t7tia->t7taa	false	4	1	5		t7taa reads as تحت (under), a different word/preposition
+ta3atey->ta3ati	ta3atey->ta3ati	true	5	0	5		
+ta3leemia->ta3leema	ta3leemia->ta3leema	true	5	0	5		
+ta3leemia->ta3lema	ta3leemia->ta3lema	true	5	0	5		
+ta7tia->ta7ta	ta7tia->ta7ta	false	4	1	5		ta7ta reads as تحت (under), a different word/preposition
+ta7tia->tahta	ta7tia->tahta	false	4	1	5		tahta is the common spelling of تحت (under)
+tab3ia->tab3a	tab3ia->tab3a	false	4	1	5		tab3a reads as طبعة (edition/print run), different word
+tab3ia->tab3ah	tab3ia->tab3ah	false	3	2	5		ah ending for taa marbuta is not Egyptian franco convention here || tab3ah reads as طبعة (edition/print run), different word
+tabeia->tabea	tabeia->tabea	true	5	0	5		
+tabeia->tabia	tabeia->tabia	true	5	0	5		
+tabeia->tabiaa	tabeia->tabiaa	true	5	0	5		
+tabi3ia->tabe3a	tabi3ia->tabe3a	false	3	2	5		Collides with tabe3a (belonging to/subordinate), not natural; changes home-remedies meaning. || tabe3a reads as طبيعة (nature, noun), different word
+tabi3ia->tabi3a	tabi3ia->tabi3a	false	4	1	5		tabi3a reads as طبيعة (nature, noun), different word
+tadmear->tadmaar	tadmear->tadmaar	true	5	0	5		
+tadmear->tadmar	tadmear->tadmar	true	5	0	5		
+tadoer->tador	tadoer->tador	true	5	0	5		
+tadoer->tadur	tadoer->tadur	true	5	0	5		
+tadoera->tadora	tadoera->tadora	true	5	0	5		
+tadoera->tadoraa	tadoera->tadoraa	true	5	0	5		
+tadoera->tadorah	tadoera->tadorah	false	4	1	5		ah ending for taa marbuta is not Egyptian franco convention here
+tadoera->tadura	tadoera->tadura	true	5	0	5		
+tadoerah->tadora	tadoerah->tadora	true	5	0	5		
+tadoerah->tadurah	tadoerah->tadurah	true	5	0	5		
+tadreeabat->tadriabat	tadreeabat->tadriabat	true	5	0	5		
+tadreeeb->tadrieb	tadreeeb->tadrieb	true	5	0	5		
+tadreeib->tadriib	tadreeib->tadriib	true	5	0	5		
+tadreeibat->tadrebat	tadreeibat->tadrebat	true	5	0	5		
+tadreeibat->tadreebat	tadreeibat->tadreebat	true	5	0	5		
+tadreeibat->tadribat	tadreeibat->tadribat	true	5	0	5		
+taghayyor->taghiyor	taghayyor->taghiyor	true	5	0	5		
+taghzeia->ta8zea	taghzeia->ta8zea	true	5	0	5		
+taghzeia->ta8zia	taghzeia->ta8zia	true	5	0	5		
+taghzyia->ta8zya	taghzyia->ta8zya	true	5	0	5		
+tagnologia->tagnologa	tagnologia->tagnologa	true	5	0	5		
+tagnologia->tagnoluga	tagnologia->tagnoluga	true	5	0	5		
+tagnologia->tagnuloga	tagnologia->tagnuloga	true	5	0	5		
+tahdeid->tahded	tahdeid->tahded	true	5	0	5		
+tahdeid->tahdid	tahdeid->tahdid	true	5	0	5		
+tahrieb->tahreb	tahrieb->tahreb	true	5	0	5		
+tahrieb->tahreeb	tahrieb->tahreeb	true	5	0	5		
+tahrieb->tahrib	tahrieb->tahrib	true	5	0	5		
+tahseeen->tahsien	tahseeen->tahsien	true	5	0	5		
+taib->taab	taib->taab	false	3	2	5		taab reads as taab (repented), a real distinct word || taab reads as تعب (got tired), a different word
+taif->taaf	taif->taaf	true	5	0	5		
+taif->taf	taif->taf	true	5	0	5		
+tailand->talaand	tailand->talaand	true	5	0	5		
+tailand->taland	tailand->taland	true	5	0	5		
+taimz->tamz	taimz->tamz	true	5	0	5		
+tajrebia->tajreba	tajrebia->tajreba	false	4	1	5		tajreba reads as تجربة (experience/experiment, noun)
+tajrebia->tajriba	tajrebia->tajriba	false	4	1	5		tajriba reads as تجربة (experience/experiment, noun)
+takhayyal->takhiyal	takhayyal->takhiyal	true	5	0	5		
+takmeelia->takmeela	takmeelia->takmeela	false	4	1	5		takmeela reads as تكملة (sequel/continuation), diff. word
+takmeelia->takmeelaa	takmeelia->takmeelaa	false	4	1	5		takmeelaa reads as تكملة (sequel/continuation), diff word
+takmeelia->takmela	takmeelia->takmela	false	4	1	5		takmela reads as تكملة (sequel/continuation), diff word
+taknologia->taknologa	taknologia->taknologa	true	5	0	5		
+taknologia->taknologaa	taknologia->taknologaa	true	5	0	5		
+taknologia->taknoluga	taknologia->taknoluga	true	5	0	5		
+taknologia->taknuloga	taknologia->taknuloga	true	5	0	5		
+talia->tala	talia->tala	true	5	0	5		
+talia->talaa	talia->talaa	true	5	0	5		
+talyia->talya	talyia->talya	true	5	0	5		
+talyia->talyaa	talyia->talyaa	true	5	0	5		
+talyia->talyah	talyia->talyah	false	4	1	5		ah ending for taa marbuta is not Egyptian franco convention here
+tamaneniat->tamanenat	tamaneniat->tamanenat	true	5	0	5		
+tamaneniat->tamaninat	tamaneniat->tamaninat	true	5	0	5		
+tamoeel->tamoil	tamoeel->tamoil	true	5	0	5		
+tamoeel->tamol	tamoeel->tamol	true	5	0	5		
+tamoel->tamol	tamoel->tamol	true	5	0	5		
+tamoel->tamool	tamoel->tamool	true	5	0	5		
+tamoel->tamul	tamoel->tamul	true	5	0	5		
+tamoen->tamon	tamoen->tamon	true	5	0	5		
+tamoen->tamoon	tamoen->tamoon	true	5	0	5		
+tanaia->tana	tanaia->tana	true	5	0	5		
+tanaia->tanaa	tanaia->tanaa	true	5	0	5		
+tania->tana	tania->tana	true	5	0	5		
+tania->tanaa	tania->tanaa	true	5	0	5		
+tanmeia->tanmea	tanmeia->tanmea	true	5	0	5		
+tanmeia->tanmeaa	tanmeia->tanmeaa	true	5	0	5		
+tanmeia->tanmia	tanmeia->tanmia	true	5	0	5		
+tanmeia->tanmiaa	tanmeia->tanmiaa	true	5	0	5		
+tanmia->tanma	tanmia->tanma	true	5	0	5		
+tanmia->tanmaa	tanmia->tanmaa	true	5	0	5		
+taqleedia->taqleda	taqleedia->taqleda	true	5	0	5		
+taqleedia->taqleeda	taqleedia->taqleeda	true	5	0	5		
+taqleedyia->taqledya	taqleedyia->taqledya	true	5	0	5		
+taqleedyia->taqleedya	taqleedyia->taqleedya	true	5	0	5		
+taqlidia->taqleda	taqlidia->taqleda	true	5	0	5		
+taqlidia->taqlida	taqlidia->taqlida	true	5	0	5		
+taqlidia->taqlidaa	taqlidia->taqlidaa	true	5	0	5		
+taqneaat->taqnaat	taqneaat->taqnaat	true	5	0	5		
+taqneat->taqnaat	taqneat->taqnaat	true	5	0	5		
+taqneat->taqnat	taqneat->taqnat	true	5	0	5		
+taqneiat->taqneat	taqneiat->taqneat	true	5	0	5		
+taqneiat->taqniat	taqneiat->taqniat	true	5	0	5		
+taqniat->taqnaat	taqniat->taqnaat	true	5	0	5		
+taqniat->taqnat	taqniat->taqnat	true	5	0	5		
+taray2->tari2	taray2->tari2	true	5	0	5		
+tarbia->tarba	tarbia->tarba	true	5	0	5		
+tarbia->tarbaa	tarbia->tarbaa	true	5	0	5		
+tarekhyia->tare5ya	tarekhyia->tare5ya	false	4	1	5		tarba reads as تربة (soil/earth), a different word
+tarikhyia->tari5ya	tarikhyia->tari5ya	false	4	1	5		tarbaa reads as تربة (soil/earth), a different word
+tasmeia->tasmea	tasmeia->tasmea	true	5	0	5		
+tasmeia->tasmeaa	tasmeia->tasmeaa	true	5	0	5		
+tasmeia->tasmia	tasmeia->tasmia	true	5	0	5		
+tasmeiat->tasmeat	tasmeiat->tasmeat	true	5	0	5		
+tasmeiat->tasmiaat	tasmeiat->tasmiaat	true	5	0	5		
+tasmeiat->tasmiat	tasmeiat->tasmiat	true	5	0	5		
+tawarie2->taware2	tawarie2->taware2	true	5	0	5		
+tawarie2->tawaree2	tawarie2->tawaree2	true	5	0	5		
+tawarie2->tawari2	tawarie2->tawari2	true	5	0	5		
+tawarie2->tawarii2	tawarie2->tawarii2	true	5	0	5		
+taweeel->tawiel	taweeel->tawiel	true	5	0	5		
+tawseiat->tawseaat	tawseiat->tawseaat	true	5	0	5		
+tawseiat->tawseat	tawseiat->tawseat	true	5	0	5		
+tawseiat->tawsiat	tawseiat->tawsiat	true	5	0	5		
+tayf->tif	tayf->tif	true	5	0	5		
+tayland->tiland	tayland->tiland	true	5	0	5		
+tayra->tira	tayra->tira	true	5	0	5		
+tayser->tiser	tayser->tiser	true	5	0	5		
+taywan->tiwan	taywan->tiwan	true	5	0	5		
+tayyar->tiyar	tayyar->tiyar	true	5	0	5		
+tayyara->tiyara	tayyara->tiyara	true	5	0	5		
+tazaid->tazaad	tazaid->tazaad	true	5	0	5		
+tazaid->tazad	tazaid->tazad	true	5	0	5		
+tazoer->tazoor	tazoer->tazoor	true	5	0	5		
+tazoer->tazor	tazoer->tazor	true	5	0	5		
+tazoer->tazur	tazoer->tazur	true	5	0	5		
+tbeia->tbea	tbeia->tbea	true	5	0	5		
+tbeia->tbeaa	tbeia->tbeaa	true	5	0	5		
+tbeia->tbia	tbeia->tbia	true	5	0	5		
+tbeia->tbiaa	tbeia->tbiaa	true	5	0	5		
+tday3->tdi3	tday3->tdi3	true	5	0	5		
+team->taam	team->taam	false	3	2	5		'ea' in English 'team' is one vowel sound (/i:/); dropping to 'taam' implies a wrong long-a pronunciation no Egyptian uses for this word. || taam risks reading as تم (done) or طعم (taste)
+team->tam	team->tam	false	3	2	5		Same digraph issue as taam, plus collides with the very common Arabic word 'tam' (done/finished). || tam reads as تم (done/happened), a very common word
+tedear->tedar	tedear->tedar	true	5	0	5		
+tedey->tedi	tedey->tedi	true	5	0	5		
+tegeah->tegah	tegeah->tegah	true	5	0	5		
+teir->ter	teir->ter	true	5	0	5		
+teir->tiir	teir->tiir	true	5	0	5		
+teir->tir	teir->tir	true	5	0	5		
+teknia->tekna	teknia->tekna	true	5	0	5		
+teknia->teknaa	teknia->teknaa	true	5	0	5		
+teknia->tikna	teknia->tikna	true	5	0	5		
+teknoelogya->teknologya	teknoelogya->teknologya	true	5	0	5		
+teknoelogya->teknologyaa	teknoelogya->teknologyaa	true	5	0	5		
+teknoelogya->teknologyah	teknoelogya->teknologyah	false	4	1	5		ah ending for taa marbuta is not Egyptian franco convention here
+teknoelogya->tiknologya	teknoelogya->tiknologya	true	5	0	5		
+teknologia->teknologa	teknologia->teknologa	true	5	0	5		
+teknologia->teknoluga	teknologia->teknoluga	true	5	0	5		
+teknologiat->teknologat	teknologiat->teknologat	true	5	0	5		
+teknologiat->teknolugat	teknologiat->teknolugat	true	5	0	5		
+teknologiat->teknulogat	teknologiat->teknulogat	true	5	0	5		
+teknologyia->teknologya	teknologyia->teknologya	true	5	0	5		
+teknologyia->teknolugya	teknologyia->teknolugya	true	5	0	5		
+teknologyia->teknulogya	teknologyia->teknulogya	true	5	0	5		
+teknologyia->tiknologya	teknologyia->tiknologya	true	5	0	5		
+teknolojia->teknoloja	teknolojia->teknoloja	true	5	0	5		
+teknolojia->teknolojaa	teknolojia->teknolojaa	true	5	0	5		
+teknolojia->tiknoloja	teknolojia->tiknoloja	true	5	0	5		
+teknoloyia->teknoloya	teknoloyia->teknoloya	true	5	0	5		
+teknoloyia->teknuloya	teknoloyia->teknuloya	true	5	0	5		
+teknoloyia->tiknoloya	teknoloyia->tiknoloya	true	5	0	5		
+telefazeon->telefazon	telefazeon->telefazon	true	5	0	5		
+telefazeon->telifazon	telefazeon->telifazon	true	5	0	5		
+telefazeon->tilefazon	telefazeon->tilefazon	true	5	0	5		
+telfezion->telfezon	telfezion->telfezon	true	5	0	5		
+telfezion->telfezoon	telfezion->telfezoon	true	5	0	5		
+telfezion->telfezun	telfezion->telfezun	true	5	0	5		
+telfezion->telfizon	telfezion->telfizon	true	5	0	5		
+teqneat->teqnat	teqneat->teqnat	true	5	0	5		
+teqneat->tiqnat	teqneat->tiqnat	true	5	0	5		
+teqneiat->teqneat	teqneiat->teqneat	true	5	0	5		
+teqneiat->teqniat	teqneiat->teqniat	true	5	0	5		
+teqneiat->tiqneat	teqneiat->tiqneat	true	5	0	5		
+teqneiat->tiqniat	teqneiat->tiqniat	true	5	0	5		
+teqniat->teqnat	teqniat->teqnat	true	5	0	5		
+teqniat->tiqnat	teqniat->tiqnat	true	5	0	5		
+terbey->terbi	terbey->terbi	true	5	0	5		
+tesayter->tesiter	tesayter->tesiter	true	5	0	5		
+tfeasel->tfaseel	tfeasel->tfaseel	true	5	0	5		
+tfeasel->tfasel	tfeasel->tfasel	true	5	0	5		
+tgeah->tga	tgeah->tga	false	4	1	5		Drops final ح entirely, not just a vowel; unlikely real spelling.
+tgeah->tgaah	tgeah->tgaah	true	5	0	5		
+tgeah->tgah	tgeah->tgah	true	5	0	5		
+thalathia->thalatha	thalathia->thalatha	false	4	1	5		thalatha reads as the number three, not the 3D adjective
+thalathia->thalathaa	thalathia->thalathaa	false	4	1	5		thalathaa still reads as elongated number three
+thanay->thani	thanay->thani	true	5	0	5		
+thaney->thani	thaney->thani	true	5	0	5		
+thania->thana	thania->thana	false	3	2	5		thana reads as praise (thanaa2), losing second-language meaning of thania || thana collides with name/word Thana (praise), not second
+thaqafia->thaqafa	thaqafia->thaqafa	false	4	1	5		thaqafa is the noun culture itself, not the adjective
+thaqafia->thaqafaa	thaqafia->thaqafaa	false	4	1	5		thaqafaa still reads as the noun culture
+thiamin->thamen	thiamin->thamen	false	3	2	5		Also swaps min to men arbitrarily, not an adjacent-vowel drop. || thamen reads as ordinal eighth, not the vitamin
+thiamin->thamin	thiamin->thamin	false	4	1	5		thamin reads as precious/valuable, not the vitamin
+tijaria->tejara	tijaria->tejara	false	4	1	5		tejara is the noun commerce itself, not the adjective
+tijaria->tijara	tijaria->tijara	false	4	1	5		tijara is the noun commerce itself, not the adjective
+titanium->tetanum	titanium->tetanum	false	2	3	5		tetanum reads as tetanus disease, breaking titanium-implant sentence meaning || Changes ti to te, reading like the unrelated word tetanus. || tetanum reads as tetanus, the disease, not titanium
+titanium->titanom	titanium->titanom	true	5	0	5		
+titanium->titanum	titanium->titanum	true	5	0	5		
+tjaray->tjari	tjaray->tjari	true	5	0	5		
+tjarian->tjaraan	tjarian->tjaraan	true	5	0	5		
+tjarian->tjaran	tjarian->tjaran	true	5	0	5		
+toelha->tolha	toelha->tolha	true	5	0	5		
+toelha->tolhaa	toelha->tolhaa	true	5	0	5		
+torkia->torka	torkia->torka	true	5	0	5		
+torkia->turka	torkia->turka	true	5	0	5		
+trillion->trellon	trillion->trellon	true	5	0	5		
+trillion->trillon	trillion->trillon	true	5	0	5		
+trillion->trillun	trillion->trillun	true	5	0	5		
+twael->twaal	twael->twaal	true	5	0	5		
+twael->twal	twael->twal	true	5	0	5		
+twaela->twala	twaela->twala	true	5	0	5		
+twaela->twalaa	twaela->twalaa	true	5	0	5		
+twayla->twila	twayla->twila	true	5	0	5		
+tzaeed->tzaid	tzaeed->tzaid	true	5	0	5		
+w2ay->w2i	w2ay->w2i	true	5	0	5		
+w3aysha->w3isha	w3aysha->w3isha	true	5	0	5		
+w3ayz->w3iz	w3ayz->w3iz	true	5	0	5		
+w3ayza->w3iza	w3ayza->w3iza	true	5	0	5		
+wa2ay->wa2i	wa2ay->wa2i	true	5	0	5		
+wain->waan	wain->waan	false	4	1	5		Replaces the ai diphthong with doubled aa; not a real habit.
+wain->wan	wain->wan	true	5	0	5		
+wakaia->waka	wakaia->waka	true	5	0	5		
+wakia->waka	wakia->waka	true	5	0	5		
+wakia->wakaa	wakia->wakaa	true	5	0	5		
+walaia->walaa	walaia->walaa	false	4	1	5		walaa collides with walaa (loyalty), not the state name
+wasael->wasaal	wasael->wasaal	true	5	0	5		
+wasael->wasal	wasael->wasal	false	3	2	5		wasal reads as receipt/arrived, breaking nonviolent-means meaning || wasal collides with the common verb wasal (arrived)
+wasayt->wasit	wasayt->wasit	true	5	0	5		
+wataneia->watanea	wataneia->watanea	true	5	0	5		
+wataneia->watania	wataneia->watania	true	5	0	5		
+wataneia->wataniaa	wataneia->wataniaa	true	5	0	5		
+watania->watana	watania->watana	false	4	1	5		watana reads as our-homeland (watan+na), not national
+watanyia->watanya	watanyia->watanya	true	5	0	5		
+watanyia->watanyaa	watanyia->watanyaa	true	5	0	5		
+watanyia->watanyah	watanyia->watanyah	false	4	1	5		-ah ending for ta marbuta is Gulf/Levantine/formal transliteration; Egyptian Franco uses plain -a.
+wathay2y->wathi2y	wathay2y->wathi2y	true	5	0	5		
+wayn->win	wayn->win	false	3	2	5		win reads as the English word 'win', not the name Wayn(e). || win collides with common English loanword win
+wayt->wit	wayt->wit	false	3	2	5		wit reads as the English word 'wit', losing the name/word identity. || wit collides with English wit/name Wight
+wazaef->wazaf	wazaef->wazaf	true	5	0	5		
+wazaefa->wazafa	wazaefa->wazafa	true	5	0	5		
+wazaefa->wazafaa	wazaefa->wazafaa	true	5	0	5		
+wazaif->wazaaf	wazaif->wazaaf	true	5	0	5		
+wazaif->wazaf	wazaif->wazaf	true	5	0	5		
+wazay->wazi	wazay->wazi	true	5	0	5		
+wdayman->wdiman	wdayman->wdiman	true	5	0	5		
+welaet->welat	welaet->welat	true	5	0	5		
+welaeyet->welayet	welaeyet->welayet	true	5	0	5		
+welaeyet->welayit	welaeyet->welayit	true	5	0	5		
+welaeyet->wilayet	welaeyet->wilayet	true	5	0	5		
+welaia->welaa	welaia->welaa	false	4	1	5		welaa collides with walaa (loyalty), not the state
+welradio->welrado	welradio->welrado	true	5	0	5		
+welradio->welradu	welradio->welradu	true	5	0	5		
+welradio->wilrado	welradio->wilrado	true	5	0	5		
+welteknologia->welteknologa	welteknologia->welteknologa	true	5	0	5		
+welteknologia->welteknoluga	welteknologia->welteknoluga	true	5	0	5		
+welteknologia->welteknuloga	welteknologia->welteknuloga	true	5	0	5		
+welteknologia->weltiknologa	welteknologia->weltiknologa	true	5	0	5		
+wey->wi	wey->wi	true	5	0	5		
+wgheir->w8ir	wgheir->w8ir	false	2	3	5		8 is not an established Egyptian digit for غ; unlikely spelling. || 8 for غ is a Levantine chat-alphabet digit, not Egyptian (Egyptian Franco uses gh). || w8ir reads as leetspeak for wait, not wa+gheir
+whea->wha	whea->wha	false	4	1	5		wha reads as truncated English what
+whea->whaa	whea->whaa	true	5	0	5		
+wia->wa	wia->wa	false	2	3	5		wa reads as plain and, losing which-is identification wia conveyed || wa reads as the ubiquitous conjunction 'and' (و), changing 'and she/it is X' into 'and X'. || wa collides with the ubiquitous conjunction and (wa)
+wia->waa	wia->waa	false	2	3	5		waa reads as plain and, losing which-is identification wia conveyed || waa still reads as an emphasized 'and' (و), same list-continuation misreading as wa. || waa still collides with and (wa), just elongated
+wia->wah	wia->wah	false	2	3	5		wah reads as the common exclamation 'wah!' (surprise), not 'w+heya'. || -ah ending is not an Egyptian Franco convention here; Egyptian would keep plain -a/-wa. || wah collides with the common interjection wah (wow)
+wikaia->wika	wikaia->wika	true	5	0	5		
+wikaia->wikaa	wikaia->wikaa	true	5	0	5		
+wlaia->wla	wlaia->wla	false	3	2	5		wla reads as nor/not-even, contradicting the state-name meaning || wla collides with the very common word wala (not even/nor)
+wlaia->wlaa	wlaia->wlaa	false	4	1	5		wlaa still collides with wala (not even/nor)
+wlayt->wlit	wlayt->wlit	true	5	0	5		
+wteknologia->wteknologaa	wteknologia->wteknologaa	true	5	0	5		
+wteknologia->wteknoluga	wteknologia->wteknoluga	true	5	0	5		
+wteknologia->wtiknologa	wteknologia->wtiknologa	true	5	0	5		
+wzeart->wzaart	wzeart->wzaart	true	5	0	5		
+wzeart->wzart	wzeart->wzart	true	5	0	5		
+y3aysho->y3isho	y3aysho->y3isho	true	5	0	5		
+y7amey->y7ami	y7amey->y7ami	true	5	0	5		
+y7meo->y7mo	y7meo->y7mo	true	5	0	5		
+y7meo->yhmo	y7meo->yhmo	false	4	1	5		Drops digit 7 for ح, replaced with plain h; not standard Franco digit convention.
+yabaney->yabani	yabaney->yabani	true	5	0	5		
+yahoodia->yahoda	yahoodia->yahoda	true	5	0	5		
+yahoodia->yahooda	yahoodia->yahooda	true	5	0	5		
+yawmey->yawmi	yawmey->yawmi	true	5	0	5		
+yawmia->yawma	yawmia->yawma	false	4	1	5		el yawma plausibly reads as 'today' (اليوم), a real different common word.
+yawmia->yooma	yawmia->yooma	false	4	1	5		Changes aw diphthong to oo, not a vowel drop; unnatural.
+ye3aysho->ye3isho	ye3aysho->ye3isho	true	5	0	5		
+yeakel->yakel	yeakel->yakel	true	5	0	5		
+yeakel->yakil	yeakel->yakil	true	5	0	5		
+yeaklo->yaklo	yeaklo->yaklo	true	5	0	5		
+yeaklo->yaklu	yeaklo->yaklu	true	5	0	5		
+yekhaley->yekhali	yekhaley->yekhali	true	5	0	5		
+yesayter->yesiter	yesayter->yesiter	true	5	0	5		
+yewmia->yewma	yewmia->yewma	false	4	1	5		el yewma plausibly reads as 'today' (اليوم), a real different common word.
+yewmia->yewmaa	yewmia->yewmaa	true	5	0	5		
+yewmia->yiwma	yewmia->yiwma	true	5	0	5		
+yewmian->yewmaan	yewmian->yewmaan	true	5	0	5		
+yewmian->yewman	yewmian->yewman	true	5	0	5		
+yewmian->yiwman	yewmian->yiwman	true	5	0	5		
+ynayr->ynir	ynayr->ynir	false	4	1	5		Over-compresses a month name beyond normal casual typing.
+yodey->yodi	yodey->yodi	true	5	0	5		
+yomey->yomi	yomey->yomi	true	5	0	5		
+yonania->yonana	yonania->yonana	true	5	0	5		
+yonania->yunana	yonania->yunana	true	5	0	5		
+yoolio->yolo	yoolio->yolo	false	3	2	5		yolo collides with the globally salient slang 'YOLO', overriding the month reading. || yolo collides with the famous English slang YOLO
+yoolio->yoolo	yoolio->yoolo	true	5	0	5		
+yoolio->yoolu	yoolio->yoolu	true	5	0	5		
+youmian->yooman	youmian->yooman	true	5	0	5		
+youmian->youman	youmian->youman	true	5	0	5		
+younania->yoonana	younania->yoonana	true	5	0	5		
+younania->younana	younania->younana	true	5	0	5		
+yunania->yunana	yunania->yunana	true	5	0	5		
+yunio->yuno	yunio->yuno	true	5	0	5		
+yunio->yunoo	yunio->yunoo	true	5	0	5		
+yunio->yunu	yunio->yunu	true	5	0	5		
+zabain->zabaan	zabain->zabaan	true	5	0	5		
+zabain->zaban	zabain->zaban	true	5	0	5		
+zabayyen->zabiyen	zabayyen->zabiyen	true	5	0	5		
+zaeem->zaim	zaeem->zaim	true	5	0	5		
+zaeem->zam	zaeem->zam	false	3	2	5		Drops both vowels at once, collapsing the word too far to be real. || Collapses both vowels of zaeem; does not match actual Egyptian pronunciation (still two syllables).
+zahaymar->zahimar	zahaymar->zahimar	true	5	0	5		
+zait->zaat	zait->zaat	false	2	3	5		zaat reads as self/identity, breaking olive-oil ingredient meaning || Turns ai into double-a, colliding with the unrelated word zaat. || zaat collides with the common word zaat (self/same)
+zait->zat	zait->zat	false	3	2	5		zat reads as self/identity, breaking olive-oil meaning || zat collides with the common word zaat (self/same)
+zamaney->zamani	zamaney->zamani	true	5	0	5		
+zamaylak->zamilak	zamaylak->zamilak	true	5	0	5		
+zamaylek->zamilek	zamaylek->zamilek	true	5	0	5		
+zamaylo->zamilo	zamaylo->zamilo	true	5	0	5		
+zamayly->zamily	zamayly->zamily	true	5	0	5		
+zatia->zata	zatia->zata	true	5	0	5		
+zatia->zataa	zatia->zataa	true	5	0	5		
+zatyia->zatya	zatyia->zatya	true	5	0	5		
+zatyia->zatyaa	zatyia->zatyaa	true	5	0	5		
+zatyia->zatyah	zatyia->zatyah	false	4	1	5		-ah ending for ta marbuta is Gulf/Levantine/formal transliteration; Egyptian Franco uses plain -a.
+zawayya->zawiya	zawayya->zawiya	false	4	1	5		Produces the real singular word zawiya, not a spelling variant.
+zawgein->zawgen	zawgein->zawgen	true	5	0	5		
+zawgein->zoogen	zawgein->zoogen	false	4	1	5		Changes aw diphthong to oo; not a plausible vowel-drop habit.
+zawgein->zoogin	zawgein->zoogin	false	4	1	5		Changes aw diphthong to oo; not a plausible vowel-drop habit.
+zawia->zawa	zawia->zawa	true	5	0	5		
+zawia->zawaa	zawia->zawaa	true	5	0	5		
+zay->zi	zay->zi	true	5	0	5		
+zayda->zida	zayda->zida	true	5	0	5		
+zayhom->zihom	zayhom->zihom	true	5	0	5		
+zayl->zil	zayl->zil	true	5	0	5		
+zayna->zina	zayna->zina	false	4	1	5		zina collides with zina (adultery), a loaded word
+zaytoon->zitoon	zaytoon->zitoon	true	5	0	5		
+zayy->ziy	zayy->ziy	true	5	0	5		
+zayye->ziye	zayye->ziye	true	5	0	5		
+zeada->zada	zeada->zada	false	4	1	5		zada reads as the verb zad (he increased)
+zeada->zadaa	zeada->zadaa	false	4	1	5		zadaa reads as the verb zad (he increased)
+zeato->zato	zeato->zato	true	5	0	5		
+zeato->zatoo	zeato->zatoo	true	5	0	5		
+zeato->zatu	zeato->zatu	true	5	0	5		
+zeiada->zeada	zeiada->zeada	true	5	0	5		
+zeiada->zeadaa	zeiada->zeadaa	true	5	0	5		
+zeiada->ziada	zeiada->ziada	true	5	0	5		
+zeiada->ziadaa	zeiada->ziadaa	true	5	0	5		
+zeiadet->zeadeet	zeiadet->zeadeet	true	5	0	5		
+zeiadet->zeadet	zeiadet->zeadet	true	5	0	5		
+zeiadet->zeadit	zeiadet->zeadit	true	5	0	5		
+zeiadet->ziadeet	zeiadet->ziadeet	true	5	0	5		
+zeiadet->ziadet	zeiadet->ziadet	true	5	0	5		
+zeit->ziit	zeit->ziit	true	5	0	5		
+zey->zi	zey->zi	true	5	0	5		
+zheimer->zhemer	zheimer->zhemer	true	5	0	5		
+zheimer->zhemir	zheimer->zhemir	true	5	0	5		
+zheimer->zhimer	zheimer->zhimer	true	5	0	5		
+ziada->zada	ziada->zada	false	4	1	5		zada reads as the verb zad (he increased)
+ziada->zadaa	ziada->zadaa	false	4	1	5		zadaa reads as the verb zad (he increased)
+zmayloh->zmiloh	zmayloh->zmiloh	true	5	0	5		
+zmayly->zmily	zmayly->zmily	true	5	0	5		
+zombie->zombe	zombie->zombe	true	5	0	5		
+zombie->zombee	zombie->zombee	true	5	0	5		
+zombie->zombi	zombie->zombi	true	5	0	5		
+zombie->zumbe	zombie->zumbe	true	5	0	5		
+zwey->zwi	zwey->zwi	true	5	0	5		

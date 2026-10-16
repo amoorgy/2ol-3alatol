@@ -1,0 +1,21 @@
+{
+ "full_policy_in_sample": {
+  "judged": 5400,
+  "rejected": 969,
+  "kept": 4431,
+  "catch_rate": 0.9794,
+  "false_block_rate": 0.197,
+  "residual_error": 0.0056,
+  "rows_passing": 3578
+ },
+ "rules_only_out_of_sample": {
+  "judged": 5400,
+  "rejected": 969,
+  "kept": 4431,
+  "catch_rate": 0.7327,
+  "false_block_rate": 0.0986,
+  "residual_error": 0.0609,
+  "rows_passing": 4253
+ },
+ "baseline_no_policy_error": 0.1794
+}

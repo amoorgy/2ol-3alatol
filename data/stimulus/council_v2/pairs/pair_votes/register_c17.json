@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "elwelaia->ilwelaa",
+  "rid": "elwelaia->ilwelaa",
+  "v": false,
+  "why": "Drops the y of Egyptian welaya; 'welaa' reads as walaa (loyalty), not an Egyptian spelling."
+ },
+ {
+  "sid": "elyawmia->elyawma",
+  "rid": "elyawmia->elyawma",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "elyawmia->elyooma",
+  "rid": "elyawmia->elyooma",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "elyawmia->ilyawma",
+  "rid": "elyawmia->ilyawma",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "elyeal->elyal",
+  "rid": "elyeal->elyal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "elyeal->ilyal",
+  "rid": "elyeal->ilyal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "elyonaania->elyonaana",
+  "rid": "elyonaania->elyonaana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "elyonaania->ilyonaana",
+  "rid": "elyonaania->ilyonaana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "elzamaney->elzamani",
+  "rid": "elzamaney->elzamani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "elzawayya->elzawiya",
+  "rid": "elzawayya->elzawiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "elzayda->elzida",
+  "rid": "elzayda->elzida",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "elzaytoon->elzitoon",
+  "rid": "elzaytoon->elzitoon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emails->emals",
+  "rid": "emails->emals",
+  "v": false,
+  "why": "'a' for the Egyptian e-vowel of imeel; emals is no Franco convention."
+ },
+ {
+  "sid": "emails->imals",
+  "rid": "emails->imals",
+  "v": false,
+  "why": "'a' for the Egyptian e-vowel of imeel; imals is no Franco convention."
+ },
+ {
+  "sid": "emayl->emil",
+  "rid": "emayl->emil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emaylat->emilat",
+  "rid": "emaylat->emilat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneia->emkanea",
+  "rid": "emkaneia->emkanea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneia->emkania",
+  "rid": "emkaneia->emkania",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneia->emkaniaa",
+  "rid": "emkaneia->emkaniaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneia->imkanea",
+  "rid": "emkaneia->imkanea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneia->imkania",
+  "rid": "emkaneia->imkania",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneiat->emkaneaat",
+  "rid": "emkaneiat->emkaneaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneiat->emkaneat",
+  "rid": "emkaneiat->emkaneat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneiat->emkaniat",
+  "rid": "emkaneiat->emkaniat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkaneiat->imkaniat",
+  "rid": "emkaneiat->imkaniat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "emkania->emkana",
+  "rid": "emkania->emkana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "endonesia->endonesa",
+  "rid": "endonesia->endonesa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "endonesia->endonisa",
+  "rid": "endonesia->endonisa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "endonesia->indonesa",
+  "rid": "endonesia->indonesa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "engeaz->engaz",
+  "rid": "engeaz->engaz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "engeaz->ingaz",
+  "rid": "engeaz->ingaz",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "engelizia->ingeliza",
+  "rid": "engelizia->ingeliza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ensania->ensana",
+  "rid": "ensania->ensana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ensania->ensanaa",
+  "rid": "ensania->ensanaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ensania->insana",
+  "rid": "ensania->insana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "enteab->entab",
+  "rid": "enteab->entab",
+  "v": false,
+  "why": "'entab' is no Egyptian spelling of entebah; reads as entaab."
+ },
+ {
+  "sid": "enteab->intab",
+  "rid": "enteab->intab",
+  "v": false,
+  "why": "'intab' is no Egyptian spelling of entebah; reads as entaab."
+ },
+ {
+  "sid": "enteabeh->entabeh",
+  "rid": "enteabeh->entabeh",
+  "v": false,
+  "why": "'entabeh' shifts vowels away from Egyptian entebaah; not a Franco spelling of the noun."
+ },
+ {
+  "sid": "enteabeh->entabih",
+  "rid": "enteabeh->entabih",
+  "v": false,
+  "why": "'entabih' shifts vowels away from Egyptian entebaah; not a Franco spelling of the noun."
+ },
+ {
+  "sid": "enteag->entaag",
+  "rid": "enteag->entaag",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteag->entag",
+  "rid": "enteag->entag",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteag->intag",
+  "rid": "enteag->intag",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteaj->entaj",
+  "rid": "enteaj->entaj",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteaj->intaj",
+  "rid": "enteaj->intaj",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->entebaah",
+  "rid": "enteibah->entebaah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->entebah",
+  "rid": "enteibah->entebah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->entibaah",
+  "rid": "enteibah->entibaah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->entibah",
+  "rid": "enteibah->entibah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->intebah",
+  "rid": "enteibah->intebah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enteibah->intibah",
+  "rid": "enteibah->intibah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "enzaym->enzim",
+  "rid": "enzaym->enzim",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "eqtesadia->eqtesadaa",
+  "rid": "eqtesadia->eqtesadaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "eqtesadia->eqtisada",
+  "rid": "eqtesadia->eqtisada",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "eqtesadia->iqtesada",
+  "rid": "eqtesadia->iqtesada",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "estudio->estodo",
+  "rid": "estudio->estodo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "estudio->estudo",
+  "rid": "estudio->estudo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "estudio->estudu",
+  "rid": "estudio->estudu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "estudio->istudo",
+  "rid": "estudio->istudo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "etefaqia->itefaqa",
+  "rid": "etefaqia->itefaqa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "etnain->etnan",
+  "rid": "etnain->etnan",
+  "v": false,
+  "why": "Egyptian says etneen; 'a' for that e-vowel (etnan) is not an Egyptian habit."
+ },
+ {
+  "sid": "etnain->itnan",
+  "rid": "etnain->itnan",
+  "v": false,
+  "why": "Egyptian says etneen; 'a' for that e-vowel (itnan) is not an Egyptian habit."
+ },
+ {
+  "sid": "etnein->itnen",
+  "rid": "etnein->itnen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "etnein->itnin",
+  "rid": "etnein->itnin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ezay->ezi",
+  "rid": "ezay->ezi",
+  "v": false,
+  "why": "Egyptian ezzaay keeps the long a; 'ezi' misrepresents it."
+ },
+ {
+  "sid": "ezayda->ezida",
+  "rid": "ezayda->ezida",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "ezayk->ezik",
+  "rid": "ezayk->ezik",
+  "v": false,
+  "why": "Egyptian ezzayyak/ezzayyek keeps ayy; 'ezik' is not an Egyptian spelling."
+ },
+ {
+  "sid": "ezzay->ezzi",
+  "rid": "ezzay->ezzi",
+  "v": false,
+  "why": "Egyptian ezzaay keeps the long a; 'ezzi' misrepresents it."
+ },
+ {
+  "sid": "fa3alia->fa3ala",
+  "rid": "fa3alia->fa3ala",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fa3alia->fa3alaa",
+  "rid": "fa3alia->fa3alaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fa3aliat->fa3alaat",
+  "rid": "fa3aliat->fa3alaat",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fa3aliat->fa3alat",
+  "rid": "fa3aliat->fa3alat",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fa3alietha->fa3aletha",
+  "rid": "fa3alietha->fa3aletha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fa3alietha->fa3alitha",
+  "rid": "fa3alietha->fa3alitha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fa3alietha->fa3alithaa",
+  "rid": "fa3alietha->fa3alithaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fadayya->fadiya",
+  "rid": "fadayya->fadiya",
+  "v": false,
+  "why": "Loses the long a of Egyptian fadaa2eyya; 'fadiya' reads as a different word."
+ },
+ {
+  "sid": "fadia->fada",
+  "rid": "fadia->fada",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fadia->fadaa",
+  "rid": "fadia->fadaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fadia->fadah",
+  "rid": "fadia->fadah",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fahranhayt->fahranhit",
+  "rid": "fahranhayt->fahranhit",
+  "v": false,
+  "why": "Egyptian fahrenhaayt keeps aay; '-hit' matches no Egyptian pronunciation."
+ },
+ {
+  "sid": "faida->fada",
+  "rid": "faida->fada",
+  "v": false,
+  "why": "Drops the y of Egyptian fayda; 'fada' is not how Egyptians write it."
+ },
+ {
+  "sid": "faida->fadaa",
+  "rid": "faida->fadaa",
+  "v": false,
+  "why": "Drops the y of Egyptian fayda; 'fadaa' is not how Egyptians write it."
+ },
+ {
+  "sid": "faida->fadah",
+  "rid": "faida->fadah",
+  "v": false,
+  "why": "Drops the y of Egyptian fayda; 'fadah' is not how Egyptians write it."
+ },
+ {
+  "sid": "fania->fana",
+  "rid": "fania->fana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fanyia->fanya",
+  "rid": "fanyia->fanya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fanyia->fanyaa",
+  "rid": "fanyia->fanyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fanyia->fanyah",
+  "rid": "fanyia->fanyah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "faradea->farada",
+  "rid": "faradea->farada",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "faradia->farada",
+  "rid": "faradia->farada",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "faransawia->faransawa",
+  "rid": "faransawia->faransawa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "faransawia->faransawaa",
+  "rid": "faransawia->faransawaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fasolia->fasola",
+  "rid": "fasolia->fasola",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fay->fi",
+  "rid": "fay->fi",
+  "v": false,
+  "why": "Here fay is the 'fi' of Wi-Fi, said faay in Egypt; 'fi' misrepresents it."
+ },
+ {
+  "sid": "fay2->fi2",
+  "rid": "fay2->fi2",
+  "v": false,
+  "why": "Egyptian faaye2 keeps the long a; 'fi2' misrepresents it."
+ },
+ {
+  "sid": "fayda->fida",
+  "rid": "fayda->fida",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "faydan->fidan",
+  "rid": "faydan->fidan",
+  "v": false,
+  "why": "Egyptian fayadaan keeps its vowels; 'fidan' misrepresents it."
+ },
+ {
+  "sid": "faylasof->filasof",
+  "rid": "faylasof->filasof",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "faylasoof->filasoof",
+  "rid": "faylasoof->filasoof",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayroosat->firoosat",
+  "rid": "fayroosat->firoosat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayroseat->fayrosat",
+  "rid": "fayroseat->fayrosat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayroseat->fayrusat",
+  "rid": "fayroseat->fayrusat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayroseat->feerosat",
+  "rid": "fayroseat->feerosat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayroseat->feirosat",
+  "rid": "fayroseat->feirosat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "faytaminat->fitaminat",
+  "rid": "faytaminat->fitaminat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fayzeen->fizeen",
+  "rid": "fayzeen->fizeen",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "fdayman->fdiman",
+  "rid": "fdayman->fdiman",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "fdeohat->fdohaat",
+  "rid": "fdeohat->fdohaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fdeohat->fdohat",
+  "rid": "fdeohat->fdohat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fdeohat->fduhat",
+  "rid": "fdeohat->fduhat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fea->fa",
+  "rid": "fea->fa",
+  "v": false,
+  "why": "'fa' replaces Egyptian ee/e2 with a; reads as the particle fa."
+ },
+ {
+  "sid": "fea->faa",
+  "rid": "fea->faa",
+  "v": false,
+  "why": "'faa' replaces Egyptian ee/e2 with a; no Egyptian convention."
+ },
+ {
+  "sid": "fea->fah",
+  "rid": "fea->fah",
+  "v": false,
+  "why": "'fah' replaces Egyptian ee/e2 with a; no Egyptian convention."
+ },
+ {
+  "sid": "fear->faar",
+  "rid": "fear->faar",
+  "v": false,
+  "why": "English fear/Faire; 'faar' is no Egyptian Franco rendering of it."
+ },
+ {
+  "sid": "fear->far",
+  "rid": "fear->far",
+  "v": false,
+  "why": "English fear/Faire; 'far' is a different English word, no Franco convention."
+ },
+ {
+  "sid": "fedeo->fedo",
+  "rid": "fedeo->fedo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fedeo->fedu",
+  "rid": "fedeo->fedu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fedeo->fido",
+  "rid": "fedeo->fido",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "federaalia->fediraala",
+  "rid": "federaalia->fediraala",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "federaalia->fideraala",
+  "rid": "federaalia->fideraala",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fedralia->fedrala",
+  "rid": "fedralia->fedrala",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fedralia->fidrala",
+  "rid": "fedralia->fidrala",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "feedeo->fedo",
+  "rid": "feedeo->fedo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feedeo->feedoo",
+  "rid": "feedeo->feedoo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feedeo->feedu",
+  "rid": "feedeo->feedu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feedeo->feido",
+  "rid": "feedeo->feido",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feedeo7at->feido7at",
+  "rid": "feedeo7at->feido7at",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feia->fea",
+  "rid": "feia->fea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feia->feaa",
+  "rid": "feia->feaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feia->fia",
+  "rid": "feia->fia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feih->feh",
+  "rid": "feih->feh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feih->fih",
+  "rid": "feih->fih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fein->fiin",
+  "rid": "fein->fiin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feiros->feros",
+  "rid": "feiros->feros",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feiros->firos",
+  "rid": "feiros->firos",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feiros->firus",
+  "rid": "feiros->firus",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feirosat->ferosat",
+  "rid": "feirosat->ferosat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feirosat->firusat",
+  "rid": "feirosat->firusat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feirus->feros",
+  "rid": "feirus->feros",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feirus->firos",
+  "rid": "feirus->firos",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feirus->firus",
+  "rid": "feirus->firus",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feisbook->fesbok",
+  "rid": "feisbook->fesbok",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feisbook->fesbook",
+  "rid": "feisbook->fesbook",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feisbook->fisbok",
+  "rid": "feisbook->fisbok",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "feisbook->fisbook",
+  "rid": "feisbook->fisbook",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fekria->fekra",
+  "rid": "fekria->fekra",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fekria->fekrah",
+  "rid": "fekria->fekrah",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fekria->fikra",
+  "rid": "fekria->fikra",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "fergeenia->fergeena",
+  "rid": "fergeenia->fergeena",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fergeenia->firgeena",
+  "rid": "fergeenia->firgeena",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fey->fi",
+  "rid": "fey->fi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeaa->feza",
+  "rid": "fezeaa->feza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeaa->fizaa",
+  "rid": "fezeaa->fizaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeaya->fezaya",
+  "rid": "fezeaya->fezaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeaya->fizaya",
+  "rid": "fezeaya->fizaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeea->feza",
+  "rid": "fezeea->feza",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeia->fezea",
+  "rid": "fezeia->fezea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeia->fezeaa",
+  "rid": "fezeia->fezeaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeia->fezia",
+  "rid": "fezeia->fezia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeia->fizea",
+  "rid": "fezeia->fizea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fezeia->fizia",
+  "rid": "fezeia->fizia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideo->fedo",
+  "rid": "fideo->fedo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideo->fido",
+  "rid": "fideo->fido",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideo->fidu",
+  "rid": "fideo->fidu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideos->fedos",
+  "rid": "fideos->fedos",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideos->fidoos",
+  "rid": "fideos->fidoos",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideos->fidos",
+  "rid": "fideos->fidos",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fideos->fidus",
+  "rid": "fideos->fidus",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "filadelfia->feladelfa",
+  "rid": "filadelfia->feladelfa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "filadelfia->filadilfa",
+  "rid": "filadelfia->filadilfa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "florayd->florid",
+  "rid": "florayd->florid",
+  "v": false,
+  "why": "'florid' follows MSA/technical flurid; Egyptian colloquial says floraayd."
+ },
+ {
+  "sid": "fobia->foba",
+  "rid": "fobia->foba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fobia->fobaa",
+  "rid": "fobia->fobaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fobia->fuba",
+  "rid": "fobia->fuba",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "foil->fol",
+  "rid": "foil->fol",
+  "v": false,
+  "why": "Egyptian says foyl; 'fol' drops the y and reads as fool (beans)."
+ },
+ {
+  "sid": "foil->fool",
+  "rid": "foil->fool",
+  "v": false,
+  "why": "Egyptian says foyl; 'fool' drops the y and reads as fool (beans)."
+ },
+ {
+  "sid": "foil->ful",
+  "rid": "foil->ful",
+  "v": false,
+  "why": "Egyptian says foyl; 'ful' drops the y and reads as fool (beans)."
+ },
+ {
+  "sid": "fruit->frot",
+  "rid": "fruit->frot",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fruit->frut",
+  "rid": "fruit->frut",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fseology->fsologi",
+  "rid": "fseology->fsologi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fseology->fsulogy",
+  "rid": "fseology->fsulogy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fwaed->fwaad",
+  "rid": "fwaed->fwaad",
+  "v": false,
+  "why": "Drops the y of Egyptian fawayed; 'fwaad' misrepresents it."
+ },
+ {
+  "sid": "gaaiza->gaaza",
+  "rid": "gaaiza->gaaza",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gaaza' is not how Egyptians write it."
+ },
+ {
+  "sid": "gaaiza->gaazaa",
+  "rid": "gaaiza->gaazaa",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gaazaa' is not how Egyptians write it."
+ },
+ {
+  "sid": "gaaiza->gaza",
+  "rid": "gaaiza->gaza",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gaza' is not how Egyptians write it."
+ },
+ {
+  "sid": "gabael->gabaal",
+  "rid": "gabael->gabaal",
+  "v": false,
+  "why": "Drops the y of Egyptian 2abayel; 'gabaal' misrepresents it."
+ },
+ {
+  "sid": "gablia->gabla",
+  "rid": "gablia->gabla",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gaiza->gaza",
+  "rid": "gaiza->gaza",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gaza' is not how Egyptians write it."
+ },
+ {
+  "sid": "gaiza->gazaa",
+  "rid": "gaiza->gazaa",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gazaa' is not how Egyptians write it."
+ },
+ {
+  "sid": "gaiza->gazah",
+  "rid": "gaiza->gazah",
+  "v": false,
+  "why": "Drops the y of Egyptian gayza; 'gazah' is not how Egyptians write it."
+ },
+ {
+  "sid": "galdia->galda",
+  "rid": "galdia->galda",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "galdia->galdaa",
+  "rid": "galdia->galdaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gam3ia->gam3aa",
+  "rid": "gam3ia->gam3aa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gam3ia->gam3ah",
+  "rid": "gam3ia->gam3ah",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gameean->gaman",
+  "rid": "gameean->gaman",
+  "v": false,
+  "why": "Loses the long ee of Egyptian gamee3an; 'gaman' misrepresents it."
+ },
+ {
+  "sid": "gamie3->gamee3",
+  "rid": "gamie3->gamee3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3->gami3",
+  "rid": "gamie3->gami3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3->gamii3",
+  "rid": "gamie3->gamii3",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3an->game3aan",
+  "rid": "gamie3an->game3aan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3an->game3an",
+  "rid": "gamie3an->game3an",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3an->gami3aan",
+  "rid": "gamie3an->gami3aan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gamie3an->gami3an",
+  "rid": "gamie3an->gami3an",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gania->ganaa",
+  "rid": "gania->ganaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ganobia->ganoba",
+  "rid": "ganobia->ganoba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ganobia->ganobaa",
+  "rid": "ganobia->ganobaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ganobia->ganuba",
+  "rid": "ganobia->ganuba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ganoobia->ganoba",
+  "rid": "ganoobia->ganoba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ganoobia->ganooba",
+  "rid": "ganoobia->ganooba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "garaema->garama",
+  "rid": "garaema->garama",
+  "v": false,
+  "why": "Loses the ee of Egyptian gareema; 'garama' misrepresents it."
+ },
+ {
+  "sid": "garaema->garamaa",
+  "rid": "garaema->garamaa",
+  "v": false,
+  "why": "Loses the ee of Egyptian gareema; 'garamaa' misrepresents it."
+ },
+ {
+  "sid": "garaib->garaab",
+  "rid": "garaib->garaab",
+  "v": false,
+  "why": "Loses the i/ee vowel of the word; 'garaab' matches no Egyptian pronunciation."
+ },
+ {
+  "sid": "garaib->garab",
+  "rid": "garaib->garab",
+  "v": false,
+  "why": "Loses the i/ee vowel of the word; 'garab' matches no Egyptian pronunciation."
+ },
+ {
+  "sid": "garayda->garida",
+  "rid": "garayda->garida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gawia->gawa",
+  "rid": "gawia->gawa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gawia->gawaa",
+  "rid": "gawia->gawaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gawia->gawah",
+  "rid": "gawia->gawah",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gayb->gib",
+  "rid": "gayb->gib",
+  "v": false,
+  "why": "Egyptian gaayeb keeps the long a; 'gib' reads as the imperative 'bring'."
+ },
+ {
+  "sid": "gayba->giba",
+  "rid": "gayba->giba",
+  "v": false,
+  "why": "Loses the long a of Egyptian gayya; 'giba' misrepresents it."
+ },
+ {
+  "sid": "gaybakom->gibakom",
+  "rid": "gaybakom->gibakom",
+  "v": false,
+  "why": "Egyptian gaybelkom keeps the long a; 'gibakom' misrepresents it."
+ },
+ {
+  "sid": "gayda->gida",
+  "rid": "gayda->gida",
+  "v": false,
+  "why": "'gida' matches no Egyptian pronunciation of this word; no Franco convention."
+ },
+ {
+  "sid": "gayr->gir",
+  "rid": "gayr->gir",
+  "v": false,
+  "why": "g for ghain is not Egyptian Franco; 'gir' reads as geer (lime)."
+ },
+ {
+  "sid": "gaysh->gish",
+  "rid": "gaysh->gish",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gayy->giy",
+  "rid": "gayy->giy",
+  "v": false,
+  "why": "Egyptian gayy keeps the long a; 'giy' misrepresents it."
+ },
+ {
+  "sid": "gayza->giza",
+  "rid": "gayza->giza",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "gayzeen->gizeen",
+  "rid": "gayzeen->gizeen",
+  "v": false,
+  "why": "Loses the long a before y; Egyptian keeps this a (a+y), so the i-form misrepresents Egyptian pronunciation."
+ },
+ {
+  "sid": "gazey->gazi",
+  "rid": "gazey->gazi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geish->gesh",
+  "rid": "geish->gesh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geish->gish",
+  "rid": "geish->gish",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "genderia->gendera",
+  "rid": "genderia->gendera",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "genderia->gindera",
+  "rid": "genderia->gindera",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "geneat->genat",
+  "rid": "geneat->genat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "genei->geni",
+  "rid": "genei->geni",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneia->genea",
+  "rid": "geneia->genea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneia->genia",
+  "rid": "geneia->genia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneia->ginia",
+  "rid": "geneia->ginia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneih->genih",
+  "rid": "geneih->genih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneom->genom",
+  "rid": "geneom->genom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneom->genoom",
+  "rid": "geneom->genoom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneom->genum",
+  "rid": "geneom->genum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geneom->ginom",
+  "rid": "geneom->ginom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gensey->gensi",
+  "rid": "gensey->gensi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geogreafia->geografia",
+  "rid": "geogreafia->geografia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geogreafia->geogreafa",
+  "rid": "geogreafia->geogreafa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geogreafia->gogreafia",
+  "rid": "geogreafia->gogreafia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologia->geologa",
+  "rid": "geologia->geologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologia->geoluga",
+  "rid": "geologia->geoluga",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologia->gologia",
+  "rid": "geologia->gologia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologia->golugia",
+  "rid": "geologia->golugia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologia->gulogia",
+  "rid": "geologia->gulogia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geology->gologi",
+  "rid": "geology->gologi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geology->gology",
+  "rid": "geology->gology",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geology->goloogy",
+  "rid": "geology->goloogy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologya->gologya",
+  "rid": "geologya->gologya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologya->gologyaa",
+  "rid": "geologya->gologyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologya->golugya",
+  "rid": "geologya->golugya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologya->gulogya",
+  "rid": "geologya->gulogya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "geologyya->gologya",
+  "rid": "geologyya->gologya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gezeira->gezera",
+  "rid": "gezeira->gezera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gezeira->gezira",
+  "rid": "gezeira->gezira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gezeiret->gezeret",
+  "rid": "gezeiret->gezeret",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gezeiret->geziret",
+  "rid": "gezeiret->geziret",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gezeiret->giziret",
+  "rid": "gezeiret->giziret",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghadey->ghadi",
+  "rid": "ghadey->ghadi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghair->8ar",
+  "rid": "ghair->8ar",
+  "v": false,
+  "why": "Egyptian says gheer; 'a' for that e-vowel (8ar) is not an Egyptian habit."
+ },
+ {
+  "sid": "ghair->ghar",
+  "rid": "ghair->ghar",
+  "v": false,
+  "why": "Egyptian says gheer; 'a' for that e-vowel (ghar) is not an Egyptian habit."
+ },
+ {
+  "sid": "ghaley->ghali",
+  "rid": "ghaley->ghali",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghania->8ana",
+  "rid": "ghania->8ana",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gharbey->gharbi",
+  "rid": "gharbey->gharbi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gharbia->8arba",
+  "rid": "gharbia->8arba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gharbia->gharba",
+  "rid": "gharbia->gharba",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghayra->ghira",
+  "rid": "ghayra->ghira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghayro->ghiro",
+  "rid": "ghayro->ghiro",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghayrohom->ghirohom",
+  "rid": "ghayrohom->ghirohom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghazaia->8azaa",
+  "rid": "ghazaia->8azaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghazaia->ghaza",
+  "rid": "ghazaia->ghaza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghazaia->ghazaa",
+  "rid": "ghazaia->ghazaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghazay->ghazi",
+  "rid": "ghazay->ghazi",
+  "v": false,
+  "why": "Loses the long a of Egyptian ghezaa2i; 'ghazi' misrepresents it."
+ },
+ {
+  "sid": "ghazia->8aza",
+  "rid": "ghazia->8aza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghazia->ghaza",
+  "rid": "ghazia->ghaza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghazia->ghazah",
+  "rid": "ghazia->ghazah",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "gheir->ghiir",
+  "rid": "gheir->ghiir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gheir->ghir",
+  "rid": "gheir->ghir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gheirha->8irha",
+  "rid": "gheirha->8irha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gheirha->gherha",
+  "rid": "gheirha->gherha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gheirha->ghirha",
+  "rid": "gheirha->ghirha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "gheirha->ghirhaa",
+  "rid": "gheirha->ghirhaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghier->8er",
+  "rid": "ghier->8er",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghier->8ir",
+  "rid": "ghier->8ir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghier->gheer",
+  "rid": "ghier->gheer",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghier->ghiir",
+  "rid": "ghier->ghiir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghier->ghir",
+  "rid": "ghier->ghir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaei->8izai",
+  "rid": "ghizaei->8izai",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaei->ghezai",
+  "rid": "ghizaei->ghezai",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaei->ghizai",
+  "rid": "ghizaei->ghizai",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaiya->8izaya",
+  "rid": "ghizaiya->8izaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaiya->ghezaya",
+  "rid": "ghizaiya->ghezaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizaiya->ghizaya",
+  "rid": "ghizaiya->ghizaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizay->ghizi",
+  "rid": "ghizay->ghizi",
+  "v": false,
+  "why": "Loses the long a of Egyptian ghezaa2i; 'ghizi' misrepresents it."
+ },
+ {
+  "sid": "ghizayia->ghizaya",
+  "rid": "ghizayia->ghizaya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ghizia->gheza",
+  "rid": "ghizia->gheza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghizia->ghiza",
+  "rid": "ghizia->ghiza",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ },
+ {
+  "sid": "ghizia->ghizaa",
+  "rid": "ghizia->ghizaa",
+  "v": false,
+  "why": "Erases the stressed Egyptian -eyya ending; plain -a form is not how Egyptians say or write this."
+ }
+]

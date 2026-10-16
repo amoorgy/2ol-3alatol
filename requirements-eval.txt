@@ -1,0 +1,31 @@
+# Eval-track dependencies. Install into .venv (gitignored):
+#   python3 -m venv .venv && .venv/bin/pip install -r requirements-eval.txt
+#
+# src/franco/ and src/franco_eval/phenomena.py stay stdlib-only by policy, so
+# `python3 -m unittest discover -s tests` runs without any of this.
+
+huggingface_hub>=1.28
+pyarrow>=25.0
+
+# E1 Layer A: off-the-shelf tokenizers. Installed since 2026-08-20 but left
+# undeclared until now, so a fresh venv could not reproduce the committed
+# level1 tables.
+transformers>=5.15,<6
+tokenizers>=0.22
+sentencepiece>=0.2       # mt5-base unigram-LM control tokenizer
+protobuf>=4              # transformers' SentencePiece extractor needs it
+
+# Transitive via transformers today; declared because src/visualization/ needs
+# it directly.
+numpy>=2.5
+
+# src/visualization/ only. Chosen over plotly/seaborn because it accepts plain
+# lists, which keeps the data-prep layer stdlib and testable without the venv.
+matplotlib>=3.11,<4
+
+# torch        # only if a model moves off Ollama to local HF inference
+# datasets     # EgyMMLU loading (44 subject configs), not yet needed
+#
+# XCOMET-XL (Dataset B arena benchmark's meaning-fidelity metric) does NOT
+# go here: unbabel-comet pins huggingface-hub<1.0, incompatible with this
+# file's huggingface_hub>=1.28. See requirements-comet.txt + its own venv.

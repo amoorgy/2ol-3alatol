@@ -1,0 +1,24 @@
+# secrets and per-machine tool state: never commit
+.env
+.env.*
+!.env.example
+.claude/settings.local.json
+.kilo/
+
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+outputs/
+*.gguf
+*.safetensors
+2ol-3alatol-lora/
+2ol-3alatol-gguf/
+wandb/
+.cache/
+data/raw/*.jsonl
+data/interim/*.jsonl
+data/generated/
+.venv/
+.venv-comet/
+data/external/

@@ -1,0 +1,3458 @@
+{
+ "description": "Second-pass (scenario-grounded prompts) supporting detail: full per-row naturalness council verdicts and full per-comparison arena verdicts.",
+ "naturalness_bar": ">=4/5 lenses agreeing 'natural' = kept",
+ "naturalness_rows": [
+  {
+   "row_id": "2ard:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "2ard",
+   "arabic": "أرض",
+   "sentence": "El match kan 3ala el 2ard, w el jomhor kan mzah.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "short, simple, grammatically clean sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3ala el 2ard = on the ground, fits"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent, matches the sibling arms' description"
+    },
+    "register": {
+     "natural": true,
+     "reason": "short casual sentence"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "Ana sa2elt wa7ed so2al, rad 3alia be thaka we 7agweh.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural question-and-reply structure despite one odd word"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "rad 3alia = he replied to me, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear single idea: I asked, he answered cleverly"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual descriptive phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2a2ema:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "2a2ema",
+   "arabic": "قائمة",
+   "sentence": "Ambar7a, 2a2ema el-7agat el-7eloo elli 3ayzeen ne3melha sawa kanet taweela.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "idiomatic relative-clause structure, reads smoothly"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2a2ema el-7agat = the list of things, clean fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent: the list of things we want to do together was long"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2adra:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "2adra",
+   "arabic": "قادرة",
+   "sentence": "El show kan 2adra yefhamny 7aga gdeda.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'kan 2adra yefhamny' is an ungrammatical causative construction"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "kan 2adra yefhamny conveys 'capable of making understand'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "one idea: the show helped me understand something new"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, uses common loanword 'show' naturally"
+    }
+   }
+  },
+  {
+   "row_id": "dayra:Arm C",
+   "fusor": "command-r:35b",
+   "anchor": "dayra",
+   "arabic": "دايرة",
+   "sentence": "Ana babl3a 3ala dayra 3amali ba3d ma abda yomi bshower wafatar.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "syntax is coherent even if word choice is quirky"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3ala dayra 3amali = as part of my work routine, fits well"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'swallow onto the cycle of my work' is not a sensible action"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual daily routine, common loanword 'shower' fits naturally"
+    }
+   }
+  },
+  {
+   "row_id": "2awla:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "2awla",
+   "arabic": "أولى",
+   "sentence": "ana 3ayez a re77a 2awla el youm da kan 2aweel",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "clauses feel stitched together without a natural connector"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2awla conveys 'I'd rather' preference sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single reasoned statement: I want to rest, today was long"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual everyday phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2al3ab:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "2al3ab",
+   "arabic": "ألعاب",
+   "sentence": "Mish 7agga 7awel 2al3ab da wahdak, 7abeb ashoflo hal ma3ak.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "gender/number mismatches and garbled closing clause"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "7awel 2al3ab da wahdak = try this game alone, games sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "gist comes through: don't do this alone, let's do it together"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, no formal or English intrusion"
+    }
+   }
+  },
+  {
+   "row_id": "bayd:Arm B",
+   "fusor": "command-r:35b",
+   "anchor": "bayd",
+   "arabic": "بيض",
+   "sentence": "Ana habeehda ashof asouk ashab bayd wa 7agat tanya lel-eftar.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "string of verbs without connectors reads as garbled"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "ashab bayd = get eggs, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "gist is graspable as one intent despite spelling noise: getting eggs for breakfast"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual despite some odd word choices, no formal/English mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "El 3amle 2odam el 7ag, mish 3ayez nensaha.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "subject mismatch between singular 'mish 3ayez' and plural 'nensaha'"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2odam el 7ag = in front of al-Hajj, spatial sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "unclear referents ('the currency in front of the elder') don't form one point"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2ott:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2ott",
+   "arabic": "قط",
+   "sentence": "Aasif, 2ott kaan 3indi w 7a2idansy 7ataftkroh m3aya!",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'7a2idansy' and '7ataftkroh' look like gibberish tokens"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2ott kaan 3indi = I had a cat, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "trailing nonsense words break the apology into unreadable fragments"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual apology despite garbled middle section"
+    }
+   }
+  },
+  {
+   "row_id": "2alb:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "2alb",
+   "arabic": "قلب",
+   "sentence": "Bakra harou7 3ala el bank 2alb 3ala el 7awagha.",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'2alb 3ala el 7awagha' doesn't parse, stilted word-salad ending"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "2alb 3ala el 7awagha reads as verb 'qallab' (searched through), not noun 'heart'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'heart on the merchant' does not connect to going to the bank tomorrow"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "watt:Arm A",
+   "fusor": "command-r:35b",
+   "anchor": "watt",
+   "arabic": "واط",
+   "sentence": "el khabar da 7aga gded watt howa 7elw gedan",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'gded watt howa' reads as an awkward stitched fragment"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'watt' dropped in with no numeric/power context, meaning doesn't come through"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'watt' is dropped in with no referent, breaking the sentence's point"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual despite grammatical breakdown, no register mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2abl:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2abl",
+   "arabic": "قبل",
+   "sentence": "ma shufteksh 2abl 3am 2am w ana 3ayz n7ki 3al kol 7agha",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'3am 2am' looks garbled/duplicated and verb agreement is off"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2abl clearly used as 'before'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repeated chunks despite odd phrasing"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "one thought: haven't seen you in a while, want to catch up on everything"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual everyday phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2adra:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2adra",
+   "arabic": "قادرة",
+   "sentence": "el match el yom kan 2adra ykoun mshwiq giddan",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'kan 2adra ykoun' mismatches gender/mood, feels stitched"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "kan 2adra ykoun mshwi2 conveys 'capable of being' despite gender mismatch"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "reads as one claim: today's match could have been very exciting"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, no formal or English markers"
+    }
+   }
+  },
+  {
+   "row_id": "2ott:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2ott",
+   "arabic": "قط",
+   "sentence": "aasif 3al 2ott li nistit, ghadda hana 3ayiz y3od 3andakom.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'hana' is an odd stray token and subject reference is unclear"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3al 2ott li nistit = about the cat I forgot, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent apology and follow-up about the cat staying over"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "watt:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "watt",
+   "arabic": "واط",
+   "sentence": "el khabar da 3ashan el 300 watt el jdid ghayr el 7ayat",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "missing verb/connector, reads as disjointed fragments"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "300 watt fits power-unit context of a new device"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "terse but one coherent claim tying the news to the new 300-watt device"
+    },
+    "register": {
+     "natural": true,
+     "reason": "short casual statement"
+    }
+   }
+  },
+  {
+   "row_id": "2a2em:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2a2em",
+   "arabic": "قائم",
+   "sentence": "el match el yom 2a2em 3ala el 7a2et 3a el naseh.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "clause after anchor doesn't cohere, reads like disjointed fragments"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2a2em fits qa'im=ongoing/underway (match qa'im), matches meaning"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent single sentence, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "a match 'standing on a wall about advice' has no coherent single meaning"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual conversational phrasing, no MSA or English intrusion"
+    }
+   }
+  },
+  {
+   "row_id": "2awla:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2awla",
+   "arabic": "أولى",
+   "sentence": "el yom da 3ala 2awla a re77a 3al baldi 3omlan",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'3ala 2awla a re77a 3al baldi' doesn't parse as real Egyptian syntax"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3ala 2awla loosely conveys preferable/first-choice sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'primarily I rest to my hometown practically' doesn't cohere into one point"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, intensifier '3omlan' used colloquially"
+    }
+   }
+  },
+  {
+   "row_id": "2ard:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2ard",
+   "arabic": "أرض",
+   "sentence": "el match el yom kan 3ala el 2ard w el 3awad 3amlo shay2a 2a3ib.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'3amlo shay2a 2a3ib' is awkward and subject-mismatched"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3ala el 2ard = on the ground/pitch, fits ard"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single narrative: match was rough and Awad did something shameful"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'shay2a' uses classical MSA tanween case-ending, out of place in casual texting"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "El saheb rad 3alayya bal amas el 7a7eb 3a7la.",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'bal amas el 7a7eb 3a7la' doesn't parse as real words"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "rad 3alayya = replied to me, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "contains unrecognizable garbled words that prevent forming one meaning"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual despite garbled tail, no register mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "el moshele 2odam el 3amle w ma 3ayez 3amle shay 3aleha",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "fragments don't connect into a coherent sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2odam el 3amle = in front of, spatial sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'the problem in front of the currency' doesn't cohere into a point"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "3abd:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "3abd",
+   "arabic": "عبد",
+   "sentence": "el 3abd 3ayz 150 pound 3al el 3agaza el 7adi 7ad?",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "ending 'el 7adi 7ad?' is confusing and doesn't parse"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "el 3abd used as humble self-reference (=me), valid sense of 3abd"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "trails off into an unparseable ending ('el 7adi 7ad?')"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual, 'pound' used as common informal currency word"
+    }
+   }
+  },
+  {
+   "row_id": "2al:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2al",
+   "arabic": "قال",
+   "sentence": "ana aseef 2al nistit nasayt el shay el 7abib 3alek",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'nistit nasayt' redundant duplication, phrasing doesn't cohere"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'ana aseef 2al nistit' has no coherent subject for 'said', doesn't read as qal"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "grammatically odd but not a repetition loop or salad"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "stray 'said' plus doubled 'forgot forgot' breaks the apology into disconnected pieces"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual apology phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2alet:Arm A",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2alet",
+   "arabic": "قالت",
+   "sentence": "el-2alet el-saraa 100 lira 3a el-baya3 da",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "missing clear subject/verb structure, doesn't parse as a sentence"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'el-2alet' glued with definite article reads as a noun, not the verb 'she said'"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'the-said the-price 100 lira' is a fragment, not a full statement"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual short transactional statement"
+    }
+   }
+  },
+  {
+   "row_id": "dayra:Arm B",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "dayra",
+   "arabic": "دايرة",
+   "sentence": "ba3d ma baqum ba7ta dayra el shay 3ala 3ala 3ala 3amali",
+   "votes_natural": 1,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "repeated '3ala 3ala 3ala' is a clear glitch/word salad"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "garbled repeated '3ala 3ala 3ala' obscures the dayra meaning"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "stutter loop: '3ala 3ala 3ala' repeated three times in a row"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "triple repeated '3ala 3ala 3ala' and no sensible action described"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register despite repeated-word glitch, no MSA/English mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2alb:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2alb",
+   "arabic": "قلب",
+   "sentence": "bkra haml 2alb 3al 3amala ely haml 3al 3amala ely haml 3al 3amala",
+   "votes_natural": 1,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "phrase 'haml 3al 3amala ely' repeated three times, clear glitch"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "heavily repeated garbled clause obscures any heart meaning"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "phrase loop: 'haml 3al 3amala ely' repeated three times"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "looping repeated clause ('carries on the currency' x3) reads as broken text"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual register despite repetition glitch, no register mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2al3ab:Arm C",
+   "fusor": "qwen3.8:27b-mlx",
+   "anchor": "2al3ab",
+   "arabic": "ألعاب",
+   "sentence": "Ana 3arfa 2al3ab da3manek fe el-waqt da, 7ajoka ana mish 3ayez fel 3ayez.",
+   "votes_natural": 1,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "nonsensical repetition of '3ayez' and incoherent phrasing"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'2al3ab da3manek' is garbled and doesn't clearly convey games"
+    },
+    "degeneracy": {
+     "natural": false,
+     "reason": "word-salad ending with stutter: 'mish 3ayez fel 3ayez'"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "'I don't want in the wanting' is nonsensical, breaks the thought"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual despite garbled ending, no MSA/English mixing"
+    }
+   }
+  },
+  {
+   "row_id": "2abl:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2abl",
+   "arabic": "قبل",
+   "sentence": "Ya 3ammy, 2abl ma netsa2af tany, 2olli eh akhbarak, enta kwayes wala eh?",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows as a natural casual check-in message"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2abl ma netsa2af = before we part, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear single request: catch up before drifting apart again"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural casual address, texting-friend register"
+    }
+   }
+  },
+  {
+   "row_id": "dayra:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "dayra",
+   "arabic": "دايرة",
+   "sentence": "Ba3d ma ba2om men el nom, bashrab shay, ba3den barouh 3al dayra ashteghel.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "reads as a natural sequential daily-routine sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3al dayra ashteghel fits going-around/routine sense of dayra"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent morning routine narrative (wake, tea, go to work)"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual daily-routine narration"
+    }
+   }
+  },
+  {
+   "row_id": "2awla:Arm C",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2awla",
+   "arabic": "أولى",
+   "sentence": "weslt el beet ta3ban awi ba3d el youm da, ana 2awla b re77a kbeera abl ma 2atab5el 3asha",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows naturally as a tired-after-work narrative"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "ana 2awla b re77a kbeera = I'm more deserving of rest, strong natural fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear one-thought excuse for wanting a big rest before dinner"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual narrative register"
+    }
+   }
+  },
+  {
+   "row_id": "2alb:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2alb",
+   "arabic": "قلب",
+   "sentence": "bokra hro7 el bank 3ashan a5allas el wara2 beta3ti, ed3ili ya 2alb",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "idiomatic errand sentence ending in a natural affectionate closer"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "ya 2alb = oh dear/heart, clear affectionate use of qalb"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent: going to the bank for paperwork, asking for prayers, dear"
+    },
+    "register": {
+     "natural": true,
+     "reason": "very natural casual endearment 'ya 2alb'"
+    }
+   }
+  },
+  {
+   "row_id": "2alet:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2alet",
+   "arabic": "قالت",
+   "sentence": "2oltelha bakam el se3r, fa 2alet el product da be 150 geneh bas",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural quoting-a-price exchange, common code-mixed phrasing"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "fa 2alet el product da be 150 geneh = so she said, clean fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear exchange: asked the price, she said 150 pounds"
+    },
+    "register": {
+     "natural": true,
+     "reason": "natural code-switch 'el product', common in casual sales talk"
+    }
+   }
+  },
+  {
+   "row_id": "rad:Arm C",
+   "fusor": "zai:glm-5.3",
+   "anchor": "rad",
+   "arabic": "رد",
+   "sentence": "Embare7 lama 2olt loh ana ra7 el dukan, rad 3alaya 2ol li hayegy ma3aya.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "reads as a natural retelling of yesterday's exchange"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "rad 3alaya = he replied to me, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent little exchange narrative about going to the shop"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual narrative register"
+    }
+   }
+  },
+  {
+   "row_id": "2odam:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2odam",
+   "arabic": "قدام",
+   "sentence": "el mudeer shaf el moshkela 2odam 3oyono fel shoghl, mosh 3ayez netgahalha.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "overall flow is idiomatic despite a minor pronoun slip"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2odam 3oyono = in front of his eyes, idiomatic and clear"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single clear point: manager saw the problem and won't ignore it"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual idiom '2odam 3oyono' (in front of his eyes)"
+    }
+   }
+  },
+  {
+   "row_id": "2ott:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2ott",
+   "arabic": "قط",
+   "sentence": "Ya gama3a 2asif giddan, el 2ott nesseiny khales, bas hab3atlo 3ashan awsallo bukra inshallah.",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "very natural casual apology-and-promise texting style"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "el 2ott nesseiny = I forgot the cat, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent apology for forgetting the cat, will deliver tomorrow"
+    },
+    "register": {
+     "natural": true,
+     "reason": "very natural casual apology texting register"
+    }
+   }
+  },
+  {
+   "row_id": "watt:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "watt",
+   "arabic": "واط",
+   "sentence": "el khabar el gedeed dah mohem awy, ya3ny 300 watt hatghayar taree2etna ma3 el taqa kolo",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "flows naturally as an informal statement about a change"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "300 watt clearly a power unit in energy context"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single claim: 300-watt news will change our approach to energy"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual filler 'ya3ny' keeps it conversational despite tech topic"
+    }
+   }
+  },
+  {
+   "row_id": "3abd:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "3abd",
+   "arabic": "عبد",
+   "sentence": "ana el 3abd 3ayez a3raf el 7aga de be kam fel dukkan dah?",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural price-inquiry question pattern"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "ana el 3abd = I, your servant, valid self-referential idiom"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear single question about a price in the shop"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "bayd:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "bayd",
+   "arabic": "بيض",
+   "sentence": "ana harou7 el-sou2 el-sabt ashtary bayd w gebna w khodar 3ashan n3ml fotoor lhadeed lel 3ayla",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural shopping-list sentence despite one odd word choice"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "ashtary bayd = buy eggs, clear fit"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "clear single plan: market on Saturday for breakfast ingredients"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual grocery-list talk"
+    }
+   }
+  },
+  {
+   "row_id": "alat:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "alat",
+   "arabic": "آلات",
+   "sentence": "3asf 3ala el takhir, el zahma kanet raba we alat el metro et2akharat fa atakhart 3alek",
+   "votes_natural": 5,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural apology-for-lateness structure despite one odd word"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "alat el metro = the metro's machines/cars, loosely fits machines sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent excuse: traffic and delayed metro made me late"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual apology/excuse texting register"
+    }
+   }
+  },
+  {
+   "row_id": "2adra:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2adra",
+   "arabic": "قادرة",
+   "sentence": "shoft el match el yom kan rai3 awi w 2adra a2ol en kan mshwiq gedan",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "tense/structure clash between 'shoft ... kan' and 'w 2adra a2ol'"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2adra a2ol reads as 'I can say', capable sense holds"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single coherent opinion about the match being exciting"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual filler words, natural conversational register"
+    }
+   }
+  },
+  {
+   "row_id": "2ard:Arm B",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2ard",
+   "arabic": "أرض",
+   "sentence": "El match el yom kan 3ala el 2ard, el la3eba bazlo mo7dod kteer w el match kan mzah awi.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'mo7dod kteer' is self-contradictory, reads as machine-translated"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3ala el 2ard = on the ground, fits"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent description of an effortful, fun match"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual despite odd word choice, no clear MSA or English intrusion"
+    }
+   }
+  },
+  {
+   "row_id": "2a2ema:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2a2ema",
+   "arabic": "قائمة",
+   "sentence": "Embare7 3amalt ma3 as7ab2 2a2ema men el zekrayat el 7elwa el 3eshnaha sawa.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'as7ab2' looks like a tokenization glitch disrupting the sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "2a2ema men el zekrayat = a list of memories, fits list sense"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "coherent: made a list of sweet shared memories yesterday"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual nostalgic talk among friends"
+    }
+   }
+  },
+  {
+   "row_id": "bal:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "bal",
+   "arabic": "بال",
+   "sentence": "Embare7 kont ta3ban awi, 7ases enni bal menn el shoghl ely kont b3mlo mel yom.",
+   "votes_natural": 4,
+   "verdict_natural": true,
+   "lenses": {
+    "fluency": {
+     "natural": true,
+     "reason": "natural tired-after-work narrative flow"
+    },
+    "anchor_fidelity": {
+     "natural": false,
+     "reason": "'7ases enni bal' doesn't construct the mind/attention sense of baal"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single coherent feeling: worn out from a long day's work"
+    },
+    "register": {
+     "natural": true,
+     "reason": "casual phrasing"
+    }
+   }
+  },
+  {
+   "row_id": "2al3ab:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "2al3ab",
+   "arabic": "ألعاب",
+   "sentence": "Ba7tag mosaicadatak fi el-2al3ab di, momken ne7laha sawa ba3deen?",
+   "votes_natural": 3,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "'mosaicadatak' is not a real word, breaks the sentence"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "el-2al3ab di = these games, fits games context of solving together"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": true,
+     "reason": "single coherent request for help solving the game together"
+    },
+    "register": {
+     "natural": false,
+     "reason": "'mosaicadatak' is a jarring garbled English-Arabic hybrid word, breaks casual flow"
+    }
+   }
+  },
+  {
+   "row_id": "3edam:Arm A",
+   "fusor": "zai:glm-5.3",
+   "anchor": "3edam",
+   "arabic": "إعدام",
+   "sentence": "lazem tebtedy mn el shara3 el reyesi, w ba3dein 3edam el motaham msh da3wana, ro7 3ala tool",
+   "votes_natural": 2,
+   "verdict_natural": false,
+   "lenses": {
+    "fluency": {
+     "natural": false,
+     "reason": "abrupt non-sequitur shift between directions and an unrelated clause"
+    },
+    "anchor_fidelity": {
+     "natural": true,
+     "reason": "3edam el motaham = execution of the accused, correct sense despite odd surrounding context"
+    },
+    "degeneracy": {
+     "natural": true,
+     "reason": "coherent, no repetition"
+    },
+    "coherence": {
+     "natural": false,
+     "reason": "street directions and a comment about the accused's execution don't form one point"
+    },
+    "register": {
+     "natural": false,
+     "reason": "mixes formal legal/news term ('execution of the accused') with casual driving-direction phrasing, jarring register clash"
+    }
+   }
+  }
+ ],
+ "arena_deepseek_flash": {
+  "note": "Regenerated after correcting the DeepSeek reasoning_effort bug (low -> high); this arena_rows list is the final, correct one (69 comparisons: 42 vs bon, 27 vs deepseek) and supersedes any earlier partial version.",
+  "rows": [
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2a2em:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C1's tail '3a el naseh' is nonsensical; C2 is a clean, coherent clause"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2abl:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 opens with the nonsensical word '3al3a', breaking the sentence"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2abl:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "fluent, coherent complaint about a changed friend vs C2's garbled phrasing"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2adra:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C2 mixes masculine 'el match/kan' with feminine '2adra', a jarring agreement error"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:dayra:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "both degenerate into repetition, but C2's opening clause is fluent before it breaks down"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 contains the invented non-word '7agla', making it more broken"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2awla:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C1's ending '3al baldi 3omlan' is nonsense; C2 reads as (repetitive but) real words"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alb:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C1 is degenerate repetition garbage; C2 is a real, if odd, sentence"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al3ab:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C2 adds a garbled, repetitive tail ('mish 3ayez fel 3ayez') not present in C1"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al3ab:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "natural request to put toys on a shelf vs C2's garbled fragment"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alet:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "slightly less scrambled word order than C2's word-salad ordering"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alet:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "fluent narrated exchange with a seller vs C1's jumbled fragment"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ard:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "flows as one coherent story with a natural connector, unlike C1's tacked-on ending"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:rad:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 is largely invented gibberish ('3a3a','2a7d'); C2 is mostly real words"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2odam:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 degenerates into 'el 3amle' repeated five times"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2odam:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "natural doctor's-appointment sentence vs C2's confusing repetition"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ott:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2's jarring English code-switch 'amelt forgot' is more disfluent"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ott:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "simple, clean, natural 'I forgot the cat at home'"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:watt:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "correctly uses watt as a power unit (300 watt) and reads more coherently"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:3abd:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1's 'bides el-kaman eh' is nonsensical; C2 reads as plausible casual chat"
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:3abd:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "clean, natural question about asking someone the price"
+   },
+   {
+    "comparison_id": "command-r:35b:2a2ema:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "fluent and coherent; C2's 'Mba7esh' negation form is malformed"
+   },
+   {
+    "comparison_id": "command-r:35b:2adra:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C2 has a blatant gender mismatch ('el show kan 2adra')"
+   },
+   {
+    "comparison_id": "command-r:35b:dayra:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "clean full sentence about a morning routine vs C1's garbled repetition"
+   },
+   {
+    "comparison_id": "command-r:35b:2awla:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 has a repetition glitch ('a re77a w a re77a')"
+   },
+   {
+    "comparison_id": "command-r:35b:2awla:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "fluent idiomatic use of '2awla men' (priority over)"
+   },
+   {
+    "comparison_id": "command-r:35b:2alb:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C2 reads as a syntactic fragment missing a connecting verb"
+   },
+   {
+    "comparison_id": "command-r:35b:2alb:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "natural idiom 'qalby 3ayez yekhallas' vs C2's fragment-like phrasing"
+   },
+   {
+    "comparison_id": "command-r:35b:2al3ab:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "marginally less broken than C2's two disjointed garbled clauses"
+   },
+   {
+    "comparison_id": "command-r:35b:2al3ab:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "clean natural request to help lift toys onto a shelf"
+   },
+   {
+    "comparison_id": "command-r:35b:2ard:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "cleaner connector structure than C1's tacked-on ending"
+   },
+   {
+    "comparison_id": "command-r:35b:rad:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "coherent exchange vs C1's largely invented words"
+   },
+   {
+    "comparison_id": "command-r:35b:rad:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "more casual register vs C2's slightly literary phrasing"
+   },
+   {
+    "comparison_id": "command-r:35b:2odam:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 degenerates into 'el 3amle' repeated five times"
+   },
+   {
+    "comparison_id": "command-r:35b:2odam:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "natural everyday phrasing about going to the doctor"
+   },
+   {
+    "comparison_id": "command-r:35b:2ott:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "interpretable despite awkward English insert, vs C2's unparseable invented words"
+   },
+   {
+    "comparison_id": "command-r:35b:2ott:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "simple, clean, natural sentence"
+   },
+   {
+    "comparison_id": "command-r:35b:watt:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "marginally cleaner closing clause"
+   },
+   {
+    "comparison_id": "command-r:35b:watt:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "grammatically fluent frame despite odd anchor usage"
+   },
+   {
+    "comparison_id": "command-r:35b:bayd:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 opens with completely invented non-words; C2 is mostly parseable"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2a2ema:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "fluent, coherent list-of-memories sentence vs C2's malformed negation"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2abl:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "very natural casual check-in vs C2's garbled opener"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2abl:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": null,
+    "reason": "both are equally fluent, natural, idiomatic uses of 2abl"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2adra:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "fluent, coherent match commentary with correctly agreeing '2adra a2ol'"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:dayra:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "clean morning-routine sentence vs C1's garbled repetition"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2awla:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "natural idiom '2awla b re77a kbeera' vs C2's repetition glitch"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2awla:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "slightly richer, more specific everyday narrative arc"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alb:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "natural endearment idiom vs C2's repetitive odd usage"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alb:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "more standard, natural idiom than C2's slightly awkward phrasing"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2al3ab:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "coherent request about solving games together, aside from one glitched word"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2al3ab:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "C2 has a garbled invented word ('mosaicadatak') breaking fluency"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alet:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 uses non-Egyptian currency 'lira' and awkward 'el-2alet' grammar"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alet:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": null,
+    "reason": "both use 2alet naturally and coherently"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:alat:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 is incoherent, nonsensically repeating 'el-koran'"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:alat:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "C2's '5alyoony fel beit' is grammatically unclear"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ard:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": false,
+    "reason": "C1 compounds nonsense phrasing and repeats itself more"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:rad:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 is nonsensical repeated-syllable gibberish"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:rad:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": null,
+    "reason": "both are natural, coherent uses of rad"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2odam:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 is gibberish repeating '3amle'"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2odam:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "C2's idiom '2odam 3oyono' is natural; C1 misuses 2odam with a doctor"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3edam:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 reads as stilted MSA, not casual Franco"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3edam:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": false,
+    "reason": "C1 is an incoherent non-sequitur about directions"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ott:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 is broken with nonsensical 'ana 3amelt forgot'"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ott:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": null,
+    "reason": "both are fluent, coherent, correct uses of 2ott"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:watt:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 uses non-Egyptian 'bech' and is grammatically broken"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:watt:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "C1 misuses watt as a nonsensical feeling/adjective"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3abd:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C1 is gibberish; C2 uses the natural idiom 'ana el 3abd'"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3abd:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-flash",
+    "fusion_won": true,
+    "reason": "idiomatic 'ana el 3abd' reads more natural than 'el 3abd da' for a stranger"
+   },
+   {
+    "comparison_id": "zai:glm-5.3:bayd:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "fusion_won": true,
+    "reason": "C2 is gibberish ('hobeesho anahektaro')"
+   }
+  ]
+ },
+ "arena_deepseek_v4_pro": {
+  "note": "Redo of the external-frontier-reference leg using deepseek-v4-pro (GA 2026-08-13, 1.6T/49B-active-param reasoning tier) instead of deepseek-v4-flash (284B/13B-active), at the user's request. Found and fixed a new bug first: v4-pro's reasoning routinely ran 1100-2750 tokens on this one-sentence task, blowing through the 800-token budget sized for v4-flash (finish_reason=length, empty content, 40/45 gated out); raised to a flat 4500 and got 40/45 usable (vs. flash's 27/45). Also fixed a latent JsonlCache bug before it could bite: the DeepSeek reference cache was keyed on (anchor, scenario) only, so switching --deepseek-model without adding 'model' to the key would have silently replayed flash's cached answers under the pro label. All 82 comparisons here (42 vs_bon, 40 vs_deepseek) are freshly regenerated and freshly judged -- vs_bon numbers differ slightly from the deepseek_flash run above (91%/53%/100% vs. 64%/53%/94%) purely from RNG-reshuffled Candidate positions plus ordinary judge-to-judge variance on borderline pairs (same underlying fused/BoN sentence pairs both times) -- not a new finding, just noise on an already-decisive comparison. The vs_deepseek numbers ARE the new finding.",
+  "rows": [
+   {
+    "comparison_id": "command-r:35b:2a2ema:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2a2ema",
+    "arabic": "قائمة",
+    "candidate_1": "embare7 3amalt 2a2ema b kol el 7agat elly kont 3ayzha",
+    "candidate_2": "Ambar7a, 2a2ema el-7agat el-7eloo elli 3ayzeen ne3melha sawa kanet taweela.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "clean Egyptian phrasing; Candidate 2 uses Levantine sawa",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2adra:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "candidate_2": "El show kan 2adra yefhamny 7aga gdeda.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "short and parseable; Candidate 1 invents 3a3er",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2adra:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "etfarragt 3ala el mosalsal embare7 w kan gamed awy ldaraget enny mesh 2adra abatal afakkar feh",
+    "candidate_2": "El show kan 2adra yefhamny 7aga gdeda.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "very natural; Candidate 2 awkward and gender-mismatched",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2al3ab:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "candidate_2": "Mish 7agga 7awel 2al3ab da wahdak, 7abeb ashoflo hal ma3ak.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "one invented word versus several in Candidate 2",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2al3ab:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "candidate_2": "Mish 7agga 7awel 2al3ab da wahdak, 7abeb ashoflo hal ma3ak.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "natural request; Candidate 2 garbled with MSA hal",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2alb:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "Bakra harou7 3ala el bank 2alb 3ala el 7awagha.",
+    "candidate_2": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "single clause; Candidate 2 repeats el-yom, meaningless",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2alb:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "candidate_2": "Bakra harou7 3ala el bank 2alb 3ala el 7awagha.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "idiomatic; Candidate 2 uses 2alb nonsensically",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2ard:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "El match kan 3ala el 2ard, w el jomhor kan mzah.",
+    "candidate_2": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "two clean clauses; Candidate 2 awkward kteer mzah",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2ard:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "candidate_2": "El match kan 3ala el 2ard, w el jomhor kan mzah.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "vivid, fluent; Candidate 2 thin and odd",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2awla:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "candidate_2": "ana 3ayez a re77a 2awla el youm da kan 2aweel",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "coherent; Candidate 1 repeats a re77a",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2awla:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "ana 3ayez a re77a 2awla el youm da kan 2aweel",
+    "candidate_2": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "smoother, fuller thought; Candidate 1 choppy",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2odam:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "candidate_2": "El 3amle 2odam el 7ag, mish 3ayez nensaha.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "short and parseable; Candidate 1 repeats 3amle",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2odam:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "candidate_2": "El 3amle 2odam el 7ag, mish 3ayez nensaha.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fluent and specific; Candidate 2 vague, semi-garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2ott:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "candidate_2": "Aasif, 2ott kaan 3indi w 7a2idansy 7ataftkroh m3aya!",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "coherent opening; Candidate 1 inserts English forgot",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:2ott:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Aasif, 2ott kaan 3indi w 7a2idansy 7ataftkroh m3aya!",
+    "candidate_2": "ana asef eni neseet a2ollak en el 2ott kan 3ayz yakol",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural apology; Candidate 1 has invented gibberish",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:bayd:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "Ana habeehda ashof asouk ashab bayd wa 7agat tanya lel-eftar.",
+    "candidate_2": "Ana hobeesho anahektaro fi al-asouk, wa hobeesho anahektaro bayd wa kofta.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "no repetition; Candidate 2 loops invented words",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:bayd:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "e7na me7tageen neshtery bayd w 3ish 3ashan ne3mel fetar 3aely yom el sabt",
+    "candidate_2": "Ana habeehda ashof asouk ashab bayd wa 7agat tanya lel-eftar.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fluent shopping plan; Candidate 2 garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:dayra:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "candidate_2": "Ana babl3a 3ala dayra 3amali ba3d ma abda yomi bshower wafatar.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "coherent routine; Candidate 1 loops on 3ala",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:dayra:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "candidate_2": "Ana babl3a 3ala dayra 3amali ba3d ma abda yomi bshower wafatar.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "natural morning-walk line; Candidate 2 uses garbled verb",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:rad:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Ana sa2elt wa7ed so2al, rad 3alia be thaka we 7agweh.",
+    "candidate_2": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "coherent; Candidate 2 loops on garbled 7a7eb",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:rad:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Ana sa2elt wa7ed so2al, rad 3alia be thaka we 7agweh.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural Egyptian; Candidate 1 drifts into MSA-ish nonsense",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:watt:vs_bon",
+    "arm": "command-r:35b",
+    "baseline": "bon",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "candidate_2": "el khabar da 7aga gded watt howa 7elw gedan",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "slightly more parseable; Candidate 1 fully garbled",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "command-r:35b:watt:vs_deepseek",
+    "arm": "command-r:35b",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar da 7aga gded watt howa 7elw gedan",
+    "candidate_2": "el 5abar da 5alany 7ases en el mawdoo3 da watt awy",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "grammatical and natural; Candidate 1 word-salad",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2a2em:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2a2em",
+    "arabic": "قائم",
+    "candidate_1": "el match el yom 2a2em 3ala el 7a2et 3a el naseh.",
+    "candidate_2": "El match el yom da 2a2em 3ala el 7a2et.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "cleaner clause; Candidate 1 trails off into garble",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2a2em:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2a2em",
+    "arabic": "قائم",
+    "candidate_1": "el match el yom 2a2em 3ala el 7a2et 3a el naseh.",
+    "candidate_2": "etfarragt 3ala mobara kora w kont 2a2em tol el wa2t men el hamasa",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "fluent, coherent thought; Candidate 1 is garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2abl:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "3al3a 2abl ana ma shufteksh 3am 2am",
+    "candidate_2": "ma shufteksh 2abl 3am 2am w ana 3ayz n7ki 3al kol 7agha",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "parseable sentence; Candidate 1 opens with nonsense",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2abl:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "we7ashteni gedan ya 5oya, kont 3ayz akalemk men 2abl keda bas ma la2etsh wa2t",
+    "candidate_2": "ma shufteksh 2abl 3am 2am w ana 3ayz n7ki 3al kol 7agha",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "idiomatic Egyptian texting; Candidate 2 mixes dialects awkwardly",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2adra:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "el match el yom kan 2adra ykoun mshwiq giddan",
+    "candidate_2": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "one agreement error only; Candidate 2 invents words",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al3ab:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "candidate_2": "Ana 3arfa 2al3ab da3manek fe el-waqt da, 7ajoka ana mish 3ayez fel 3ayez.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "shorter; Candidate 2 appends garbled clause",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al3ab:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "Ana 3arfa 2al3ab da3manek fe el-waqt da, 7ajoka ana mish 3ayez fel 3ayez.",
+    "candidate_2": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural request using 2al3ab correctly as noun",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2al",
+    "arabic": "قال",
+    "candidate_1": "ana aseef 2al nistit nasayt el shay el 7abib 3alek",
+    "candidate_2": "ana aseef ana 2al 3al 7agla ma feh",
+    "fused_is": "Candidate 1",
+    "winner": "tie",
+    "reason": "both incoherent with invented words",
+    "fusion_won": null
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2al",
+    "arabic": "قال",
+    "candidate_1": "ana asef eni neset el 7aga, w 2al li ma3lesh ya 3am",
+    "candidate_2": "ana aseef 2al nistit nasayt el shay el 7abib 3alek",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "natural apology with reported speech; Candidate 2 garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alb:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bkra haml 2alb 3al 3amala ely haml 3al 3amala ely haml 3al 3amala",
+    "candidate_2": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "short; Candidate 1 is a full repetition loop",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alb:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "candidate_2": "bkra haml 2alb 3al 3amala ely haml 3al 3amala ely haml 3al 3amala",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "idiomatic gift-for-mama line; Candidate 2 loops",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alet:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "El-baya3 da be-kda 100 lira, el-2alet 3ala el-saraa.",
+    "candidate_2": "el-2alet el-saraa 100 lira 3a el-baya3 da",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "better word order; Candidate 2 scrambles the clause",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alet:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "el-2alet el-saraa 100 lira 3a el-baya3 da",
+    "candidate_2": "so2alt el baya3a 3an taman el shanta, 2alet be 200 geneh bas 3ayza afakker.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural shopping exchange; Candidate 1 is scrambled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ard:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "candidate_2": "el match el yom kan 3ala el 2ard w el 3awad 3amlo shay2a 2a3ib.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "shorter and cleaner; Candidate 2 invents words",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ard:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "candidate_2": "el match el yom kan 3ala el 2ard w el 3awad 3amlo shay2a 2a3ib.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fluent match description; Candidate 2 garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2awla:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "candidate_2": "el yom da 3ala 2awla a re77a 3al baldi 3omlan",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "no repetition loop, though ending is odd",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2awla:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "candidate_2": "el yom da 3ala 2awla a re77a 3al baldi 3omlan",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fluent, complete thought; Candidate 2 ends in nonsense",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2odam:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "el moshele 2odam el 3amle w ma 3ayez 3amle shay 3aleha",
+    "candidate_2": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "parseable; Candidate 2 repeats 3amle five times",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2odam:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "candidate_2": "el moshele 2odam el 3amle w ma 3ayez 3amle shay 3aleha",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fluent workplace complaint; Candidate 2 vague and garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ott:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "candidate_2": "aasif 3al 2ott li nistit, ghadda hana 3ayiz y3od 3andakom.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "no English insertion; Candidate 1 code-switches to forgot",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:3abd:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "el 3abd 3ayz 150 pound 3al el 3agaza el 7adi 7ad?",
+    "candidate_2": "El-3abd eh bides el-kaman eh?",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "mostly parseable; Candidate 2 is near-nonsense",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:3abd:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "bekam el 2alam da law samaht ya 3abd",
+    "candidate_2": "el 3abd 3ayz 150 pound 3al el 3agaza el 7adi 7ad?",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "natural price question; Candidate 2 semi-garbled",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:dayra:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "ba3d ma baqum ba7ta dayra el shay 3ala 3ala 3ala 3amali",
+    "candidate_2": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "fused_is": "Candidate 1",
+    "winner": "tie",
+    "reason": "both collapse into 3ala repetition loops",
+    "fusion_won": null
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:dayra:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "ba3d ma baqum ba7ta dayra el shay 3ala 3ala 3ala 3amali",
+    "candidate_2": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural daily-routine sentence; Candidate 1 loops",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:rad:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "candidate_2": "El saheb rad 3alayya bal amas el 7a7eb 3a7la.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "first half coherent; Candidate 1 fully garbled",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:rad:vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "El saheb rad 3alayya bal amas el 7a7eb 3a7la.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "natural and complete; Candidate 1 degenerates midway",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:watt:vs_bon",
+    "arm": "qwen3.8:27b-mlx",
+    "baseline": "bon",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar da 3ashan el 300 watt el jdid ghayr el 7ayat",
+    "candidate_2": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "300 watt reads sensibly; Candidate 2 is garbled",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2a2ema:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2a2ema",
+    "arabic": "قائمة",
+    "candidate_1": "embare7 3amalt 2a2ema b kol el 7agat elly kont 3ayzha",
+    "candidate_2": "Embare7 3amalt ma3 as7ab2 2a2ema men el zekrayat el 7elwa el 3eshnaha sawa.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "clean word order; C2 garbles as7ab2 and misplaces 2a2ema",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2abl:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "3al3a 2abl ana ma shufteksh 3am 2am",
+    "candidate_2": "Ya 3ammy, 2abl ma netsa2af tany, 2olli eh akhbarak, enta kwayes wala eh?",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 is garbled fragments; C2 is a coherent greeting",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2abl:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "we7ashteni gedan ya 5oya, kont 3ayz akalemk men 2abl keda bas ma la2etsh wa2t",
+    "candidate_2": "Ya 3ammy, 2abl ma netsa2af tany, 2olli eh akhbarak, enta kwayes wala eh?",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "fully idiomatic; C2 has odd netsa2af verb",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2adra:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "candidate_2": "shoft el match el yom kan rai3 awi w 2adra a2ol en kan mshwiq gedan",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 contains invented word 3a3er and incoherent clause",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2adra:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "shoft el match el yom kan rai3 awi w 2adra a2ol en kan mshwiq gedan",
+    "candidate_2": "etfarragt 3ala el mosalsal embare7 w kan gamed awy ldaraget enny mesh 2adra abatal afakkar feh",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "richer, fully natural sentence; C1 uses 2adra awkwardly",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2al3ab:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "Ba7tag mosaicadatak fi el-2al3ab di, momken ne7laha sawa ba3deen?",
+    "candidate_2": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 is garbled; C1 only misspells mosa3datak",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2al3ab:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "candidate_2": "Ba7tag mosaicadatak fi el-2al3ab di, momken ne7laha sawa ba3deen?",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "clean natural request; C2 has invented mosaicadatak",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alb:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "candidate_2": "bokra hro7 el bank 3ashan a5allas el wara2 beta3ti, ed3ili ya 2alb",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 repeats el-yom and makes no sense",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alb:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bokra hro7 el bank 3ashan a5allas el wara2 beta3ti, ed3ili ya 2alb",
+    "candidate_2": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "tefarra7 2alb mama is a very idiomatic collocation",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alet:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "El-baya3 da be-kda 100 lira, el-2alet 3ala el-saraa.",
+    "candidate_2": "2oltelha bakam el se3r, fa 2alet el product da be 150 geneh bas",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 is incoherent and uses wrong currency",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alet:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "so2alt el baya3a 3an taman el shanta, 2alet be 200 geneh bas 3ayza afakker.",
+    "candidate_2": "2oltelha bakam el se3r, fa 2alet el product da be 150 geneh bas",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "smoother narration; C2 has odd 2oltelha bakam",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ard:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "candidate_2": "El match el yom kan 3ala el 2ard, el la3eba bazlo mo7dod kteer w el match kan mzah awi.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 truncated and meaningless; C2 at least coherent",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ard:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "El match el yom kan 3ala el 2ard, el la3eba bazlo mo7dod kteer w el match kan mzah awi.",
+    "candidate_2": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "wet-pitch image is natural; C1 has garbled bazlo mo7dod",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2awla:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "weslt el beet ta3ban awi ba3d el youm da, ana 2awla b re77a kbeera abl ma 2atab5el 3asha",
+    "candidate_2": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 repeats a re77a w a re77a, incoherent",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2awla:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "candidate_2": "weslt el beet ta3ban awi ba3d el youm da, ana 2awla b re77a kbeera abl ma 2atab5el 3asha",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "cleaner; C2 has garbled 2atab5el",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2odam:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "candidate_2": "el mudeer shaf el moshkela 2odam 3oyono fel shoghl, mosh 3ayez netgahalha.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 loops 3amle repeatedly, degenerate",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2odam:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "candidate_2": "el mudeer shaf el moshkela 2odam 3oyono fel shoghl, mosh 3ayez netgahalha.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "consistent person; C2 shifts from he to we",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ott:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Ya gama3a 2asif giddan, el 2ott nesseiny khales, bas hab3atlo 3ashan awsallo bukra inshallah.",
+    "candidate_2": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 inserts English forgot and breaks down",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ott:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Ya gama3a 2asif giddan, el 2ott nesseiny khales, bas hab3atlo 3ashan awsallo bukra inshallah.",
+    "candidate_2": "ana asef eni neseet a2ollak en el 2ott kan 3ayz yakol",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "coherent apology; C1's cat-made-me-forget logic is odd",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3abd:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "ana el 3abd 3ayez a3raf el 7aga de be kam fel dukkan dah?",
+    "candidate_2": "El-3abd eh bides el-kaman eh?",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 is garbled fragments with invented words",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3abd:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "bekam el 2alam da law samaht ya 3abd",
+    "candidate_2": "ana el 3abd 3ayez a3raf el 7aga de be kam fel dukkan dah?",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "natural price question; C2's ana el 3abd reads stilted",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3edam:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "3edam",
+    "arabic": "إعدام",
+    "candidate_1": "Kul shay ma3ak 3edam, ya3ni la ta2tol 3ala al-shay3 al-maftooh.",
+    "candidate_2": "lazem tebtedy mn el shara3 el reyesi, w ba3dein 3edam el motaham msh da3wana, ro7 3ala tool",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 is MSA-ish and incoherent despite C2's non-sequitur",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:alat:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "alat",
+    "arabic": "آلات",
+    "candidate_1": "Ma kharajet alat el-khatera 3a el-koran, wa ana ma3alish el-koran 2a el-koran, keda ana late.",
+    "candidate_2": "3asf 3ala el takhir, el zahma kanet raba we alat el metro et2akharat fa atakhart 3alek",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 loops el-koran repeatedly, fully degenerate",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:alat:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "alat",
+    "arabic": "آلات",
+    "candidate_1": "et2akharit 3ashan el alat kanet wa2fa fe el shoghl",
+    "candidate_2": "3asf 3ala el takhir, el zahma kanet raba we alat el metro et2akharat fa atakhart 3alek",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "clean; C2 has 3asf and raba misspellings",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:bayd:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "ana harou7 el-sou2 el-sabt ashtary bayd w gebna w khodar 3ashan n3ml fotoor lhadeed lel 3ayla",
+    "candidate_2": "Ana hobeesho anahektaro fi al-asouk, wa hobeesho anahektaro bayd wa kofta.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 is invented gibberish throughout",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:bayd:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "e7na me7tageen neshtery bayd w 3ish 3ashan ne3mel fetar 3aely yom el sabt",
+    "candidate_2": "ana harou7 el-sou2 el-sabt ashtary bayd w gebna w khodar 3ashan n3ml fotoor lhadeed lel 3ayla",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "clean throughout; C2 has garbled lhadeed",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:dayra:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "Ba3d ma ba2om men el nom, bashrab shay, ba3den barouh 3al dayra ashteghel.",
+    "candidate_2": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 loops 3ala 3ala 3ala, degenerate",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:dayra:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "Ba3d ma ba2om men el nom, bashrab shay, ba3den barouh 3al dayra ashteghel.",
+    "candidate_2": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "dayra used idiomatically as a walk round the neighborhood",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:rad:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "candidate_2": "Embare7 lama 2olt loh ana ra7 el dukan, rad 3alaya 2ol li hayegy ma3aya.",
+    "fused_is": "Candidate 2",
+    "winner": "Candidate 2",
+    "reason": "C1 is degenerate 7a7eb repetition",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:rad:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Embare7 lama 2olt loh ana ra7 el dukan, rad 3alaya 2ol li hayegy ma3aya.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "short and fully natural; C1 has awkward 2ol li",
+    "fusion_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:watt:vs_bon",
+    "arm": "zai:glm-5.3",
+    "baseline": "bon",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar el gedeed dah mohem awy, ya3ny 300 watt hatghayar taree2etna ma3 el taqa kolo",
+    "candidate_2": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 is garbled and meaningless",
+    "fusion_won": true
+   },
+   {
+    "comparison_id": "zai:glm-5.3:watt:vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "baseline": "deepseek:deepseek-v4-pro",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar el gedeed dah mohem awy, ya3ny 300 watt hatghayar taree2etna ma3 el taqa kolo",
+    "candidate_2": "el 5abar da 5alany 7ases en el mawdoo3 da watt awy",
+    "fused_is": "Candidate 1",
+    "winner": "Candidate 1",
+    "reason": "C2 uses watt as a nonsense adjective",
+    "fusion_won": true
+   }
+  ]
+ },
+ "teacher_ceiling_probe": {
+  "note": "Diagnostic probe answering: is fusion losing to DeepSeek because fusion itself underperforms, or because the 5-teacher pool (8B-30B open models) is simply outclassed by DeepSeek regardless of what a fusor does with the drafts? Compares bon_pick (single best raw teacher draft, no fusion at all) against the same cached deepseek-v4-pro references used in the main arena benchmark. Needed zero new model calls -- both sides were already generated and cached from prior runs.",
+  "result": "0/41 (0%) -- every single raw teacher draft, across all three arms, lost to deepseek-v4-pro.",
+  "rows": [
+   {
+    "comparison_id": "command-r:35b:2adra:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "etfarragt 3ala el mosalsal embare7 w kan gamed awy ldaraget enny mesh 2adra abatal afakkar feh",
+    "candidate_2": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Coherent series comment; Candidate 2 has invented words",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2al3ab:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "candidate_2": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural request; Candidate 2 uses nonexistent da3manek",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2alb:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "candidate_2": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Idiomatic gift phrasing; Candidate 2 repeats el-yom",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2ard:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "candidate_2": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Wet-pitch description coherent; Candidate 2 meaningless",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2awla:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "candidate_2": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural long-day text; Candidate 2 repeats a re77a",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2odam:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "candidate_2": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 loops 3amle five times",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:2ott:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "candidate_2": "ana asef eni neseet a2ollak en el 2ott kan 3ayz yakol",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Natural; Candidate 1 injects English forgot",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:bayd:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "Ana hobeesho anahektaro fi al-asouk, wa hobeesho anahektaro bayd wa kofta.",
+    "candidate_2": "e7na me7tageen neshtery bayd w 3ish 3ashan ne3mel fetar 3aely yom el sabt",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 invents anahektaro and repeats it",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:dayra:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "candidate_2": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 loops on 3ala repetitions",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:rad:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 is degenerate 7a7eb repetition",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "command-r:35b:watt:bon_vs_deepseek",
+    "arm": "command-r:35b",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el 5abar da 5alany 7ases en el mawdoo3 da watt awy",
+    "candidate_2": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Reads naturally; Candidate 2 is garbled non-Egyptian",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2a2em:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2a2em",
+    "arabic": "قائم",
+    "candidate_1": "etfarragt 3ala mobara kora w kont 2a2em tol el wa2t men el hamasa",
+    "candidate_2": "El match el yom da 2a2em 3ala el 7a2et.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural standing-from-excitement sense; other is incoherent",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2abl:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "3al3a 2abl ana ma shufteksh 3am 2am",
+    "candidate_2": "we7ashteni gedan ya 5oya, kont 3ayz akalemk men 2abl keda bas ma la2etsh wa2t",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Fluent apology message; Candidate 1 is garbled fragments",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2adra:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "candidate_2": "etfarragt 3ala el mosalsal embare7 w kan gamed awy ldaraget enny mesh 2adra abatal afakkar feh",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Coherent series comment; Candidate 1 has invented words",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al3ab:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "candidate_2": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural request; Candidate 2 uses nonexistent da3manek",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2al:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2al",
+    "arabic": "قال",
+    "candidate_1": "ana aseef ana 2al 3al 7agla ma feh",
+    "candidate_2": "ana asef eni neset el 7aga, w 2al li ma3lesh ya 3am",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Complete thought; Candidate 1 is broken word salad",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alb:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "candidate_2": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Idiomatic tefarra7 2alb mama; other repeats el-yom",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2alet:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "El-baya3 da be-kda 100 lira, el-2alet 3ala el-saraa.",
+    "candidate_2": "so2alt el baya3a 3an taman el shanta, 2alet be 200 geneh bas 3ayza afakker.",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Coherent haggling scene; Candidate 1 garbled and non-Egyptian currency",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ard:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "candidate_2": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Wet-pitch description makes sense; Candidate 2 does not",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2awla:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "candidate_2": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural long-day text; Candidate 2 repeats a re77a",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2odam:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "candidate_2": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Candidate 2 loops 3amle five times",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:2ott:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "ana asef eni neseet a2ollak en el 2ott kan 3ayz yakol",
+    "candidate_2": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural; Candidate 2 injects English forgot",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:3abd:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "El-3abd eh bides el-kaman eh?",
+    "candidate_2": "bekam el 2alam da law samaht ya 3abd",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Ordinary shop question; Candidate 1 is nonsense",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:dayra:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "candidate_2": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 loops on 3ala repetitions",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:rad:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 is degenerate 7a7eb repetition",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "qwen3.8:27b-mlx:watt:bon_vs_deepseek",
+    "arm": "qwen3.8:27b-mlx",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el 5abar da 5alany 7ases en el mawdoo3 da watt awy",
+    "candidate_2": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Reads naturally; Candidate 2 is garbled non-Egyptian",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2abl:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2abl",
+    "arabic": "قبل",
+    "candidate_1": "3al3a 2abl ana ma shufteksh 3am 2am",
+    "candidate_2": "we7ashteni gedan ya 5oya, kont 3ayz akalemk men 2abl keda bas ma la2etsh wa2t",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Fluent apology message; Candidate 1 is garbled fragments",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2adra:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2adra",
+    "arabic": "قادرة",
+    "candidate_1": "etfarragt 3ala el mosalsal embare7 w kan gamed awy ldaraget enny mesh 2adra abatal afakkar feh",
+    "candidate_2": "Kaman shofto el show, 2adra tafhamo kalam el mawdo3 el 3a3er.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Coherent series comment; Candidate 2 has invented words",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2al3ab:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2al3ab",
+    "arabic": "ألعاب",
+    "candidate_1": "Ana 3arfa 2al3ab da3manek fe el-waqt da.",
+    "candidate_2": "mumken tsa3edni arattib el 2al3ab fi el oda bta3ty?",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Natural request; Candidate 1 uses nonexistent da3manek",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alb:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2alb",
+    "arabic": "قلب",
+    "candidate_1": "El-mou3amalat el-yom el-yom 3andaha 2alb keteer.",
+    "candidate_2": "bokra harou7 elsoo2 3ashan ageeb hedeya tefarra7 2alb mama",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Idiomatic gift phrasing; Candidate 1 repeats el-yom",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2alet:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2alet",
+    "arabic": "قالت",
+    "candidate_1": "so2alt el baya3a 3an taman el shanta, 2alet be 200 geneh bas 3ayza afakker.",
+    "candidate_2": "El-baya3 da be-kda 100 lira, el-2alet 3ala el-saraa.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Coherent haggling scene; Candidate 2 garbled, non-Egyptian currency",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ard:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2ard",
+    "arabic": "أرض",
+    "candidate_1": "etfarragt 3ala mobara embare7 w kant 2ard el mal3ab mabloula w el le3b kan sa3b",
+    "candidate_2": "El match el yom kan 3ala el 2ard kteer mzah.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Wet-pitch description coherent; Candidate 2 meaningless",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2awla:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2awla",
+    "arabic": "أولى",
+    "candidate_1": "el yom da 3ala 2awla 3ayez a re77a w a re77a",
+    "candidate_2": "el naharda kan yom taweel gedan w 2awla 7aga a3melha eni at7amam w anam",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Natural long-day text; Candidate 1 repeats a re77a",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2odam:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2odam",
+    "arabic": "قدام",
+    "candidate_1": "El 3amle 2odam el 3amle 3amle 3amle 3amle 3amle el 7ag.",
+    "candidate_2": "ana 2olt leek el moshkela elly fel shoghl de 2odam el modeer w kol el nas shayfeenha",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 loops 3amle five times",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:2ott:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "2ott",
+    "arabic": "قط",
+    "candidate_1": "ana asef eni neseet a2ollak en el 2ott kan 3ayz yakol",
+    "candidate_2": "Aasif 3ala negham ana 3amelt forgot el 2ott.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural; Candidate 2 injects English forgot",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:3abd:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "3abd",
+    "arabic": "عبد",
+    "candidate_1": "bekam el 2alam da law samaht ya 3abd",
+    "candidate_2": "El-3abd eh bides el-kaman eh?",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Ordinary shop question; Candidate 2 is nonsense",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:alat:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "alat",
+    "arabic": "آلات",
+    "candidate_1": "et2akharit 3ashan el alat kanet wa2fa fe el shoghl",
+    "candidate_2": "Ma kharajet alat el-khatera 3a el-koran, wa ana ma3alish el-koran 2a el-koran, keda ana late.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Clear machines-stopped excuse; Candidate 2 loops el-koran",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:bayd:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "bayd",
+    "arabic": "بيض",
+    "candidate_1": "e7na me7tageen neshtery bayd w 3ish 3ashan ne3mel fetar 3aely yom el sabt",
+    "candidate_2": "Ana hobeesho anahektaro fi al-asouk, wa hobeesho anahektaro bayd wa kofta.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Natural grocery plan; Candidate 2 invents anahektaro",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:dayra:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "dayra",
+    "arabic": "دايرة",
+    "candidate_1": "el sob7 ba3mel dayra 7awal el 7ay 2abl ma a3mel el fetar",
+    "candidate_2": "Kaman 7sabah, ana batal3a 3ala dayra 3amali, 3ala 3ala 3ala shay 2a 3ala shay.",
+    "bon_is": "Candidate 2",
+    "winner": "Candidate 1",
+    "reason": "Candidate 2 loops on 3ala repetitions",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:rad:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "rad",
+    "arabic": "رد",
+    "candidate_1": "Kaman wa7da keda ana 3a3a 2a7d, rad 7a7eb 3ala 7a7eb 3a7la.",
+    "candidate_2": "embare7 sa7by kan za3lan w rad 3alaya bsoot waty",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Candidate 1 is degenerate 7a7eb repetition",
+    "bon_won": false
+   },
+   {
+    "comparison_id": "zai:glm-5.3:watt:bon_vs_deepseek",
+    "arm": "zai:glm-5.3",
+    "anchor": "watt",
+    "arabic": "واط",
+    "candidate_1": "el khabar da mosh be3ad watt el masr bech t3raf el mawdou3",
+    "candidate_2": "el 5abar da 5alany 7ases en el mawdoo3 da watt awy",
+    "bon_is": "Candidate 1",
+    "winner": "Candidate 2",
+    "reason": "Reads naturally; Candidate 1 is garbled non-Egyptian",
+    "bon_won": false
+   }
+  ]
+ }
+}

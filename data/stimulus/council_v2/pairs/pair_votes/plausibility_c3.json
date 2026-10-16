@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "3almaneya->almaneya",
+  "rid": "3almaneya->almaneya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almani->aalmane",
+  "rid": "3almani->aalmane",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almani->aalmani",
+  "rid": "3almani->aalmani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almani->aalmany",
+  "rid": "3almani->aalmany",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almani->almani",
+  "rid": "3almani->almani",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almet->aalmeet",
+  "rid": "3almet->aalmeet",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3almet->aalmet",
+  "rid": "3almet->aalmet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almet->aalmit",
+  "rid": "3almet->aalmit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almet->almet",
+  "rid": "3almet->almet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almey->3almi",
+  "rid": "3almey->3almi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almey->aalmei",
+  "rid": "3almey->aalmei",
+  "v": false,
+  "why": "final ei is for the ay diphthong, not the -i/-ee ending; unnatural here"
+ },
+ {
+  "sid": "3almey->aalmey",
+  "rid": "3almey->aalmey",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almey->aalmiy",
+  "rid": "3almey->aalmiy",
+  "v": false,
+  "why": "final -iy is not an Egyptian chat spelling; unnatural stacked on aa-for-ع"
+ },
+ {
+  "sid": "3almeya->aalmeya",
+  "rid": "3almeya->aalmeya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almeya->aalmiya",
+  "rid": "3almeya->aalmiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almeya->almeya",
+  "rid": "3almeya->almeya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almia->3alma",
+  "rid": "3almia->3alma",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3almia->aalmia",
+  "rid": "3almia->aalmia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almia->almia",
+  "rid": "3almia->almia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almna->aalmna",
+  "rid": "3almna->aalmna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almna->almna",
+  "rid": "3almna->almna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almy->aalmy",
+  "rid": "3almy->aalmy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almy->almy",
+  "rid": "3almy->almy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almya->aalmya",
+  "rid": "3almya->aalmya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almya->aalmyah",
+  "rid": "3almya->aalmyah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almya->almya",
+  "rid": "3almya->almya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almyan->aalmyan",
+  "rid": "3almyan->aalmyan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3almyan->almyan",
+  "rid": "3almyan->almyan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alra3m->aalra3m",
+  "rid": "3alra3m->aalra3m",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alra3m->alra3m",
+  "rid": "3alra3m->alra3m",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alragm->aalraagm",
+  "rid": "3alragm->aalraagm",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3alragm->aalragm",
+  "rid": "3alragm->aalragm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alragm->alragm",
+  "rid": "3alragm->alragm",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alragmn->aalraagmn",
+  "rid": "3alragmn->aalraagmn",
+  "v": false,
+  "why": "base 3alragmn is a garbled على الرغم; no Egyptian types this form"
+ },
+ {
+  "sid": "3alragmn->aalragmn",
+  "rid": "3alragmn->aalragmn",
+  "v": false,
+  "why": "base 3alragmn is a garbled على الرغم; no Egyptian types this form"
+ },
+ {
+  "sid": "3alragmn->alragmn",
+  "rid": "3alragmn->alragmn",
+  "v": false,
+  "why": "base 3alragmn is a garbled على الرغم; no Egyptian types this form"
+ },
+ {
+  "sid": "3alya->aalya",
+  "rid": "3alya->aalya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3alya->aalyaa",
+  "rid": "3alya->aalyaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3alya->alya",
+  "rid": "3alya->alya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am->aaam",
+  "rid": "3am->aaam",
+  "v": false,
+  "why": "triple vowel is not a real Egyptian spelling of this word"
+ },
+ {
+  "sid": "3am->aam",
+  "rid": "3am->aam",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am->am",
+  "rid": "3am->am",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am2->aam2",
+  "rid": "3am2->aam2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am2->am2",
+  "rid": "3am2->am2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am2a->aam2a",
+  "rid": "3am2a->aam2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3am2a->aam2aa",
+  "rid": "3am2a->aam2aa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3am2a->am2a",
+  "rid": "3am2a->am2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ama->aama",
+  "rid": "3ama->aama",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ama->aamaa",
+  "rid": "3ama->aamaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3ama->aamah",
+  "rid": "3ama->aamah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ama->ama",
+  "rid": "3ama->ama",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ama2->aama2",
+  "rid": "3ama2->aama2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ama2->aamaa2",
+  "rid": "3ama2->aamaa2",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3ama2->ama2",
+  "rid": "3ama2->ama2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaan->aamaan",
+  "rid": "3amaan->aamaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaan->aaman",
+  "rid": "3amaan->aaman",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaan->amaan",
+  "rid": "3amaan->amaan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amad->aamad",
+  "rid": "3amad->aamad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amad->amad",
+  "rid": "3amad->amad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amal->aamaal",
+  "rid": "3amal->aamaal",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3amal->aamal",
+  "rid": "3amal->aamal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amal->amal",
+  "rid": "3amal->amal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amal2a->aamal2a",
+  "rid": "3amal2a->aamal2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amal2a->aamal2aa",
+  "rid": "3amal2a->aamal2aa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amal2a->amal2a",
+  "rid": "3amal2a->amal2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amala->aamala",
+  "rid": "3amala->aamala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amala->amala",
+  "rid": "3amala->amala",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalak->aamalak",
+  "rid": "3amalak->aamalak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalak->amalak",
+  "rid": "3amalak->amalak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalat->aamalaat",
+  "rid": "3amalat->aamalaat",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3amalat->aamalat",
+  "rid": "3amalat->aamalat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalat->amalat",
+  "rid": "3amalat->amalat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleat->3amalaat",
+  "rid": "3amaleat->3amalaat",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaleat->3amalat",
+  "rid": "3amaleat->3amalat",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaleat->aamalat",
+  "rid": "3amaleat->aamalat",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaleat->aamaleat",
+  "rid": "3amaleat->aamaleat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleat->amaleat",
+  "rid": "3amaleat->amaleat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleen->aamaleen",
+  "rid": "3amaleen->aamaleen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleen->aamalein",
+  "rid": "3amaleen->aamalein",
+  "v": false,
+  "why": "ei for the -een plural suffix is not a typical Egyptian spelling"
+ },
+ {
+  "sid": "3amaleen->aamalen",
+  "rid": "3amaleen->aamalen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleen->amaleen",
+  "rid": "3amaleen->amaleen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleeyat->aamaleyat",
+  "rid": "3amaleeyat->aamaleyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleeyat->amaleeyat",
+  "rid": "3amaleeyat->amaleeyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleiat->3amaleat",
+  "rid": "3amaleiat->3amaleat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleiat->3amaliat",
+  "rid": "3amaleiat->3amaliat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleiat->aamaleiat",
+  "rid": "3amaleiat->aamaleiat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleiat->aamaliat",
+  "rid": "3amaleiat->aamaliat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleiat->amaleiat",
+  "rid": "3amaleiat->amaleiat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalet->aamalet",
+  "rid": "3amalet->aamalet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalet->aamalit",
+  "rid": "3amalet->aamalit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalet->amalet",
+  "rid": "3amalet->amalet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaleyat->aamaleyat",
+  "rid": "3amaleyat->aamaleyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalha->aamalha",
+  "rid": "3amalha->aamalha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalha->amalha",
+  "rid": "3amalha->amalha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalhom->aamalhom",
+  "rid": "3amalhom->aamalhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalhom->aamalhoom",
+  "rid": "3amalhom->aamalhoom",
+  "v": false,
+  "why": "oo for the short -hom/-uh/-u pronoun vowel is not typical"
+ },
+ {
+  "sid": "3amalhom->aamalhum",
+  "rid": "3amalhom->aamalhum",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalhom->amalhom",
+  "rid": "3amalhom->amalhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amali->aamale",
+  "rid": "3amali->aamale",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amali->aamali",
+  "rid": "3amali->aamali",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amali->aamaly",
+  "rid": "3amali->aamaly",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalia->3amalah",
+  "rid": "3amalia->3amalah",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amalia->aamalia",
+  "rid": "3amalia->aamalia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalia->aamaliah",
+  "rid": "3amalia->aamaliah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalia->amalia",
+  "rid": "3amalia->amalia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliat->3amalat",
+  "rid": "3amaliat->3amalat",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaliat->amaliat",
+  "rid": "3amaliat->amaliat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliet->3amaleet",
+  "rid": "3amaliet->3amaleet",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaliet->3amalet",
+  "rid": "3amaliet->3amalet",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaliet->3amalit",
+  "rid": "3amaliet->3amalit",
+  "v": false,
+  "why": "dropping the i/e removes the -iyya y sound; no Egyptian writes this word so"
+ },
+ {
+  "sid": "3amaliet->aamaliet",
+  "rid": "3amaliet->aamaliet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliya->aamaleya",
+  "rid": "3amaliya->aamaleya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliya->aamaliya",
+  "rid": "3amaliya->aamaliya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliya->amaliya",
+  "rid": "3amaliya->amaliya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyat->aamaleyat",
+  "rid": "3amaliyat->aamaleyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyat->aamaliyaat",
+  "rid": "3amaliyat->aamaliyaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyat->aamaliyat",
+  "rid": "3amaliyat->aamaliyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyat->aamalyat",
+  "rid": "3amaliyat->aamalyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyat->amaliyat",
+  "rid": "3amaliyat->amaliyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyet->aamaleyet",
+  "rid": "3amaliyet->aamaleyet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyet->aamaliyeet",
+  "rid": "3amaliyet->aamaliyeet",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3amaliyet->aamaliyit",
+  "rid": "3amaliyet->aamaliyit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaliyet->aamalyet",
+  "rid": "3amaliyet->aamalyet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalna->aamalna",
+  "rid": "3amalna->aamalna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalna->aamalnaa",
+  "rid": "3amalna->aamalnaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amalna->amalna",
+  "rid": "3amalna->amalna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalo->aamalo",
+  "rid": "3amalo->aamalo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalo->aamaloo",
+  "rid": "3amalo->aamaloo",
+  "v": false,
+  "why": "oo for the short -hom/-uh/-u pronoun vowel is not typical"
+ },
+ {
+  "sid": "3amalo->aamalu",
+  "rid": "3amalo->aamalu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalo->amalo",
+  "rid": "3amalo->amalo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaloh->aamaloh",
+  "rid": "3amaloh->aamaloh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaloh->aamaluh",
+  "rid": "3amaloh->aamaluh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaloh->amaloh",
+  "rid": "3amaloh->amaloh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalt->aamaalt",
+  "rid": "3amalt->aamaalt",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3amalt->aamalt",
+  "rid": "3amalt->aamalt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalt->amalt",
+  "rid": "3amalt->amalt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalto->aamalto",
+  "rid": "3amalto->aamalto",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalto->aamaltu",
+  "rid": "3amalto->aamaltu",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalto->amalto",
+  "rid": "3amalto->amalto",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaly->aamaly",
+  "rid": "3amaly->aamaly",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amaly->amaly",
+  "rid": "3amaly->amaly",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalya->aamalya",
+  "rid": "3amalya->aamalya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalya->aamalyaa",
+  "rid": "3amalya->aamalyaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amalya->amalya",
+  "rid": "3amalya->amalya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalyat->aamalyaat",
+  "rid": "3amalyat->aamalyaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalyat->aamalyat",
+  "rid": "3amalyat->aamalyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amalyat->amalyat",
+  "rid": "3amalyat->amalyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aman->aamaan",
+  "rid": "3aman->aamaan",
+  "v": false,
+  "why": "doubles the short tanween vowel on top of aa-for-ع; not typed"
+ },
+ {
+  "sid": "3aman->aaman",
+  "rid": "3aman->aaman",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aman->aman",
+  "rid": "3aman->aman",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amar->aamaar",
+  "rid": "3amar->aamaar",
+  "v": false,
+  "why": "doubles a short vowel on top of aa-for-ع; not a spelling Egyptians type"
+ },
+ {
+  "sid": "3amar->aamar",
+  "rid": "3amar->aamar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amar->amar",
+  "rid": "3amar->amar",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amda->aamda",
+  "rid": "3amda->aamda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amda->amda",
+  "rid": "3amda->amda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amdan->aamdaan",
+  "rid": "3amdan->aamdaan",
+  "v": false,
+  "why": "doubles the short tanween vowel on top of aa-for-ع; not typed"
+ },
+ {
+  "sid": "3amdan->aamdan",
+  "rid": "3amdan->aamdan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amdan->amdan",
+  "rid": "3amdan->amdan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame->aame",
+  "rid": "3ame->aame",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame->aami",
+  "rid": "3ame->aami",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame->ame",
+  "rid": "3ame->ame",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2->aame2",
+  "rid": "3ame2->aame2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2->aamee2",
+  "rid": "3ame2->aamee2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2->aami2",
+  "rid": "3ame2->aami2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2->ame2",
+  "rid": "3ame2->ame2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2a->aam2a",
+  "rid": "3ame2a->aam2a",
+  "v": false,
+  "why": "drops the long vowel of the stem; no Egyptian writes this word that way"
+ },
+ {
+  "sid": "3ame2a->aame2a",
+  "rid": "3ame2a->aame2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2a->aame2aa",
+  "rid": "3ame2a->aame2aa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3ame2a->aami2a",
+  "rid": "3ame2a->aami2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ame2a->ame2a",
+  "rid": "3ame2a->ame2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amee->aame",
+  "rid": "3amee->aame",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amee->aamee",
+  "rid": "3amee->aamee",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amee->aamei",
+  "rid": "3amee->aamei",
+  "v": false,
+  "why": "final ei is for the ay diphthong, not the -i/-ee ending; unnatural here"
+ },
+ {
+  "sid": "3ameed->aameed",
+  "rid": "3ameed->aameed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameed->ameed",
+  "rid": "3ameed->ameed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeda->aameda",
+  "rid": "3ameeda->aameda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeda->aameeda",
+  "rid": "3ameeda->aameeda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeda->ameeda",
+  "rid": "3ameeda->ameeda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameek->aameek",
+  "rid": "3ameek->aameek",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameek->aameik",
+  "rid": "3ameek->aameik",
+  "v": false,
+  "why": "ei is for the ay diphthong, not long ee; unnatural spelling of this word"
+ },
+ {
+  "sid": "3ameek->aamek",
+  "rid": "3ameek->aamek",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameek->ameek",
+  "rid": "3ameek->ameek",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeka->aameeka",
+  "rid": "3ameeka->aameeka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeka->ameeka",
+  "rid": "3ameeka->ameeka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameel->aameil",
+  "rid": "3ameel->aameil",
+  "v": false,
+  "why": "ei is for the ay diphthong, not long ee; unnatural spelling of this word"
+ },
+ {
+  "sid": "3ameel->aamel",
+  "rid": "3ameel->aamel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameen->aameen",
+  "rid": "3ameen->aameen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameen->aamen",
+  "rid": "3ameen->aamen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameen->ameen",
+  "rid": "3ameen->ameen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeq->aameeq",
+  "rid": "3ameeq->aameeq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeq->aameq",
+  "rid": "3ameeq->aameq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameeq->ameeq",
+  "rid": "3ameeq->ameeq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameka->aameka",
+  "rid": "3ameka->aameka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameka->aamka",
+  "rid": "3ameka->aamka",
+  "v": false,
+  "why": "drops the long vowel of the stem; no Egyptian writes this word that way"
+ },
+ {
+  "sid": "3ameka->ameka",
+  "rid": "3ameka->ameka",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amela->aamela",
+  "rid": "3amela->aamela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amela->aamila",
+  "rid": "3amela->aamila",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amela->amela",
+  "rid": "3amela->amela",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelet->amelet",
+  "rid": "3amelet->amelet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameleya->ameleya",
+  "rid": "3ameleya->ameleya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameleyat->aameleyat",
+  "rid": "3ameleyat->aameleyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameleyat->aameliyat",
+  "rid": "3ameleyat->aameliyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelha->aamelha",
+  "rid": "3amelha->aamelha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelha->aamelhaa",
+  "rid": "3amelha->aamelhaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amelha->aamilha",
+  "rid": "3amelha->aamilha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelin->aamelen",
+  "rid": "3amelin->aamelen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelin->aameln",
+  "rid": "3amelin->aameln",
+  "v": false,
+  "why": "drops the long vowel of the stem; no Egyptian writes this word that way"
+ },
+ {
+  "sid": "3amelin->aamlin",
+  "rid": "3amelin->aamlin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelin->amelin",
+  "rid": "3amelin->amelin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnah->aamelnaah",
+  "rid": "3amelnah->aamelnaah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnah->aamelnah",
+  "rid": "3amelnah->aamelnah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnah->amelnah",
+  "rid": "3amelnah->amelnah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnaha->aamelnaha",
+  "rid": "3amelnaha->aamelnaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnaha->aamilnaha",
+  "rid": "3amelnaha->aamilnaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelnaha->amelnaha",
+  "rid": "3amelnaha->amelnaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelo->aamelo",
+  "rid": "3amelo->aamelo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelt->aamilt",
+  "rid": "3amelt->aamilt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelt->amelt",
+  "rid": "3amelt->amelt",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameltaha->aameltaha",
+  "rid": "3ameltaha->aameltaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameltaha->aameltahaa",
+  "rid": "3ameltaha->aameltahaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3ameltaha->aamiltaha",
+  "rid": "3ameltaha->aamiltaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameltaha->ameltaha",
+  "rid": "3ameltaha->ameltaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelya->aamelya",
+  "rid": "3amelya->aamelya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelya->aamelyaa",
+  "rid": "3amelya->aamelyaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amelya->aamelyah",
+  "rid": "3amelya->aamelyah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelya->aamilya",
+  "rid": "3amelya->aamilya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelya->amelya",
+  "rid": "3amelya->amelya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyat->aamelyat",
+  "rid": "3amelyat->aamelyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyat->aamilyat",
+  "rid": "3amelyat->aamilyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyat->amelyat",
+  "rid": "3amelyat->amelyat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyet->aamelyet",
+  "rid": "3amelyet->aamelyet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyet->aamilyet",
+  "rid": "3amelyet->aamilyet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amelyet->amelyet",
+  "rid": "3amelyet->amelyet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameq->aameq",
+  "rid": "3ameq->aameq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameq->aamiq",
+  "rid": "3ameq->aamiq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameq->aamq",
+  "rid": "3ameq->aamq",
+  "v": false,
+  "why": "drops the long vowel of the stem; no Egyptian writes this word that way"
+ },
+ {
+  "sid": "3ameq->ameq",
+  "rid": "3ameq->ameq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameqa->aameqa",
+  "rid": "3ameqa->aameqa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameqa->aamqa",
+  "rid": "3ameqa->aamqa",
+  "v": false,
+  "why": "drops the long vowel of the stem; no Egyptian writes this word that way"
+ },
+ {
+  "sid": "3ameqa->ameqa",
+  "rid": "3ameqa->ameqa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amer->aamer",
+  "rid": "3amer->aamer",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amer->aamir",
+  "rid": "3amer->aamir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amer->aamr",
+  "rid": "3amer->aamr",
+  "v": false,
+  "why": "aa-for-ع plus dropped pronounced vowel; aamr is عمرو, not typed for عامر"
+ },
+ {
+  "sid": "3amer->amer",
+  "rid": "3amer->amer",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameya->aameya",
+  "rid": "3ameya->aameya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameya->aamya",
+  "rid": "3ameya->aamya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ameya->ameya",
+  "rid": "3ameya->ameya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amha->aamha",
+  "rid": "3amha->aamha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amha->aamhaa",
+  "rid": "3amha->aamhaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amha->amha",
+  "rid": "3amha->amha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ami->aame",
+  "rid": "3ami->aame",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ami->aamy",
+  "rid": "3ami->aamy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3ami->ami",
+  "rid": "3ami->ami",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amid->aamed",
+  "rid": "3amid->aamed",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amid->aamid",
+  "rid": "3amid->aamid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amid->amid",
+  "rid": "3amid->amid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amil->aamel",
+  "rid": "3amil->aamel",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amil->aamil",
+  "rid": "3amil->aamil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amil->amil",
+  "rid": "3amil->amil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amk->aamk",
+  "rid": "3amk->aamk",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amk->amk",
+  "rid": "3amk->amk",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aml->aaml",
+  "rid": "3aml->aaml",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3aml->aml",
+  "rid": "3aml->aml",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amla->aamla",
+  "rid": "3amla->aamla",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amla->amla",
+  "rid": "3amla->amla",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amla2a->aamla2a",
+  "rid": "3amla2a->aamla2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amla2a->aamla2aa",
+  "rid": "3amla2a->aamla2aa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amla2a->amla2a",
+  "rid": "3amla2a->amla2a",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaha->aamlaha",
+  "rid": "3amlaha->aamlaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaha->amlaha",
+  "rid": "3amlaha->amlaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaq->aamlaaq",
+  "rid": "3amlaq->aamlaaq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaq->aamlaq",
+  "rid": "3amlaq->aamlaq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaq->amlaq",
+  "rid": "3amlaq->amlaq",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaqa->aamlaqa",
+  "rid": "3amlaqa->aamlaqa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaqa->aamlaqaa",
+  "rid": "3amlaqa->aamlaqaa",
+  "v": false,
+  "why": "spurious final aa stacked on aa-for-ع; unnatural for this word"
+ },
+ {
+  "sid": "3amlaqa->amlaqa",
+  "rid": "3amlaqa->amlaqa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlat->aamlat",
+  "rid": "3amlat->aamlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlat->amlat",
+  "rid": "3amlat->amlat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaw->aamlaw",
+  "rid": "3amlaw->aamlaw",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlaw->amlaw",
+  "rid": "3amlaw->amlaw",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleen->aamleen",
+  "rid": "3amleen->aamleen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleen->aamlen",
+  "rid": "3amleen->aamlen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleen->amleen",
+  "rid": "3amleen->amleen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleenha->aamleenha",
+  "rid": "3amleenha->aamleenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleenha->aamlenha",
+  "rid": "3amleenha->aamlenha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleeyet->aamleeyit",
+  "rid": "3amleeyet->aamleeyit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleia->3amlea",
+  "rid": "3amleia->3amlea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleia->3amlia",
+  "rid": "3amleia->3amlia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleia->aamlea",
+  "rid": "3amleia->aamlea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleia->aamlia",
+  "rid": "3amleia->aamlia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->3amleaat",
+  "rid": "3amleiat->3amleaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->3amleat",
+  "rid": "3amleiat->3amleat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->3amliaat",
+  "rid": "3amleiat->3amliaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->3amliat",
+  "rid": "3amleiat->3amliat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->aamleiaat",
+  "rid": "3amleiat->aamleiaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amleiat->aamliat",
+  "rid": "3amleiat->aamliat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlet->aamlet",
+  "rid": "3amlet->aamlet",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amlet->aamlit",
+  "rid": "3amlet->aamlit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amletaha->aamletaha",
+  "rid": "3amletaha->aamletaha",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "3amletaha->aamlitaha",
+  "rid": "3amletaha->aamlitaha",
+  "v": true,
+  "why": ""
+ }
+]

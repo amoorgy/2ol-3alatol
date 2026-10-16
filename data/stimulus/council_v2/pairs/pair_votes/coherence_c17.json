@@ -1,0 +1,1802 @@
+[
+{
+"sid": "elwelaia->ilwelaa",
+"rid": "elwelaia->ilwelaa",
+"v": false,
+"why": "ilwelaa reads as el-wala2 (loyalty), not el-welaya (the state)."
+},
+{
+"sid": "elyawmia->elyawma",
+"rid": "elyawmia->elyawma",
+"v": false,
+"why": "elyawma drops the nisba; reads as el-yom (today): 'our life today' not 'daily life'."
+},
+{
+"sid": "elyawmia->elyooma",
+"rid": "elyawmia->elyooma",
+"v": false,
+"why": "elyooma reads as el-yoom (today), not elyawmia (daily)."
+},
+{
+"sid": "elyawmia->ilyawma",
+"rid": "elyawmia->ilyawma",
+"v": false,
+"why": "ilyawma reads as el-yawm (today), losing 'daily'."
+},
+{
+"sid": "elyeal->elyal",
+"rid": "elyeal->elyal",
+"v": true,
+"why": ""
+},
+{
+"sid": "elyeal->ilyal",
+"rid": "elyeal->ilyal",
+"v": true,
+"why": ""
+},
+{
+"sid": "elyonaania->elyonaana",
+"rid": "elyonaania->elyonaana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elyonaania->ilyonaana",
+"rid": "elyonaania->ilyonaana",
+"v": true,
+"why": ""
+},
+{
+"sid": "elzamaney->elzamani",
+"rid": "elzamaney->elzamani",
+"v": true,
+"why": ""
+},
+{
+"sid": "elzawayya->elzawiya",
+"rid": "elzawayya->elzawiya",
+"v": true,
+"why": ""
+},
+{
+"sid": "elzayda->elzida",
+"rid": "elzayda->elzida",
+"v": true,
+"why": ""
+},
+{
+"sid": "elzaytoon->elzitoon",
+"rid": "elzaytoon->elzitoon",
+"v": true,
+"why": ""
+},
+{
+"sid": "emails->emals",
+"rid": "emails->emals",
+"v": true,
+"why": ""
+},
+{
+"sid": "emails->imals",
+"rid": "emails->imals",
+"v": true,
+"why": ""
+},
+{
+"sid": "emayl->emil",
+"rid": "emayl->emil",
+"v": true,
+"why": ""
+},
+{
+"sid": "emaylat->emilat",
+"rid": "emaylat->emilat",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneia->emkanea",
+"rid": "emkaneia->emkanea",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneia->emkania",
+"rid": "emkaneia->emkania",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneia->emkaniaa",
+"rid": "emkaneia->emkaniaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneia->imkanea",
+"rid": "emkaneia->imkanea",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneia->imkania",
+"rid": "emkaneia->imkania",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneiat->emkaneaat",
+"rid": "emkaneiat->emkaneaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneiat->emkaneat",
+"rid": "emkaneiat->emkaneat",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneiat->emkaniat",
+"rid": "emkaneiat->emkaniat",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkaneiat->imkaniat",
+"rid": "emkaneiat->imkaniat",
+"v": true,
+"why": ""
+},
+{
+"sid": "emkania->emkana",
+"rid": "emkania->emkana",
+"v": true,
+"why": ""
+},
+{
+"sid": "endonesia->endonesa",
+"rid": "endonesia->endonesa",
+"v": true,
+"why": ""
+},
+{
+"sid": "endonesia->endonisa",
+"rid": "endonesia->endonisa",
+"v": true,
+"why": ""
+},
+{
+"sid": "endonesia->indonesa",
+"rid": "endonesia->indonesa",
+"v": true,
+"why": ""
+},
+{
+"sid": "engeaz->engaz",
+"rid": "engeaz->engaz",
+"v": true,
+"why": ""
+},
+{
+"sid": "engeaz->ingaz",
+"rid": "engeaz->ingaz",
+"v": true,
+"why": ""
+},
+{
+"sid": "engelizia->ingeliza",
+"rid": "engelizia->ingeliza",
+"v": true,
+"why": ""
+},
+{
+"sid": "ensania->ensana",
+"rid": "ensania->ensana",
+"v": false,
+"why": "ensana = insana (a woman/female human), not ensania (humanities/humanity)."
+},
+{
+"sid": "ensania->ensanaa",
+"rid": "ensania->ensanaa",
+"v": false,
+"why": "ensanaa reads as insana (a woman), breaking 'human sciences'."
+},
+{
+"sid": "ensania->insana",
+"rid": "ensania->insana",
+"v": false,
+"why": "insana = a woman, not el-ensania (humanities)."
+},
+{
+"sid": "enteab->entab",
+"rid": "enteab->entab",
+"v": false,
+"why": "entab reads as the verb entab (befell), no longer entebah (attention)."
+},
+{
+"sid": "enteab->intab",
+"rid": "enteab->intab",
+"v": false,
+"why": "intab reads as verb entab (befell), blurring 'attention'."
+},
+{
+"sid": "enteabeh->entabeh",
+"rid": "enteabeh->entabeh",
+"v": false,
+"why": "entabeh is the verb 'pay attention', a different word from the noun entebah."
+},
+{
+"sid": "enteabeh->entabih",
+"rid": "enteabeh->entabih",
+"v": false,
+"why": "entabih is the verb 'pay attention', a different word from the noun."
+},
+{
+"sid": "enteag->entaag",
+"rid": "enteag->entaag",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteag->entag",
+"rid": "enteag->entag",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteag->intag",
+"rid": "enteag->intag",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteaj->entaj",
+"rid": "enteaj->entaj",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteaj->intaj",
+"rid": "enteaj->intaj",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->entebaah",
+"rid": "enteibah->entebaah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->entebah",
+"rid": "enteibah->entebah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->entibaah",
+"rid": "enteibah->entibaah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->entibah",
+"rid": "enteibah->entibah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->intebah",
+"rid": "enteibah->intebah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enteibah->intibah",
+"rid": "enteibah->intibah",
+"v": true,
+"why": ""
+},
+{
+"sid": "enzaym->enzim",
+"rid": "enzaym->enzim",
+"v": true,
+"why": ""
+},
+{
+"sid": "eqtesadia->eqtesadaa",
+"rid": "eqtesadia->eqtesadaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "eqtesadia->eqtisada",
+"rid": "eqtesadia->eqtisada",
+"v": true,
+"why": ""
+},
+{
+"sid": "eqtesadia->iqtesada",
+"rid": "eqtesadia->iqtesada",
+"v": true,
+"why": ""
+},
+{
+"sid": "estudio->estodo",
+"rid": "estudio->estodo",
+"v": true,
+"why": ""
+},
+{
+"sid": "estudio->estudo",
+"rid": "estudio->estudo",
+"v": true,
+"why": ""
+},
+{
+"sid": "estudio->estudu",
+"rid": "estudio->estudu",
+"v": true,
+"why": ""
+},
+{
+"sid": "estudio->istudo",
+"rid": "estudio->istudo",
+"v": true,
+"why": ""
+},
+{
+"sid": "etefaqia->itefaqa",
+"rid": "etefaqia->itefaqa",
+"v": true,
+"why": ""
+},
+{
+"sid": "etnain->etnan",
+"rid": "etnain->etnan",
+"v": true,
+"why": ""
+},
+{
+"sid": "etnain->itnan",
+"rid": "etnain->itnan",
+"v": true,
+"why": ""
+},
+{
+"sid": "etnein->itnen",
+"rid": "etnein->itnen",
+"v": true,
+"why": ""
+},
+{
+"sid": "etnein->itnin",
+"rid": "etnein->itnin",
+"v": true,
+"why": ""
+},
+{
+"sid": "ezay->ezi",
+"rid": "ezay->ezi",
+"v": false,
+"why": "ezi reads as chat 'easy': 'solve it easy' vs 'how to solve it'."
+},
+{
+"sid": "ezayda->ezida",
+"rid": "ezayda->ezida",
+"v": true,
+"why": ""
+},
+{
+"sid": "ezayk->ezik",
+"rid": "ezayk->ezik",
+"v": true,
+"why": ""
+},
+{
+"sid": "ezzay->ezzi",
+"rid": "ezzay->ezzi",
+"v": false,
+"why": "ezzi loses the long a of ezzay; reads like 'easy'/non-word."
+},
+{
+"sid": "fa3alia->fa3ala",
+"rid": "fa3alia->fa3ala",
+"v": false,
+"why": "fa3ala is a different word (effective); 'mda fa3ala' breaks 'extent of effectiveness'."
+},
+{
+"sid": "fa3alia->fa3alaa",
+"rid": "fa3alia->fa3alaa",
+"v": false,
+"why": "fa3alaa reads as fa3ala (effective adj), not fa3alia (effectiveness)."
+},
+{
+"sid": "fa3aliat->fa3alaat",
+"rid": "fa3aliat->fa3alaat",
+"v": false,
+"why": "fa3alaat reads as plural of fa3ala (effective ones), not events."
+},
+{
+"sid": "fa3aliat->fa3alat",
+"rid": "fa3aliat->fa3alat",
+"v": false,
+"why": "fa3alat reads as 'effective ones', not fa3aliat (activities/events)."
+},
+{
+"sid": "fa3alietha->fa3aletha",
+"rid": "fa3alietha->fa3aletha",
+"v": false,
+"why": "fa3aletha reads close to fa3letha (her deed), losing 'its effectiveness'."
+},
+{
+"sid": "fa3alietha->fa3alitha",
+"rid": "fa3alietha->fa3alitha",
+"v": true,
+"why": ""
+},
+{
+"sid": "fa3alietha->fa3alithaa",
+"rid": "fa3alietha->fa3alithaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "fadayya->fadiya",
+"rid": "fadayya->fadiya",
+"v": false,
+"why": "fadiya = fadya (empty); 'space rock' becomes 'empty rock'."
+},
+{
+"sid": "fadia->fada",
+"rid": "fadia->fada",
+"v": false,
+"why": "Name Fadia becomes 'fada'; also fada is space noun, not the name."
+},
+{
+"sid": "fadia->fadaa",
+"rid": "fadia->fadaa",
+"v": false,
+"why": "'beeed fadaa' reads as 'with space hand', not 'empty-handed'."
+},
+{
+"sid": "fadia->fadah",
+"rid": "fadia->fadah",
+"v": false,
+"why": "fadah reads as fadda (silver); 'empty hands/square' lost."
+},
+{
+"sid": "fahranhayt->fahranhit",
+"rid": "fahranhayt->fahranhit",
+"v": true,
+"why": ""
+},
+{
+"sid": "faida->fada",
+"rid": "faida->fada",
+"v": false,
+"why": "'sa3r el fada' reads as price of space/empty, not interest rate."
+},
+{
+"sid": "faida->fadaa",
+"rid": "faida->fadaa",
+"v": false,
+"why": "fadaa reads as fada2 (space), not faida (benefit/interest)."
+},
+{
+"sid": "faida->fadah",
+"rid": "faida->fadah",
+"v": false,
+"why": "fadah reads as fadda (silver): 'silver price' not 'interest rate'."
+},
+{
+"sid": "fania->fana",
+"rid": "fania->fana",
+"v": false,
+"why": "fana is a different word (annihilation), not fania (artistic)."
+},
+{
+"sid": "fanyia->fanya",
+"rid": "fanyia->fanya",
+"v": true,
+"why": ""
+},
+{
+"sid": "fanyia->fanyaa",
+"rid": "fanyia->fanyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "fanyia->fanyah",
+"rid": "fanyia->fanyah",
+"v": true,
+"why": ""
+},
+{
+"sid": "faradea->farada",
+"rid": "faradea->farada",
+"v": false,
+"why": "farada reads as farada (uniqueness), not faradea (hypothesis)."
+},
+{
+"sid": "faradia->farada",
+"rid": "faradia->farada",
+"v": false,
+"why": "farada reads as farada (uniqueness), not faradia (hypothesis)."
+},
+{
+"sid": "faransawia->faransawa",
+"rid": "faransawia->faransawa",
+"v": true,
+"why": ""
+},
+{
+"sid": "faransawia->faransawaa",
+"rid": "faransawia->faransawaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "fasolia->fasola",
+"rid": "fasolia->fasola",
+"v": true,
+"why": ""
+},
+{
+"sid": "fay->fi",
+"rid": "fay->fi",
+"v": false,
+"why": "'ban fi' reads as 'appeared in'; the place name ban fay breaks."
+},
+{
+"sid": "fay2->fi2",
+"rid": "fay2->fi2",
+"v": false,
+"why": "fi2 no longer reads as fay2 (superior); blurs to fe2a/non-word."
+},
+{
+"sid": "fayda->fida",
+"rid": "fayda->fida",
+"v": false,
+"why": "fida reads as feda2 (sacrifice/ransom), not fayda (benefit)."
+},
+{
+"sid": "faydan->fidan",
+"rid": "faydan->fidan",
+"v": false,
+"why": "fidan reads as faddan (acre), not fayadan (flood)."
+},
+{
+"sid": "faylasof->filasof",
+"rid": "faylasof->filasof",
+"v": true,
+"why": ""
+},
+{
+"sid": "faylasoof->filasoof",
+"rid": "faylasoof->filasoof",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayroosat->firoosat",
+"rid": "fayroosat->firoosat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayroseat->fayrosat",
+"rid": "fayroseat->fayrosat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayroseat->fayrusat",
+"rid": "fayroseat->fayrusat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayroseat->feerosat",
+"rid": "fayroseat->feerosat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayroseat->feirosat",
+"rid": "fayroseat->feirosat",
+"v": true,
+"why": ""
+},
+{
+"sid": "faytaminat->fitaminat",
+"rid": "faytaminat->fitaminat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fayzeen->fizeen",
+"rid": "fayzeen->fizeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "fdayman->fdiman",
+"rid": "fdayman->fdiman",
+"v": true,
+"why": ""
+},
+{
+"sid": "fdeohat->fdohaat",
+"rid": "fdeohat->fdohaat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fdeohat->fdohat",
+"rid": "fdeohat->fdohat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fdeohat->fduhat",
+"rid": "fdeohat->fduhat",
+"v": true,
+"why": ""
+},
+{
+"sid": "fea->fa",
+"rid": "fea->fa",
+"v": false,
+"why": "fa reads as the conjunction 'so'; 'new category'/'in him' lost."
+},
+{
+"sid": "fea->faa",
+"rid": "fea->faa",
+"v": false,
+"why": "faa breaks the acronym FEA and 'fea' (there is)."
+},
+{
+"sid": "fea->fah",
+"rid": "fea->fah",
+"v": false,
+"why": "fah breaks the acronym FEA."
+},
+{
+"sid": "fear->faar",
+"rid": "fear->faar",
+"v": false,
+"why": "Cape Fear becomes Cape faar; faar reads as far (mouse)."
+},
+{
+"sid": "fear->far",
+"rid": "fear->far",
+"v": false,
+"why": "Maker Faire name broken; far reads as English 'far' or far (mouse)."
+},
+{
+"sid": "fedeo->fedo",
+"rid": "fedeo->fedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "fedeo->fedu",
+"rid": "fedeo->fedu",
+"v": true,
+"why": ""
+},
+{
+"sid": "fedeo->fido",
+"rid": "fedeo->fido",
+"v": true,
+"why": ""
+},
+{
+"sid": "federaalia->fediraala",
+"rid": "federaalia->fediraala",
+"v": true,
+"why": ""
+},
+{
+"sid": "federaalia->fideraala",
+"rid": "federaalia->fideraala",
+"v": true,
+"why": ""
+},
+{
+"sid": "fedralia->fedrala",
+"rid": "fedralia->fedrala",
+"v": true,
+"why": ""
+},
+{
+"sid": "fedralia->fidrala",
+"rid": "fedralia->fidrala",
+"v": true,
+"why": ""
+},
+{
+"sid": "feedeo->fedo",
+"rid": "feedeo->fedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "feedeo->feedoo",
+"rid": "feedeo->feedoo",
+"v": true,
+"why": ""
+},
+{
+"sid": "feedeo->feedu",
+"rid": "feedeo->feedu",
+"v": true,
+"why": ""
+},
+{
+"sid": "feedeo->feido",
+"rid": "feedeo->feido",
+"v": true,
+"why": ""
+},
+{
+"sid": "feedeo7at->feido7at",
+"rid": "feedeo7at->feido7at",
+"v": true,
+"why": ""
+},
+{
+"sid": "feia->fea",
+"rid": "feia->fea",
+"v": false,
+"why": "fea is used for fih (in him): 'affects me' may read 'affects him'."
+},
+{
+"sid": "feia->feaa",
+"rid": "feia->feaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "feia->fia",
+"rid": "feia->fia",
+"v": true,
+"why": ""
+},
+{
+"sid": "feih->feh",
+"rid": "feih->feh",
+"v": true,
+"why": ""
+},
+{
+"sid": "feih->fih",
+"rid": "feih->fih",
+"v": true,
+"why": ""
+},
+{
+"sid": "fein->fiin",
+"rid": "fein->fiin",
+"v": true,
+"why": ""
+},
+{
+"sid": "feiros->feros",
+"rid": "feiros->feros",
+"v": true,
+"why": ""
+},
+{
+"sid": "feiros->firos",
+"rid": "feiros->firos",
+"v": true,
+"why": ""
+},
+{
+"sid": "feiros->firus",
+"rid": "feiros->firus",
+"v": true,
+"why": ""
+},
+{
+"sid": "feirosat->ferosat",
+"rid": "feirosat->ferosat",
+"v": true,
+"why": ""
+},
+{
+"sid": "feirosat->firusat",
+"rid": "feirosat->firusat",
+"v": true,
+"why": ""
+},
+{
+"sid": "feirus->feros",
+"rid": "feirus->feros",
+"v": true,
+"why": ""
+},
+{
+"sid": "feirus->firos",
+"rid": "feirus->firos",
+"v": true,
+"why": ""
+},
+{
+"sid": "feirus->firus",
+"rid": "feirus->firus",
+"v": true,
+"why": ""
+},
+{
+"sid": "feisbook->fesbok",
+"rid": "feisbook->fesbok",
+"v": true,
+"why": ""
+},
+{
+"sid": "feisbook->fesbook",
+"rid": "feisbook->fesbook",
+"v": true,
+"why": ""
+},
+{
+"sid": "feisbook->fisbok",
+"rid": "feisbook->fisbok",
+"v": true,
+"why": ""
+},
+{
+"sid": "feisbook->fisbook",
+"rid": "feisbook->fisbook",
+"v": true,
+"why": ""
+},
+{
+"sid": "fekria->fekra",
+"rid": "fekria->fekra",
+"v": false,
+"why": "fekra = idea; 'el 7aya el fekra' breaks 'intellectual life'."
+},
+{
+"sid": "fekria->fekrah",
+"rid": "fekria->fekrah",
+"v": false,
+"why": "fekrah = idea, not fekria (intellectual)."
+},
+{
+"sid": "fekria->fikra",
+"rid": "fekria->fikra",
+"v": false,
+"why": "fikra = idea; 'intellectual property' becomes 'property the idea'."
+},
+{
+"sid": "fergeenia->fergeena",
+"rid": "fergeenia->fergeena",
+"v": true,
+"why": ""
+},
+{
+"sid": "fergeenia->firgeena",
+"rid": "fergeenia->firgeena",
+"v": true,
+"why": ""
+},
+{
+"sid": "fey->fi",
+"rid": "fey->fi",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeaa->feza",
+"rid": "fezeaa->feza",
+"v": false,
+"why": "feza reads as visa; 'Nobel in physics' becomes 'Nobel in visa'."
+},
+{
+"sid": "fezeaa->fizaa",
+"rid": "fezeaa->fizaa",
+"v": false,
+"why": "fizaa reads as fiza (visa), not physics."
+},
+{
+"sid": "fezeaya->fezaya",
+"rid": "fezeaya->fezaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeaya->fizaya",
+"rid": "fezeaya->fizaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeea->feza",
+"rid": "fezeea->feza",
+"v": false,
+"why": "feza reads as visa, not fezeea (physics)."
+},
+{
+"sid": "fezeia->fezea",
+"rid": "fezeia->fezea",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeia->fezeaa",
+"rid": "fezeia->fezeaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeia->fezia",
+"rid": "fezeia->fezia",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeia->fizea",
+"rid": "fezeia->fizea",
+"v": true,
+"why": ""
+},
+{
+"sid": "fezeia->fizia",
+"rid": "fezeia->fizia",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideo->fedo",
+"rid": "fideo->fedo",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideo->fido",
+"rid": "fideo->fido",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideo->fidu",
+"rid": "fideo->fidu",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideos->fedos",
+"rid": "fideos->fedos",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideos->fidoos",
+"rid": "fideos->fidoos",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideos->fidos",
+"rid": "fideos->fidos",
+"v": true,
+"why": ""
+},
+{
+"sid": "fideos->fidus",
+"rid": "fideos->fidus",
+"v": true,
+"why": ""
+},
+{
+"sid": "filadelfia->feladelfa",
+"rid": "filadelfia->feladelfa",
+"v": true,
+"why": ""
+},
+{
+"sid": "filadelfia->filadilfa",
+"rid": "filadelfia->filadilfa",
+"v": true,
+"why": ""
+},
+{
+"sid": "florayd->florid",
+"rid": "florayd->florid",
+"v": true,
+"why": ""
+},
+{
+"sid": "fobia->foba",
+"rid": "fobia->foba",
+"v": true,
+"why": ""
+},
+{
+"sid": "fobia->fobaa",
+"rid": "fobia->fobaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "fobia->fuba",
+"rid": "fobia->fuba",
+"v": true,
+"why": ""
+},
+{
+"sid": "foil->fol",
+"rid": "foil->fol",
+"v": false,
+"why": "fol reads as ful (fava beans), not foil."
+},
+{
+"sid": "foil->fool",
+"rid": "foil->fool",
+"v": false,
+"why": "fool reads as ful (beans) or English fool, not foil."
+},
+{
+"sid": "foil->ful",
+"rid": "foil->ful",
+"v": false,
+"why": "Product name X-Foil broken; ful reads as beans."
+},
+{
+"sid": "fruit->frot",
+"rid": "fruit->frot",
+"v": true,
+"why": ""
+},
+{
+"sid": "fruit->frut",
+"rid": "fruit->frut",
+"v": true,
+"why": ""
+},
+{
+"sid": "fseology->fsologi",
+"rid": "fseology->fsologi",
+"v": true,
+"why": ""
+},
+{
+"sid": "fseology->fsulogy",
+"rid": "fseology->fsulogy",
+"v": true,
+"why": ""
+},
+{
+"sid": "fwaed->fwaad",
+"rid": "fwaed->fwaad",
+"v": false,
+"why": "fwaad reads as fu2ad (heart / name Fouad), not fawa2ed (benefits)."
+},
+{
+"sid": "gaaiza->gaaza",
+"rid": "gaaiza->gaaza",
+"v": false,
+"why": "gaaza no longer reads as ga2iza (prize); near Gaza/agaza."
+},
+{
+"sid": "gaaiza->gaazaa",
+"rid": "gaaiza->gaazaa",
+"v": false,
+"why": "gaazaa does not read as prize; evokes Gaza/gaza2."
+},
+{
+"sid": "gaaiza->gaza",
+"rid": "gaaiza->gaza",
+"v": false,
+"why": "gaza reads as Gaza or gaza2 (penalty), not prize."
+},
+{
+"sid": "gabael->gabaal",
+"rid": "gabael->gabaal",
+"v": false,
+"why": "gabaal reads as gebal (mountains), not gaba2el (tribes)."
+},
+{
+"sid": "gablia->gabla",
+"rid": "gablia->gabla",
+"v": false,
+"why": "gabla can read as qibla/2ebla (kiss) under g-for-q, not mountainous."
+},
+{
+"sid": "gaiza->gaza",
+"rid": "gaiza->gaza",
+"v": false,
+"why": "gaza reads as Gaza, not gayza (prize)."
+},
+{
+"sid": "gaiza->gazaa",
+"rid": "gaiza->gazaa",
+"v": false,
+"why": "gazaa reads as gaza2 (penalty/recompense), not prize."
+},
+{
+"sid": "gaiza->gazah",
+"rid": "gaiza->gazah",
+"v": false,
+"why": "gazah reads as Gaza/gazah, not prize."
+},
+{
+"sid": "galdia->galda",
+"rid": "galdia->galda",
+"v": false,
+"why": "galda is a different word (a lash / piece of leather)."
+},
+{
+"sid": "galdia->galdaa",
+"rid": "galdia->galdaa",
+"v": false,
+"why": "galdaa reads as galda (a lash), not dermal/leathery."
+},
+{
+"sid": "gam3ia->gam3aa",
+"rid": "gam3ia->gam3aa",
+"v": false,
+"why": "gam3aa reads as gom3a (Friday) or gam3a (university), not association."
+},
+{
+"sid": "gam3ia->gam3ah",
+"rid": "gam3ia->gam3ah",
+"v": false,
+"why": "gam3ah reads as gom3a/gam3a, not gam3ia (association)."
+},
+{
+"sid": "gameean->gaman",
+"rid": "gameean->gaman",
+"v": false,
+"why": "gaman loses the long vowel; does not read as gamee3an (all)."
+},
+{
+"sid": "gamie3->gamee3",
+"rid": "gamie3->gamee3",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3->gami3",
+"rid": "gamie3->gami3",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3->gamii3",
+"rid": "gamie3->gamii3",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3an->game3aan",
+"rid": "gamie3an->game3aan",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3an->game3an",
+"rid": "gamie3an->game3an",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3an->gami3aan",
+"rid": "gamie3an->gami3aan",
+"v": true,
+"why": ""
+},
+{
+"sid": "gamie3an->gami3an",
+"rid": "gamie3an->gami3an",
+"v": true,
+"why": ""
+},
+{
+"sid": "gania->ganaa",
+"rid": "gania->ganaa",
+"v": false,
+"why": "ganaa reads as ghena2 (singing), not ghania (rich)."
+},
+{
+"sid": "ganobia->ganoba",
+"rid": "ganobia->ganoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "ganobia->ganobaa",
+"rid": "ganobia->ganobaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "ganobia->ganuba",
+"rid": "ganobia->ganuba",
+"v": true,
+"why": ""
+},
+{
+"sid": "ganoobia->ganoba",
+"rid": "ganoobia->ganoba",
+"v": true,
+"why": ""
+},
+{
+"sid": "ganoobia->ganooba",
+"rid": "ganoobia->ganooba",
+"v": true,
+"why": ""
+},
+{
+"sid": "garaema->garama",
+"rid": "garaema->garama",
+"v": false,
+"why": "garama reads as gharama (a fine): 'debt or a fine' not 'crime'."
+},
+{
+"sid": "garaema->garamaa",
+"rid": "garaema->garamaa",
+"v": false,
+"why": "garamaa reads as gharama (fine), not garima (crime)."
+},
+{
+"sid": "garaib->garaab",
+"rid": "garaib->garaab",
+"v": false,
+"why": "garaab reads as ghorab (crow), not 2orayeb (soon)."
+},
+{
+"sid": "garaib->garab",
+"rid": "garaib->garab",
+"v": false,
+"why": "garab reads as garab (scabies)/qorb, blurring 'soon'."
+},
+{
+"sid": "garayda->garida",
+"rid": "garayda->garida",
+"v": true,
+"why": ""
+},
+{
+"sid": "gawia->gawa",
+"rid": "gawia->gawa",
+"v": false,
+"why": "gawa reads as gowa (inside), not 2aweya (strong)."
+},
+{
+"sid": "gawia->gawaa",
+"rid": "gawia->gawaa",
+"v": false,
+"why": "gawaa reads as gowa/gawa2, not gawia (aerial/air)."
+},
+{
+"sid": "gawia->gawah",
+"rid": "gawia->gawah",
+"v": false,
+"why": "gawah reads as gowah (inside), not gawia (aerial)."
+},
+{
+"sid": "gayb->gib",
+"rid": "gayb->gib",
+"v": false,
+"why": "gib is imperative 'bring!', not gayb (have brought)."
+},
+{
+"sid": "gayba->giba",
+"rid": "gayba->giba",
+"v": false,
+"why": "giba reads as giba (skirt), not gayba (coming)."
+},
+{
+"sid": "gaybakom->gibakom",
+"rid": "gaybakom->gibakom",
+"v": false,
+"why": "gibakom reads as 'your pocket'/'bring them', not 'I brought you'."
+},
+{
+"sid": "gayda->gida",
+"rid": "gayda->gida",
+"v": false,
+"why": "gida reads as gedda/gidda, unrelated to base gayda."
+},
+{
+"sid": "gayr->gir",
+"rid": "gayr->gir",
+"v": true,
+"why": ""
+},
+{
+"sid": "gaysh->gish",
+"rid": "gaysh->gish",
+"v": true,
+"why": ""
+},
+{
+"sid": "gayy->giy",
+"rid": "gayy->giy",
+"v": true,
+"why": ""
+},
+{
+"sid": "gayza->giza",
+"rid": "gayza->giza",
+"v": false,
+"why": "giza reads as Giza, not gayza (prize/possible)."
+},
+{
+"sid": "gayzeen->gizeen",
+"rid": "gayzeen->gizeen",
+"v": true,
+"why": ""
+},
+{
+"sid": "gazey->gazi",
+"rid": "gazey->gazi",
+"v": false,
+"why": "gazi reads as ghazi (gas/invader), not gozay2 (molecule)."
+},
+{
+"sid": "geish->gesh",
+"rid": "geish->gesh",
+"v": true,
+"why": ""
+},
+{
+"sid": "geish->gish",
+"rid": "geish->gish",
+"v": true,
+"why": ""
+},
+{
+"sid": "genderia->gendera",
+"rid": "genderia->gendera",
+"v": true,
+"why": ""
+},
+{
+"sid": "genderia->gindera",
+"rid": "genderia->gindera",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneat->genat",
+"rid": "geneat->genat",
+"v": true,
+"why": ""
+},
+{
+"sid": "genei->geni",
+"rid": "genei->geni",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneia->genea",
+"rid": "geneia->genea",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneia->genia",
+"rid": "geneia->genia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneia->ginia",
+"rid": "geneia->ginia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneih->genih",
+"rid": "geneih->genih",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneom->genom",
+"rid": "geneom->genom",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneom->genoom",
+"rid": "geneom->genoom",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneom->genum",
+"rid": "geneom->genum",
+"v": true,
+"why": ""
+},
+{
+"sid": "geneom->ginom",
+"rid": "geneom->ginom",
+"v": true,
+"why": ""
+},
+{
+"sid": "gensey->gensi",
+"rid": "gensey->gensi",
+"v": true,
+"why": ""
+},
+{
+"sid": "geogreafia->geografia",
+"rid": "geogreafia->geografia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geogreafia->geogreafa",
+"rid": "geogreafia->geogreafa",
+"v": true,
+"why": ""
+},
+{
+"sid": "geogreafia->gogreafia",
+"rid": "geogreafia->gogreafia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologia->geologa",
+"rid": "geologia->geologa",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologia->geoluga",
+"rid": "geologia->geoluga",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologia->gologia",
+"rid": "geologia->gologia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologia->golugia",
+"rid": "geologia->golugia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologia->gulogia",
+"rid": "geologia->gulogia",
+"v": true,
+"why": ""
+},
+{
+"sid": "geology->gologi",
+"rid": "geology->gologi",
+"v": true,
+"why": ""
+},
+{
+"sid": "geology->gology",
+"rid": "geology->gology",
+"v": true,
+"why": ""
+},
+{
+"sid": "geology->goloogy",
+"rid": "geology->goloogy",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologya->gologya",
+"rid": "geologya->gologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologya->gologyaa",
+"rid": "geologya->gologyaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologya->golugya",
+"rid": "geologya->golugya",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologya->gulogya",
+"rid": "geologya->gulogya",
+"v": true,
+"why": ""
+},
+{
+"sid": "geologyya->gologya",
+"rid": "geologyya->gologya",
+"v": true,
+"why": ""
+},
+{
+"sid": "gezeira->gezera",
+"rid": "gezeira->gezera",
+"v": true,
+"why": ""
+},
+{
+"sid": "gezeira->gezira",
+"rid": "gezeira->gezira",
+"v": true,
+"why": ""
+},
+{
+"sid": "gezeiret->gezeret",
+"rid": "gezeiret->gezeret",
+"v": true,
+"why": ""
+},
+{
+"sid": "gezeiret->geziret",
+"rid": "gezeiret->geziret",
+"v": true,
+"why": ""
+},
+{
+"sid": "gezeiret->giziret",
+"rid": "gezeiret->giziret",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghadey->ghadi",
+"rid": "ghadey->ghadi",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghair->8ar",
+"rid": "ghair->8ar",
+"v": false,
+"why": "8ar reads as ghar (cave / jealous), not gheir (non-)."
+},
+{
+"sid": "ghair->ghar",
+"rid": "ghair->ghar",
+"v": false,
+"why": "ghar reads as ghar (cave/jealous); 'non-healthy' lost."
+},
+{
+"sid": "ghaley->ghali",
+"rid": "ghaley->ghali",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghania->8ana",
+"rid": "ghania->8ana",
+"v": false,
+"why": "8ana reads as ghena (wealth/singing), not ghania (rich)."
+},
+{
+"sid": "gharbey->gharbi",
+"rid": "gharbey->gharbi",
+"v": true,
+"why": ""
+},
+{
+"sid": "gharbia->8arba",
+"rid": "gharbia->8arba",
+"v": false,
+"why": "8arba reads as ghorba (exile), not gharbia (western)."
+},
+{
+"sid": "gharbia->gharba",
+"rid": "gharbia->gharba",
+"v": false,
+"why": "gharba reads as ghorba (exile) or gharban, not western."
+},
+{
+"sid": "ghayra->ghira",
+"rid": "ghayra->ghira",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghayro->ghiro",
+"rid": "ghayro->ghiro",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghayrohom->ghirohom",
+"rid": "ghayrohom->ghirohom",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghazaia->8azaa",
+"rid": "ghazaia->8azaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghazaia->ghaza",
+"rid": "ghazaia->ghaza",
+"v": false,
+"why": "ghaza reads as Gaza, not ghazaia (nutritional)."
+},
+{
+"sid": "ghazaia->ghazaa",
+"rid": "ghazaia->ghazaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghazay->ghazi",
+"rid": "ghazay->ghazi",
+"v": false,
+"why": "ghazi reads as ghazi (gaseous/invader), not nutritional."
+},
+{
+"sid": "ghazia->8aza",
+"rid": "ghazia->8aza",
+"v": false,
+"why": "8aza reads as Gaza, not ghazia (invasive)."
+},
+{
+"sid": "ghazia->ghaza",
+"rid": "ghazia->ghaza",
+"v": false,
+"why": "ghaza reads as Gaza, not ghazia (invasive)."
+},
+{
+"sid": "ghazia->ghazah",
+"rid": "ghazia->ghazah",
+"v": false,
+"why": "ghazah reads as Gaza, not ghazia (invasive)."
+},
+{
+"sid": "gheir->ghiir",
+"rid": "gheir->ghiir",
+"v": true,
+"why": ""
+},
+{
+"sid": "gheir->ghir",
+"rid": "gheir->ghir",
+"v": true,
+"why": ""
+},
+{
+"sid": "gheirha->8irha",
+"rid": "gheirha->8irha",
+"v": true,
+"why": ""
+},
+{
+"sid": "gheirha->gherha",
+"rid": "gheirha->gherha",
+"v": true,
+"why": ""
+},
+{
+"sid": "gheirha->ghirha",
+"rid": "gheirha->ghirha",
+"v": true,
+"why": ""
+},
+{
+"sid": "gheirha->ghirhaa",
+"rid": "gheirha->ghirhaa",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghier->8er",
+"rid": "ghier->8er",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghier->8ir",
+"rid": "ghier->8ir",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghier->gheer",
+"rid": "ghier->gheer",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghier->ghiir",
+"rid": "ghier->ghiir",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghier->ghir",
+"rid": "ghier->ghir",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaei->8izai",
+"rid": "ghizaei->8izai",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaei->ghezai",
+"rid": "ghizaei->ghezai",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaei->ghizai",
+"rid": "ghizaei->ghizai",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaiya->8izaya",
+"rid": "ghizaiya->8izaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaiya->ghezaya",
+"rid": "ghizaiya->ghezaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizaiya->ghizaya",
+"rid": "ghizaiya->ghizaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizay->ghizi",
+"rid": "ghizay->ghizi",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizayia->ghizaya",
+"rid": "ghizayia->ghizaya",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizia->gheza",
+"rid": "ghizia->gheza",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizia->ghiza",
+"rid": "ghizia->ghiza",
+"v": true,
+"why": ""
+},
+{
+"sid": "ghizia->ghizaa",
+"rid": "ghizia->ghizaa",
+"v": true,
+"why": ""
+}
+]

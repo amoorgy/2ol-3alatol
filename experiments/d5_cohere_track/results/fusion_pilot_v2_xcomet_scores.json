@@ -1,0 +1,317 @@
+[
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2a2em",
+  "arabic": "قائم",
+  "fused": "el match el yom 2a2em 3ala el 7a2et 3a el naseh.",
+  "xcomet_score": 0.24452722072601318
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2abl",
+  "arabic": "قبل",
+  "fused": "ma shufteksh 2abl 3am 2am w ana 3ayz n7ki 3al kol 7agha",
+  "xcomet_score": 0.22170139849185944
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2adra",
+  "arabic": "قادرة",
+  "fused": "el match el yom kan 2adra ykoun mshwiq giddan",
+  "xcomet_score": 0.36726057529449463
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "dayra",
+  "arabic": "دايرة",
+  "fused": "ba3d ma baqum ba7ta dayra el shay 3ala 3ala 3ala 3amali",
+  "xcomet_score": 0.20870602130889893
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2al",
+  "arabic": "قال",
+  "fused": "ana aseef 2al nistit nasayt el shay el 7abib 3alek",
+  "xcomet_score": 0.22693794965744019
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2awla",
+  "arabic": "أولى",
+  "fused": "el yom da 3ala 2awla a re77a 3al baldi 3omlan",
+  "xcomet_score": 0.2145415097475052
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2alb",
+  "arabic": "قلب",
+  "fused": "bkra haml 2alb 3al 3amala ely haml 3al 3amala ely haml 3al 3amala",
+  "xcomet_score": 0.2118777483701706
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2al3ab",
+  "arabic": "ألعاب",
+  "fused": "Ana 3arfa 2al3ab da3manek fe el-waqt da, 7ajoka ana mish 3ayez fel 3ayez.",
+  "xcomet_score": 0.22850120067596436
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2alet",
+  "arabic": "قالت",
+  "fused": "el-2alet el-saraa 100 lira 3a el-baya3 da",
+  "xcomet_score": 0.2589446008205414
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2ard",
+  "arabic": "أرض",
+  "fused": "el match el yom kan 3ala el 2ard w el 3awad 3amlo shay2a 2a3ib.",
+  "xcomet_score": 0.23232921957969666
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "rad",
+  "arabic": "رد",
+  "fused": "El saheb rad 3alayya bal amas el 7a7eb 3a7la.",
+  "xcomet_score": 0.2269328385591507
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2odam",
+  "arabic": "قدام",
+  "fused": "el moshele 2odam el 3amle w ma 3ayez 3amle shay 3aleha",
+  "xcomet_score": 0.30554699897766113
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "2ott",
+  "arabic": "قط",
+  "fused": "aasif 3al 2ott li nistit, ghadda hana 3ayiz y3od 3andakom.",
+  "xcomet_score": 0.22269465029239655
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "watt",
+  "arabic": "واط",
+  "fused": "el khabar da 3ashan el 300 watt el jdid ghayr el 7ayat",
+  "xcomet_score": 0.29908567667007446
+ },
+ {
+  "arm": "qwen3.8:27b-mlx",
+  "anchor": "3abd",
+  "arabic": "عبد",
+  "fused": "el 3abd 3ayz 150 pound 3al el 3agaza el 7adi 7ad?",
+  "xcomet_score": 0.2118336260318756
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2a2ema",
+  "arabic": "قائمة",
+  "fused": "Ambar7a, 2a2ema el-7agat el-7eloo elli 3ayzeen ne3melha sawa kanet taweela.",
+  "xcomet_score": 0.2223990261554718
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2adra",
+  "arabic": "قادرة",
+  "fused": "El show kan 2adra yefhamny 7aga gdeda.",
+  "xcomet_score": 0.34995388984680176
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "dayra",
+  "arabic": "دايرة",
+  "fused": "Ana babl3a 3ala dayra 3amali ba3d ma abda yomi bshower wafatar.",
+  "xcomet_score": 0.2642970383167267
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2awla",
+  "arabic": "أولى",
+  "fused": "ana 3ayez a re77a 2awla el youm da kan 2aweel",
+  "xcomet_score": 0.217671200633049
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2alb",
+  "arabic": "قلب",
+  "fused": "Bakra harou7 3ala el bank 2alb 3ala el 7awagha.",
+  "xcomet_score": 0.3345715403556824
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2al3ab",
+  "arabic": "ألعاب",
+  "fused": "Mish 7agga 7awel 2al3ab da wahdak, 7abeb ashoflo hal ma3ak.",
+  "xcomet_score": 0.32797154784202576
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2ard",
+  "arabic": "أرض",
+  "fused": "El match kan 3ala el 2ard, w el jomhor kan mzah.",
+  "xcomet_score": 0.3866150379180908
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "rad",
+  "arabic": "رد",
+  "fused": "Ana sa2elt wa7ed so2al, rad 3alia be thaka we 7agweh.",
+  "xcomet_score": 0.37346789240837097
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2odam",
+  "arabic": "قدام",
+  "fused": "El 3amle 2odam el 7ag, mish 3ayez nensaha.",
+  "xcomet_score": 0.29126912355422974
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "2ott",
+  "arabic": "قط",
+  "fused": "Aasif, 2ott kaan 3indi w 7a2idansy 7ataftkroh m3aya!",
+  "xcomet_score": 0.2594441771507263
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "watt",
+  "arabic": "واط",
+  "fused": "el khabar da 7aga gded watt howa 7elw gedan",
+  "xcomet_score": 0.36927056312561035
+ },
+ {
+  "arm": "command-r:35b",
+  "anchor": "bayd",
+  "arabic": "بيض",
+  "fused": "Ana habeehda ashof asouk ashab bayd wa 7agat tanya lel-eftar.",
+  "xcomet_score": 0.2433353066444397
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2a2ema",
+  "arabic": "قائمة",
+  "fused": "Embare7 3amalt ma3 as7ab2 2a2ema men el zekrayat el 7elwa el 3eshnaha sawa.",
+  "xcomet_score": 0.2173898071050644
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2abl",
+  "arabic": "قبل",
+  "fused": "Ya 3ammy, 2abl ma netsa2af tany, 2olli eh akhbarak, enta kwayes wala eh?",
+  "xcomet_score": 0.2506704032421112
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "bal",
+  "arabic": "بال",
+  "fused": "Embare7 kont ta3ban awi, 7ases enni bal menn el shoghl ely kont b3mlo mel yom.",
+  "xcomet_score": 0.2376425862312317
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2adra",
+  "arabic": "قادرة",
+  "fused": "shoft el match el yom kan rai3 awi w 2adra a2ol en kan mshwiq gedan",
+  "xcomet_score": 0.22131410241127014
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "dayra",
+  "arabic": "دايرة",
+  "fused": "Ba3d ma ba2om men el nom, bashrab shay, ba3den barouh 3al dayra ashteghel.",
+  "xcomet_score": 0.21824339032173157
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2awla",
+  "arabic": "أولى",
+  "fused": "weslt el beet ta3ban awi ba3d el youm da, ana 2awla b re77a kbeera abl ma 2atab5el 3asha",
+  "xcomet_score": 0.22003568708896637
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2alb",
+  "arabic": "قلب",
+  "fused": "bokra hro7 el bank 3ashan a5allas el wara2 beta3ti, ed3ili ya 2alb",
+  "xcomet_score": 0.2219015508890152
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2al3ab",
+  "arabic": "ألعاب",
+  "fused": "Ba7tag mosaicadatak fi el-2al3ab di, momken ne7laha sawa ba3deen?",
+  "xcomet_score": 0.37856239080429077
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2alet",
+  "arabic": "قالت",
+  "fused": "2oltelha bakam el se3r, fa 2alet el product da be 150 geneh bas",
+  "xcomet_score": 0.2821199893951416
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "alat",
+  "arabic": "آلات",
+  "fused": "3asf 3ala el takhir, el zahma kanet raba we alat el metro et2akharat fa atakhart 3alek",
+  "xcomet_score": 0.20883429050445557
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2ard",
+  "arabic": "أرض",
+  "fused": "El match el yom kan 3ala el 2ard, el la3eba bazlo mo7dod kteer w el match kan mzah awi.",
+  "xcomet_score": 0.224812313914299
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "rad",
+  "arabic": "رد",
+  "fused": "Embare7 lama 2olt loh ana ra7 el dukan, rad 3alaya 2ol li hayegy ma3aya.",
+  "xcomet_score": 0.30529144406318665
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2odam",
+  "arabic": "قدام",
+  "fused": "el mudeer shaf el moshkela 2odam 3oyono fel shoghl, mosh 3ayez netgahalha.",
+  "xcomet_score": 0.26670390367507935
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "3edam",
+  "arabic": "إعدام",
+  "fused": "lazem tebtedy mn el shara3 el reyesi, w ba3dein 3edam el motaham msh da3wana, ro7 3ala tool",
+  "xcomet_score": 0.21191003918647766
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "2ott",
+  "arabic": "قط",
+  "fused": "Ya gama3a 2asif giddan, el 2ott nesseiny khales, bas hab3atlo 3ashan awsallo bukra inshallah.",
+  "xcomet_score": 0.21586310863494873
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "watt",
+  "arabic": "واط",
+  "fused": "el khabar el gedeed dah mohem awy, ya3ny 300 watt hatghayar taree2etna ma3 el taqa kolo",
+  "xcomet_score": 0.22912754118442535
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "3abd",
+  "arabic": "عبد",
+  "fused": "ana el 3abd 3ayez a3raf el 7aga de be kam fel dukkan dah?",
+  "xcomet_score": 0.21351230144500732
+ },
+ {
+  "arm": "zai:glm-5.3",
+  "anchor": "bayd",
+  "arabic": "بيض",
+  "fused": "ana harou7 el-sou2 el-sabt ashtary bayd w gebna w khodar 3ashan n3ml fotoor lhadeed lel 3ayla",
+  "xcomet_score": 0.21756915748119354
+ }
+]

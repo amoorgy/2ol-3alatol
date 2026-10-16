@@ -1,0 +1,76 @@
+{
+ "rows": {
+  "fusion_rows_council_rejected": 1230,
+  "meaning_from_fusion": 1912,
+  "meaning_train": 1727,
+  "meaning_val": 185,
+  "normalize_from_fusion": 1274,
+  "normalize_from_nilechat": 296024,
+  "normalize_train": 267579,
+  "normalize_val": 29719,
+  "pair_rejected_held_back": 6210
+ },
+ "files": {
+  "meaning_train.jsonl": {
+   "rows": 1727,
+   "sha256": "5b485fee700af8584a4669c8d4861f17385344054a2f2fe975efd8373627eca9"
+  },
+  "meaning_val.jsonl": {
+   "rows": 185,
+   "sha256": "4242c035117048f9ce78660d6075132eead4108edca19c037290fa3bacf51774"
+  },
+  "mixed_train.jsonl": {
+   "rows": 269306,
+   "sha256": "9c265581a8a7e91de40be6caa5954ab8dfaaf8e74bb9944f37dadb1059a312e6"
+  },
+  "mixed_val.jsonl": {
+   "rows": 29904,
+   "sha256": "b0bd05c9f30af7c55b3af16af79add760ec72745d5234a317e6b826dafa4b3a1"
+  },
+  "normalize_train.jsonl": {
+   "rows": 267579,
+   "sha256": "5713e5562d9e8d4e512532031fdbb3b01e18e197a32d1249e9a0add27ba0fdbc"
+  },
+  "normalize_val.jsonl": {
+   "rows": 29719,
+   "sha256": "a1e6770c23f6c36e3887e0cf6ec5a75e6df0c1a39755b60f3be673fff4143555"
+  }
+ },
+ "master": {
+  "counts": {
+   "nilechat_base": 152707,
+   "nilechat_permutation": 302102,
+   "nilechat_skipped_lt2_usable": 5745,
+   "fusion_base": 1113,
+   "fusion_permutation": 2226,
+   "fusion_failed_current_gates": 9,
+   "fusion_duplicate_id_dropped": 13
+  },
+  "substitutions_by_licence": {
+   "attested": 225503,
+   "rule_safe": 556168
+  },
+  "policy_version": "v2.0",
+  "policy_denials_by_reason": {
+   "elongation (3+ vowels) is sentence-final only": 64935,
+   "would create a held-out stimulus form": 2407,
+   "7_TO_H after t fabricates a th digraph": 2403,
+   "council-named bad substitution": 1141,
+   "ع-deletion is word-initial only (n3m -> nam reads as نام)": 31056,
+   "fabricated long-vowel onset (el -> eel)": 2112,
+   "English token": 83
+  },
+  "seeds": {
+   "generation": 13,
+   "split_salt": "v2-split-42"
+  },
+  "renderings_per_sentence": 2
+ },
+ "master_sha256": "8e73749cc462f21db469e158b1624660511df5ddba18bd8c2c720a83002b0b4d",
+ "fusion_votes": [
+  "data/stimulus/fusion_v2_votes.tsv"
+ ],
+ "pair_votes_present": true,
+ "mix_seed": 42,
+ "provenance": "nilechat_machine_derived + fusion_synthetic; trains on the TRAIN side of word_split.tsv only -- evaluate on its held-out side"
+}

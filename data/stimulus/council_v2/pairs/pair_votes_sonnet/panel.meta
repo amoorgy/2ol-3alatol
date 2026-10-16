@@ -1,0 +1,6 @@
+{
+ "council": "pairs",
+ "model": "sonnet",
+ "effort": "medium",
+ "chunk_dir": "data/generated/v2/council/pair_chunks"
+}

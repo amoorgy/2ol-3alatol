@@ -1,0 +1,36 @@
+{
+ "schema_version": 1,
+ "utc": "2026-08-22T14:56:43Z",
+ "git_commit": "59dc51b",
+ "git_dirty": true,
+ "python": "3.14.6",
+ "package_versions": {
+  "transformers": "5.15.1",
+  "tokenizers": "0.22.2",
+  "numpy": "2.5.2",
+  "matplotlib": "3.11.1",
+  "pyarrow": "25.0.1",
+  "sentencepiece": "0.2.2"
+ },
+ "inputs": {
+  "data/benchmark/pairs.csv": "96618c8287980cb2",
+  "data/stimulus/nilechat/stimuli_v1.csv": "f708895d57066134",
+  "data/stimulus/nilechat/rule_votes.tsv": "5665a16a473161f1",
+  "data/stimulus/nilechat/variant_votes.tsv": "598e7f33e191605a",
+  "data/stimulus/nilechat/trap_votes.tsv": "cdf416d7519f4811",
+  "data/stimulus/arabic_control_v1.tsv": "ae064f9b9770c6a1"
+ },
+ "corpus": {
+  "name": "UBC-NLP/Arabizi-Egypt (nilechat-arabizi-egy)",
+  "provenance": "machine-derived: Command R+ transliteration",
+  "licence": "CC-BY-NC-4.0"
+ },
+ "outputs": [
+  "context_calibration.json",
+  "level1_tokenizer.json",
+  "level2_inference.json",
+  "level3_meaning.json",
+  "variants_summary.json",
+  "wordset_diagnostic.json"
+ ]
+}

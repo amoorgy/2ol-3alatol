@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_le7ad_12",
+  "rid": "fs_le7ad_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_00",
+  "rid": "fs_le7ad_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_01",
+  "rid": "fs_le7ad_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_02",
+  "rid": "fs_le7ad_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_11",
+  "rid": "fs_el7ad_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_00",
+  "rid": "fs_el7ad_00",
+  "v": false,
+  "why": "Trailing clause 'kan el7ad betboss 3aleih' is an incoherent fragment."
+ },
+ {
+  "sid": "fs_el7ad_02",
+  "rid": "fs_el7ad_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_09",
+  "rid": "fs_el7ad_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_01",
+  "rid": "fs_leehom_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_03",
+  "rid": "fs_leehom_03",
+  "v": false,
+  "why": "Doubled object 'tesa2alhom leehom' plus dangling filler 'ba2a'."
+ },
+ {
+  "sid": "fs_3leehom_09",
+  "rid": "fs_3leehom_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_3leehom_10",
+  "rid": "fs_3leehom_10",
+  "v": false,
+  "why": "Trailing clause 'kolohom byetla3o mazboot' is a nonsensical appended fragment."
+ },
+ {
+  "sid": "fs_3leehom_07",
+  "rid": "fs_3leehom_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_05",
+  "rid": "fs_llnas_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_13",
+  "rid": "fs_llnas_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_07",
+  "rid": "fs_llnas_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_04",
+  "rid": "fs_llnas_04",
+  "v": false,
+  "why": "Trailing 'wa2fa 3ala el gheem' is a garbled nonsense fragment."
+ },
+ {
+  "sid": "fs_elnass_02",
+  "rid": "fs_elnass_02",
+  "v": false,
+  "why": "Underscore token '3al_tool' is a generation artifact."
+ },
+ {
+  "sid": "fs_elnass_09",
+  "rid": "fs_elnass_09",
+  "v": false,
+  "why": "Dangling filler '5alas?' tacked onto the question."
+ },
+ {
+  "sid": "fs_elnass_08",
+  "rid": "fs_elnass_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_elnass_14",
+  "rid": "fs_elnass_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_02",
+  "rid": "fs_lown_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_05",
+  "rid": "fs_lown_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_03",
+  "rid": "fs_lown_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_04",
+  "rid": "fs_lown_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_11",
+  "rid": "fs_le2n_11",
+  "v": false,
+  "why": "Garbled token 'gamdel' and nonsense '3adalo 3al ghalt'."
+ },
+ {
+  "sid": "fs_le2n_09",
+  "rid": "fs_le2n_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_02",
+  "rid": "fs_le2n_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_05",
+  "rid": "fs_le2n_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_13",
+  "rid": "fs_m7tag_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_03",
+  "rid": "fs_m7tag_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_10",
+  "rid": "fs_m7tag_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_05",
+  "rid": "fs_m7tag_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_04",
+  "rid": "fs_mo7taga_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_10",
+  "rid": "fs_mo7taga_10",
+  "v": false,
+  "why": "Two unrelated sentences glued: directions plus car-needs-fuel clause."
+ },
+ {
+  "sid": "fs_mo7taga_01",
+  "rid": "fs_mo7taga_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_11",
+  "rid": "fs_mo7taga_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_09",
+  "rid": "fs_ma3roof_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_04",
+  "rid": "fs_ma3roof_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_14",
+  "rid": "fs_ma3roof_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_06",
+  "rid": "fs_ma3roof_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_07",
+  "rid": "fs_ma3rofa_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_04",
+  "rid": "fs_ma3rofa_04",
+  "v": false,
+  "why": "Garbled ending 'la7ad el 3e8ya'; zahma/traffic redundant."
+ },
+ {
+  "sid": "fs_ma3rofa_15",
+  "rid": "fs_ma3rofa_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_11",
+  "rid": "fs_ma3rofa_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_00",
+  "rid": "fs_magmo3at_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_15",
+  "rid": "fs_magmo3at_15",
+  "v": false,
+  "why": "English 'doctor' unnatural in a school context (mudarres/mes expected)."
+ },
+ {
+  "sid": "fs_magmo3at_07",
+  "rid": "fs_magmo3at_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3at_02",
+  "rid": "fs_magmo3at_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_04",
+  "rid": "fs_magmo3et_04",
+  "v": false,
+  "why": "Garbled 'wala 7aga msh btit7arak' and trailing filler '5alas'."
+ },
+ {
+  "sid": "fs_magmo3et_03",
+  "rid": "fs_magmo3et_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_12",
+  "rid": "fs_magmo3et_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_magmo3et_06",
+  "rid": "fs_magmo3et_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_01",
+  "rid": "fs_mareed_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_11",
+  "rid": "fs_mareed_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_12",
+  "rid": "fs_mareed_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_09",
+  "rid": "fs_mareed_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_08",
+  "rid": "fs_mawred_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_00",
+  "rid": "fs_mawred_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_10",
+  "rid": "fs_mawred_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_14",
+  "rid": "fs_mawred_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_06",
+  "rid": "fs_masry_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_01",
+  "rid": "fs_masry_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_10",
+  "rid": "fs_masry_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_00",
+  "rid": "fs_masry_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_09",
+  "rid": "fs_masar_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_03",
+  "rid": "fs_masar_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masar_00",
+  "rid": "fs_masar_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_14",
+  "rid": "fs_mhtmma_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_08",
+  "rid": "fs_mhtmma_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_09",
+  "rid": "fs_mhtmma_09",
+  "v": false,
+  "why": "Redundant repeat 'akhbarek ... 5abrak eh' with gender switch."
+ },
+ {
+  "sid": "fs_mhtmma_01",
+  "rid": "fs_mhtmma_01",
+  "v": false,
+  "why": "Garbled phrase 'asoo2 el masha3a'."
+ },
+ {
+  "sid": "fs_mhtm_08",
+  "rid": "fs_mhtm_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_03",
+  "rid": "fs_mhtm_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_07",
+  "rid": "fs_mhtm_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_10",
+  "rid": "fs_mhtm_10",
+  "v": false,
+  "why": "Interest clause glued to unrelated street directions; garbled 'tekteer'."
+ },
+ {
+  "sid": "fs_mo7adada_07",
+  "rid": "fs_mo7adada_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_00",
+  "rid": "fs_mo7adada_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_09",
+  "rid": "fs_mo7adada_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_02",
+  "rid": "fs_mo7adada_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_06",
+  "rid": "fs_mo7addad_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_11",
+  "rid": "fs_mo7addad_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_15",
+  "rid": "fs_mo7addad_15",
+  "v": false,
+  "why": "'el shoghl' repeated; two clauses run together without a connector."
+ },
+ {
+  "sid": "fs_mo7addad_04",
+  "rid": "fs_mo7addad_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_02",
+  "rid": "fs_modda_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_05",
+  "rid": "fs_modda_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_01",
+  "rid": "fs_modda_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_12",
+  "rid": "fs_modda_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_media_12",
+  "rid": "fs_media_12",
+  "v": false,
+  "why": "Garbled phrases 'Bana2ash sabahy atfajjal' and '7azir fatar el 3afya'."
+ },
+ {
+  "sid": "fs_media_06",
+  "rid": "fs_media_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_media_07",
+  "rid": "fs_media_07",
+  "v": false,
+  "why": "Garbled trailing fragment '3odi 5alist ma3lesh'."
+ },
+ {
+  "sid": "fs_media_03",
+  "rid": "fs_media_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_14",
+  "rid": "fs_mokhtalafa_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_10",
+  "rid": "fs_mokhtalafa_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_02",
+  "rid": "fs_mokhtalafa_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_05",
+  "rid": "fs_mokhtalafa_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_05",
+  "rid": "fs_mokhtalef_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_10",
+  "rid": "fs_mokhtalef_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_07",
+  "rid": "fs_mokhtalef_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_03",
+  "rid": "fs_mokhtalef_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_06",
+  "rid": "fs_momayza_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_03",
+  "rid": "fs_momayza_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_13",
+  "rid": "fs_momayza_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_15",
+  "rid": "fs_momayza_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_01",
+  "rid": "fs_momayez_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_07",
+  "rid": "fs_momayez_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_04",
+  "rid": "fs_momayez_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_03",
+  "rid": "fs_momayez_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3added_10",
+  "rid": "fs_mot3added_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3added_09",
+  "rid": "fs_mot3added_09",
+  "v": false,
+  "why": "Trailing 'kol dah ma3na eno youm sa3id!' is a nonsensical appended fragment."
+ },
+ {
+  "sid": "fs_mot3added_04",
+  "rid": "fs_mot3added_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3added_13",
+  "rid": "fs_mot3added_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_09",
+  "rid": "fs_mot3adeda_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_06",
+  "rid": "fs_mot3adeda_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_14",
+  "rid": "fs_mot3adeda_14",
+  "v": true,
+  "why": ""
+ }
+]

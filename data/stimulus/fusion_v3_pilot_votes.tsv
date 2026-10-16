@@ -1,0 +1,957 @@
+sentence_id	rendering_id	valid	votes_valid	votes_invalid	n_judges	bad_substitutions	reason
+fs_2a2em_193	fs_2a2em_193	true	5	0	5		
+fs_2a2ema_193	fs_2a2ema_193	true	4	1	5		construct should be 2a2emet; 'eh 2a2ema el wara2' unnatural
+fs_2a2eya_91	fs_2a2eya_91	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""2a2eya"" makes no sense describing the bill. || '2a2eya kteer' is not Egyptian usage"
+fs_2a2rab_218	fs_2a2rab_218	true	5	0	5		
+fs_2aderna_307	fs_2aderna_307	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || English word soon inserted unnaturally || anchor used unnaturally; not how an Egyptian would phrase this
+fs_2adm_51	fs_2adm_51	false	3	2	5		used as 2odam (in front of), not foot/oldness || should be 2odam; '2adm bab' unnatural
+fs_2adna_71	fs_2adna_71	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_2adra_200	fs_2adra_200	true	5	0	5		
+fs_2afya_76	fs_2afya_76	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_2akar_265	fs_2akar_265	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_2akbar_91	fs_2akbar_91	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || Asking only 10 while calling it more than agreed fare is contradictory. || incoherent: 3adad bigger than fare
+fs_2al2an_101	fs_2al2an_101	false	1	4	5		no Arabic form or gloss given; sense unverifiable || Worried inserted makes question incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || 2al2an is MSA al-an, not Egyptian
+fs_2al3ab_223	fs_2al3ab_223	true	4	1	5		'el 2al3ab ba2et ghalya' semantically unnatural
+fs_2al_185	fs_2al_185	true	5	0	5		
+fs_2alb_219	fs_2alb_219	true	4	1	5		'nebi3 el 2alb beta3 el fari2' unnatural phrasing
+fs_2aleel_168	fs_2aleel_168	true	5	0	5		
+fs_2anbela_205	fs_2anbela_205	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_2arebeen_62	fs_2arebeen_62	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_2aret_97	fs_2aret_97	true	5	0	5		
+fs_2asar_254	fs_2asar_254	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_2asasa_35	fs_2asasa_35	true	5	0	5		
+fs_2ashya_91	fs_2ashya_91	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_2awel_110	fs_2awel_110	true	5	0	5		
+fs_2awla_239	fs_2awla_239	false	3	2	5		forced use of 2awla; 'mestahqa' MSA register || mestahqa with MSA q; Egyptian would say mesta7a2a
+fs_2awly_115	fs_2awly_115	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_2ayd_31	fs_2ayd_31	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_2eimtha_145	fs_2eimtha_145	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Cause of insomnia unintelligible || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_2em_14	fs_2em_14	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_2esasa_116	fs_2esasa_116	false	1	4	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Two clauses glued without connector; trailing fragment. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_2est5dam_11	fs_2est5dam_11	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || masdar 2est5dam used as verb; Egyptian says estakhdem
+fs_2eyadat_135	fs_2eyadat_135	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || '3ashan el 2eyadat' plural unnatural; say 'el 3eyada'
+fs_2la_124	fs_2la_124	true	5	0	5		
+fs_2odam_169	fs_2odam_169	true	5	0	5		
+fs_2osta_01	fs_2osta_01	true	5	0	5		
+fs_3abbas_235	fs_3abbas_235	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_3abr_312	fs_3abr_312	true	4	1	5		'3abr el 3arabeyya' calque; Egyptian says bel 3arabeyya
+fs_3adam_200	fs_3adam_200	false	3	2	5		'fi 3adam el shams' MSA calque || fi 3adam el shams is formal/MSA phrasing
+fs_3adyah_197	fs_3adyah_197	true	5	0	5		
+fs_3ala2a_308	fs_3ala2a_308	true	5	0	5		
+fs_3ala2atna_321	fs_3ala2atna_321	true	5	0	5		
+fs_3albe2a_175	fs_3albe2a_175	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_3aleehom_194	fs_3aleehom_194	true	5	0	5		
+fs_3alena_148	fs_3alena_148	true	4	1	5		'el 7agz 3alena' odd in context
+fs_3alya_169	fs_3alya_169	true	5	0	5		
+fs_3am_57	fs_3am_57	true	5	0	5		
+fs_3amelyet_57	fs_3amelyet_57	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this || Formal written phrasing: teltazem bel lawa2e7 is MSA/official register
+fs_3amy_212	fs_3amy_212	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_3an_11	fs_3an_11	true	5	0	5		
+fs_3andha_229	fs_3andha_229	true	4	1	5		incoherent; she-has clashes with speaker/addressee
+fs_3andoh_230	fs_3andoh_230	true	5	0	5		
+fs_3anha_159	fs_3anha_159	false	2	3	5		3anha has no clear referent; about-her sense strained || About her dangles; no referent, sentence incoherent || 'teshof el dosya tani 3anha' ungrammatical
+fs_3anna_78	fs_3anna_78	false	3	2	5		two clauses glued, trailing fragment gebt 7aga || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_3ara2ed_318	fs_3ara2ed_318	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unintelligible sentence || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_3arada_286	fs_3arada_286	false	3	2	5		repeated word: law7ady wahdy || nonsense usage of 3arada
+fs_3ard_130	fs_3ard_130	false	3	2	5		'3ard natayeg' and 'qalaq' MSA; Egyptians say zohoor el natayeg || el qalaq is MSA; Egyptian says el 2al2
+fs_3areeda_80	fs_3areeda_80	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_3ashan_309	fs_3ashan_309	true	5	0	5		
+fs_3ashr_58	fs_3ashr_58	true	5	0	5		
+fs_3askary_21	fs_3askary_21	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Addressing soldier as enti about dishes is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_3aty_233	fs_3aty_233	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_3ayesh_35	fs_3ayesh_35	true	5	0	5		
+fs_3aylty_86	fs_3aylty_86	true	5	0	5		
+fs_3ayshin_212	fs_3ayshin_212	true	5	0	5		
+fs_3ebra_168	fs_3ebra_168	false	2	3	5		Broken wires then moral lesson about respecting words; incoherent || two unrelated clauses glued: repair question then proverb-like fragment || incoherent; 3ebra forced into unrelated complaint
+fs_3edam_82	fs_3edam_82	false	2	3	5		3edam makes no sense here; execution sense absent || Alternative execution not found makes no sense in a shop context || incoherent use of 3edam
+fs_3elaag_231	fs_3elaag_231	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_3elajhom_62	fs_3elajhom_62	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""Their treatment"" has no referent; burned food context is incoherent. || 'a3mel 3elajhom' makes no sense for burnt food"
+fs_3elmya_79	fs_3elmya_79	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_3ena2eed_236	fs_3ena2eed_236	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_3esh_266	fs_3esh_266	false	2	3	5		mestanyeen 3esh is nonsensical; bread/live sense absent || Waiting bread one and the other is nonsensical || incoherent use of 3esh
+fs_3eynat_312	fs_3eynat_312	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || '3eynat men el 7alawiyat' unnatural collocation
+fs_3eyon_302	fs_3eyon_302	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_3leehom_73	fs_3leehom_73	false	3	2	5		on them makes no sense for making tea || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_3ndma_62	fs_3ndma_62	false	3	2	5		Anchor misused or phrasing unnatural; an Egyptian would not type this. || 3ndma is MSA; Egyptian uses lamma
+fs_3obodya_74	fs_3obodya_74	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_3oboor_127	fs_3oboor_127	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this || 3oboor el sana is MSA/formal phrasing
+fs_3odwan_330	fs_3odwan_330	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_3om2_177	fs_3om2_177	true	4	1	5		'da 3om2 el moshkela' calque
+fs_3shanha_157	fs_3shanha_157	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_3wamel_93	fs_3wamel_93	true	4	1	5		'men 3wamel kteer' MSA register
+fs_5alee_53	fs_5alee_53	true	5	0	5		
+fs_5alty_306	fs_5alty_306	true	5	0	5		
+fs_5ames_142	fs_5ames_142	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_5ata2_13	fs_5ata2_13	true	5	0	5		
+fs_5eyarat_326	fs_5eyarat_326	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_5od_112	fs_5od_112	true	5	0	5		
+fs_5osooseya_208	fs_5osooseya_208	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || Sea privacy described as heavy and unbearable is nonsensical. || '5osooseya beta3et el ba7r' nonsensical
+fs_7adana_205	fs_7adana_205	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_7adeed_267	fs_7adeed_267	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_7adeyet_153	fs_7adeyet_153	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Wanting another ""7adeyet"" on a form makes no sense. || '3ayez 7adeyet tani' is meaningless in Egyptian"
+fs_7adeytek_178	fs_7adeytek_178	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_7adika_187	fs_7adika_187	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_7afez_213	fs_7afez_213	true	5	0	5		
+fs_7akem_170	fs_7akem_170	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_7ala2at_104	fs_7ala2at_104	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_7ala_161	fs_7ala_161	true	5	0	5		
+fs_7alat_263	fs_7alat_263	true	4	1	5		'kanet fi 7alat gameela' unnatural
+fs_7alaty_117	fs_7alaty_117	false	3	2	5		7alaty ma2dara garbled; my-condition sense strained || '7alaty ma2dara fe sho8ly' unnatural
+fs_7aletoh_52	fs_7aletoh_52	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_7aly_191	fs_7aly_191	false	3	2	5		7aly hayze3l reads as a person, sense strained || '7aly hayze3l' unnatural
+fs_7alya_87	fs_7alya_87	false	3	2	5		'2afal 7alya' unnatural || 7alya as currently is formal MSA; Egyptian says delwa2ti
+fs_7ameya_19	fs_7ameya_19	true	5	0	5		
+fs_7aml_116	fs_7aml_116	false	3	2	5		shift kan 7aml strained; load/pregnancy sense unclear || 'el shift kan 7aml' not Egyptian
+fs_7amla_149	fs_7amla_149	false	2	3	5		7amla ra7a means rest period, not campaign || Doctor prescribing a rest campaign is nonsensical || 'me7tag 7amla ra7a' wrong word, unnatural
+fs_7amra_120	fs_7amra_120	true	5	0	5		
+fs_7araara_244	fs_7araara_244	true	5	0	5		
+fs_7arak_199	fs_7arak_199	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_7aresa_257	fs_7aresa_257	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_7asal_12	fs_7asal_12	true	5	0	5		
+fs_7asem_93	fs_7asem_93	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Bus being ""decisive"" so I cannot breathe is nonsensical. || 'kan 7asem' meaningless for crowded bus"
+fs_7awaly_284	fs_7awaly_284	true	5	0	5		
+fs_7ayaat_51	fs_7ayaat_51	false	1	4	5		"Garbled: this is not life, car wants training || trailing garbled fragment ""terid tadrib"" || incoherent use of 7ayaat || terid tadrib is MSA-style wording, not Egyptian colloquial"
+fs_7ayatek_14	fs_7ayatek_14	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_7ayato_219	fs_7ayato_219	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_7ayaty_170	fs_7ayaty_170	true	5	0	5		
+fs_7efz_229	fs_7efz_229	false	3	2	5		ana 7efz el serial strained; memorizing/saving unclear || 'ana 7efz el serial' ungrammatical
+fs_7ekma_88	fs_7ekma_88	true	5	0	5		
+fs_7elw_36	fs_7elw_36	true	5	0	5		
+fs_7elwa_127	fs_7elwa_127	true	4	1	5		gender mismatch: el mawdoo3 msh 7elwa
+fs_7esabat_275	fs_7esabat_275	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_7eshan_154	fs_7eshan_154	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_7oboh_264	fs_7oboh_264	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_7okoma_90	fs_7okoma_90	true	5	0	5		
+fs_a2al_76	fs_a2al_76	true	5	0	5		
+fs_a2lam_265	fs_a2lam_265	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_a2ol_177	fs_a2ol_177	true	5	0	5		
+fs_a3da2_179	fs_a3da2_179	false	2	3	5		ya a3da2 el mawdoo3 is nonsensical address || Addressing enemies of the subject about gas is nonsensical || 'ya a3da2 el mawdoo3' nonsense
+fs_a3mida_27	fs_a3mida_27	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_a7fad_302	fs_a7fad_302	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""a7fad"" in the scheduling question is meaningless. || '2olo li a7fad emta' garbled"
+fs_a7kiha_132	fs_a7kiha_132	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_a7mad_87	fs_a7mad_87	true	5	0	5		
+fs_abna2_127	fs_abna2_127	false	3	2	5		anchor used unnaturally; not how an Egyptian would phrase this || bey7emelo el taklifa el ghamiza is formal MSA-like phrasing
+fs_abrad_95	fs_abrad_95	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Colder road to arrive safely is illogical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_abtaal_196	fs_abtaal_196	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Night heroes cold is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_afham_48	fs_afham_48	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_afkar_326	fs_afkar_326	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_ahmeya_287	fs_ahmeya_287	true	5	0	5		
+fs_ajour_256	fs_ajour_256	true	5	0	5		
+fs_akher_200	fs_akher_200	true	5	0	5		
+fs_akhlaqya_76	fs_akhlaqya_76	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_akhta2na_114	fs_akhta2na_114	false	3	2	5		anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_aldrasya_164	fs_aldrasya_164	false	0	5	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || trailing fragment glued onto end of unrelated sentence || anchor used unnaturally; not how an Egyptian would phrase this || aldrasya uses MS
+fs_alf_171	fs_alf_171	true	5	0	5		
+fs_algham_296	fs_algham_296	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_alty_239	fs_alty_239	false	2	3	5		alty reads as khalty (my aunt), not MSA relative pronoun || MSA relative alty, not Egyptian || alty is MSA relative pronoun; Egyptian uses elly
+fs_amam_18	fs_amam_18	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || amam is MSA; Egyptian says odam
+fs_amameya_219	fs_amameya_219	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_amradat_81	fs_amradat_81	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_amrekeya_306	fs_amrekeya_306	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ana_49	fs_ana_49	true	5	0	5		
+fs_ansge_183	fs_ansge_183	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_anwa3_50	fs_anwa3_50	false	3	2	5		anwa3 el mafateeh fein strained, types sense unnatural || 'betkhalli anwa3 el mafateeh fein' unnatural
+fs_arady_165	fs_arady_165	false	2	3	5		arady here means floors, not lands/plots || Kitchen sink water flowing onto lands is illogical || 'say7a 3al arady' unnatural; ard expected
+fs_arba3_40	fs_arba3_40	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Trailing fragment: sentence ends with truncated word ""ktee"". || truncated 'ktee' typo"
+fs_as3ar_285	fs_as3ar_285	true	4	1	5		'el risala elly fiha as3ar' incoherent
+fs_asas_89	fs_asas_89	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_asasiya_184	fs_asasiya_184	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_asass_323	fs_asass_323	true	5	0	5		
+fs_asasy_72	fs_asasy_72	true	5	0	5		
+fs_asasya_99	fs_asasya_99	false	3	2	5		asasya attached to heat in car is nonsensical || incoherent: 'el 7ar ... asasya'
+fs_asb7t_160	fs_asb7t_160	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_asfal_169	fs_asfal_169	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_asghar_314	fs_asghar_314	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ash3a_113	fs_ash3a_113	true	5	0	5		
+fs_ashal_61	fs_ashal_61	true	5	0	5		
+fs_asharek_274	fs_asharek_274	false	3	2	5		"trailing fragment ""kolo ba3d"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_ashya2_315	fs_ashya2_315	true	5	0	5		
+fs_asle7a_66	fs_asle7a_66	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Bring weapons before dish ruins is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_asly_112	fs_asly_112	false	3	2	5		asly ba7awel nonsensical; original sense absent || 'asly ba7awel' misuse; Egyptians say asl
+fs_asra3_40	fs_asra3_40	true	4	1	5		'asra3 ma teb3ed' awkward, unnatural
+fs_aswat_134	fs_aswat_134	true	4	1	5		arabic and gloss fields empty; no confirmed sense to verify anchor against
+fs_ataba3_204	fs_ataba3_204	true	5	0	5		
+fs_atba2a_273	fs_atba2a_273	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_atharha_109	fs_atharha_109	true	4	1	5		Anchor misused or nonsensical here; not a coherent sense of the word.
+fs_atraf_290	fs_atraf_290	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_aty_285	fs_aty_285	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_awda7_282	fs_awda7_282	false	2	3	5		awda7 li misused; should be tewadda7, sense strained || Can I clarify to me if you have time to shave; incoherent || 'momken awda7 li' wrong person, unnatural
+fs_awl_110	fs_awl_110	true	5	0	5		
+fs_awladha_280	fs_awladha_280	false	3	2	5		list shape: shopping list chained with we, 2ezazet repeated || anchor used unnaturally; not how an Egyptian would phrase this
+fs_awtomatik_289	fs_awtomatik_289	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_awy_276	fs_awy_276	true	5	0	5		
+fs_awzoon_116	fs_awzoon_116	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_azma_80	fs_azma_80	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_azmat_223	fs_azmat_223	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_b2t_94	fs_b2t_94	true	4	1	5		'el mawqef b2t sah 3alaya' unnatural
+fs_b7awl_130	fs_b7awl_130	true	5	0	5		
+fs_b7trem_220	fs_b7trem_220	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_ba2aly_243	fs_ba2aly_243	true	5	0	5		
+fs_ba2y_228	fs_ba2y_228	true	5	0	5		
+fs_bada2_157	fs_bada2_157	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_bada2et_190	fs_bada2et_190	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_balado_199	fs_balado_199	false	1	4	5		"anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence. || ""3am ba3lag"" uses Levantine 3am progressive marker, not Egypti"
+fs_bani_243	fs_bani_243	true	5	0	5		
+fs_banzeen_126	fs_banzeen_126	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_barakatoh_103	fs_barakatoh_103	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_barmeel_140	fs_barmeel_140	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_barnamgeh_59	fs_barnamgeh_59	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_baset_161	fs_baset_161	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bashar_00	fs_bashar_00	false	3	2	5		'el bashar kan keteer' unnatural; el nas expected || el bashar for crowds is formal; Egyptian says el nas
+fs_basharya_280	fs_basharya_280	false	2	3	5		matnsash el basharya nonsensical; humanity sense absent || Do not forget humanity in a kiosk shopping list; nonsense || nonsense usage
+fs_basita_147	fs_basita_147	false	3	2	5		basita usage garbled; sense unclear || 'basita khallikom ba3id' awkward misuse
+fs_bass_288	fs_bass_288	true	5	0	5		
+fs_bataka_251	fs_bataka_251	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_bayn_81	fs_bayn_81	true	5	0	5		
+fs_bbasata_24	fs_bbasata_24	true	4	1	5		'bbasata kolena henak' unnatural
+fs_be2o_211	fs_be2o_211	true	5	0	5		
+fs_beeh_261	fs_beeh_261	true	4	1	5		'rabena ykon beeh' wrong pronoun to addressee
+fs_beeha_180	fs_beeha_180	true	5	0	5		
+fs_beet_186	fs_beet_186	false	3	2	5		dawry fel beet strained; house sense unnatural here || 'dawry fel beet' unnatural for gam3eya
+fs_beetak_235	fs_beetak_235	false	1	4	5		"anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || Ends in a dangling fragment ""kalam bayn"". || anchor forced in unnaturally; not how an Egyptian would phrase this"
+fs_beety_187	fs_beety_187	true	5	0	5		
+fs_bega_226	fs_bega_226	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Bega inserted meaninglessly || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_bel2afada_34	fs_bel2afada_34	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_bel7ayawanat_01	fs_bel7ayawanat_01	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_belbareed_34	fs_belbareed_34	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_belnesba_215	fs_belnesba_215	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_belzabt_12	fs_belzabt_12	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_bestekhlaas_275	fs_bestekhlaas_275	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_bet2ees_130	fs_bet2ees_130	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_bet2ther_135	fs_bet2ther_135	true	5	0	5		
+fs_bet5odha_250	fs_bet5odha_250	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_bet_328	fs_bet_328	true	5	0	5		
+fs_beta3_279	fs_beta3_279	true	5	0	5		
+fs_beta3et_271	fs_beta3et_271	true	5	0	5		
+fs_beta3ha_84	fs_beta3ha_84	true	5	0	5		
+fs_beta3ty_199	fs_beta3ty_199	true	5	0	5		
+fs_betanseek_136	fs_betanseek_136	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_betbeen_135	fs_betbeen_135	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_beteklef_176	fs_beteklef_176	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_betemayez_82	fs_betemayez_82	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_betestafeed_313	fs_betestafeed_313	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_betestekhlaas_296	fs_betestekhlaas_296	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_betet3amel_119	fs_betet3amel_119	true	5	0	5		
+fs_betetargem_215	fs_betetargem_215	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_betetramy_214	fs_betetramy_214	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_betetsama_03	fs_betetsama_03	false	2	3	5		no Arabic form or gloss given; sense unverifiable || You are named anger is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_betgeeb_302	fs_betgeeb_302	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_betmaseel_103	fs_betmaseel_103	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_betsabebha_22	fs_betsabebha_22	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_betshar7_121	fs_betshar7_121	true	5	0	5		
+fs_betshofha_224	fs_betshofha_224	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_betwary_60	fs_betwary_60	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Betwary does not fit food complaint || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_bey2al_290	fs_bey2al_290	false	3	2	5		'bey2al en da 3adi' unnatural || bey2al is MSA passive yuqal; Egyptian uses biyet2al/bey2olo
+fs_bey2ather_251	fs_bey2ather_251	true	5	0	5		
+fs_bey2ol_321	fs_bey2ol_321	false	2	3	5		ana bey2ol le nafso subject mismatch; he-says sense strained || I ... he says to himself: contradictory subject || person mismatch: 'ana bey2ol le nafso'
+fs_bey2tar7_173	fs_bey2tar7_173	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bey5ale2_254	fs_bey5ale2_254	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_bey7taj_88	fs_bey7taj_88	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_beyanate_162	fs_beyanate_162	true	5	0	5		
+fs_beyde3_219	fs_beyde3_219	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_beyemer_140	fs_beyemer_140	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_beyemthal_260	fs_beyemthal_260	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_beyesmahl_288	fs_beyesmahl_288	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'beyesmahl nafso' meaningless
+fs_beygeb_275	fs_beygeb_275	false	3	2	5		anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_beyla3eb_115	fs_beyla3eb_115	true	4	1	5		Anchor misused or nonsensical here; not a coherent sense of the word.
+fs_beytheer_265	fs_beytheer_265	false	1	4	5		"anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Run-on: two requests glued with trailing fragment ""3aza 3ashan el-tayara badri"". || Anchor used unnaturally or garbled; an Egyptian would not t"
+fs_beywafar_261	fs_beywafar_261	false	3	2	5		garbled filler bas2al bas || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_bkam_179	fs_bkam_179	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bmon7a_130	fs_bmon7a_130	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_bna2_241	fs_bna2_241	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_bo2ry_283	fs_bo2ry_283	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bosa_195	fs_bosa_195	false	2	3	5		bosa here likely means inch (bosa), not kiss || Could not see even a kiss in front of me; nonsense || 'hatta bosa odamy' not an Egyptian idiom
+fs_bramj_51	fs_bramj_51	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bsbb_52	fs_bsbb_52	false	3	2	5		"trailing fragment ""3alel"" || garbled ending 'tasleeh 3alel'"
+fs_bshof_150	fs_bshof_150	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_bt7twi_308	fs_bt7twi_308	false	0	5	5		"no Arabic form or gloss given; sense unverifiable || Place contains the right time is nonsensical || garbled clause ""el mawde3 bt7twi 3la el wa2t"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || bt7twi 3la is MSA verb, not colloquial"
+fs_bta3leem_70	fs_bta3leem_70	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_btdy_18	fs_btdy_18	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_bteragab_33	fs_bteragab_33	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || repeated el youm/el yom, redundant filler || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_bttdmn_30	fs_bttdmn_30	false	1	4	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""el bttdmn"" is meaningless; sentence incoherent. || 'el bttdmn' is not a word || ghadan is MSA; Egyptian says bokra"
+fs_bwsla_242	fs_bwsla_242	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_by2olw_253	fs_by2olw_253	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_by5ly_82	fs_by5ly_82	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_by7awlo_28	fs_by7awlo_28	true	5	0	5		
+fs_byekono_09	fs_byekono_09	true	5	0	5		
+fs_byrga3_22	fs_byrga3_22	true	5	0	5		
+fs_bysbb_258	fs_bysbb_258	true	4	1	5		garbled 'el 2agha'; awkward
+fs_bytmm_114	fs_bytmm_114	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_da2e2a_41	fs_da2e2a_41	true	5	0	5		
+fs_da2let_03	fs_da2let_03	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_da2ry_11	fs_da2ry_11	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_da3m_179	fs_da3m_179	false	2	3	5		Gas running out and lack of company support are unrelated; incoherent. || two unrelated clauses glued: gas/lunch then company support || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_daala_93	fs_daala_93	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Crowd was daala makes no sense || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_dakhm_282	fs_dakhm_282	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_daman_321	fs_daman_321	false	2	3	5		guarantee sense strained; no real warranty meant || Garbled logic: nothing useful done nor guarantee of benefit. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_daw2a_48	fs_daw2a_48	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_dawr_215	fs_dawr_215	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_dawrak_91	fs_dawrak_91	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_dawry_17	fs_dawry_17	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_dayman_169	fs_dayman_169	true	5	0	5		
+fs_dayra_270	fs_dayra_270	false	3	2	5		dayra of eyeglasses is strained; circle/department sense unclear || 'el dayra de mesh mazbouta 3ala 3eini' not natural Egyptian
+fs_dee_244	fs_dee_244	true	5	0	5		
+fs_dkoor_143	fs_dkoor_143	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_doi_276	fs_doi_276	false	2	3	5		"DOI in delivery context is nonsense || Delivery of medicine then ""doi arrives"" is nonsensical. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_dooda_86	fs_dooda_86	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_dynamekyat_128	fs_dynamekyat_128	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_dyoof_219	fs_dyoof_219	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_e3dadiya_193	fs_e3dadiya_193	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_e5watna_216	fs_e5watna_216	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_e7temal_199	fs_e7temal_199	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_e7teyatya_200	fs_e7teyatya_200	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_e7tyagatna_321	fs_e7tyagatna_321	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ebd2_169	fs_ebd2_169	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ebda3y_91	fs_ebda3y_91	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ebtekar_235	fs_ebtekar_235	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_edafat_122	fs_edafat_122	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_edarat_328	fs_edarat_328	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_eftaker_170	fs_eftaker_170	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_egaabat_276	fs_egaabat_276	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_eghatha_215	fs_eghatha_215	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_egtema3_113	fs_egtema3_113	false	3	2	5		garbled trailing fragment nafokhos 5alas || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_egtema3y_254	fs_egtema3y_254	false	3	2	5		social vs normal dress is strained || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_egtema3ya_241	fs_egtema3ya_241	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ehtemam_38	fs_ehtemam_38	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ehtemamatohom_35	fs_ehtemamatohom_35	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_eijabeya_310	fs_eijabeya_310	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this || eijabeya is MSA pronunciation; Egyptian egabeya
+fs_ekhte3_324	fs_ekhte3_324	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || garbled tail kunte7san el mood khalis || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ektesadeya_313	fs_ektesadeya_313	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || An ""economic night"" farewell party is incoherent. || 'leila ektesadeya' unnatural"
+fs_el23dad_116	fs_el23dad_116	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_el2a3rad_301	fs_el2a3rad_301	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_el2alela_99	fs_el2alela_99	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_el3a2leya_34	fs_el3a2leya_34	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_el3afw_76	fs_el3afw_76	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_el3alam_142	fs_el3alam_142	false	1	4	5		"world used as nonsense location || Leg caught in ""the big world""; nonsensical situation. || el3alam repeated, incoherent second clause || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_el3alami_118	fs_el3alami_118	false	2	3	5		"global used as a noun for staff; nonsense || Unpaid salary then ""the global"" all waiting; nonsensical. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_el3amal_152	fs_el3amal_152	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_el3anaser_24	fs_el3anaser_24	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_el3awamel_49	fs_el3awamel_49	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_el3olama_86	fs_el3olama_86	false	2	3	5		scholars cited for cutting meat is strained || Butcher cutting meat as scholars said; incoherent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_el3onf_46	fs_el3onf_46	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_el5as_202	fs_el5as_202	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_el5edmaat_249	fs_el5edmaat_249	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_el7ad_232	fs_el7ad_232	false	3	2	5		limit sense strained, reads as Sunday or unclear || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_el7afa_210	fs_el7afa_210	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_el7ala_290	fs_el7ala_290	true	5	0	5		
+fs_el7arat_205	fs_el7arat_205	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_el7aya_158	fs_el7aya_158	true	5	0	5		
+fs_el7ayawanat_241	fs_el7ayawanat_241	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_el7elw_206	fs_el7elw_206	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_el7l2a_111	fs_el7l2a_111	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_el7okm_166	fs_el7okm_166	false	3	2	5		"""The verdict is on you"" for heater repair; incoherent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_el7okoma_73	fs_el7okoma_73	false	1	4	5		government irrelevant to tea-making; strained || Making tea for guests then government annoying; unrelated. || two unrelated sentences glued: tea for guests and government || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_elakl_31	fs_elakl_31	true	5	0	5		
+fs_elamtaar_152	fs_elamtaar_152	false	3	2	5		Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elardeyat_102	fs_elardeyat_102	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || trailing dangling fragment khof || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elba7r_29	fs_elba7r_29	true	5	0	5		
+fs_elbalad_268	fs_elbalad_268	true	5	0	5		
+fs_elbarameg_166	fs_elbarameg_166	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elbard_30	fs_elbard_30	false	1	4	5		"no Arabic form or gloss given; sense unverifiable || Holding the cold before buying device nonsensical || garbled phrase ""atkarram gehaz dah"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_elbeyanat_43	fs_elbeyanat_43	true	5	0	5		
+fs_elbeyanate_214	fs_elbeyanate_214	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elbritaneya_112	fs_elbritaneya_112	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_elda5ely_267	fs_elda5ely_267	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elda5l_30	fs_elda5l_30	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_eldakhleya_305	fs_eldakhleya_305	false	3	2	5		trailing fragment el-yom el-duhr || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_eldmoeya_112	fs_eldmoeya_112	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_eldollar_158	fs_eldollar_158	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || garbled trailing fragment 3ala el-7agazah || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elensany_190	fs_elensany_190	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Human-ly does not fit the ATM situation || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_elentag_327	fs_elentag_327	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elesta7mar_72	fs_elesta7mar_72	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elfada2eya_219	fs_elfada2eya_219	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elfak_159	fs_elfak_159	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elfar2_142	fs_elfar2_142	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elfwz_123	fs_elfwz_123	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elgahwa_246	fs_elgahwa_246	true	4	1	5		gahwa is Gulf/Saidi; Cairene colloquial is 2ahwa
+fs_elgameel_121	fs_elgameel_121	false	2	3	5		no Arabic form or gloss given; sense unverifiable || The beautiful thing I could not solve contradicts || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_elgaw_193	fs_elgaw_193	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elgawy_176	fs_elgawy_176	false	3	2	5		air (adj) sense strained for fridge noise || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_elgayya_275	fs_elgayya_275	false	3	2	5		coming/next attached to morning awkwardly || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_elghaza2eya_156	fs_elghaza2eya_156	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elghazw_14	fs_elghazw_14	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Asking price of ""the invasion"" in a shop is nonsensical. || 'elghazw' makes no sense as a shop item"
+fs_elghizay_291	fs_elghizay_291	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elgnwb_110	fs_elgnwb_110	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_elhawa_160	fs_elhawa_160	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elhay2a_200	fs_elhay2a_200	true	5	0	5		
+fs_eljawab_50	fs_eljawab_50	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || eljawab is MSA/Levantine; Egyptian uses el radd
+fs_eljhod_49	fs_eljhod_49	false	3	2	5		Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elkarbon_160	fs_elkarbon_160	false	3	2	5		anchor used unnaturally; not how an Egyptian would phrase this || maqam with MSA q; formal register
+fs_elkarim_10	fs_elkarim_10	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elkasf_329	fs_elkasf_329	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elketab_188	fs_elketab_188	true	5	0	5		
+fs_elkhotwat_315	fs_elkhotwat_315	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_ellajna_181	fs_ellajna_181	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_ellyfy_44	fs_ellyfy_44	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elma3mel_316	fs_elma3mel_316	true	5	0	5		
+fs_elmada_298	fs_elmada_298	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elmafasel_179	fs_elmafasel_179	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || Broken joints unrelated to gas running out; incoherent situation. || 'elmafasel bayza' is nonsensical in cooking context
+fs_elmafto7_131	fs_elmafto7_131	true	5	0	5		
+fs_elmanzoma_15	fs_elmanzoma_15	true	5	0	5		
+fs_elmasar_262	fs_elmasar_262	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elmasdar_148	fs_elmasdar_148	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elmashya_79	fs_elmashya_79	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elmasla7a_297	fs_elmasla7a_297	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elmasry_311	fs_elmasry_311	false	2	3	5		"the Egyptian as person needing rest is strained || Visiting grandparents because ""the Egyptian"" needs rest; unclear referent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_elmasrya_88	fs_elmasrya_88	true	5	0	5		
+fs_elmawany_275	fs_elmawany_275	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elmfate7_273	fs_elmfate7_273	true	5	0	5		
+fs_elmganya_253	fs_elmganya_253	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elmodadda_250	fs_elmodadda_250	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || odd trailing fragment ya 3ayez || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elmodalla_18	fs_elmodalla_18	false	3	2	5		Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elmogtama3at_52	fs_elmogtama3at_52	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elmojtama3at_123	fs_elmojtama3at_123	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elmontagat_308	fs_elmontagat_308	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elmostahlek_128	fs_elmostahlek_128	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elmostan2at_271	fs_elmostan2at_271	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elmostawrada_159	fs_elmostawrada_159	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elmotawafra_144	fs_elmotawafra_144	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || astaghlel elforsa elmotawafra is formal MSA phrasing
+fs_elmtwst_90	fs_elmtwst_90	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elnasig_15	fs_elnasig_15	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elnass_320	fs_elnass_320	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_elnomo_258	fs_elnomo_258	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_elrab3_317	fs_elrab3_317	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elradar_73	fs_elradar_73	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elsa3at_317	fs_elsa3at_317	false	1	4	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor tacked onto end as dangling fragment. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_elsa7el_246	fs_elsa7el_246	true	5	0	5		
+fs_elsa7elya_304	fs_elsa7elya_304	true	5	0	5		
+fs_elsadesa_26	fs_elsadesa_26	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_elsalat_221	fs_elsalat_221	true	5	0	5		
+fs_elsh5s_21	fs_elsh5s_21	true	5	0	5		
+fs_elshahr_318	fs_elshahr_318	true	5	0	5		
+fs_elshofan_312	fs_elshofan_312	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'elshofan' meaningless here
+fs_elsoghayara_102	fs_elsoghayara_102	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elsy_323	fs_elsy_323	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elsyasy_288	fs_elsyasy_288	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elta3leeq_225	fs_elta3leeq_225	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || glued clauses; trailing fragment ya3ni msh ba3raf aktb || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_eltab3_179	fs_eltab3_179	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_eltalaba_168	fs_eltalaba_168	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_eltalam_254	fs_eltalam_254	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Unclear what white talam is for a wedding || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_eltanzeef_18	fs_eltanzeef_18	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Cleaning on me does not follow || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_eltaqat_301	fs_eltaqat_301	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_eltaqdeer_123	fs_eltaqdeer_123	false	2	3	5		no Arabic form or gloss given; sense unverifiable || The estimation the exam tomorrow is garbled || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_eltaqreer_245	fs_eltaqreer_245	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this || eltaqreer uses MSA q; Egyptian el ta2reer
+fs_eltara2_311	fs_eltara2_311	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_eltareeq_29	fs_eltareeq_29	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || eltareeq uses MSA q; Egyptian says tari2
+fs_eltasne3_291	fs_eltasne3_291	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_eltaza_135	fs_eltaza_135	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""eltaza"" clause is meaningless in the doctor context. || 'eltaza enny' meaningless"
+fs_elthanaweya_124	fs_elthanaweya_124	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elthanya_88	fs_elthanya_88	true	4	1	5		thanya is MSA; Egyptian says tanya
+fs_elwa7ed_106	fs_elwa7ed_106	true	5	0	5		
+fs_elwa7eda_02	fs_elwa7eda_02	true	5	0	5		
+fs_elwad7_289	fs_elwad7_289	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_elwasfa_24	fs_elwasfa_24	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_elwazn_145	fs_elwazn_145	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_elwelayat_96	fs_elwelayat_96	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this || hal question particle is MSA
+fs_elywm_208	fs_elywm_208	true	5	0	5		
+fs_elzagaag_118	fs_elzagaag_118	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_ema_180	fs_ema_180	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_emsak_299	fs_emsak_299	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_emtinan_05	fs_emtinan_05	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_englizee_228	fs_englizee_228	true	5	0	5		
+fs_enha_185	fs_enha_185	true	5	0	5		
+fs_ennoh_221	fs_ennoh_221	true	4	1	5		ennoh is Levantine pronunciation; Egyptian enn/enno
+fs_enqas_155	fs_enqas_155	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this || enqas is an MSA verbal noun, not colloquial Egyptian usage
+fs_enta2lo_105	fs_enta2lo_105	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Garbled request, unclear meaning || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_entahat_162	fs_entahat_162	false	3	2	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this || akheran entahat is MSA/formal phrasing
+fs_entam_93	fs_entam_93	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_entekhabat_207	fs_entekhabat_207	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_eslamya_38	fs_eslamya_38	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_esmo_62	fs_esmo_62	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_est5damha_307	fs_est5damha_307	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_estekmal_155	fs_estekmal_155	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_estezra3_303	fs_estezra3_303	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_et3afaw_300	fs_et3afaw_300	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_et3amlet_44	fs_et3amlet_44	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_et7aseb_150	fs_et7aseb_150	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_etdadet_46	fs_etdadet_46	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""etdadet on the apartment"" to doorman is nonsensical. || 'etdadet 3ala el sha2a' garbled"
+fs_etehad_38	fs_etehad_38	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ettworat_200	fs_ettworat_200	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_ezay_263	fs_ezay_263	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_f2dan_99	fs_f2dan_99	false	2	3	5		"loss sense unclear in car heat context || Opening window to avoid ""loss""; illogical. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_f5oryn_112	fs_f5oryn_112	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_fa3alietha_110	fs_fa3alietha_110	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_fada2_139	fs_fada2_139	false	2	3	5		outer space as comparison is strained || Waiting longer than outer space; illogical comparison. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_fadloh_130	fs_fadloh_130	true	5	0	5		
+fs_fady_294	fs_fady_294	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_falsafy_124	fs_falsafy_124	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_fany_261	fs_fany_261	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_farsha_38	fs_farsha_38	true	5	0	5		
+fs_fas_169	fs_fas_169	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_fat_207	fs_fat_207	true	5	0	5		
+fs_fawk_312	fs_fawk_312	true	5	0	5		
+fs_fawzo_145	fs_fawzo_145	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_fayda_36	fs_fayda_36	true	5	0	5		
+fs_fayroseya_14	fs_fayroseya_14	true	5	0	5		
+fs_feddan_295	fs_feddan_295	false	3	2	5		feddan returning is nonsense || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_fee_310	fs_fee_310	true	5	0	5		
+fs_feeh_274	fs_feeh_274	true	5	0	5		
+fs_feeha_92	fs_feeha_92	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_feehom_123	fs_feehom_123	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_feeya_181	fs_feeya_181	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Garbled ending, unclear meaning || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_fehm_218	fs_fehm_218	true	5	0	5		
+fs_fek_140	fs_fek_140	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_felbalad_84	fs_felbalad_84	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_felkoora_70	fs_felkoora_70	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_felmawke3_38	fs_felmawke3_38	true	5	0	5		
+fs_felnehayya_239	fs_felnehayya_239	true	5	0	5		
+fs_ferdya_127	fs_ferdya_127	true	5	0	5		
+fs_floss_89	fs_floss_89	false	3	2	5		anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_foroo3_260	fs_foroo3_260	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_fw2_102	fs_fw2_102	true	5	0	5		
+fs_gad_87	fs_gad_87	false	2	3	5		"""fel wedn demaghy"" nonsensical ending. || garbled trailing fragment fel wedn demaghy || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_gadawel_39	fs_gadawel_39	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_gamal_294	fs_gamal_294	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_gameel_245	fs_gameel_245	true	5	0	5		
+fs_ganeb_170	fs_ganeb_170	true	5	0	5		
+fs_ganoub_286	fs_ganoub_286	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_gany_05	fs_gany_05	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""We gany at his place"" is incoherent. || 'e7na gany 3ando' ungrammatical"
+fs_gasedya_179	fs_gasedya_179	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_gasemat_181	fs_gasemat_181	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_gathbya_273	fs_gathbya_273	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_gawda_06	fs_gawda_06	false	2	3	5		quality of news is strained || Hearing news then its quality is high; incoherent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_gayy_257	fs_gayy_257	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_gazhaz_308	fs_gazhaz_308	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || trailing fragment: lone anchor word appended after complete sentence || anchor used unnaturally; not how an Egyptian would phrase this
+fs_gededa_131	fs_gededa_131	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_gedeed_88	fs_gedeed_88	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_genei_300	fs_genei_300	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_gesm_290	fs_gesm_290	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_gezd_15	fs_gezd_15	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ghalyya_31	fs_ghalyya_31	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_ghazw_111	fs_ghazw_111	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Invasion for first work day is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_gheda2_113	fs_gheda2_113	true	5	0	5		
+fs_gomla_70	fs_gomla_70	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_gowet_124	fs_gowet_124	true	5	0	5		
+fs_ha2ela_291	fs_ha2ela_291	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_hat2alel_277	fs_hat2alel_277	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_hatshtery_95	fs_hatshtery_95	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_hay5odo_285	fs_hay5odo_285	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_hayfadl_281	fs_hayfadl_281	true	5	0	5		
+fs_howat_88	fs_howat_88	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_htkseb_70	fs_htkseb_70	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_iza_14	fs_iza_14	true	4	1	5		iza is MSA/Levantine; Egyptian uses law
+fs_janoub_102	fs_janoub_102	true	4	1	5		Uses Levantine/Gulf j in janoub; Egyptian says ganoub
+fs_jath3eya_300	fs_jath3eya_300	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this || jath3eya uses j/th, non-Egyptian pronunciation
+fs_jond_38	fs_jond_38	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_jro7_172	fs_jro7_172	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_k3odw_295	fs_k3odw_295	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""k3odw"" makes the clause meaningless. || 'k3odw' is not a word here"
+fs_kabina_10	fs_kabina_10	true	5	0	5		
+fs_kafi_263	fs_kafi_263	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_kajeza_98	fs_kajeza_98	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_karaz_116	fs_karaz_116	false	3	2	5		"no Arabic form or gloss given; sense unverifiable || English ""shop"" where Egyptian says mahal"
+fs_karbon_220	fs_karbon_220	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_kasr_292	fs_kasr_292	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_kef_156	fs_kef_156	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'w kef dayya3t' unnatural phrasing || kef (how) is MSA/Levantine; Egyptian uses ezay
+fs_kellyan_33	fs_kellyan_33	true	5	0	5		
+fs_kemeeya_242	fs_kemeeya_242	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_kemyawy_86	fs_kemyawy_86	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_khadmet_174	fs_khadmet_174	true	5	0	5		
+fs_kharayet_109	fs_kharayet_109	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_khata_60	fs_khata_60	true	5	0	5		
+fs_khayalak_246	fs_khayalak_246	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_kheir_196	fs_kheir_196	true	5	0	5		
+fs_kherif_291	fs_kherif_291	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_khobz_306	fs_khobz_306	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this. || khobz is MSA/Levantine; Egyptian says 3eish
+fs_khodrawat_65	fs_khodrawat_65	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_khososan_92	fs_khososan_92	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_khotwa_143	fs_khotwa_143	true	5	0	5		
+fs_kolawy_237	fs_kolawy_237	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_kolesh_19	fs_kolesh_19	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this. || kolesh is Levantine/Iraqi, not Egyptian
+fs_korat_66	fs_korat_66	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_koroeya_136	fs_koroeya_136	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Spherical hurting me is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_la2_192	fs_la2_192	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_la7ezt_45	fs_la7ezt_45	true	5	0	5		
+fs_la7za_260	fs_la7za_260	false	2	3	5		no Arabic form or gloss given; sense unverifiable || The moment tonight is contradictory || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_lam7a_255	fs_lam7a_255	false	1	4	5		"no Arabic form or gloss given; sense unverifiable || Lam7a as colon label makes no sense || template colon shape ""lam7a:"" list-like || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_lastname_10	fs_lastname_10	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_lateef_156	fs_lateef_156	true	4	1	5		repetition: kolo twice and el wa2t three times
+fs_law_47	fs_law_47	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_lazema_51	fs_lazema_51	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_lazzem_90	fs_lazzem_90	true	5	0	5		
+fs_le2edaret_173	fs_le2edaret_173	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_le2enaha_327	fs_le2enaha_327	true	5	0	5		
+fs_le2n_202	fs_le2n_202	true	5	0	5		
+fs_le3ada_166	fs_le3ada_166	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_le7ad_169	fs_le7ad_169	false	3	2	5		garbled trailing word ba7lala || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_leehom_157	fs_leehom_157	false	2	3	5		leehom torqa reads garbled; they-have sense strained || '3aref leehom torqa' unnatural || torqa is MSA form; Egyptian says toro2
+fs_leekom_68	fs_leekom_68	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_lelwelayat_314	fs_lelwelayat_314	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_lena_317	fs_lena_317	false	3	2	5		el mefta7 lena gowa is strained, sense unclear || 'el mefta7 lena gowa' unnatural
+fs_leta7deed_258	fs_leta7deed_258	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Happy for determining makes no sense || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_llnas_145	fs_llnas_145	true	5	0	5		
+fs_lown_117	fs_lown_117	false	2	3	5		"color of the work situation strained || ""Color of the work situation""; nonsensical. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_lw7do_79	fs_lw7do_79	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_lwa2_151	fs_lwa2_151	true	4	1	5		district reading unclear, likely misused
+fs_m7asna_289	fs_m7asna_289	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_m7tag_193	fs_m7tag_193	true	5	0	5		
+fs_m7tageenha_137	fs_m7tageenha_137	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ma3aden_194	fs_ma3aden_194	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ma3aha_68	fs_ma3aha_68	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_ma3ayeer_170	fs_ma3ayeer_170	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ma3loma_127	fs_ma3loma_127	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_ma3refy_296	fs_ma3refy_296	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_ma3rofa_296	fs_ma3rofa_296	false	3	2	5		known (fem.) for hometown strained || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ma3roof_315	fs_ma3roof_315	true	5	0	5		
+fs_mabeed_36	fs_mabeed_36	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_mabkar_80	fs_mabkar_80	false	2	3	5		anchor makes the sentence nonsensical or contradictory in context || run-on glued clauses ending in fragment || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_mad5olat_157	fs_mad5olat_157	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_mad_03	fs_mad_03	true	5	0	5		
+fs_madany_177	fs_madany_177	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_maghary_203	fs_maghary_203	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_maghnateesy_289	fs_maghnateesy_289	false	1	4	5		"no Arabic form or gloss given; sense unverifiable || Magnetic with me is nonsensical || garbled nonsensical phrase ""zahe2an w maghnateesy me3ady"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_magmo3at_74	fs_magmo3at_74	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_magmo3et_242	fs_magmo3et_242	true	5	0	5		
+fs_makantsh_286	fs_makantsh_286	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_makhater_65	fs_makhater_65	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_makhderat_167	fs_makhderat_167	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || garbled trailing fragment 3ayzein te2telna || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_malayeen_300	fs_malayeen_300	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_maley_139	fs_maley_139	false	3	2	5		anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_maqala_112	fs_maqala_112	true	4	1	5		maqala uses MSA q; Egyptian is ma2ala
+fs_maqta3_170	fs_maqta3_170	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Section being safe with police numbers unclear || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mar2y_26	fs_mar2y_26	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_maraya_07	fs_maraya_07	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_marda_03	fs_marda_03	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_mareed_137	fs_mareed_137	true	5	0	5		
+fs_mas2oleyat_112	fs_mas2oleyat_112	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_masar_312	fs_masar_312	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_masdoom_264	fs_masdoom_264	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_masmo7_121	fs_masmo7_121	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Speaker apologizes then says mother is forgiven || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_masmoo3_278	fs_masmoo3_278	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_masra7_215	fs_masra7_215	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_masry_234	fs_masry_234	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_mat7af_188	fs_mat7af_188	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Going to museum to shop is illogical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mat7otsh_325	fs_mat7otsh_325	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Clauses do not connect logically || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_matb5_158	fs_matb5_158	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_matkonsh_236	fs_matkonsh_236	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_matshat_53	fs_matshat_53	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Electricity matshat nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mawgooda_299	fs_mawgooda_299	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mawso3_83	fs_mawso3_83	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_mawta_317	fs_mawta_317	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mayeya_211	fs_mayeya_211	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mayu_278	fs_mayu_278	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Waiting for mayo at mechanic is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mazaya_239	fs_mazaya_239	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_me7tamy_132	fs_me7tamy_132	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_media_326	fs_media_326	false	2	3	5		"media sense unclear for lost item || Finding lost ""media"" in the bag; nonsensical. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_meezan_163	fs_meezan_163	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_melean_171	fs_melean_171	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_melfat_222	fs_melfat_222	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_menfesela_126	fs_menfesela_126	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Exclamation menfesela does not fit passing exam || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mftou7a_69	fs_mftou7a_69	true	5	0	5		
+fs_mganeya_32	fs_mganeya_32	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mhtm_82	fs_mhtm_82	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_mhtmma_215	fs_mhtmma_215	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_mnkhsfa_254	fs_mnkhsfa_254	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_mo2tamarat_224	fs_mo2tamarat_224	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_mo5talefat_260	fs_mo5talefat_260	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'mo5talefat' unnatural; Egyptians say '5elafat'
+fs_mo7adada_260	fs_mo7adada_260	true	5	0	5		
+fs_mo7addad_120	fs_mo7addad_120	true	5	0	5		
+fs_mo7awalat_165	fs_mo7awalat_165	false	3	2	5		Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_mo7taga_325	fs_mo7taga_325	false	3	2	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly. || hdoo2 (quiet) is MSA/formal; Egyptian would say hedoo2/raaha differently in context
+fs_mo7tamila_280	fs_mo7tamila_280	false	1	4	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || Trailing clause is a garbled fragment tacked on after the list. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mod3afat_266	fs_mod3afat_266	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_modadda_46	fs_modadda_46	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_modda_269	fs_modda_269	true	5	0	5		
+fs_mofage2a_129	fs_mofage2a_129	true	5	0	5		
+fs_mofakereen_153	fs_mofakereen_153	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_mogmaa_80	fs_mogmaa_80	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_mogtama3atna_318	fs_mogtama3atna_318	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'mogtama3atna' unnatural, calque-like
+fs_mokaf7a_158	fs_mokaf7a_158	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_mokammelat_280	fs_mokammelat_280	false	2	3	5		no Arabic form or gloss given; sense unverifiable || list shape with colon enumeration || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mokhtalafa_108	fs_mokhtalafa_108	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_mokhtalef_28	fs_mokhtalef_28	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_molwetha_265	fs_molwetha_265	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_momatel_174	fs_momatel_174	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_momayez_74	fs_momayez_74	true	5	0	5		
+fs_momayza_289	fs_momayza_289	true	5	0	5		
+fs_momtaz_10	fs_momtaz_10	true	5	0	5		
+fs_monakasha_44	fs_monakasha_44	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_monazam_273	fs_monazam_273	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_monazamat_50	fs_monazamat_50	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_monkhfedet_59	fs_monkhfedet_59	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_moraja3at_270	fs_moraja3at_270	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mosa3detak_92	fs_mosa3detak_92	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_moshkilat_258	fs_moshkilat_258	true	4	1	5		arabic and gloss fields empty; no confirmed sense to verify anchor against
+fs_moshtaraka_107	fs_moshtaraka_107	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_mostafeedeen_91	fs_mostafeedeen_91	false	3	2	5		Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_mostanadat_03	fs_mostanadat_03	true	5	0	5		
+fs_mot3added_70	fs_mot3added_70	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_mot3adeda_87	fs_mot3adeda_87	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_motakhasesa_199	fs_motakhasesa_199	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_motawfer_173	fs_motawfer_173	true	5	0	5		
+fs_motawfera_202	fs_motawfera_202	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_motlaq_161	fs_motlaq_161	false	3	2	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence. || motlaq (mutlaqan) is MSA/formal; Egyptian would say khales or abadan
+fs_mowaten_124	fs_mowaten_124	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mowazfeen_142	fs_mowazfeen_142	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mrady_217	fs_mrady_217	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_msd2a_323	fs_msd2a_323	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_mst5dma_74	fs_mst5dma_74	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_mstanyeen_37	fs_mstanyeen_37	false	3	2	5		repeated 2ahwa, garbled glued clauses || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_msthlkeen_03	fs_msthlkeen_03	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || two requests glued together without break || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_mthaly_199	fs_mthaly_199	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_mujallad_188	fs_mujallad_188	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || mujallad uses fusha j; Egyptian would say megallad
+fs_mya_296	fs_mya_296	true	5	0	5		
+fs_n2af_46	fs_n2af_46	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_n3tmed_190	fs_n3tmed_190	true	5	0	5		
+fs_n5ally_308	fs_n5ally_308	true	5	0	5		
+fs_nabi_204	fs_nabi_204	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Prophet inserted without sense || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_naderan_155	fs_naderan_155	false	1	4	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""Rarely"" inserted into the window question is nonsensical. || 'naderan el shebak' ungrammatical, garbled || naderan and mawqif are MSA forms"
+fs_nafsi_198	fs_nafsi_198	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_namous_276	fs_namous_276	true	4	1	5		Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_nash2_193	fs_nash2_193	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_nategat_57	fs_nategat_57	false	1	4	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this || ma3a instead of Egyptian ma3; batkallim with fusha flavor
+fs_nawy_164	fs_nawy_164	true	5	0	5		
+fs_nbda_206	fs_nbda_206	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_nee_183	fs_nee_183	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_nehayet_67	fs_nehayet_67	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_nemr_52	fs_nemr_52	true	5	0	5		
+fs_nerkez_320	fs_nerkez_320	false	3	2	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this || feekum/beesib are Levantine forms
+fs_neshtegl_248	fs_neshtegl_248	true	5	0	5		
+fs_nezam_76	fs_nezam_76	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_nezamk_25	fs_nezamk_25	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_nfs_253	fs_nfs_253	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_nmo_211	fs_nmo_211	false	2	3	5		growth in football play strained || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly. || 2atal ay nmo is formal MSA phrasing, not everyday Egyptian
+fs_nomo_59	fs_nomo_59	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Food ""taking its sleep/growth"" on stove is nonsensical. || 'yakhod nomo' makes no sense for food"
+fs_noom_316	fs_noom_316	true	5	0	5		
+fs_nsahem_175	fs_nsahem_175	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_okhti_318	fs_okhti_318	true	5	0	5		
+fs_ordon_217	fs_ordon_217	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_osbo3y_289	fs_osbo3y_289	true	5	0	5		
+fs_qanaya_140	fs_qanaya_140	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_qararat_305	fs_qararat_305	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'qararat' should be '2arrart'; wrong form
+fs_qawanen_161	fs_qawanen_161	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_qotb_192	fs_qotb_192	false	1	4	5		"anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Trailing fragment ""hash"" at end. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence."
+fs_ra2e3y_48	fs_ra2e3y_48	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || Headache called wonderful contradicts complaint. || 'el soda3 ra2e3y' is nonsensical
+fs_ra2ees_178	fs_ra2ees_178	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ra2eisy_309	fs_ra2eisy_309	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ra2y_228	fs_ra2y_228	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ra2ykom_280	fs_ra2ykom_280	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ra2ysee_263	fs_ra2ysee_263	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Ra2ysee makes clause meaningless || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_ra7a_218	fs_ra7a_218	true	5	0	5		
+fs_ra7mat_323	fs_ra7mat_323	true	5	0	5		
+fs_rady_34	fs_rady_34	true	5	0	5		
+fs_rasmy_309	fs_rasmy_309	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_rawaseb_24	fs_rawaseb_24	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Sediments at family gathering nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_rayaaya_325	fs_rayaaya_325	true	5	0	5		
+fs_rayes_38	fs_rayes_38	true	5	0	5		
+fs_re2a_329	fs_re2a_329	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_reefya_48	fs_reefya_48	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_reet_102	fs_reet_102	false	1	4	5		"no Arabic form or gloss given; sense unverifiable || Garbled motorbike story, incoherent || garbled tail ""sanaity le7d dol de2a"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_reyadeyat_149	fs_reyadeyat_149	true	5	0	5		
+fs_ro2ya_235	fs_ro2ya_235	false	3	2	5		vision/seeing sense strained for messages || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_ro7_227	fs_ro7_227	false	3	2	5		go! imperative misfit; sense unclear || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_romany_78	fs_romany_78	false	1	4	5		"anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Garbled trailing clause ""kan b nus el taman 3aleiha gamal awi"". || Anchor used unnaturally or garbled; an Egyptian would not type this sentence"
+fs_rsm_253	fs_rsm_253	false	2	3	5		"drawing vs fee ambiguous and odd || Finishing ""the drawing/fee"" before Eid prayer; incoherent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_sa23a_231	fs_sa23a_231	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || ""Are you sa23a"" is nonsensical in the context. || 'enta sa23a keda' unnatural, meaning unclear"
+fs_sa3a_178	fs_sa3a_178	true	5	0	5		
+fs_sa3at_82	fs_sa3at_82	true	5	0	5		
+fs_sa3et_160	fs_sa3et_160	true	5	0	5		
+fs_sa7eb_98	fs_sa7eb_98	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_sa7en_305	fs_sa7en_305	true	5	0	5		
+fs_sa7y_176	fs_sa7y_176	true	5	0	5		
+fs_sabghat_70	fs_sabghat_70	true	5	0	5		
+fs_saf7at_257	fs_saf7at_257	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Music was pages is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_sagheer_80	fs_sagheer_80	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_sahal_171	fs_sahal_171	true	5	0	5		
+fs_salahya_277	fs_salahya_277	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_salat_317	fs_salat_317	true	5	0	5		
+fs_sana_155	fs_sana_155	true	4	1	5		no Arabic form or gloss given; sense unverifiable
+fs_sara2a_55	fs_sara2a_55	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_sata7_127	fs_sata7_127	true	5	0	5		
+fs_sawaa_184	fs_sawaa_184	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_sawael_64	fs_sawael_64	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_sawt_290	fs_sawt_290	true	5	0	5		
+fs_sayens_24	fs_sayens_24	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_sedy_294	fs_sedy_294	true	5	0	5		
+fs_seyaasya_20	fs_seyaasya_20	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_sghar_147	fs_sghar_147	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_sha3bya_300	fs_sha3bya_300	true	5	0	5		
+fs_shabak_180	fs_shabak_180	false	1	4	5		"hooked/window sense nonsense with salary || New job ""hooked"" the salary; nonsensical. || trailing fragment mate2le2lish 3andi dangling || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_shabka_37	fs_shabka_37	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_shahreya_115	fs_shahreya_115	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_shaif_97	fs_shaif_97	true	5	0	5		
+fs_shakhs_61	fs_shakhs_61	true	5	0	5		
+fs_shakhsia_164	fs_shakhsia_164	false	2	3	5		"personality sense wrong; means person here || Employees send to different windows, ""no single personality""; incoherent. || Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly."
+fs_shamla_233	fs_shamla_233	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this || gedan is formal MSA intensifier
+fs_shamlet_225	fs_shamlet_225	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_shamsy_190	fs_shamsy_190	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_shar2_06	fs_shar2_06	true	5	0	5		
+fs_shar2an_50	fs_shar2an_50	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_shar2y_140	fs_shar2y_140	false	2	3	5		el ta7aleel el shar2y is not eastern; sense nonsensical || Eastern analyses coming out fine is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_shar_117	fs_shar_117	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_share3_320	fs_share3_320	true	5	0	5		
+fs_shareka_238	fs_shareka_238	true	4	1	5		Company cutting home internet to stop kids watching is illogical
+fs_shasha_76	fs_shasha_76	true	5	0	5		
+fs_shay2_152	fs_shay2_152	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_sherkah_188	fs_sherkah_188	true	5	0	5		
+fs_shghal_161	fs_shghal_161	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_shmal_198	fs_shmal_198	true	5	0	5		
+fs_shmalyia_83	fs_shmalyia_83	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_shofto_270	fs_shofto_270	false	2	3	5		Anchor word makes no sense in this context; sentence is incoherent or garbled. || Clause repeated verbatim with a word swapped: two drafts glued together. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_shoghl_99	fs_shoghl_99	false	2	3	5		means turn on (shaghghal), not work/job || Asking for work of the AC makes no sense || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_shohoor_239	fs_shohoor_239	true	5	0	5		
+fs_shokran_25	fs_shokran_25	false	3	2	5		repeated ya baba, shokran glued on as filler || anchor used unnaturally; not how an Egyptian would phrase this
+fs_shorb_38	fs_shorb_38	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_shouf_26	fs_shouf_26	true	5	0	5		
+fs_shr_231	fs_shr_231	false	3	2	5		shr ambiguous; neither month nor evil clearly intended || 'eh el shr da' unnatural
+fs_shwaya_227	fs_shwaya_227	true	5	0	5		
+fs_shywa_253	fs_shywa_253	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_slesla_97	fs_slesla_97	true	5	0	5		
+fs_so2_210	fs_so2_210	true	5	0	5		
+fs_so2al_144	fs_so2al_144	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_sod3_129	fs_sod3_129	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_sodmat_196	fs_sodmat_196	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_soghayar_205	fs_soghayar_205	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_soghayara_68	fs_soghayara_68	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_sokary_53	fs_sokary_53	true	5	0	5		
+fs_sokhor_242	fs_sokhor_242	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_sokkar_164	fs_sokkar_164	false	2	3	5		da sokkar used as odd exclamation, not sugar || Calling bureaucratic runaround sugar is contradictory || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_soodan_321	fs_soodan_321	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_story_28	fs_story_28	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_style_316	fs_style_316	true	5	0	5		
+fs_sw2a_175	fs_sw2a_175	false	2	3	5		door after driving makes no sense || Door fixed after driving is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_syasya_95	fs_syasya_95	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_t5ly_48	fs_t5ly_48	true	5	0	5		
+fs_ta2a_289	fs_ta2a_289	true	5	0	5		
+fs_ta2geer_307	fs_ta2geer_307	true	5	0	5		
+fs_ta2thyrat_304	fs_ta2thyrat_304	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_ta3awonya_236	fs_ta3awonya_236	false	0	5	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || garbled trailing clause (batsawwam kedei) || anchor used unnaturally or ungrammatically; an Egyptian would not type this || gedan is formal; bes and kedei are non-Egyptia
+fs_ta3deyat_57	fs_ta3deyat_57	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ta3reefat_252	fs_ta3reefat_252	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_ta5ayalo_291	fs_ta5ayalo_291	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ta7eez_242	fs_ta7eez_242	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_ta7t_251	fs_ta7t_251	true	5	0	5		
+fs_tab5_202	fs_tab5_202	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_taba3a_322	fs_taba3a_322	true	4	1	5		incoherent ending, '3alih 3anha' garbled
+fs_tabe3_89	fs_tabe3_89	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tabe3et_183	fs_tabe3et_183	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tabee3y_175	fs_tabee3y_175	true	5	0	5		
+fs_tabeeya_49	fs_tabeeya_49	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tabro3at_219	fs_tabro3at_219	true	4	1	5		anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_tadweena_88	fs_tadweena_88	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_tagleef_138	fs_tagleef_138	true	4	1	5		anchor used in wrong, garbled, or strained sense for this word
+fs_tagreed_263	fs_tagreed_263	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Tagreed like honey is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tahadeyat_55	fs_tahadeyat_55	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_taimz_321	fs_taimz_321	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this || ra7 as future marker is Levantine, not Egyptian
+fs_takhod_306	fs_takhod_306	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_taksees_302	fs_taksees_302	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_talat_77	fs_talat_77	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_talem_182	fs_talem_182	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_talj_174	fs_talj_174	false	1	4	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this || talj is Levantine/MSA; Egyptian is talg
+fs_tamasok_249	fs_tamasok_249	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_tanmer_204	fs_tanmer_204	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_tanmeyet_237	fs_tanmeyet_237	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_tanyeen_251	fs_tanyeen_251	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_taqalidna_189	fs_taqalidna_189	false	3	2	5		anchor used unnaturally; not how an Egyptian would phrase this || taqalidna uses MSA q; Egyptian says ta2aleedna
+fs_taqdeem_238	fs_taqdeem_238	false	3	2	5		Garbled phrase taqdeem wefgaya, unclear meaning || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_taqdom_37	fs_taqdom_37	false	2	3	5		coffee man made progress is strained || Cafe man made progress writing names is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tarbeyet_02	fs_tarbeyet_02	true	5	0	5		
+fs_tare2et_72	fs_tare2et_72	false	3	2	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || Egyptians say '3al tari2', not 'tare2et'
+fs_tareeka_264	fs_tareeka_264	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tareeq_234	fs_tareeq_234	false	2	3	5		road used for phone repair duration, wrong sense || Road taking time until phone fixed is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tareeqa_174	fs_tareeqa_174	true	5	0	5		
+fs_tarekhy_86	fs_tarekhy_86	false	2	3	5		cutting meat historical is nonsensical || Cutting meat historically is nonsensical || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tarfehya_243	fs_tarfehya_243	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_tarjema_90	fs_tarjema_90	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_tarteeb_266	fs_tarteeb_266	true	5	0	5		
+fs_tary2a_266	fs_tary2a_266	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_taselem_258	fs_taselem_258	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Taselem after dull party makes no sense || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tasfeer_41	fs_tasfeer_41	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tasheed_227	fs_tasheed_227	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tashkeely_264	fs_tashkeely_264	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_tashree3at_141	fs_tashree3at_141	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_tashyeel_289	fs_tashyeel_289	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tatweer_319	fs_tatweer_319	false	3	2	5		"garbled token ""sza"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_taw2of_281	fs_taw2of_281	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_tawaro_83	fs_tawaro_83	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this. || ma fi shay is Levantine phrasing
+fs_tawaroh_39	fs_tawaroh_39	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_tawheed_197	fs_tawheed_197	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_tawter_57	fs_tawter_57	false	3	2	5		"typo artifact ""metlafffin"" repeated letters || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_tazkara_247	fs_tazkara_247	true	4	1	5		arabic and gloss fields empty; no confirmed sense to verify anchor against
+fs_tbya_102	fs_tbya_102	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_tdfa_180	fs_tdfa_180	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_te2od_113	fs_te2od_113	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_teb2a_37	fs_teb2a_37	true	5	0	5		
+fs_tebdaa_325	fs_tebdaa_325	true	5	0	5		
+fs_ted7een_319	fs_ted7een_319	false	3	2	5		anchor sense wrong, strained, or ambiguous in this context || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_teflak_166	fs_teflak_166	false	0	5	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || trailing garbage token lawyerso || anchor used unnaturally or ungrammatically; an Egyptian would not type this || taba3 is Levantine; lawyerso garbled
+fs_tehdidat_18	fs_tehdidat_18	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_tekbar_136	fs_tekbar_136	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_teknology_319	fs_teknology_319	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_telbeet_185	fs_telbeet_185	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_ten2asem_252	fs_ten2asem_252	false	2	3	5		"arabic and gloss fields empty; no confirmed sense to verify anchor against || Speaker travels but ""you divide"" the holiday; inconsistent subject. || person mismatch 'ana nawi... w ten2asem'"
+fs_tesaled_323	fs_tesaled_323	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_tetkallem_275	fs_tetkallem_275	true	4	1	5		arabic and gloss fields empty; no confirmed sense to verify anchor against
+fs_thagaafat_138	fs_thagaafat_138	false	2	3	5		arabic and gloss fields empty; no confirmed sense to verify anchor against || 'share3 thagaafat' is not a natural phrase || thagaafat uses MSA th; Egyptian says sa2afa
+fs_thakafa_67	fs_thakafa_67	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_thakafy_313	fs_thakafy_313	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_thamanya_203	fs_thamanya_203	true	4	1	5		thamanya uses non-Egyptian th pronunciation; Egyptian is tamanya
+fs_thani_95	fs_thani_95	true	5	0	5		
+fs_thanya_214	fs_thanya_214	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_thara2_90	fs_thara2_90	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_thokoor_78	fs_thokoor_78	false	1	4	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this || thokoor is MSA form; Egyptian says dokoor
+fs_thoroof_271	fs_thoroof_271	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_thoroofhom_32	fs_thoroofhom_32	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_toolhom_299	fs_toolhom_299	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_torkya_143	fs_torkya_143	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_tshrfna_111	fs_tshrfna_111	false	3	2	5		garbled trailing fragment (dokhala oryebny) || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_twas3_250	fs_twas3_250	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this. || twas3 is formal MSA verb form
+fs_w2efan_109	fs_w2efan_109	false	3	2	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_w3ashan_132	fs_w3ashan_132	true	4	1	5		anchor used unnaturally; not how an Egyptian would phrase this
+fs_w5ososan_102	fs_w5ososan_102	true	4	1	5		Unnatural or incoherent Egyptian phrasing; anchor forced in awkwardly.
+fs_wa2t_259	fs_wa2t_259	true	5	0	5		
+fs_wa3y_244	fs_wa3y_244	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_waba2_267	fs_waba2_267	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_wahda_244	fs_wahda_244	true	4	1	5		iza is MSA/Levantine; Egyptian uses law
+fs_wakood_200	fs_wakood_200	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_waldoh_79	fs_waldoh_79	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_wazayefha_170	fs_wazayefha_170	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_wazeer_43	fs_wazeer_43	false	1	4	5		"minister sentence incoherent || Rambling sentence with no clear meaning || trailing fragment ""zay ba3d"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_wazeerat_167	fs_wazeerat_167	false	3	2	5		Anchor misused or nonsensical here; not a coherent sense of the word. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_wbshof_223	fs_wbshof_223	false	3	2	5		anchor sense wrong, strained, or ungrammatical in this sentence || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_wbtkon_113	fs_wbtkon_113	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_wel3alam_221	fs_wel3alam_221	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_wel3elaj_133	fs_wel3elaj_133	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_wel5edmaat_153	fs_wel5edmaat_153	false	3	2	5		Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_welada_31	fs_welada_31	false	1	4	5		"late from the birth is incoherent || Late since birth for every outing is nonsensical || garbled nonword ""eladreh"" || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this."
+fs_welaya_109	fs_welaya_109	false	2	3	5		return to the state is strained || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this. || welaya for home region is Gulf/Maghrebi usage, not Egyptian
+fs_weljihaz_207	fs_weljihaz_207	true	4	1	5		jihaz is MSA pronunciation; Egyptian says gehaz
+fs_welmawdoo3_67	fs_welmawdoo3_67	true	5	0	5		
+fs_weltaqaddom_288	fs_weltaqaddom_288	false	3	2	5		Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_wenty_200	fs_wenty_200	true	5	0	5		
+fs_whoma_182	fs_whoma_182	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_wjbat_50	fs_wjbat_50	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_wjodha_49	fs_wjodha_49	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_wlady_86	fs_wlady_86	true	5	0	5		
+fs_wneteeja_52	fs_wneteeja_52	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_wselat_177	fs_wselat_177	false	1	4	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || repeated wselat/weslat; two clauses glued together || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_wsl_319	fs_wsl_319	false	3	2	5		Arrive home after Friday contradicts finishing work Friday at 5 || 'wsl el bet' ungrammatical, needs awsal
+fs_www_233	fs_www_233	true	5	0	5		
+fs_y5od_93	fs_y5od_93	true	4	1	5		person mismatch: 'eny maba2ysh 2ader y5od'
+fs_y7sal_231	fs_y7sal_231	true	4	1	5		'y7sal eh?' should be '7asal eh'
+fs_yahood_128	fs_yahood_128	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_yameen_230	fs_yameen_230	false	3	2	5		no Arabic form or gloss given; sense unverifiable || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_ye3eeshoh_06	fs_ye3eeshoh_06	true	5	0	5		
+fs_ye7afzo_255	fs_ye7afzo_255	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_yefaker_310	fs_yefaker_310	true	4	1	5		anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_yegallal_187	fs_yegallal_187	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_yegib_243	fs_yegib_243	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_yekhlas_41	fs_yekhlas_41	true	4	1	5		Anchor word does not fit; sentence is nonsensical or self-contradictory in context.
+fs_yelbe_183	fs_yelbe_183	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_yemany_33	fs_yemany_33	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_yemna3o_273	fs_yemna3o_273	false	2	3	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this
+fs_yeqadem_64	fs_yeqadem_64	false	3	2	5		anchor used in wrong, garbled, or strained sense for this word || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_yerfa3_239	fs_yerfa3_239	false	2	3	5		no Arabic form or gloss given; sense unverifiable || Who lifts with us that day is incoherent || Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_yes3ed_155	fs_yes3ed_155	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_yestamet3_98	fs_yestamet3_98	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_yet3a2ab_205	fs_yet3a2ab_205	false	1	4	5		anchor sense wrong, strained, or ungrammatical in this sentence || Anchor word makes no sense in this context; sentence is incoherent or garbled. || anchor forced in unnaturally; not how an Egyptian would phrase this || ma3rfech uses Maghrebi -ch negation, not Egyptian ma3rafsh
+fs_yewaf2ak_287	fs_yewaf2ak_287	true	4	1	5		Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_yktshfo_312	fs_yktshfo_312	false	2	3	5		anchor not a real word here or used in wrong/strained sense; no gloss to confirm || Anchor word misplaced; sentence becomes nonsensical or contradictory. || Anchor used unnaturally or garbled; an Egyptian would not type this sentence.
+fs_yoolyeh_207	fs_yoolyeh_207	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_yshmel_26	fs_yshmel_26	true	4	1	5		Unnatural Egyptian phrasing or anchor used oddly; not how Egyptians would type this.
+fs_ytwasel_185	fs_ytwasel_185	true	5	0	5		
+fs_zababa_124	fs_zababa_124	false	3	2	5		anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_zawayed_93	fs_zawayed_93	false	2	3	5		anchor used in wrong, garbled, or strained sense for this word || anchor makes the sentence nonsensical or contradictory in context || Anchor misused or phrasing unnatural; an Egyptian would not type this.
+fs_zee_185	fs_zee_185	false	3	2	5		nonsensical trailing fragment n7asab dolap || anchor used unnaturally or ungrammatically; an Egyptian would not type this
+fs_zey_272	fs_zey_272	true	5	0	5		
+fs_zeyhom_10	fs_zeyhom_10	false	2	3	5		Anchor misused or nonsensical here; not a coherent sense of the word. || Anchor word does not fit; sentence is nonsensical or self-contradictory in context. || anchor used unnaturally; not how an Egyptian would phrase this
+fs_zyara_11	fs_zyara_11	false	2	3	5		anchor sense wrong, strained, or ambiguous in this context || anchor used nonsensically; sentence does not make coherent sense || anchor used unnaturally or ungrammatically; an Egyptian would not type this

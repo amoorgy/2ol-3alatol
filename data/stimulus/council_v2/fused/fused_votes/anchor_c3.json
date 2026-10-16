@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_www_06",
+  "rid": "fs_www_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b7awl_13",
+  "rid": "fs_b7awl_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b7awl_03",
+  "rid": "fs_b7awl_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b7awl_14",
+  "rid": "fs_b7awl_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_by7awlo_10",
+  "rid": "fs_by7awlo_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_by7awlo_03",
+  "rid": "fs_by7awlo_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_by7awlo_01",
+  "rid": "fs_by7awlo_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_by7awlo_11",
+  "rid": "fs_by7awlo_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2aly_08",
+  "rid": "fs_ba2aly_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2aly_11",
+  "rid": "fs_ba2aly_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2aly_04",
+  "rid": "fs_ba2aly_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2aly_14",
+  "rid": "fs_ba2aly_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2ol_00",
+  "rid": "fs_ba2ol_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2ol_10",
+  "rid": "fs_ba2ol_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2ol_09",
+  "rid": "fs_ba2ol_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2ol_01",
+  "rid": "fs_ba2ol_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2y_10",
+  "rid": "fs_ba2y_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2y_15",
+  "rid": "fs_ba2y_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ba2y_04",
+  "rid": "fs_ba2y_04",
+  "v": false,
+  "why": "'el taree2 ba2y wa2ef' reads as 'still/became stopped', not 'the rest, remaining'."
+ },
+ {
+  "sid": "fs_ba2y_01",
+  "rid": "fs_ba2y_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_be2o_00",
+  "rid": "fs_be2o_00",
+  "v": false,
+  "why": "Singular 'el mood' with plural 'be2o'; 'became on the state' has no clear sense."
+ },
+ {
+  "sid": "fs_be2o_09",
+  "rid": "fs_be2o_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_be2o_04",
+  "rid": "fs_be2o_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_be2o_08",
+  "rid": "fs_be2o_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bashar_04",
+  "rid": "fs_bashar_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bashar_07",
+  "rid": "fs_bashar_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bashar_11",
+  "rid": "fs_bashar_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bashar_10",
+  "rid": "fs_bashar_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_basharya_06",
+  "rid": "fs_basharya_06",
+  "v": false,
+  "why": "'2alb ay basharya' uses the adjective as a noun for a person; strained."
+ },
+ {
+  "sid": "fs_basharya_05",
+  "rid": "fs_basharya_05",
+  "v": false,
+  "why": "'7aga basharya zay akl' (a human thing like eating) is a strained, unnatural sense."
+ },
+ {
+  "sid": "fs_basharya_14",
+  "rid": "fs_basharya_14",
+  "v": false,
+  "why": "Vocative 'ya basharya' addressing a shopkeeper; not the human/humanity sense."
+ },
+ {
+  "sid": "fs_basharya_10",
+  "rid": "fs_basharya_10",
+  "v": false,
+  "why": "'kol wahed basharya zayyak' needs masc noun bashar/bani adam; fem adjective misused."
+ },
+ {
+  "sid": "fs_bass_07",
+  "rid": "fs_bass_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bass_03",
+  "rid": "fs_bass_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bass_12",
+  "rid": "fs_bass_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bass_05",
+  "rid": "fs_bass_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bosa_06",
+  "rid": "fs_bosa_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bosa_04",
+  "rid": "fs_bosa_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bosa_09",
+  "rid": "fs_bosa_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bosa_03",
+  "rid": "fs_bosa_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bayn_06",
+  "rid": "fs_bayn_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bayn_00",
+  "rid": "fs_bayn_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bayn_15",
+  "rid": "fs_bayn_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bayn_02",
+  "rid": "fs_bayn_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bani_11",
+  "rid": "fs_bani_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bani_04",
+  "rid": "fs_bani_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bani_08",
+  "rid": "fs_bani_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bani_01",
+  "rid": "fs_bani_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bbasata_08",
+  "rid": "fs_bbasata_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bbasata_09",
+  "rid": "fs_bbasata_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bbasata_11",
+  "rid": "fs_bbasata_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bbasata_13",
+  "rid": "fs_bbasata_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_basita_00",
+  "rid": "fs_basita_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_basita_03",
+  "rid": "fs_basita_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_basita_12",
+  "rid": "fs_basita_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_basita_07",
+  "rid": "fs_basita_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beeh_15",
+  "rid": "fs_beeh_15",
+  "v": false,
+  "why": "'el mashroo3 wa2ef beeh' has no clear referent; strained use of 'with it'."
+ },
+ {
+  "sid": "fs_beeh_09",
+  "rid": "fs_beeh_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beeh_14",
+  "rid": "fs_beeh_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beeha_03",
+  "rid": "fs_beeha_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beeha_10",
+  "rid": "fs_beeha_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beeha_05",
+  "rid": "fs_beeha_05",
+  "v": false,
+  "why": "'net3asha beeha' (dine with it) has no fitting fem referent; should be ma3aha."
+ },
+ {
+  "sid": "fs_beeha_12",
+  "rid": "fs_beeha_12",
+  "v": false,
+  "why": "'ba7ot 3asel beeha' refers to masc fetar; wrong referent, strained sense."
+ },
+ {
+  "sid": "fs_beet_07",
+  "rid": "fs_beet_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beet_01",
+  "rid": "fs_beet_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beet_03",
+  "rid": "fs_beet_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beet_09",
+  "rid": "fs_beet_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b2t_09",
+  "rid": "fs_b2t_09",
+  "v": false,
+  "why": "Subject is addressee 'enta' with masc 'kwayes', so b2t reads as ba2eet (you became)."
+ },
+ {
+  "sid": "fs_b2t_00",
+  "rid": "fs_b2t_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b2t_04",
+  "rid": "fs_b2t_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_b2t_06",
+  "rid": "fs_b2t_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3_01",
+  "rid": "fs_beta3_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3_11",
+  "rid": "fs_beta3_11",
+  "v": false,
+  "why": "'el mabara el beta3 embare7' mismatches gender; with article it reads as 'the thingy'."
+ },
+ {
+  "sid": "fs_beta3_06",
+  "rid": "fs_beta3_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3_15",
+  "rid": "fs_beta3_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bet_07",
+  "rid": "fs_bet_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bet_11",
+  "rid": "fs_bet_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bet_05",
+  "rid": "fs_bet_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bet_02",
+  "rid": "fs_bet_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3et_04",
+  "rid": "fs_beta3et_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3et_00",
+  "rid": "fs_beta3et_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3et_05",
+  "rid": "fs_beta3et_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3et_07",
+  "rid": "fs_beta3et_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3ty_07",
+  "rid": "fs_beta3ty_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3ty_09",
+  "rid": "fs_beta3ty_09",
+  "v": false,
+  "why": "Vocative 'ya beta3ty' used as address term, not possessive 'mine (fem)'."
+ },
+ {
+  "sid": "fs_beta3ty_13",
+  "rid": "fs_beta3ty_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_beta3ty_00",
+  "rid": "fs_beta3ty_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ather_01",
+  "rid": "fs_bey2ather_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ather_13",
+  "rid": "fs_bey2ather_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ather_11",
+  "rid": "fs_bey2ather_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ather_09",
+  "rid": "fs_bey2ather_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bet2ther_06",
+  "rid": "fs_bet2ther_06",
+  "v": false,
+  "why": "Masc subject 'el khabar' with fem 'bet2ther'; sense/agreement strained."
+ },
+ {
+  "sid": "fs_bet2ther_11",
+  "rid": "fs_bet2ther_11",
+  "v": false,
+  "why": "Masc 'elly shofto' with fem 'bet2ther'; should be bey2ather, strained."
+ },
+ {
+  "sid": "fs_bet2ther_08",
+  "rid": "fs_bet2ther_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ol_04",
+  "rid": "fs_bey2ol_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ol_03",
+  "rid": "fs_bey2ol_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ol_01",
+  "rid": "fs_bey2ol_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2ol_12",
+  "rid": "fs_bey2ol_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2al_03",
+  "rid": "fs_bey2al_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2al_04",
+  "rid": "fs_bey2al_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2al_13",
+  "rid": "fs_bey2al_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bey2al_14",
+  "rid": "fs_bey2al_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bsbb_00",
+  "rid": "fs_bsbb_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bsbb_11",
+  "rid": "fs_bsbb_11",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bsbb_01",
+  "rid": "fs_bsbb_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bysbb_10",
+  "rid": "fs_bysbb_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bysbb_13",
+  "rid": "fs_bysbb_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_bysbb_05",
+  "rid": "fs_bysbb_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_da3m_06",
+  "rid": "fs_da3m_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_da3m_05",
+  "rid": "fs_da3m_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_da3m_01",
+  "rid": "fs_da3m_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_da3m_14",
+  "rid": "fs_da3m_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_07",
+  "rid": "fs_2adm_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_10",
+  "rid": "fs_2adm_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_2adm_13",
+  "rid": "fs_2adm_13",
+  "v": true,
+  "why": ""
+ }
+]

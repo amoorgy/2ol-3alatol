@@ -1,0 +1,692 @@
+[
+{
+"sid": "fs_feddan_03",
+"rid": "fs_feddan_03",
+"v": false,
+"why": "Garbled ending 'gaza 3alaghan'; 'bucra' not Egyptian spelling; trails off unfinished."
+},
+{
+"sid": "fs_feddan_10",
+"rid": "fs_feddan_10",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feddan_06",
+"rid": "fs_feddan_06",
+"v": false,
+"why": "'3al feddan el maw3ad' is meaningless; no Egyptian would type this."
+},
+{
+"sid": "fs_feddan_04",
+"rid": "fs_feddan_04",
+"v": false,
+"why": "'el share3 yeb2a feddan 3arabiyat' is an unnatural invented metaphor."
+},
+{
+"sid": "fs_f2dan_01",
+"rid": "fs_f2dan_01",
+"v": false,
+"why": "'atfada f2dan el ma7faza' is stilted MSA calque; Egyptians say 'ma adaya3sh'."
+},
+{
+"sid": "fs_f2dan_09",
+"rid": "fs_f2dan_09",
+"v": false,
+"why": "'el f2dan beta3ak', 'gham2a', 'naroo7 el narda' are garbled, unnatural."
+},
+{
+"sid": "fs_f2dan_00",
+"rid": "fs_f2dan_00",
+"v": false,
+"why": "'el f2dan beta3 el wa2t' calques 'loss of time'; Egyptian says tadyee3 el wa2t."
+},
+{
+"sid": "fs_fee_15",
+"rid": "fs_fee_15",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_fee_00",
+"rid": "fs_fee_00",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_fee_14",
+"rid": "fs_fee_14",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_fee_10",
+"rid": "fs_fee_10",
+"v": false,
+"why": "'fee mazad 3ala tool el shari3' makes no sense in directions."
+},
+{
+"sid": "fs_fw2_10",
+"rid": "fs_fw2_10",
+"v": false,
+"why": "'eb2a 2om fel sham3a elly gamaha' is gibberish."
+},
+{
+"sid": "fs_fw2_05",
+"rid": "fs_fw2_05",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_fw2_06",
+"rid": "fs_fw2_06",
+"v": false,
+"why": "'wa2a3 fw2 demaghi' is not an Egyptian idiom; calque."
+},
+{
+"sid": "fs_fw2_00",
+"rid": "fs_fw2_00",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feeh_03",
+"rid": "fs_feeh_03",
+"v": false,
+"why": "Ending 'mish 3aref a2ol men el sabt' is nonsensical."
+},
+{
+"sid": "fs_feeh_13",
+"rid": "fs_feeh_13",
+"v": false,
+"why": "'akhally balaha' wrong collocation; Egyptian says 'akhod baly menha'."
+},
+{
+"sid": "fs_feeh_15",
+"rid": "fs_feeh_15",
+"v": false,
+"why": "Agreement error '7aga mesh mashi' (should be mashya)."
+},
+{
+"sid": "fs_feeh_02",
+"rid": "fs_feeh_02",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feeha_06",
+"rid": "fs_feeha_06",
+"v": false,
+"why": "'el khabar' is masculine so 'feeha' mismatches; '7ata 7eta' garbled."
+},
+{
+"sid": "fs_feeha_04",
+"rid": "fs_feeha_04",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feeha_07",
+"rid": "fs_feeha_07",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feeha_02",
+"rid": "fs_feeha_02",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feehom_14",
+"rid": "fs_feehom_14",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_feehom_06",
+"rid": "fs_feehom_06",
+"v": false,
+"why": "'el nas elli feehom' and 'fel masriya' are unnatural/garbled."
+},
+{
+"sid": "fs_feehom_09",
+"rid": "fs_feehom_09",
+"v": false,
+"why": "'btoul eh 3alina', 'feehom akhbar el 3eyala' are broken Egyptian."
+},
+{
+"sid": "fs_feehom_08",
+"rid": "fs_feehom_08",
+"v": false,
+"why": "'el akla' is feminine singular; 'feehom' mismatches (should be feeha)."
+},
+{
+"sid": "fs_fehm_09",
+"rid": "fs_fehm_09",
+"v": false,
+"why": "'ma fahemtsh 3aleh' wrong preposition; clause structure garbled."
+},
+{
+"sid": "fs_fehm_00",
+"rid": "fs_fehm_00",
+"v": false,
+"why": "'enta fehm' ungrammatical; Egyptian needs 'enta fahem'."
+},
+{
+"sid": "fs_fehm_01",
+"rid": "fs_fehm_01",
+"v": false,
+"why": "'bostaga' not a word; 'we fehm' lacks subject, unnatural."
+},
+{
+"sid": "fs_fehm_08",
+"rid": "fs_fehm_08",
+"v": false,
+"why": "'kol el nas fehm' agreement error; '7abto keda' awkward."
+},
+{
+"sid": "fs_gameel_12",
+"rid": "fs_gameel_12",
+"v": false,
+"why": "'akhot neshwa' odd; 'ba2ol enn el yom da gameel' stilted calque."
+},
+{
+"sid": "fs_gameel_11",
+"rid": "fs_gameel_11",
+"v": false,
+"why": "Agreement error 'kanet gameel' (should be gameela)."
+},
+{
+"sid": "fs_gameel_10",
+"rid": "fs_gameel_10",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gameel_14",
+"rid": "fs_gameel_14",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gamal_05",
+"rid": "fs_gamal_05",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gamal_15",
+"rid": "fs_gamal_15",
+"v": false,
+"why": "'mazal' is MSA/Levantine, not Egyptian; 'kalam el modir gamal' awkward."
+},
+{
+"sid": "fs_gamal_12",
+"rid": "fs_gamal_12",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gamal_08",
+"rid": "fs_gamal_08",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_ganoub_11",
+"rid": "fs_ganoub_11",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_ganoub_14",
+"rid": "fs_ganoub_14",
+"v": false,
+"why": "'3ala ganoub el raf' (south of the shelf) is unnatural."
+},
+{
+"sid": "fs_ganoub_12",
+"rid": "fs_ganoub_12",
+"v": false,
+"why": "'tekhalles 3alaya' and 'asot el shay' are garbled."
+},
+{
+"sid": "fs_ganoub_03",
+"rid": "fs_ganoub_03",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_ganeb_11",
+"rid": "fs_ganeb_11",
+"v": false,
+"why": "'el match kan 3ala ganeb el telly' is nonsensical."
+},
+{
+"sid": "fs_ganeb_02",
+"rid": "fs_ganeb_02",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_ganeb_15",
+"rid": "fs_ganeb_15",
+"v": false,
+"why": "'ganeb el modeer' odd; 'a2ol el 7al eh' ungrammatical."
+},
+{
+"sid": "fs_ganeb_08",
+"rid": "fs_ganeb_08",
+"v": false,
+"why": "'ganeb el mahsheya' odd; 'lazi2' not a word."
+},
+{
+"sid": "fs_gawda_00",
+"rid": "fs_gawda_00",
+"v": false,
+"why": "'ra7a w gawda 3ala makani' is meaningless."
+},
+{
+"sid": "fs_gawda_12",
+"rid": "fs_gawda_12",
+"v": false,
+"why": "'ba3mel el 2ahwa 3ala gawda' is not Egyptian usage."
+},
+{
+"sid": "fs_gawda_08",
+"rid": "fs_gawda_08",
+"v": false,
+"why": "'gawda beta3ha kanet 3alya' odd word order, calques 'high quality'."
+},
+{
+"sid": "fs_gawda_15",
+"rid": "fs_gawda_15",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gad_04",
+"rid": "fs_gad_04",
+"v": false,
+"why": "'gad za7ma', 'el shara3 3ala ba3adto' garbled."
+},
+{
+"sid": "fs_gad_00",
+"rid": "fs_gad_00",
+"v": false,
+"why": "Bare 'gad ta3ban' not Egyptian; would be 'begad ta3ban'."
+},
+{
+"sid": "fs_gad_12",
+"rid": "fs_gad_12",
+"v": false,
+"why": "'gad ba3d keda' misuses the word; unnatural."
+},
+{
+"sid": "fs_gedeed_01",
+"rid": "fs_gedeed_01",
+"v": false,
+"why": "'el mashwar beta3 el 3azouza' is unnatural and unclear."
+},
+{
+"sid": "fs_gedeed_10",
+"rid": "fs_gedeed_10",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gedeed_03",
+"rid": "fs_gedeed_03",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gededa_08",
+"rid": "fs_gededa_08",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_gededa_09",
+"rid": "fs_gededa_09",
+"v": false,
+"why": "'hat3alemny kol el akhbar' wrong verb; Egyptian says 'hat2olly'."
+},
+{
+"sid": "fs_gededa_10",
+"rid": "fs_gededa_10",
+"v": false,
+"why": "'el shara3 el gededa' gender mismatch; landmark 'teshof el 3arabeya' nonsensical."
+},
+{
+"sid": "fs_gededa_05",
+"rid": "fs_gededa_05",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_janoub_15",
+"rid": "fs_janoub_15",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_janoub_06",
+"rid": "fs_janoub_06",
+"v": false,
+"why": "'galy en' is wrong; should be '2aly' or '2alooly'."
+},
+{
+"sid": "fs_janoub_05",
+"rid": "fs_janoub_05",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_janoub_01",
+"rid": "fs_janoub_01",
+"v": false,
+"why": "'7atro7' (you) clashes with 'ashtery' (I); 'yebreh' garbled."
+},
+{
+"sid": "fs_janb_08",
+"rid": "fs_janb_08",
+"v": false,
+"why": "'janb ashaby' instead of 'ma3 as7aby'; 'tayeb' for food unnatural."
+},
+{
+"sid": "fs_janb_00",
+"rid": "fs_janb_00",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_janb_14",
+"rid": "fs_janb_14",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_janb_06",
+"rid": "fs_janb_06",
+"v": false,
+"why": "'el donya galbet 3ala janb khowaya' is gibberish."
+},
+{
+"sid": "fs_khadamat_13",
+"rid": "fs_khadamat_13",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_khadamat_12",
+"rid": "fs_khadamat_12",
+"v": false,
+"why": "'ba3mel khadamat el beit' calque; Egyptians say 'shoghl el beit'."
+},
+{
+"sid": "fs_khadamat_05",
+"rid": "fs_khadamat_05",
+"v": false,
+"why": "'nid3a' and 'ghada 3a2ely' are MSA/calques, not chat Egyptian."
+},
+{
+"sid": "fs_khadamat_15",
+"rid": "fs_khadamat_15",
+"v": false,
+"why": "'khadamat el sherka bet2akhkhar' unnatural collocation and agreement."
+},
+{
+"sid": "fs_khadmet_13",
+"rid": "fs_khadmet_13",
+"v": false,
+"why": "'el khadmet' article on construct form is ungrammatical; 'ya amala' odd."
+},
+{
+"sid": "fs_khadmet_11",
+"rid": "fs_khadmet_11",
+"v": false,
+"why": "'khadmet el la3eeba fiha' is meaningless."
+},
+{
+"sid": "fs_khadmet_05",
+"rid": "fs_khadmet_05",
+"v": false,
+"why": "'nerattib khadmet el beit el 3aila kolloha' garbled."
+},
+{
+"sid": "fs_khososan_13",
+"rid": "fs_khososan_13",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_khososan_04",
+"rid": "fs_khososan_04",
+"v": false,
+"why": "'kata' is not a word; sentence broken."
+},
+{
+"sid": "fs_khososan_06",
+"rid": "fs_khososan_06",
+"v": false,
+"why": "'gheir motawaqa2 zay da' MSA calque, unnatural in chat."
+},
+{
+"sid": "fs_khososan_10",
+"rid": "fs_khososan_10",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_w5ososan_07",
+"rid": "fs_w5ososan_07",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_w5ososan_00",
+"rid": "fs_w5ososan_00",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_w5ososan_15",
+"rid": "fs_w5ososan_15",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_w5ososan_08",
+"rid": "fs_w5ososan_08",
+"v": false,
+"why": "'el koshary el 3ala2' is garbled."
+},
+{
+"sid": "fs_khotwa_08",
+"rid": "fs_khotwa_08",
+"v": false,
+"why": "'awel khotwa men el matbakh lel tarabeza', 'gaan' nonsensical."
+},
+{
+"sid": "fs_khotwa_09",
+"rid": "fs_khotwa_09",
+"v": false,
+"why": "'betbansh 3alena wala khotwa' is not natural Egyptian."
+},
+{
+"sid": "fs_khotwa_03",
+"rid": "fs_khotwa_03",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_khotwa_06",
+"rid": "fs_khotwa_06",
+"v": false,
+"why": "'ma3a el khayr' opener not Egyptian; awkward overall."
+},
+{
+"sid": "fs_khata_01",
+"rid": "fs_khata_01",
+"v": false,
+"why": "'fel 3amal el gdid' MSA; sentence incoherent."
+},
+{
+"sid": "fs_khata_14",
+"rid": "fs_khata_14",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_khata_07",
+"rid": "fs_khata_07",
+"v": false,
+"why": "'at2akhkhara' is not a valid verb form."
+},
+{
+"sid": "fs_khata_05",
+"rid": "fs_khata_05",
+"v": false,
+"why": "'lel seel el gdeed' is garbled."
+},
+{
+"sid": "fs_la2_04",
+"rid": "fs_la2_04",
+"v": false,
+"why": "'la2' inserted unnaturally mid-sentence."
+},
+{
+"sid": "fs_la2_05",
+"rid": "fs_la2_05",
+"v": false,
+"why": "'el agaza el osbou3eya la2' incoherent; clauses run together."
+},
+{
+"sid": "fs_la2_13",
+"rid": "fs_la2_13",
+"v": false,
+"why": "'la2' misplaced; 'ma te3tezlesh 3alayya' ungrammatical."
+},
+{
+"sid": "fs_la2_08",
+"rid": "fs_la2_08",
+"v": false,
+"why": "'bas la2 el roz kan mal7 kteer 3alek' is garbled."
+},
+{
+"sid": "fs_2la_11",
+"rid": "fs_2la_11",
+"v": false,
+"why": "'3awarani' not a word; clause ungrammatical."
+},
+{
+"sid": "fs_2la_14",
+"rid": "fs_2la_14",
+"v": false,
+"why": "'2la law 3andak 3ard' after asking price is incoherent."
+},
+{
+"sid": "fs_2la_01",
+"rid": "fs_2la_01",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_2la_12",
+"rid": "fs_2la_12",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_law_02",
+"rid": "fs_law_02",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_law_09",
+"rid": "fs_law_09",
+"v": false,
+"why": "'ezayek' (fem.) clashes with 'ya 3am'; 'fi el ghayba' stilted."
+},
+{
+"sid": "fs_law_04",
+"rid": "fs_law_04",
+"v": false,
+"why": "'el zahma tayla' is not an Egyptian collocation."
+},
+{
+"sid": "fs_lwa2_09",
+"rid": "fs_lwa2_09",
+"v": false,
+"why": "'ba2et ana fel lwa2 el gedid' ungrammatical."
+},
+{
+"sid": "fs_lwa2_15",
+"rid": "fs_lwa2_15",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_lwa2_11",
+"rid": "fs_lwa2_11",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_lwa2_13",
+"rid": "fs_lwa2_13",
+"v": false,
+"why": "'Ya ma3alish' opener odd; 'mesh ha te3od tani' ungrammatical."
+},
+{
+"sid": "fs_lazzem_10",
+"rid": "fs_lazzem_10",
+"v": false,
+"why": "'el zar3a katir' is nonsensical as a reason."
+},
+{
+"sid": "fs_lazzem_01",
+"rid": "fs_lazzem_01",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_lazzem_05",
+"rid": "fs_lazzem_05",
+"v": true,
+"why": ""
+},
+{
+"sid": "fs_lazzem_06",
+"rid": "fs_lazzem_06",
+"v": false,
+"why": "'ne7ki 3al mawdo3' is Levantine, not Egyptian."
+},
+{
+"sid": "fs_lazema_09",
+"rid": "fs_lazema_09",
+"v": false,
+"why": "'nkerreb be3d tany' is garbled."
+},
+{
+"sid": "fs_lazema_13",
+"rid": "fs_lazema_13",
+"v": false,
+"why": "'kanet lazema afakkar' unnatural; Egyptian uses invariable 'kan lazem'."
+},
+{
+"sid": "fs_lazema_00",
+"rid": "fs_lazema_00",
+"v": false,
+"why": "'lazema artah' unnatural; Egyptian says 'lazem arta7'."
+},
+{
+"sid": "fs_lazema_12",
+"rid": "fs_lazema_12",
+"v": false,
+"why": "'lazema ashrab' unnatural; 'akhra3' garbled for akhrog."
+}
+]

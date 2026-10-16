@@ -1,0 +1,1900 @@
+word_type	rendering	valid	votes_valid	votes_invalid	n_judges	collision	collision_count	reason
+2a2ema	2a2emah	true	3	0	3			
+2a2ema	2a2ima	true	3	0	3			
+2a2ema	2a2ma	true	3	0	3			
+2a2ema	a2ema	false	1	2	3	a2ema = أئمة (imams)		drops the q of 2a2ema (قائمة) entirely; reads as a2ema = أئمة || dropping initial 2 gives a2ema, read as a2emma 'imams'
+2abl	2aaabl	true	3	0	3			
+2abl	2aabl	true	3	0	3			
+2abl	aabl	true	3	0	3			
+2abl	abl	true	3	0	3			
+2adra	2adraa	true	3	0	3			
+2adra	2adrah	true	3	0	3			
+2adra	adra	true	2	1	3	3adra (عذراء)		dropping the 2 gives the usual spelling of العذرا, a different word
+2adra	adraa	true	2	1	3	3adra عذراء (the Virgin)		same collision as adra: reads as عذراء once the 2 is gone
+2al	2aaal	true	3	0	3			
+2al	2aal	true	3	0	3			
+2al	aal	true	2	1	3	aal (آل 'family of')		with the 2 gone it reads as آل or as 3aal 'excellent', not قال
+2alb	2aaalb	true	2	1	3			triple a in a short closed syllable of قلب
+2alb	2aalb	true	2	1	3	2aleb (قالب, mold)		lengthens the short a of قلب; reads as قالب
+2alb	aalb	true	2	1	3			digit dropped and a doubled; قلب is written alb, not aalb
+2alb	alb	true	3	0	3			
+2alet	2aleet	true	3	0	3			
+2alet	2alt	true	2	1	3	2olt / قلت (I said)		collapses قالت (she said) onto قلت 'I said' - person change
+2alet	alet	true	3	0	3			
+2alet	alt	true	2	1	3	قلت / bare 'alt'		no q/hamza and no vowel: reads as قلت 'I said', not قالت
+2ard	2aaard	true	3	0	3			
+2ard	2aard	true	3	0	3			
+2ard	aard	true	3	0	3	3ard (عرض)		
+2ard	ard	true	3	0	3	3ard (عرض)		
+2odam	2odaam	true	3	0	3			
+2odam	2udam	true	3	0	3			
+2odam	odam	true	3	0	3			
+2odam	udam	true	3	0	3			
+2ott	2ot	true	3	0	3	2ot (قوت, sustenance)		
+2ott	2utt	true	3	0	3			
+2ott	ot	true	3	0	3			
+2ott	ott	true	3	0	3			
+3abd	3aabd	true	3	0	3	3abed (عابد)		
+3abd	aaabd	true	3	0	3			
+3abd	aabd	true	3	0	3	3abed (عابد)		
+3abd	abd	true	3	0	3			
+3abr	3aabr	true	3	0	3			
+3abr	aaabr	true	3	0	3			
+3abr	aabr	true	3	0	3			
+3abr	abr	true	3	0	3			
+3ada	3adaa	true	3	0	3			
+3ada	3adah	true	3	0	3			
+3ada	aada	true	3	0	3			
+3ada	ada	true	2	1	3	ادى (ada, he gave)		3-drop lands on the very common verb ادى/أدى
+3adaan	3adan	true	3	0	3			
+3adaan	aadaan	true	2	1	3			initial 3 is dropped, not doubled to 'aa'
+3adaan	aadan	true	2	1	3			initial 3 is dropped, not doubled to 'aa'
+3adaan	adaan	true	2	1	3	adaan (أذان, call to prayer)		Digit-stripped adaan reads as the call to prayer, a common distinct word
+3adam	3adaam	true	3	0	3			
+3adam	aadaam	true	2	1	3	آدم (Adam)		reads as the name آدم/Adam rather than عدم
+3adam	aadam	false	1	2	3	آدم (Adam)		reads as the name آدم/Adam rather than عدم || aadam is how آدم is written; not عدم
+3adam	adam	false	1	2	3	آدم (Adam)		reads as the name آدم/Adam rather than عدم || reads as the name Adam, not عدم
+3ady	3aady	true	3	0	3			
+3ady	3adi	true	3	0	3			
+3ady	aady	true	3	0	3			
+3ady	ady	true	2	1	3	ady (أدي, here is)		Digit-stripped ady is the very common Egyptian deictic 'ady' = here is
+3agbny	3agbne	true	3	0	3			
+3agbny	3agbni	true	3	0	3			
+3agbny	aagbni	true	3	0	3			
+3agbny	aagbny	true	3	0	3			
+3ala	3alaa	true	3	0	3			
+3ala	3alah	true	2	1	3	علة / عالة		على has no taa marbuta; the final -h forces a reading like علة/عالة
+3ala	aala	true	2	1	3	آلة (aala, machine)		reads as آلة 'machine'; على is not written with a long initial aa
+3ala	ala	true	3	0	3	ala (آلة machine / إلا)		
+3ala2a	3ala2aa	true	3	0	3			
+3ala2a	3ala2ah	true	3	0	3			
+3ala2a	aala2a	true	3	0	3			
+3ala2a	ala2a	true	3	0	3			
+3alam	3alaam	true	3	0	3			
+3alam	aalaam	false	1	2	3	aalaam (آلام — pains)		digit drop plus lengthening reads as آلام, not علم || reads as the plural آلام, not the singular عالم
+3alam	aalam	true	3	0	3			
+3alam	alam	false	1	2	3	alam (ألم — pain)		'alam' is the ordinary spelling of ألم; base is علم || dropping ع gives ألم 'pain', which is where a reader lands
+3alamat	3alamaat	true	3	0	3			
+3alamat	aalamaat	true	3	0	3			
+3alamat	aalamat	true	3	0	3			
+3alamat	alamat	true	3	0	3			
+3alami	3alame	true	3	0	3			
+3alami	3alamee	true	3	0	3			
+3alami	3alamy	true	3	0	3			
+3alami	aalami	true	3	0	3			
+3aleehom	3aleehum	true	3	0	3			
+3aleehom	3alehom	true	3	0	3			
+3aleehom	3aleihom	true	3	0	3			
+3aleehom	3alihom	true	3	0	3			
+3aleh	3aleeh	true	3	0	3			
+3aleh	3aleih	true	3	0	3			
+3aleh	3alih	true	3	0	3			
+3aleh	aleh	true	3	0	3			
+3alena	3alina	true	3	0	3			
+3alena	3alna	true	3	0	3			
+3alena	aalena	true	2	1	3			initial 3 is dropped ('ashan'), never doubled to 'aa'
+3alena	aalina	true	2	1	3			initial 3 is dropped ('ashan'), never doubled to 'aa'
+3aly	3ale	true	3	0	3			
+3aly	3ali	true	3	0	3			
+3aly	aali	true	3	0	3			
+3aly	aaly	true	3	0	3			
+3am	3aam	false	1	2	3	3aam (عام — year/general)		lengthening turns عم (uncle) into the distinct word عام || عم 'uncle' vs عام 'year' are different words; the length is contrastive
+3am	aaam	true	2	1	3			3->a then stretched; reads as a scream, not 3am
+3am	aam	true	3	0	3			
+3am	am	true	2	1	3	am (English 'am')		bare 'am' reads as English 'am' or أم, not عم/عام
+3amal	3amaal	false	1	2	3	3omaal (عمال — workers / عمّال 'keeps -ing')		lengthening yields عمال, a different word from عمل || lengthening yields عمال: workers, or the aspectual 3ammal, not عمل
+3amal	aamaal	false	1	2	3	aamaal (آمال — hopes)		digit drop plus lengthening reads as آمال, not عمل || reads as آمال or أعمال, i.e. a plural, not the singular عمل
+3amal	aamal	true	3	0	3			
+3amal	amal	false	1	2	3	amal (أمل — hope / name Amal)		'amal' reads as أمل, an unrelated very common word || without ع this is أمل 'hope', also the name Amal
+3an	3aan	true	3	0	3			
+3an	aaan	true	2	1	3			3->a then stretched; unreadable scream-string, never typed for 3an
+3an	aan	true	3	0	3			
+3an	an	true	2	1	3	an (إن 'that')		bare 'an' is read as إن/أن, a far more frequent function word
+3anaser	3anaseer	true	3	0	3			
+3anaser	3anasir	true	3	0	3			
+3anaser	3anasr	true	3	0	3			
+3anaser	anaser	true	3	0	3			
+3andak	3andaak	true	3	0	3			
+3andak	aandaak	true	3	0	3			
+3andak	aandak	true	3	0	3			
+3andak	andak	true	3	0	3			
+3andena	3andina	true	3	0	3			
+3andena	aandena	true	3	0	3			
+3andena	aandina	true	3	0	3			
+3andena	andena	true	3	0	3			
+3andha	3andhaa	true	3	0	3			
+3andha	aandha	true	3	0	3			
+3andha	aandhaa	true	3	0	3			
+3andha	andha	true	3	0	3			
+3ando	3andoo	true	3	0	3			
+3ando	3andu	true	3	0	3			
+3ando	aando	true	3	0	3			
+3ando	ando	true	3	0	3			
+3andohom	3andohoom	true	3	0	3			
+3andohom	3andohum	true	3	0	3			
+3andohom	aandohom	true	3	0	3			
+3andohom	andohom	true	3	0	3			
+3andy	3ande	true	3	0	3			
+3andy	3andi	true	3	0	3			
+3andy	aandy	true	3	0	3			
+3andy	andy	true	3	0	3			
+3anha	3anhaa	true	3	0	3			
+3anha	aanha	true	3	0	3			
+3anha	aanhaa	true	3	0	3			
+3anha	anha	false	1	2	3	anha = أنها (that she)		3-drop collides with the far more frequent anha 'that she' || 3 dropped; reads as أنها (that she) rather than عنها
+3arabeyat	3arabiyat	true	3	0	3			
+3arabeyat	3arabyat	true	3	0	3			
+3arabeyat	aarabeyat	true	2	1	3			word-initial 'aa' for ع is not used; digit-free form is 'arabeyat'
+3arabeyat	arabeyat	true	3	0	3			
+3ard	3aard	true	2	1	3	3ared (عارض)		short a of عرض is never lengthened; this reads as عارض
+3ard	aaard	false	0	3	3	ard (أرض, land/ground)		ع dropped: elongation does not restore عرض; reads as أرض || triple initial a; no Egyptian writes عرض this way || Elongated ard; the dropped 3 makes land/ground the default reading
+3ard	aard	false	0	3	3	ard (أرض, land/ground)		ع dropped: still أرض with a long vowel; عرض is unrecoverable || initial 3 is dropped, never doubled to 'aa'; عرض is not spelled 'aard' || Reader takes aa- as long a of ard = land, not 3ard = offer
+3ard	ard	false	1	2	3	ard (أرض, land/ground)		ع dropped: reads as the very common ard = أرض (land), not عرض || Without the 3 this is the far more frequent word ard = land/ground
+3aref	3areef	false	1	2	3	عريف (3areef)		lengthening turns عارف into عريف (corporal / class monitor) || 3areef is the fixed spelling of عريف, not عارف
+3aref	3arf	true	3	0	3			
+3aref	aaref	true	3	0	3			
+3aref	aref	true	3	0	3			
+3arfeen	3arfein	true	3	0	3			
+3arfeen	3arfen	true	3	0	3			
+3arfeen	3arfin	true	3	0	3			
+3arfeen	aarfeen	true	3	0	3			
+3ashan	3ashaan	true	3	0	3			
+3ashan	aashaan	true	3	0	3			
+3ashan	aashan	true	3	0	3			
+3ashan	ashan	true	3	0	3			
+3ashr	3aashr	true	2	1	3	3aashr = عاشر (tenth)		long aa reads as عاشر (tenth), a different word from عشر
+3ashr	aaashr	true	3	0	3			
+3ashr	aashr	true	3	0	3			
+3ashr	ashr	true	3	0	3			
+3asr	3aasr	true	2	1	3	3aser (عاصر)		lengthens the short a of عصر; reads as عاصر
+3asr	aaasr	true	2	1	3			triple initial a, un-Egyptian shape
+3asr	aasr	true	2	1	3			initial 3 is dropped, not doubled to 'aa'
+3asr	asr	true	3	0	3	asr (قصر, palace)		
+3awamel	3awamil	true	3	0	3			
+3awamel	3awaml	true	3	0	3			
+3awamel	aawamel	true	3	0	3			
+3awamel	awamel	true	3	0	3			
+3ayesh	3ayish	true	3	0	3			
+3ayesh	aayesh	true	3	0	3			
+3ayesh	aayish	true	3	0	3			
+3ayesh	ayesh	true	3	0	3			
+3ayez	3ayiz	true	3	0	3			
+3ayez	3ayz	true	3	0	3			
+3ayez	aayez	true	3	0	3			
+3ayez	ayez	true	3	0	3			
+3aylty	3aylte	true	3	0	3			
+3aylty	3aylti	true	3	0	3			
+3aylty	3eelty	true	3	0	3			
+3aylty	3elty	true	3	0	3	3elty (علتي, my illness)		
+3ayzeen	3ayzein	true	3	0	3			
+3ayzeen	3ayzen	true	3	0	3			
+3ayzeen	3ayzin	true	3	0	3			
+3ayzeen	aayzeen	true	3	0	3			
+3elaj	3elaaj	true	3	0	3			
+3elaj	3ilaj	true	3	0	3			
+3elaj	3laj	true	3	0	3			
+3elaj	aelaj	true	3	0	3			
+3omoman	3omomaan	true	3	0	3			
+3omoman	3omuman	true	3	0	3			
+3omoman	aomoman	true	2	1	3			3 before o cannot become 'a': عموما is omoman/3omoman, 'ao' onset un-Egyptian
+3omoman	aomuman	true	2	1	3			same 'ao' onset problem; nobody types aomuman for عموما
+3omr	3oomr	true	3	0	3			
+3omr	3umr	true	3	0	3			
+3omr	aomr	true	2	1	3			'ao' onset is un-Egyptian; the digit-free form is 'omr'
+3omr	aumr	true	2	1	3			'au' onset is un-Egyptian; nobody spells عمر this way
+3omry	3omre	true	3	0	3			
+3omry	3omri	true	3	0	3			
+3omry	3umry	true	3	0	3			
+3omry	aomry	true	2	1	3			3->a here yields an 'ao' onset; digit-free 3omry is typed 'omry', never 'aomry'
+5ally	5alli	true	3	0	3			
+5ally	5aly	false	1	2	3	5aly (خالي, empty / my maternal uncle)		bare 5aly reads as khali خالي 'empty / my uncle', not khalli خلّي 'let' || degeminated 5aly is the usual spelling of خالي, a different word
+5ally	khalli	true	3	0	3			
+5ally	khally	true	3	0	3			
+5od	5ood	true	3	0	3			
+5od	5ud	true	3	0	3			
+5od	khod	true	3	0	3			
+5od	khud	true	3	0	3			
+7a2	7aa2	true	3	0	3			
+7a2	7aaa2	true	3	0	3			
+7a2	ha2	true	3	0	3			
+7a2	haa2	true	3	0	3			
+7ad	7aaad	true	3	0	3			
+7ad	7aad	true	2	1	3	حاد (7aad, 'sharp')		one lengthened aa reads as حاد 'sharp', a different word
+7ad	haad	true	2	1	3	حاد 'sharp' / هاد		'haad' reads as حاد or Levantine هاد rather than حد
+7ad	had	true	3	0	3	had (English 'had')		
+7aga	7agaa	true	3	0	3			
+7aga	7agah	true	3	0	3			
+7aga	haga	true	3	0	3			
+7aga	hagah	true	3	0	3			
+7agat	7agaaat	true	3	0	3			
+7agat	7agaat	true	3	0	3			
+7agat	hagaat	true	3	0	3			
+7agat	hagat	true	3	0	3			
+7ajm	7aaajm	true	3	0	3			
+7ajm	7aajm	true	3	0	3			
+7ajm	haajm	true	2	1	3	هاجم haagem = attacker / he attacked		h for 7 plus long aa reads as هاجم, not حجم
+7ajm	hajm	true	3	0	3	hajm ~ هجم (attacked)		
+7ala	7alaa	true	3	0	3			
+7ala	7alah	true	3	0	3			
+7ala	hala	true	3	0	3	hala (هلا greeting / name Hala)		
+7ala	halaa	true	3	0	3			
+7alat	7alaaat	true	3	0	3			
+7alat	7alaat	true	3	0	3			
+7alat	halaat	true	3	0	3			
+7alat	halat	true	3	0	3			
+7ameya	7amiya	true	3	0	3			
+7ameya	7amya	true	3	0	3			
+7ameya	hameya	true	3	0	3			
+7ameya	hamiya	true	3	0	3			
+7aml	7aaaml	false	1	2	3	7aamel (pregnant / carrier)		3x 'a' on the short vowel of حمل; not a typed form || stretched a still reads as 7aamel 'pregnant', not 7aml
+7aml	7aaml	false	1	2	3	7aamel (حامل)		lengthened a makes it 7aamel 'pregnant/carrier', not 7aml 'pregnancy/load' || long a makes 7aamel 'pregnant/carrier', not 7aml 'pregnancy/load'
+7aml	haaml	false	1	2	3	7aamel (حامل)		reads as haamel/7aamel 'pregnant/carrier', a different word || reads as haamel 'pregnant/carrier', a different word from 7aml
+7aml	haml	true	3	0	3			
+7araara	7araarah	true	3	0	3			
+7araara	7arara	true	3	0	3			
+7araara	haraara	true	3	0	3			
+7araara	harara	true	3	0	3			
+7araka	7arakaa	true	3	0	3			
+7araka	7arakah	true	3	0	3			
+7araka	haraka	true	3	0	3			
+7araka	harakaa	true	3	0	3			
+7arakat	7arakaaat	true	3	0	3			
+7arakat	7arakaat	true	3	0	3			
+7arakat	harakaat	true	3	0	3			
+7arakat	harakat	true	3	0	3			
+7arb	7aaarb	true	3	0	3			
+7arb	7aarb	true	3	0	3			
+7arb	haarb	true	3	0	3			
+7arb	harb	true	3	0	3	harab / هرب (fled)		
+7asal	7asaaal	true	3	0	3			
+7asal	7asaal	true	3	0	3			
+7asal	hasaal	true	3	0	3			
+7asal	hasal	true	3	0	3			
+7asalet	7asalit	true	3	0	3			
+7asalet	7asalt	true	2	1	3	7asalt حصلت (I got, 1sg)		Dropped medial vowel gives the 1st-person form 'I got', a person change
+7asalet	hasalet	true	3	0	3			
+7asalet	hasalit	true	3	0	3			
+7asharat	7asharaaat	true	3	0	3			
+7asharat	7asharaat	true	3	0	3			
+7asharat	hasharaat	true	3	0	3			
+7asharat	hasharat	true	3	0	3			
+7atta	7ata	true	3	0	3			
+7atta	7atah	false	1	2	3	7etta (حتة — a piece)		final -ah makes it حتة; base حتى (even/until) has no taa marbuta || حتى has no taa marbuta; the final -h forces حتة 'a piece'
+7atta	hata	true	3	0	3			
+7atta	hatta	true	3	0	3			
+7awal	7awaaal	true	3	0	3			
+7awal	7awaal	true	3	0	3			
+7awal	hawaal	true	3	0	3			
+7awal	hawal	true	3	0	3			
+7awaly	7awale	true	3	0	3			
+7awaly	7awali	true	3	0	3			
+7awaly	7awalii	true	3	0	3			
+7awaly	hawaly	true	3	0	3			
+7aya	7ayaa	true	3	0	3			
+7aya	7ayah	true	3	0	3			
+7aya	haya	true	3	0	3	haya (هيا / name Haya)		
+7aya	hayah	true	3	0	3			
+7ayaty	7ayaaty	true	3	0	3			
+7ayaty	7ayate	true	3	0	3			
+7ayaty	7ayati	true	3	0	3			
+7ayaty	hayaty	true	3	0	3			
+7ayawanat	7ayawanaaat	true	3	0	3			
+7ayawanat	7ayawanaat	true	3	0	3			
+7ayawanat	hayawanaat	true	3	0	3			
+7ayawanat	hayawanat	true	3	0	3			
+7ayth	7eeth	true	3	0	3			
+7ayth	7eth	true	3	0	3			
+7ayth	hayth	true	3	0	3			
+7ayth	heeth	true	3	0	3			
+7efz	7eefz	true	3	0	3			
+7efz	7ifz	true	3	0	3			
+7efz	hefz	true	3	0	3			
+7efz	hifz	true	3	0	3			
+7elwa	7elwah	true	3	0	3			
+7elwa	7ilwa	true	3	0	3			
+7elwa	7lwa	true	3	0	3			
+7elwa	helwa	true	3	0	3			
+7ob	7ub	true	3	0	3			
+7ob	hob	true	3	0	3			
+7ob	hoob	true	3	0	3			
+7ob	hub	true	3	0	3			
+7okoma	7okomaa	true	3	0	3			
+7okoma	7okuma	true	3	0	3			
+7okoma	hokoma	true	3	0	3			
+7okoma	hokuma	true	3	0	3			
+7sb	hsb	true	3	0	3			
+7yatenna	7yatenaa	true	3	0	3			
+7yatenna	7yatenah	true	3	0	3			
+7yatenna	7yatna	true	3	0	3			
+7yatenna	hyatenna	true	3	0	3			
+a2al	a2aaal	true	3	0	3			
+a2al	a2aal	true	3	0	3			
+a2wa	a2waa	true	3	0	3			
+a2wa	a2waaa	true	3	0	3			
+a3da2	a3daa2	true	3	0	3			
+a3da2	aada2	true	2	1	3	أداء adaa2 = performance		reads as أداء (performance), not أعضاء
+a3da2	aadaa2	true	2	1	3	أداء adaa2 = performance		reads as أداء (performance), not أعضاء
+a3da2	ada2	false	1	2	3	ada2 = أداء (performance)		3-drop gives ada2 'performance', a common distinct word || 3 dropped; reads as أداء (performance), not أعضاء
+a7san	a7saaan	true	3	0	3			
+a7san	a7saan	true	2	1	3	إحسان (charity/name)		the lengthened aa reads as إحسان, not the comparative أحسن
+a7san	ahsaan	true	2	1	3	إحسان (charity/Ehsan)		reads as إحسان (charity / the name), not أحسن
+a7san	ahsan	true	3	0	3			
+ab7ath	ab7aaath	true	3	0	3			
+ab7ath	ab7aath	true	3	0	3			
+ab7ath	abhaath	true	3	0	3			
+ab7ath	abhath	true	3	0	3			
+adella	adela	true	3	0	3			
+adella	adila	true	3	0	3			
+adella	adilla	true	3	0	3			
+adella	adla	true	2	1	3	adla (عدلة, straight)		losing the medial vowel gives adla, read as the verb أدلى, not أدلة
+agza2	agzaa2	true	3	0	3			
+agza2	agzaaa2	true	3	0	3			
+akhbar	a5baar	true	3	0	3			
+akhbar	a5bar	true	3	0	3			
+akhbar	akhbaaar	true	3	0	3			
+akhbar	akhbaar	true	3	0	3			
+akhdar	a5daar	true	3	0	3			
+akhdar	a5dar	true	3	0	3			
+akhdar	akhdaaar	true	3	0	3			
+akhdar	akhdaar	true	3	0	3			
+akheeran	a5eeran	true	3	0	3			
+akheeran	a5eran	true	3	0	3			
+akheeran	akheran	true	3	0	3			
+akheeran	akhiran	true	3	0	3			
+akher	a5er	true	3	0	3			
+akher	a5r	true	3	0	3			
+akher	akheer	true	2	1	3	akheer / أخير (final)		lengthened form reads as أخير 'final', a distinct lexeme from آخر
+akher	akhir	true	3	0	3			
+amreeky	amreeki	true	3	0	3			
+amreeky	amreiky	true	3	0	3			
+amreeky	amreki	true	3	0	3			
+amreeky	amreky	true	3	0	3			
+anwa3	anwa	true	3	0	3			
+anwa3	anwaa	true	3	0	3			
+anwa3	anwaa3	true	3	0	3			
+anwa3	anwaaa	true	2	1	3			final 3->a then stretched; 'anwaaa' unreadable as anwa3
+arady	araadi	true	3	0	3			
+arady	araady	true	3	0	3			
+arady	arade	true	3	0	3			
+arady	aradi	true	3	0	3			
+as3ar	as3aar	true	3	0	3			
+as3ar	asaaar	false	1	2	3	asar (أثر/آثار, trace)		same 3-drop collision as asar/asaar, only with emphatic vowel stretching || elongation normalises to asaar = آثار, not أسعار
+as3ar	asaar	false	1	2	3	asaar (آثار, antiquities/traces)		dropping 3 makes it the usual franco spelling of آثار, not أسعار 'prices' || without ع this is the standard spelling of آثار
+as3ar	asar	false	1	2	3	asar (أثر, trace/effect)		asar is a very common word (أثر/آثار); ث is written s, so the 3-drop collides || losing ع gives أثر 'trace/effect', the natural reading
+as7ab	as7aaab	true	3	0	3			
+as7ab	as7aab	true	3	0	3			
+asass	asaaass	true	3	0	3			
+asass	asaas	true	3	0	3			
+asass	asaass	true	3	0	3			
+asass	asas	true	3	0	3			
+asasy	asaasi	true	3	0	3			
+asasy	asaasy	true	3	0	3			
+asasy	asase	true	3	0	3			
+asasy	asasi	true	3	0	3			
+ash3a	ash3aa	true	3	0	3			
+ash3a	ash3ah	true	3	0	3			
+ash3a	asha	false	1	2	3	3asha (عشا, dinner)		'asha' is the ordinary franco spelling of عشا 'dinner', not أشعة || without the 3 a reader takes it as عشا 'dinner', not أشعة
+ash3a	ashaa	false	1	2	3	3asha (عشا, dinner)		drops the 3; reads as 3asha 'dinner', not ash3a أشعة 'rays' || dropping 3 lands on عشا 'dinner', the far commoner reading
+ashal	ashaaal	true	2	1	3			3x 'a' on the short vowel of أسهل; not a typed form
+ashal	ashaal	true	3	0	3			
+asly	aasli	true	3	0	3			
+asly	aasly	true	3	0	3			
+asly	asle	true	3	0	3			
+asly	asli	true	3	0	3			
+aswa2	aswaa2	true	3	0	3			
+aswa2	aswaaa2	true	3	0	3			
+ataba3	ataba	false	1	2	3	ataba (عتبة)		identical to ataba 'threshold/El-Ataba'; the verb's 3 is gone || identical to ataba 'threshold / Ataba square', losing the verb reading
+ataba3	atabaa	false	1	2	3	ataba (عتبة)		losing the final 3 leaves ataba 'threshold/El-Ataba', not the verb atabe3 || with 3 gone it reads as ataba 'threshold/Ataba', not the verb ataba3
+ataba3	atabaa3	true	3	0	3			
+ataba3	atabaaa	false	1	2	3	ataba (عتبة)		3 dropped, reads as a stretched ataba 'threshold', not the verb || stretched a on a 3-less stem still reads as ataba 'threshold/Ataba'
+awl	aawl	true	3	0	3			
+awl	aool	false	1	2	3	a2ool (أقول, I say)		aool is the standard digit-dropped spelling of a2ool 'I say' || 'aool' is a2ool = I say; that vowel pileup is never used for awwal
+awl	ol	false	1	2	3	2ol (قول/قل, say)		reads as 'ol/2ol' = say; أول is never spelled ol in Cairene franco || 'ol' reads as 2ol = say; awwal has no aw diphthong to monophthongize
+awl	ool	false	1	2	3	2ool (قول, say)		aw->oo gives /ʔuːl/, read as the imperative 'say', not أول 'first' || 'ool' reads as 2ool = say; aw in awwal is geminate, not a diphthong
+awladna	awladnaa	true	3	0	3			
+awladna	oladna	true	3	0	3			
+awladna	ooladna	true	3	0	3			
+awladna	ooladnaa	true	3	0	3			
+awroba	awrobaa	true	3	0	3			
+awroba	awruba	true	3	0	3			
+awroba	ooroba	true	3	0	3			
+awroba	oroba	true	3	0	3			
+awy	awe	true	3	0	3			
+awy	awi	true	3	0	3			
+awy	awii	true	3	0	3			
+awy	oy	false	1	2	3	oy (interjection)		awy never reduces to 'oy'; initial vowel cannot drop || the aw->o collapse leaves 'oy', read as an interjection, not أوي
+b2est5dam	b2estkhdam	true	3	0	3			
+b2est5dam	b2ist5dam	true	3	0	3			
+b2est5dam	b2st5dam	true	3	0	3			
+b2est5dam	b2stkhdam	true	3	0	3			
+b2et	b2eet	true	3	0	3			
+b2et	b2eit	true	3	0	3			
+b2et	b2iit	true	3	0	3			
+b2et	b2it	true	3	0	3			
+b7awl	b7ol	true	3	0	3			
+b7awl	b7ool	true	3	0	3			
+b7awl	bhawl	true	3	0	3			
+b7awl	bhool	true	3	0	3			
+ba2a	ba2aa	true	3	0	3			
+ba2a	ba2aaa	true	3	0	3			
+ba2aly	ba2aali	true	3	0	3			
+ba2aly	ba2aaly	true	3	0	3			
+ba2aly	ba2ale	true	3	0	3			
+ba2aly	ba2ali	true	3	0	3			
+ba2y	ba2e	true	3	0	3			
+ba2y	ba2i	true	3	0	3			
+ba2y	ba2ii	true	3	0	3			
+ba2y	baa2y	true	3	0	3			
+ba3d	baa3d	true	3	0	3			
+ba3d	baaad	true	2	1	3			3->a then stretched; no Egyptian writes ba3d as baaad
+ba3d	baad	true	3	0	3			
+ba3d	bad	true	2	1	3	bad (English 'bad')		deleting ع lands exactly on English 'bad', frequent in code-switched chat
+ba3deen	ba3dein	true	3	0	3			
+ba3deen	ba3den	true	3	0	3			
+ba3deen	ba3din	true	3	0	3			
+ba3deen	badeen	true	3	0	3			
+ba7eb	ba7b	true	3	0	3			
+ba7eb	ba7ib	true	3	0	3			
+ba7eb	baheb	true	3	0	3			
+ba7eb	bahib	true	3	0	3			
+baderry	baderi	true	3	0	3			
+baderry	baderri	true	3	0	3			
+baderry	badery	true	3	0	3			
+baderry	badirry	true	3	0	3			
+balady	balaadi	true	2	1	3	bilaadi بلادي (my homeland)		Reads as bilaadi = my homeland rather than the adjective baladi
+balady	balaady	true	2	1	3	bilaady بلادي (my homeland)		Long a makes it bilaady = my country/homeland, not baladi = local
+balady	balade	true	3	0	3			
+balady	baladi	true	3	0	3			
+bany	baani	true	2	1	3	baani (باني, builder)		reads as باني 'builder/building', a different word from بني
+bany	baany	true	2	1	3	baani (باني, builder)		long a reads as active participle باني 'builder', not بني 'sons of'
+bany	bane	true	3	0	3			
+bany	bani	true	3	0	3	bani (built / Bani)		
+barra	bara	true	3	0	3			
+barra	barah	true	3	0	3			
+barra	barraa	true	3	0	3			
+barra	barrah	true	3	0	3			
+bashar	bashaaar	false	1	2	3	Bashaar (given name, e.g. Bashar)		3x 'a' on a short vowel of بشر; mechanical stretch, not typed || stretched a still lands on the name Bashaar rather than bashar 'humans'
+bashar	bashaar	true	2	1	3	bashaar = بشار (given name)		lengthening yields the well-known name Bashaar, not bashar 'humans'
+bass	baaass	true	3	0	3			
+bass	baas	false	1	2	3	baas (باص, bus)		lengthened a turns بس 'but/only' into باص 'bus' || lengthened a with single s reads as باص 'bus'
+bass	baass	true	3	0	3			
+bass	bas	true	3	0	3			
+bayn	baeen	true	2	1	3			ae+ee double-encodes ay; Egyptians write been/bein/bain, never baeen
+bayn	been	true	3	0	3	been (English 'been')		
+bayn	ben	true	3	0	3	ben = بن (coffee bean) / name Ben		
+bayn	bin	true	3	0	3	bin = ابن/بن; also English 'bin'		
+bbasata	basata	false	1	2	3	basata (بساطة, simplicity)		drops the be- clitic: becomes basata بساطة 'simplicity', not 'simply' || degemination eats the bi- clitic: ببساطة 'simply' becomes بساطة
+bbasata	basataa	false	1	2	3	basata (بساطة, simplicity)		drops the be- clitic: reads as basata بساطة 'simplicity', not 'simply' || degemination drops the preposition; reader gets the noun بساطة
+bbasata	basatah	false	1	2	3	basata (بساطة, simplicity)		drops the be- clitic: reads as basatah بساطة 'simplicity', not 'simply' || loses the bi- clitic; reads as the bare noun بساطة, not ببساطة
+bbasata	bbasataa	true	3	0	3			
+beeh	beh	true	3	0	3			
+beeh	beieh	true	2	1	3			'beieh' vowel pile-up; not a sequence anyone produces
+beeh	beih	true	3	0	3			
+beeh	bih	true	3	0	3			
+beet	beiet	true	2	1	3			e-i-e cluster; Egyptians type beet/bet/beit/bayt, never beiet
+beet	beit	true	3	0	3			
+beet	bet	true	3	0	3			
+beet	bit	true	2	1	3	بت (girl)		Cairene readers land on بت 'girl'; بيت is beet/bet/beit
+belly	belle	true	3	0	3			
+belly	bely	true	3	0	3			
+belly	billy	true	3	0	3			
+belly	bily	true	3	0	3			
+ben2a	ben2aa	true	3	0	3			
+ben2a	bin2a	true	3	0	3			
+ben2a	bin2aa	true	3	0	3			
+ben2a	bn2a	true	3	0	3			
+benty	beenty	true	3	0	3			
+benty	bente	true	3	0	3			
+benty	benti	true	3	0	3			
+benty	binty	true	3	0	3			
+besara7a	besaraha	true	3	0	3			
+besara7a	bisara7a	true	3	0	3			
+besara7a	bisaraha	true	3	0	3			
+besara7a	bsara7a	true	3	0	3			
+besor3a	besor3ah	true	3	0	3			
+besor3a	besora	false	1	2	3	besora (بصورة)		dropping 3 yields besora 'in the form of', a common distinct word || losing 3 makes besora, read as besoora 'in a manner/picture'
+besor3a	bisor3a	true	3	0	3			
+besor3a	bsor3a	true	3	0	3			
+bet2adem	bet2adeem	true	3	0	3			
+bet2adem	bet2adiim	true	3	0	3			
+bet2adem	bit2adem	true	3	0	3			
+bet2adem	bt2adem	true	3	0	3			
+bet2ol	bet2ool	true	3	0	3			
+bet2ol	bit2ol	true	3	0	3			
+bet2ol	bit2ool	true	3	0	3			
+bet2ol	bt2ol	true	3	0	3			
+bet3mel	bet3ml	true	3	0	3			
+bet3mel	betamel	true	3	0	3	bet3amel (بتعامل, deals with)		
+bet3mel	betamil	true	3	0	3	bet3amel (بتعامل, deals with)		
+bet3mel	bit3mel	true	3	0	3			
+bet5ally	bet5alle	true	3	0	3			
+bet5ally	bet5alli	true	3	0	3			
+bet5ally	bet5aly	true	3	0	3			
+bet5ally	betkhally	true	3	0	3			
+beta3	beta	true	3	0	3			
+beta3	betaa	true	3	0	3			
+beta3	bita3	true	3	0	3			
+beta3	bta3	true	3	0	3			
+beta3ak	beta3aak	true	3	0	3			
+beta3ak	bita3aak	true	3	0	3			
+beta3ak	bita3ak	true	3	0	3			
+beta3ak	bta3ak	true	3	0	3			
+beta3et	beta3eet	true	3	0	3			
+beta3et	beta3it	true	3	0	3			
+beta3et	beta3t	true	3	0	3			
+beta3et	betaat	true	3	0	3			
+beta3etna	beta3etnaa	true	3	0	3			
+beta3etna	beta3itna	true	3	0	3			
+beta3etna	beta3tna	true	3	0	3			
+beta3etna	betaatna	true	3	0	3			
+beta3na	betaana	true	3	0	3			
+beta3na	betana	true	3	0	3	betana ~ بطانة (lining)		
+beta3na	bita3na	true	3	0	3			
+beta3na	bta3na	true	3	0	3			
+betb2a	betb2aa	true	3	0	3			
+betb2a	betb2aaa	true	3	0	3			
+betb2a	bitb2a	true	3	0	3			
+betb2a	bitb2aa	true	3	0	3			
+betest5dem	betest5dm	true	3	0	3			
+betest5dem	betestkhdem	true	3	0	3			
+betest5dem	betestkhdim	true	3	0	3			
+betest5dem	bitest5dem	true	3	0	3			
+betkoon	betkon	true	3	0	3			
+betkoon	betkun	true	3	0	3			
+betkoon	bitkon	true	3	0	3			
+betkoon	bitkoon	true	3	0	3			
+betmanna	betmana	true	3	0	3			
+betmanna	betmanah	false	1	2	3	betmannah (بتمناه, wishes it)		final -h on a ى stem adds an object pronoun: betmannah بتمناه 'wishes it' || final -h on a verb reads as the 3ms object suffix, changing the form
+betmanna	betmannaa	true	3	0	3			
+betmanna	betmannaah	false	1	2	3	betmannah (بتمناه, wishes it)		final -h on a ى stem adds an object pronoun: betmannaah بتمناه 'wishes it' || trailing h is read as the object pronoun -h, not taa marbuta
+betsa3ed	betsa3d	true	3	0	3			
+betsa3ed	betsa3eed	true	3	0	3			
+betsa3ed	betsa3id	true	3	0	3			
+betsa3ed	betsaad	true	3	0	3			
+bettalab	betalab	true	2	1	3	بطلب (b-talab = 'by request')		single t collapses بتطلب into بطلب, a different word
+bettalab	bitalab	true	2	1	3	بطلب (b-talab = 'by request')		degeminated form reads as بطلب, losing the verbal ت
+bettalab	bittalab	true	3	0	3			
+bettalab	btalab	true	2	1	3	بطلب (b-talab = 'by request' / 'I request')		degemination loses the ت of بتطلب; btalab reads as بطلب
+bey	bee	true	3	0	3			
+bey	bei	true	3	0	3			
+bey	bi	false	1	2	3	bi (بـ, preposition 'with/by')		clipping leaves the preposition بـ, no longer the word bey/بيه || clipping leaves the preposition بـ, not بيه
+bey	bii	true	3	0	3			
+bey2adem	bey2adeem	true	3	0	3			
+bey2adem	bey2adiim	true	3	0	3			
+bey2adem	bey2adim	true	3	0	3			
+bey2adem	by2adem	true	3	0	3			
+bey2ather	bey2atheer	true	3	0	3			
+bey2ather	bey2athiir	true	3	0	3			
+bey2ather	bey2athir	true	3	0	3			
+bey2ather	by2ather	true	3	0	3			
+bey2ol	bey2ool	true	3	0	3			
+bey2ol	biy2ol	true	3	0	3			
+bey2ol	biy2ool	true	3	0	3			
+bey2ol	by2ol	true	3	0	3			
+bey2olak	bey2olaak	true	3	0	3			
+bey2olak	biy2olaak	true	3	0	3			
+bey2olak	biy2olak	true	3	0	3			
+bey2olak	by2olak	true	3	0	3			
+bey3mel	bey3mil	true	3	0	3			
+bey3mel	bey3ml	true	3	0	3			
+bey3mel	beyamel	true	3	0	3			
+bey3mel	beyamil	true	3	0	3			
+bey5ally	bey5alle	true	3	0	3			
+bey5ally	bey5alli	true	3	0	3			
+bey5ally	bey5aly	true	3	0	3			
+bey5ally	beykhally	true	3	0	3			
+bey5od	beykhod	true	3	0	3			
+bey5od	biy5od	true	3	0	3			
+bey5od	biykhod	true	3	0	3			
+bey5od	by5od	true	3	0	3			
+bey7sal	beyhsal	true	3	0	3			
+bey7sal	biy7sal	true	3	0	3			
+bey7sal	biyhsal	true	3	0	3			
+bey7sal	by7sal	true	3	0	3			
+beykoon	beykon	true	3	0	3			
+beykoon	beykun	true	3	0	3			
+beykoon	biykon	true	3	0	3			
+beykoon	biykoon	true	3	0	3			
+beyshmel	beyshmeel	true	3	0	3			
+beyshmel	beyshmeil	true	3	0	3			
+beyshmel	beyshmiil	true	3	0	3			
+beyshmel	beyshmil	true	3	0	3			
+beyzood	beyzod	true	3	0	3			
+beyzood	beyzoood	true	3	0	3			
+beyzood	biyzod	true	3	0	3			
+beyzood	biyzood	true	3	0	3			
+bsbb	bsb	true	3	0	3			
+bzour	bzooor	true	3	0	3			
+bzour	bzoor	true	3	0	3			
+bzour	bzor	true	3	0	3			
+bzour	bzouur	true	2	1	3			'ouu' cluster; writers repeat the o (bzooor), not ouu
+da3m	daa3m	true	3	0	3			
+da3m	daaam	false	1	2	3	دام (daam, lasted/as long as)		3-drop lands on دام, only stretched || reads as an elongated دام, not دعم
+da3m	daam	false	1	2	3	دام (daam, lasted/as long as)		3-drop lands on دام, a common Egyptian word || reads as دام, not دعم
+da3m	dam	false	1	2	3	دم (dam, blood)		دعم with the 3 dropped is the very common word دم || reads as دم 'blood' (or دام), not دعم
+darory	daroory	true	3	0	3			
+darory	darore	true	3	0	3			
+darory	darori	true	3	0	3			
+darory	darury	true	3	0	3			
+daw2	daaaw2	true	2	1	3			triple a before w; no Egyptian types ضوء this way
+daw2	daaw2	true	2	1	3			short a of ضوء is never lengthened before the w
+dawla	dawlaa	true	3	0	3			
+dawla	dawlah	true	3	0	3			
+dawla	dola	true	3	0	3			
+dawla	doola	true	3	0	3			
+dawly	dawle	false	1	2	3	dawla دولة (state)		final -e reads as ة: دولة 'state', not دولي || Final -e on dawl- reads as the noun دولة, not the adjective دولي.
+dawly	dawli	true	3	0	3			
+dawly	doly	true	3	0	3			
+dawly	dooly	true	3	0	3			
+dawr	daawr	true	3	0	3			
+dawr	daoor	true	2	1	3			aoo double-encodes aw plus long o; /door/ is not typed daoor
+dawr	door	true	3	0	3	door (English 'door')		
+dawr	dor	true	3	0	3			
+dawry	dawre	true	3	0	3			
+dawry	dawri	true	3	0	3			
+dawry	doori	true	3	0	3			
+dawry	doory	true	3	0	3			
+dayman	daymaan	true	3	0	3			
+dayman	deeman	true	3	0	3			
+dayman	deman	true	3	0	3			
+dayman	diman	true	3	0	3			
+dee	de	true	3	0	3			
+dee	dei	true	3	0	3			
+dee	deie	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+dee	di	true	3	0	3			
+deen	deien	true	2	1	3			eie cluster is not a Franco rendering of the long ee in deen
+deen	dein	true	3	0	3			
+deen	den	true	3	0	3			
+deen	din	true	3	0	3			
+delwa2ty	delwa2te	true	3	0	3			
+delwa2ty	delwa2ti	true	3	0	3			
+delwa2ty	delwaa2ty	true	3	0	3			
+delwa2ty	dilwa2ty	true	3	0	3			
+dl2ty	dl2te	true	3	0	3			
+dl2ty	dl2ti	true	3	0	3			
+dl2ty	dl2tii	true	3	0	3			
+dollar	dolaar	true	3	0	3			
+dollar	dolar	true	3	0	3			
+dollar	dollaar	true	3	0	3			
+dollar	dular	true	3	0	3			
+e5tebar	e5tbar	true	3	0	3			
+e5tebar	e5tibar	true	3	0	3			
+e5tebar	ekhtebar	true	3	0	3			
+e5tebar	ekhtibar	true	3	0	3			
+e7na	e7naa	true	3	0	3			
+e7na	ehna	true	3	0	3			
+e7na	i7na	true	3	0	3			
+e7na	ihna	true	3	0	3			
+e7sas	e7saas	true	3	0	3			
+e7sas	ehsaas	true	3	0	3			
+e7sas	ehsas	true	3	0	3			
+e7sas	i7sas	true	3	0	3			
+egtema3	egtema	true	3	0	3			
+egtema3	egtemaa	true	3	0	3			
+egtema3	egtima3	true	3	0	3			
+egtema3	egtimaa	true	3	0	3			
+egtema3y	egtema3e	true	3	0	3			
+egtema3y	egtema3i	true	3	0	3			
+egtema3y	egtima3i	true	3	0	3			
+egtema3y	egtima3y	true	3	0	3			
+el3alam	elaalam	true	3	0	3			
+el3alam	elalam	false	1	2	3	el-alam (الألم, the pain)		without the 3 it reads as الألم 'the pain' rather than العالم 'the world' || losing ع yields الألم 'the pain', a common competing word
+el3alam	il3alam	true	3	0	3			
+el3alam	ilaalam	true	3	0	3			
+el3alami	el3alame	true	3	0	3			
+el3alami	el3alamee	true	3	0	3			
+el3alami	el3alamy	true	3	0	3			
+el3alami	elaalami	true	3	0	3			
+el3am	el3aam	true	3	0	3			
+el3am	elaam	true	3	0	3	إعلام (elaam, media)		
+el3am	elam	false	1	2	3	e3lam إعلام (media)		3 dropped; reads as إعلام/ألم, not العام || With the 3 gone and the vowel short, العام is not the natural reading.
+el3am	il3am	true	3	0	3			
+el7agat	el7agaat	true	3	0	3			
+el7agat	elhagat	true	3	0	3			
+el7agat	il7agat	true	3	0	3			
+el7agat	ilhagat	true	3	0	3			
+el7amdellah	el7amdella	true	3	0	3			
+el7amdellah	el7amdillah	true	3	0	3			
+el7amdellah	elhamdellah	true	3	0	3			
+el7amdellah	elhamdillah	true	3	0	3			
+el7arb	el7aarb	true	3	0	3			
+el7arb	elharb	true	3	0	3			
+el7arb	il7arb	true	3	0	3			
+el7arb	ilharb	true	3	0	3			
+el7okoma	el7okomaa	true	3	0	3			
+el7okoma	elhokoma	true	3	0	3			
+el7okoma	il7okoma	true	3	0	3			
+el7okoma	ilhokoma	true	3	0	3			
+elahly	elaahly	true	3	0	3			
+elahly	elahle	true	3	0	3			
+elahly	elahli	true	3	0	3			
+elahly	ilahly	true	3	0	3			
+elbe2a	elb2a	true	3	0	3			
+elbe2a	elbe2aa	true	3	0	3			
+elbe2a	elbe2ah	true	3	0	3			
+elbe2a	ilbe2a	true	3	0	3			
+eldaw2	eldaaaw2	true	3	0	3			
+eldaw2	eldaaw2	true	3	0	3			
+eldaw2	ildaaw2	true	3	0	3			
+eldaw2	ildaw2	true	3	0	3			
+eldawla	eldola	true	3	0	3			
+eldawla	eldoola	true	3	0	3			
+eldawla	ildawla	true	3	0	3			
+eldawla	ildoola	true	3	0	3			
+eldawly	eldawli	true	3	0	3			
+eldawly	eldoly	true	3	0	3			
+eldawly	eldooly	true	3	0	3			
+eldawly	ildawly	true	3	0	3			
+elgay	elgaay	true	3	0	3			
+elgay	elgai	true	3	0	3			
+elgay	elgee	true	2	1	3			ay here is long aa+y (el-gaay), not a diphthong; 'elgee' is not a spelling of it
+elgay	ilgay	true	3	0	3			
+elgayya	elgaya	true	3	0	3			
+elgayya	elgeeya	true	3	0	3			
+elgayya	ilgaya	true	3	0	3			
+elgayya	ilgayya	true	3	0	3			
+elly	elle	true	3	0	3			
+elly	elli	true	3	0	3			
+elly	ely	true	3	0	3			
+elly	illy	true	3	0	3			
+elma3lomat	elmaalomat	true	3	0	3			
+elma3lomat	elmalomat	true	3	0	3			
+elma3lomat	ilma3lomat	true	3	0	3			
+elma3lomat	ilmaalomat	true	3	0	3			
+elmasry	elmaasry	true	3	0	3			
+elmasry	elmasre	true	3	0	3			
+elmasry	elmasri	true	3	0	3			
+elmasry	ilmasry	true	3	0	3			
+elmawdoo3	elmawdo3	true	3	0	3			
+elmawdoo3	elmoodoo3	true	3	0	3			
+elmawdoo3	ilmawdo3	true	3	0	3			
+elmawdoo3	ilmawdoo3	true	3	0	3			
+elnaw3	elnawa	true	2	1	3	elnawa (النوى, pits/kernels)		dropping the 3 leaves elnawa, which reads as النوى, not النوع
+elnaw3	elnawaa	true	2	1	3	النوى / النوا (nawa = date pits)		3->a kills the 3ayn; elnawaa reads as النوا, a different word
+elnaw3	ilnaw3	true	3	0	3			
+elnaw3	ilnawa	true	2	1	3	النوى / النوا (nawa)		no 3ayn left: ilnawa reads as النوا, not the type النوع
+elra2ees	elra2es	true	3	0	3			
+elra2ees	elra2is	true	3	0	3			
+elra2ees	elra2s	false	1	2	3	elra2s (الرأس, the head)		dropping the long ee gives الرأس (the head), not الرئيس || Vowel drop gives el-ra2s = the head, a common distinct word
+elra2ees	ilra2ees	true	3	0	3			
+elsa3a	elsa3aa	true	3	0	3			
+elsa3a	elsa3aaa	true	3	0	3			
+elsa3a	ilsa3a	true	3	0	3			
+elsa3a	ilsa3aa	true	3	0	3			
+else7a	els7a	true	3	0	3			
+else7a	elseha	true	3	0	3			
+else7a	elsi7a	true	3	0	3			
+else7a	elsiha	true	3	0	3			
+elshabab	elshabaaab	true	3	0	3			
+elshabab	elshabaab	true	3	0	3			
+elshabab	ilshabaab	true	3	0	3			
+elshabab	ilshabab	true	3	0	3			
+elshams	elshaaams	true	3	0	3			
+elshams	elshaams	true	3	0	3			
+elshams	ilshaams	true	3	0	3			
+elshams	ilshams	true	3	0	3			
+elshoghl	elsho8l	true	3	0	3			
+elshoghl	elshooghl	true	3	0	3			
+elshoghl	ilsho8l	true	3	0	3			
+elshoghl	ilshoghl	true	3	0	3			
+elsisi	elsesi	true	3	0	3			
+elsisi	elsesy	true	3	0	3			
+elsisi	elsisii	true	3	0	3			
+elsisi	elsisy	true	3	0	3			
+elta3leem	elta3lem	true	3	0	3			
+elta3leem	elta3lm	true	2	1	3	elta3allom التعلم (learning)		Vowel-less skeleton reads as el-ta3allom (learning), not el-ta3leem (education)
+elta3leem	ilta3leem	true	3	0	3			
+elta3leem	ilta3lem	true	3	0	3			
+eltany	eltaany	true	3	0	3			
+eltany	eltane	true	3	0	3			
+eltany	eltani	true	3	0	3			
+eltany	iltany	true	3	0	3			
+elwa2t	elwaa2t	true	3	0	3			
+elwa2t	elwaaa2t	true	3	0	3			
+elwa2t	ilwa2t	true	3	0	3			
+elwa2t	ilwaa2t	true	3	0	3			
+elwa7ed	elwa7d	true	3	0	3			
+elwa7ed	elwa7eed	false	1	2	3	elwa7eed (الوحيد, the only one)		lengthening turns واحد 'one/a person' into وحيد 'only/sole', a distinct lexeme || lengthening turns الواحد into الوحيد 'the only one'
+elwa7ed	elwa7id	true	3	0	3			
+elwa7ed	elwahid	true	3	0	3			
+elwatany	elwataany	true	3	0	3			
+elwatany	elwatane	true	3	0	3			
+elwatany	elwatani	true	3	0	3			
+elwatany	ilwatany	true	3	0	3			
+ennak	enak	true	3	0	3			
+ennak	ennaak	true	3	0	3			
+ennak	inak	true	3	0	3			
+ennak	innak	true	3	0	3			
+enno	ennoo	true	3	0	3			
+enno	eno	true	3	0	3			
+enno	inno	true	3	0	3			
+enno	ino	true	3	0	3			
+ennohom	ennohoom	true	3	0	3			
+ennohom	ennuhum	true	3	0	3			
+ennohom	enohom	true	3	0	3			
+ennohom	inohom	true	3	0	3			
+enny	eni	true	3	0	3			
+enny	enni	true	3	0	3			
+enny	eny	true	3	0	3			
+enny	inny	true	3	0	3			
+estekhdam	est5dam	true	3	0	3			
+estekhdam	este5dam	true	3	0	3			
+estekhdam	estekhdaam	true	3	0	3			
+estekhdam	estikhdam	true	3	0	3			
+estekhlaas	este5laas	true	3	0	3			
+estekhlaas	este5las	true	3	0	3			
+estekhlaas	estekhlas	true	3	0	3			
+estekhlaas	estikhlaas	true	3	0	3			
+etneen	etnein	true	3	0	3			
+etneen	etnen	true	3	0	3			
+etneen	etnin	true	3	0	3			
+etneen	itneen	true	3	0	3			
+etterab	eterab	true	3	0	3			
+etterab	etirab	true	3	0	3			
+etterab	etrab	true	3	0	3			
+etterab	ettirab	true	3	0	3			
+ezay	ezaay	true	3	0	3			
+ezay	ezai	true	3	0	3			
+ezay	eze	false	1	2	3			Cairene keeps final -ay in ezay; 'eze' is not a spelling of it || ay->e collapse leaves 'eze', which no reader recovers as إزاي
+ezay	izay	true	3	0	3			
+fa3al	fa3aaal	true	3	0	3			
+fa3al	fa3aal	false	1	2	3	fa33al فعّال (effective/active)		lengthened aa reads as فعال 'effective', not the verb فعل || reads as fa3aal فعال 'effective', a different word, not elongated fa3al
+fada2	fadaa2	true	3	0	3			
+fada2	fadaaa2	true	3	0	3			
+far2	faaar2	true	3	0	3			
+far2	faar2	true	2	1	3	فارق (faare2)		faar2 is read as فارق, a distinct lexical item
+fawk	faawk	true	3	0	3			
+fawk	faook	true	2	1	3			a+oo hybrid; فوق is typed fawk/fo2/fook/fok, not faook
+fawk	fok	true	3	0	3			
+fawk	fook	true	3	0	3			
+fayda	faydaa	true	3	0	3			
+fayda	feda	true	2	1	3	feda (فدا, ransom/sacrifice)		reads as feda فدا 'ransom/sacrifice', not fayda 'benefit'
+fayda	feeda	true	3	0	3			
+fayda	fida	false	1	2	3	fida (فدى/فدا, ransom/sacrifice)		reads as fida فدى 'ransom/sacrifice', a different word from fayda || fida is the standard spelling of فدا; benefit فايدة is not read here
+fayroos	fayros	true	3	0	3			
+fayroos	fayrus	true	3	0	3			
+fayroos	feeroos	true	3	0	3			
+fayroos	feeros	true	3	0	3			
+fe3lan	f3lan	true	3	0	3			
+fe3lan	fe3laan	true	3	0	3			
+fe3lan	fealan	true	3	0	3			
+fe3lan	fi3lan	true	3	0	3			
+feddan	fdan	true	3	0	3			
+feddan	fedaan	true	3	0	3			
+feddan	fedan	true	3	0	3			
+feddan	fiddan	true	3	0	3			
+fee	fe	true	3	0	3			
+fee	fei	true	3	0	3			
+fee	feie	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+fee	fi	true	3	0	3			
+feeh	feh	true	3	0	3			
+feeh	feieh	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+feeh	feih	true	3	0	3			
+feeh	fih	true	3	0	3			
+feehom	fehom	true	3	0	3			
+feehom	feihom	true	3	0	3			
+feehom	fhom	true	3	0	3	fhom ~ فهم (understanding)		
+feehom	fihom	true	3	0	3			
+feen	feien	true	2	1	3			'eie' is not a sequence Franco writers produce
+feen	fein	true	3	0	3			
+feen	fen	true	3	0	3	fen (فن, art)		
+feen	fin	true	3	0	3			
+floos	floooos	true	3	0	3			
+floos	flooos	true	3	0	3			
+floos	flos	true	3	0	3			
+floos	flus	true	3	0	3			
+fo2	foo2	true	3	0	3			
+fo2	fooo2	true	3	0	3			
+fo2	fu2	true	3	0	3			
+fo2	fuu2	true	3	0	3			
+gam3et	gam3it	true	3	0	3			
+gam3et	gam3t	true	3	0	3			
+gam3et	gamaet	true	3	0	3			
+gam3et	gamat	true	3	0	3			
+gama3a	gama3aa	true	3	0	3			
+gama3a	gama3aaa	true	3	0	3			
+gameel	gameil	true	3	0	3			
+gameel	gamel	true	3	0	3	gamel = جامل (flatter, imper.)		
+gameel	gamil	true	3	0	3			
+gameel	gaml	false	1	2	3	gamal (جمل)		bare skeleton gaml reads as gamal 'camel', not gameel 'beautiful' || gaml is read as gamal 'camel', not a shortening of gameel 'beautiful'
+ganoub	ganob	true	3	0	3			
+ganoub	ganoob	true	3	0	3			
+ganoub	ganooob	true	3	0	3			
+ganoub	ganouub	true	3	0	3			
+gaw	gaaaw	true	3	0	3			
+gaw	gaaw	true	3	0	3			
+gawda	gawdaa	true	3	0	3			
+gawda	goda	true	3	0	3			
+gawda	gooda	true	3	0	3			
+gawda	goodaa	true	3	0	3			
+gawy	gawi	true	3	0	3			
+gawy	gawii	true	3	0	3			
+gawy	gooy	true	3	0	3			
+gawy	goy	true	3	0	3			
+gay	gaay	true	3	0	3			
+gay	gai	true	3	0	3			
+gay	ge	false	0	3	3	geh (جه, he came)		ge/geh is the past 'he came'; جاي 'coming' is not reduced to ge in Cairene || 'ge' is geh = he came; ay is not monophthongized in gayy || reads as past-tense جه 'he came', not the participle جاي
+gay	gee	true	2	1	3	geh (he came)		Cairene keeps ay in gayy; 'gee' reads as geh = he came
+gayya	gaya	true	3	0	3			
+gayya	gayah	true	3	0	3			
+gayya	geeya	true	3	0	3			
+gayya	geya	true	3	0	3			
+geddan	gdan	true	3	0	3			
+geddan	gedaan	true	3	0	3			
+geddan	gedan	true	3	0	3			
+geddan	giddan	true	3	0	3			
+gedeed	gded	true	3	0	3	gded = جدد (renewed)		
+gedeed	gdeed	true	3	0	3			
+gedeed	geded	true	3	0	3	geded = جدد (renewed)		
+gedeed	gedid	true	3	0	3			
+geneih	geneeh	true	3	0	3			
+geneih	geneh	true	3	0	3			
+geneih	genih	true	3	0	3			
+geneih	gineih	true	3	0	3			
+ghalban	8albaan	true	3	0	3			
+ghalban	8alban	true	3	0	3			
+ghalban	ghalbaaan	true	3	0	3			
+ghalban	ghalbaan	true	3	0	3			
+gharb	8aarb	true	2	1	3			lengthens the short a of غرب; reads as غارب
+gharb	8arb	true	3	0	3			
+gharb	ghaaarb	true	2	1	3			triple a inside a short-vowel syllable, un-Egyptian
+gharb	ghaarb	true	2	1	3	ghareb (غارب)		lengthens the short a of غرب; reads as غارب
+ghyr	8yr	true	3	0	3			
+hatkoon	hatkon	true	3	0	3			
+hatkoon	hatkooon	true	3	0	3			
+hatkoon	hatkoooon	true	3	0	3			
+hatkoon	hatkun	true	3	0	3			
+hay5ally	hay5alli	true	3	0	3			
+hay5ally	hay5aly	true	3	0	3			
+hay5ally	haykhally	true	3	0	3			
+hay5ally	haykhaly	true	3	0	3			
+hayb2a	hayb2aa	true	3	0	3			
+hayb2a	heb2a	true	3	0	3			
+hayb2a	heeb2a	true	3	0	3			
+hayb2a	hib2a	true	3	0	3			
+haykoon	haykon	true	3	0	3			
+haykoon	heekon	true	3	0	3			
+haykoon	heekoon	true	3	0	3			
+haykoon	hikoon	true	3	0	3			
+howwa	howa	true	3	0	3			
+howwa	howaa	true	3	0	3			
+howwa	howah	true	3	0	3			
+howwa	huwa	true	3	0	3			
+janoub	janob	true	3	0	3			
+janoub	janoob	true	3	0	3			
+janoub	janooob	true	3	0	3			
+janoub	janouub	true	2	1	3			'ouu' is not a Franco elongation; writers repeat the o (janooob)
+jaw	jaaaw	true	3	0	3			
+jaw	jaaw	true	3	0	3			
+kamman	kamaan	true	3	0	3			
+kamman	kaman	true	3	0	3			
+kamman	kammaaan	true	3	0	3			
+kamman	kammaan	true	3	0	3			
+kaneesa	kaneisa	true	3	0	3			
+kaneesa	kanesa	true	3	0	3			
+kaneesa	kanisa	true	3	0	3			
+kaneesa	kansa	false	1	2	3	كنسة (kansa, a sweeping)		drops the /i:/ of كنيسة; reads as كنسة, not a spelling of the word || Dropping the ee kills the ي of كنيسة; kansa reads as the كنس root.
+kawkab	kawkaab	true	3	0	3			
+kawkab	kokab	true	3	0	3			
+kawkab	kookaab	true	3	0	3			
+kawkab	kookab	true	3	0	3			
+kbeer	kbeier	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+kbeer	kbeir	true	3	0	3			
+kbeer	kber	true	3	0	3			
+kbeer	kbir	true	3	0	3			
+kedda	kda	true	3	0	3			
+kedda	keda	true	3	0	3			
+kedda	keddah	true	3	0	3			
+kedda	kida	true	3	0	3			
+khadamat	5adamaat	true	3	0	3			
+khadamat	5adamat	true	3	0	3			
+khadamat	khadamaaat	true	3	0	3			
+khadamat	khadamaat	true	3	0	3			
+khales	5ales	true	3	0	3			
+khales	5als	false	1	2	3	khalas (خلاص)		5als is the usual Franco spelling of khalas 'enough', a different word || 5als is read as 5alas 'enough/done', a different word from 5ales
+khales	khalis	true	3	0	3			
+khales	khals	false	1	2	3	khalas (خلاص/خلص)		vowel-drop skeleton reads as khalas 'enough/finished', not khales 'pure/at all' || vowel-drop reads as 5alas 'enough/done', not khaalis 'at all'
+khassa	5asa	true	3	0	3			
+khassa	5assa	true	3	0	3			
+khassa	khasa	true	3	0	3			
+khassa	khassah	true	3	0	3			
+khat	5aat	true	3	0	3			
+khat	5at	true	3	0	3			
+khat	khaaat	true	3	0	3			
+khat	khaat	true	3	0	3			
+khatar	5ataar	true	2	1	3			lengthens the short a of خطر; nobody types it
+khatar	5atar	true	3	0	3			
+khatar	khataaar	true	2	1	3			triple a inside a short-vowel syllable, un-Egyptian
+khatar	khataar	true	2	1	3	khataar (خطار)		lengthens the short a of خطر; nobody types it
+khlal	5laal	true	3	0	3			
+khlal	5lal	true	3	0	3			
+khlal	khlaaal	true	3	0	3			
+khlal	khlaal	true	3	0	3			
+khososan	5ososan	true	3	0	3			
+khososan	5osusan	true	3	0	3			
+khososan	khososaan	true	3	0	3			
+khososan	khosusan	true	3	0	3			
+khotwa	5otwa	true	3	0	3			
+khotwa	5utwa	true	3	0	3			
+khotwa	khotwah	true	3	0	3			
+khotwa	khutwa	true	3	0	3			
+khotwat	5otwat	true	3	0	3			
+khotwat	5utwat	true	3	0	3			
+khotwat	khotwaat	true	3	0	3			
+khotwat	khutwat	true	3	0	3			
+kollo	kolloo	true	3	0	3			
+kollo	kollu	true	3	0	3			
+kollo	kolo	true	3	0	3			
+kollo	kulo	true	3	0	3			
+kollohom	kollohoom	true	3	0	3			
+kollohom	kollohum	true	3	0	3			
+kollohom	kolohom	true	3	0	3			
+kollohom	kolohum	true	3	0	3			
+kteer	kteier	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+kteer	kteir	true	3	0	3			
+kteer	kter	true	3	0	3			
+kteer	ktir	true	3	0	3			
+kways	kwaays	true	3	0	3			
+kways	kweees	true	3	0	3			
+kways	kwees	true	3	0	3			
+kways	kwis	true	3	0	3			
+la2	laa2	true	3	0	3			
+la2	laaa2	true	3	0	3			
+la3eb	la3b	false	1	2	3	la3b لعب (play/game)		reads as لعب 'play/game', not لاعب 'player' || Reads as the noun/verb لعب, not the participle لاعب (player).
+la3eb	la3eeb	true	3	0	3			
+la3eb	la3ib	true	3	0	3			
+la3eb	laab	false	1	2	3	lab لاب (laptop)		3 dropped; reads as لاب/lab, not لاعب || 3 dropped and vowel lost: لاعب is unrecoverable, reader lands on لعب.
+lamma	lama	true	3	0	3			
+lamma	lamaa	true	3	0	3			
+lamma	lammaa	true	3	0	3			
+lamma	lammaaa	true	3	0	3			
+law	laaaw	true	2	1	3			stretched law is typed laww/loooo, never laaaw
+law	laaw	true	3	0	3			
+lawl	laawl	true	3	0	3			
+lawl	laool	true	2	1	3			'aoo' cluster is not a Franco shape; the drop form would be 'lawel'/'la2wel'
+lawl	lol	false	1	2	3	lol (internet laughter)		reads as the ubiquitous 'lol', not لأول || identical to chat 'lol'; no reader recovers لأول
+lawl	lool	true	2	1	3	lool (elongated lol)		reads as chat 'lool' (laughing), not لأول
+lazzem	lazem	true	3	0	3			
+lazzem	lazim	true	3	0	3			
+lazzem	lazm	true	3	0	3			
+lazzem	lazzim	true	3	0	3			
+le2enno	l2enno	true	3	0	3			
+le2enno	l2eno	true	3	0	3			
+le2enno	le2eno	true	3	0	3			
+le2enno	le2inno	true	3	0	3			
+le7ad	l7ad	true	3	0	3			
+le7ad	lehad	true	3	0	3			
+le7ad	lhad	true	3	0	3			
+le7ad	li7ad	true	3	0	3			
+leeh	leh	true	3	0	3			
+leeh	leieh	true	2	1	3			'eie' trigraph is not a Franco spelling; generator artifact
+leeh	leih	true	3	0	3			
+leeh	lih	true	3	0	3			
+leehom	lehom	true	3	0	3			
+leehom	leihom	true	3	0	3			
+leehom	lhom	true	3	0	3			
+leehom	lihom	true	3	0	3			
+lessa	lesa	true	3	0	3			
+lessa	lisa	true	3	0	3			
+lessa	lissa	true	3	0	3			
+lessa	lsa	true	3	0	3			
+ll2sf	l2sf	true	3	0	3			
+llnas	llnaaas	true	3	0	3			
+llnas	llnaas	true	3	0	3			
+llnas	lnaas	true	3	0	3			
+llnas	lnas	true	3	0	3			
+lougha	logha	true	3	0	3			
+lougha	loo8a	true	3	0	3			
+lougha	loogha	true	3	0	3			
+lougha	lou8a	true	3	0	3			
+lown	looown	true	3	0	3			
+lown	loown	true	3	0	3			
+lown	luuwn	true	2	1	3			'uuw' cluster; elongation is typed loo(o)n, never luuwn
+lown	luwn	true	3	0	3			
+m7tag	m7taaag	true	3	0	3			
+m7tag	m7taag	true	3	0	3			
+m7tag	mhtaag	true	3	0	3			
+m7tag	mhtag	true	3	0	3			
+ma3	ma	false	1	2	3	ma (ما — negation/'what')		'ma' is the standard spelling of ما; the 3 was the only cue for مع || 'ma' is the ubiquitous ما; مع is never written bare 'ma'
+ma3	maa	false	1	2	3	ma (ما — negation/'what')		digit dropped; reads as ما lengthened, not مع || 'maa' is the standard spelling of ما; مع is not read here
+ma3	maa3	true	3	0	3			
+ma3	maaa	false	0	3	3	ma (ما — negation/'what')		3 gone, only a lengthened a left; reads as ما, not مع || 3->a then stretched; 'maaa' is unrecoverable as mae/ma3 || reads as an elongated ما, not as مع
+ma3ah	ma3a	false	1	2	3	ma3a (مع, with)		dropping -h turns معاه (with him) into the preposition مع (with) || Loses the -h pronoun: reads as the preposition 'with', not 'with him'
+ma3ah	ma3aa	false	1	2	3	ma3a (مع, with)		the ه pronoun is lost; reads as مع (with), not معاه (with him) || Same pronoun loss: ma3aa reads as bare 'with', not 'with him'
+ma3ah	ma3aaah	true	3	0	3			
+ma3ah	ma3aah	true	3	0	3			
+ma3ahom	ma3ahoom	true	3	0	3			
+ma3ahom	ma3ahooom	true	3	0	3			
+ma3ahom	ma3ahum	true	3	0	3			
+ma3ahom	ma3ahuum	true	3	0	3			
+ma3ak	ma3aaak	true	3	0	3			
+ma3ak	ma3aak	true	3	0	3			
+ma3had	ma3haad	true	3	0	3			
+ma3had	maahaad	true	2	1	3	ma7ad(esh) (nobody)		3 gone and both vowels long: still parsed as ma7ad 'nobody'
+ma3had	maahad	true	2	1	3	ma7ad(esh) (nobody)		3 gone: reads as ma(a)had 'nobody', not ma3had 'institute'
+ma3had	mahad	false	1	2	3	ma7ad (ماحد)		in chat mahad reads as ma7ad 'nobody' far more often than ma3had || mahad is the usual spelling of ma7ad 'nobody', not ma3had 'institute'
+ma3lomat	ma3lomaat	true	3	0	3			
+ma3lomat	ma3lumat	true	3	0	3			
+ma3lomat	maalomat	true	3	0	3			
+ma3lomat	malomat	true	3	0	3			
+ma3na	ma3naah	false	1	2	3	ma3nah (معناه, its meaning)		spurious final -h turns معنى into معناه (its meaning) || Reads as ma3naah = its meaning, a suffixed form, not bare ma3na
+ma3na	ma3nah	false	1	2	3	ma3nah (معناه, its meaning)		معنى ends in ألف مقصورة, not ة; final -h yields معناه = its meaning || Final h on alef-maqsura word reads as the suffixed form 'its meaning'
+ma3na	maana	true	3	0	3			
+ma3na	mana	true	2	1	3	mana3 (منع, forbid)		Bare mana reads as the verb mana3/forbade rather than ma3na = meaning
+ma3nah	ma3na	true	2	1	3	ma3na = معنى (meaning, not معناه)		drops the -h possessive: ma3na 'meaning' vs ma3nah 'its meaning'
+ma3nah	ma3naah	true	3	0	3			
+ma3nah	maanah	true	3	0	3			
+ma3nah	manah	true	2	1	3	manah = منح (grants)		3 gone and vowel collapsed: reads as manh 'grant', not ma3nah
+ma3roof	ma3rof	true	3	0	3			
+ma3roof	ma3ruf	true	3	0	3			
+ma3roof	maaroof	true	3	0	3			
+ma3roof	maroof	true	3	0	3			
+mabany	mabaani	true	3	0	3			
+mabany	mabaany	true	3	0	3			
+mabany	mabane	true	3	0	3			
+mabany	mabani	true	3	0	3			
+mabsoot	mabsoooot	true	3	0	3			
+mabsoot	mabsooot	true	3	0	3			
+mabsoot	mabsot	true	3	0	3			
+mabsoot	mabsut	true	3	0	3			
+mady	maadi	true	3	0	3			
+mady	maady	true	3	0	3			
+mady	made	true	3	0	3			
+mady	madi	true	3	0	3	madi (material / Maadi)		
+mafeesh	mafeiesh	true	2	1	3			e-i-e cluster inside the sh-word; not a shape anyone types
+mafeesh	mafeish	true	3	0	3			
+mafeesh	mafesh	true	3	0	3			
+mafeesh	mafish	true	3	0	3			
+mafhoom	mafhom	true	3	0	3			
+mafhoom	mafhooom	true	3	0	3			
+mafhoom	mafhoooom	true	3	0	3			
+mafhoom	mafhum	true	3	0	3			
+mafrood	mafrod	true	3	0	3			
+mafrood	mafroood	true	3	0	3			
+mafrood	mafrooood	true	3	0	3			
+mafrood	mafrud	true	3	0	3			
+maghood	ma8od	false	1	2	3	مغد (8=غ reading, non-word)		gh here is g+h (مجهود); 8=غ makes it not the word || Same false gh=غ split: مجهود has ج+ه, so 8 gives a non-word.
+maghood	ma8ood	false	1	2	3	مغود (8=غ reading, non-word)		gh here is g+h (مجهود); 8=غ makes it not the word || gh in مجهود is g+h (ج+ه); 8 forces غ and destroys the word.
+maghood	maghod	true	3	0	3			
+maghood	maghud	true	3	0	3			
+magmo3a	magmo3aa	true	3	0	3			
+magmo3a	magmo3ah	true	3	0	3			
+magmo3a	magmu3a	true	3	0	3			
+magmo3a	magmu3aa	true	3	0	3			
+magmo3at	magmo3aaat	true	3	0	3			
+magmo3at	magmo3aat	true	3	0	3			
+magmo3at	magmu3aat	true	3	0	3			
+magmo3at	magmu3at	true	3	0	3			
+mahaly	mahaali	true	3	0	3			
+mahaly	mahaaly	true	3	0	3			
+mahaly	mahale	true	3	0	3			
+mahaly	mahali	true	3	0	3			
+makansh	makaaansh	true	3	0	3			
+makansh	makaansh	true	3	0	3			
+manakh	mana5	true	3	0	3			
+manakh	manaa5	true	3	0	3			
+manakh	manaaakh	true	3	0	3			
+manakh	manaakh	true	3	0	3			
+mar7ala	mar7alaa	true	3	0	3			
+mar7ala	mar7alah	true	3	0	3			
+mar7ala	marhala	true	3	0	3			
+mar7ala	marhalaa	true	3	0	3			
+mareed	mard	false	0	3	3	marad مرض (disease)		reads as مرض 'disease', not مريض 'sick' || drops the /i:/ of مريض entirely; 'mard' is the other word مرض || Reads as the noun مرض, not the adjective مريض (sick).
+mareed	mared	true	3	0	3	مارد (mared, giant)		
+mareed	mareid	true	3	0	3			
+mareed	marid	true	3	0	3			
+marra	mara	true	3	0	3			
+marra	maraa	true	3	0	3			
+marra	marraa	true	3	0	3			
+marra	marrah	true	3	0	3			
+mas2oleen	mas2olein	true	3	0	3			
+mas2oleen	mas2olen	true	3	0	3			
+mas2oleen	mas2olin	true	3	0	3			
+mas2oleen	mas2uleen	true	3	0	3			
+mas2oleyya	mas2oleya	true	3	0	3			
+mas2oleyya	mas2oleyah	true	3	0	3			
+mas2oleyya	mas2oliyya	true	3	0	3			
+mas2oleyya	mas2olya	true	3	0	3			
+mashro3	mashroa	true	2	1	3			final 3 after long -oo is never rewritten as -a
+mashro3	mashroo3	true	3	0	3			
+mashro3	mashru3	true	3	0	3			
+mashro3	mashrua	true	2	1	3			final 3 after long -oo is never rewritten as -a
+mashro3at	mashro3aaat	true	3	0	3			
+mashro3at	mashro3aat	true	3	0	3			
+mashro3at	mashru3aat	true	3	0	3			
+mashro3at	mashru3at	true	3	0	3			
+masry	maasri	true	3	0	3			
+masry	maasry	true	3	0	3			
+masry	masre	true	3	0	3			
+masry	masri	true	3	0	3			
+mawdoo3	mawdo3	true	3	0	3			
+mawdoo3	mawdooa	true	2	1	3			final 3 as 'a' after 'oo' gives un-Egyptian 'ooa' shape
+mawdoo3	mawdu3	true	3	0	3			
+mawdoo3	moodoo3	true	3	0	3			
+mawgood	mawgod	true	3	0	3			
+mawgood	mawgud	true	3	0	3			
+mawgood	mogood	true	3	0	3			
+mawgood	moogood	true	3	0	3			
+mawjat	mawjaat	true	3	0	3			
+mawjat	mojat	true	3	0	3			
+mawjat	moojaat	true	3	0	3			
+mawjat	moojat	true	3	0	3			
+mawke3	mawk3	true	3	0	3			
+mawke3	mawka	true	3	0	3			
+mawke3	mawki3	true	3	0	3			
+mawke3	moke3	true	3	0	3			
+mawkef	mawkeef	true	3	0	3			
+mawkef	mawkif	true	3	0	3			
+mawkef	mokef	true	3	0	3			
+mawkef	mookef	true	3	0	3			
+mawqe3	mawq3	true	3	0	3			
+mawqe3	mawqea	true	3	0	3			
+mawqe3	mawqi3	true	3	0	3			
+mawqe3	mooqe3	true	3	0	3			
+mawqef	mawqeef	true	3	0	3			
+mawqef	mawqeif	true	3	0	3			
+mawqef	mawqif	true	3	0	3			
+mawqef	mooqef	true	3	0	3			
+mawsem	mawseem	true	3	0	3			
+mawsem	mawsim	true	3	0	3			
+mawsem	moosem	true	3	0	3			
+mawsem	mosem	true	3	0	3			
+mawt	maawt	true	3	0	3			
+mawt	maoot	true	2	1	3			a+oo hybrid; موت is typed mawt/mout/moot/mot, not maoot
+mawt	moot	true	3	0	3			
+mawt	mot	true	3	0	3			
+mayl	maayl	true	2	1	3	maayel (مايل, leaning/tilted)		long a reads as the participle مايل, a different word from ميل
+mayl	meel	true	3	0	3			
+mayl	mel	true	3	0	3			
+mayl	mil	true	3	0	3			
+me7tageen	m7tageen	true	3	0	3			
+me7tageen	m7tagen	true	3	0	3			
+me7tageen	me7tagen	true	3	0	3			
+me7tageen	me7tagin	true	3	0	3			
+meen	meien	true	2	1	3			eie cluster is not a Franco rendering of the long ee in meen
+meen	mein	true	3	0	3			
+meen	men	false	1	2	3	men = من (from)		shortened form is the standard spelling of min/men 'from' || reads as the far commoner من (from), not مين (who)
+meen	min	false	1	2	3	min = من (from)		min is the canonical spelling of 'from', not meen 'who' || reads as من (from), a different word from مين (who)
+mennak	menak	true	3	0	3			
+mennak	minak	true	3	0	3			
+mennak	minnak	true	3	0	3			
+mennak	mnak	true	3	0	3			
+mesh	meesh	true	3	0	3			
+mesh	meish	true	3	0	3			
+mesh	miish	true	3	0	3			
+mesh	mish	true	3	0	3			
+mhtmma	mhtma	true	3	0	3			
+mhtmma	mhtmaa	true	3	0	3			
+mhtmma	mhtmah	true	3	0	3			
+mhtmma	mhtmmaa	true	3	0	3			
+million	melion	true	3	0	3			
+million	mellon	true	2	1	3	melon / mellawen ملّون (colored)		mel-lon reads as English melon or ملّون, not the numeral mليون
+million	milion	true	3	0	3			
+million	mlion	true	3	0	3			
+mmarasa	marasa	true	3	0	3			
+mmarasa	marasaa	true	3	0	3			
+mmarasa	mmarasaa	true	3	0	3			
+mmarasa	mmarasaaa	true	3	0	3			
+mmarasat	marasaat	true	3	0	3			
+mmarasat	marasat	true	2	1	3	مارست (marasat = she/I practiced)		dropping the doubled m turns the noun ممارسات into the verb مارست
+mmarasat	mmarasaaat	true	3	0	3			
+mmarasat	mmarasaat	true	3	0	3			
+mmkn	mkn	true	3	0	3			
+mnte2a	mnte2aa	true	3	0	3			
+mnte2a	mnte2ah	true	3	0	3			
+mnte2a	mnti2a	true	3	0	3			
+mnte2a	mnti2aa	true	3	0	3			
+mnte2at	mnte2aaat	true	3	0	3			
+mnte2at	mnte2aat	true	3	0	3			
+mnte2at	mnti2aat	true	3	0	3			
+mnte2at	mnti2at	true	3	0	3			
+mo2assa	mo2asa	true	3	0	3			
+mo2assa	mo2assaa	true	3	0	3			
+mo2assa	mu2asa	true	3	0	3			
+mo2assa	mu2assa	true	3	0	3			
+mo2assasat	mo2asasat	true	3	0	3			
+mo2assasat	mo2assasaat	true	3	0	3			
+mo2assasat	mu2asasat	true	3	0	3			
+mo2assasat	mu2assasat	true	3	0	3			
+mo2tamar	mo2tamaaar	true	3	0	3			
+mo2tamar	mo2tamaar	true	3	0	3			
+mo2tamar	mu2tamaar	true	3	0	3			
+mo2tamar	mu2tamar	true	3	0	3			
+mo3akkada	mo3akada	true	3	0	3			
+mo3akkada	mo3akkadaa	true	3	0	3			
+mo3akkada	mu3akada	true	3	0	3			
+mo3akkada	mu3akkada	true	3	0	3			
+mo3allemeen	mo3alemeen	true	3	0	3			
+mo3allemeen	mo3allemen	true	3	0	3			
+mo3allemeen	mo3allemin	true	3	0	3			
+mo3allemeen	mo3almeen	true	3	0	3			
+mo7adada	mo7adadah	true	3	0	3			
+mo7adada	mohadada	true	3	0	3			
+mo7adada	mu7adada	true	3	0	3			
+mo7adada	muhadada	true	3	0	3			
+mo7afza	mo7afzaa	true	3	0	3			
+mo7afza	mohafza	true	3	0	3			
+mo7afza	mu7afza	true	3	0	3			
+mo7afza	muhafza	true	3	0	3			
+modda	moda	true	2	1	3	moda (موضة, fashion)		'moda' is read as موضة 'fashion' rather than مدة 'period'
+modda	modaa	true	3	0	3			
+modda	modah	true	3	0	3			
+modda	muda	true	3	0	3			
+mofeed	mofed	true	3	0	3			
+mofeed	mofeid	true	3	0	3			
+mofeed	mofid	true	3	0	3			
+mofeed	mufeed	true	3	0	3			
+mogtama3	mogtama	true	3	0	3			
+mogtama3	mogtamaa	true	3	0	3			
+mogtama3	mogtamaa3	true	3	0	3			
+mogtama3	mugtama3	true	3	0	3			
+mohemma	mohema	true	3	0	3			
+mohemma	mohima	true	3	0	3			
+mohemma	mohimma	true	3	0	3			
+mohemma	mohma	true	2	1	3	mohma (mahma, whatever)		medial vowel drop yields مهما, a very common different word
+mokh	mo5	true	3	0	3			
+mokh	mookh	true	3	0	3			
+mokh	mu5	true	3	0	3			
+mokh	mukh	true	3	0	3			
+mokhtalafa	mo5talafa	true	3	0	3			
+mokhtalafa	mokhtalafah	true	3	0	3			
+mokhtalafa	mu5talafa	true	3	0	3			
+mokhtalafa	mukhtalafa	true	3	0	3			
+momayza	momayzah	true	3	0	3			
+momayza	momeiza	true	3	0	3			
+momayza	momeza	true	3	0	3			
+momayza	mumayza	true	3	0	3			
+mosharaka	mosharakaa	true	3	0	3			
+mosharaka	mosharakah	true	3	0	3			
+mosharaka	musharaka	true	3	0	3			
+mosharaka	musharakaa	true	3	0	3			
+moshkela	moshkelaa	true	3	0	3			
+moshkela	moshkelah	true	3	0	3			
+moshkela	moshkila	true	3	0	3			
+moshkela	moshkilaa	true	3	0	3			
+mosta2bal	mosta2baaal	true	2	1	3			triple a in a short closed syllable of مستقبل
+mosta2bal	mosta2baal	true	2	1	3			lengthens the short final a of مستقبل
+mosta2bal	musta2baal	true	2	1	3			lengthens the short final a of مستقبل
+mosta2bal	musta2bal	true	3	0	3			
+mostashfa	mostashfaa	true	3	0	3			
+mostashfa	mostashfaaa	true	3	0	3			
+mostashfa	mustashfa	true	3	0	3			
+mostashfa	mustashfaa	true	3	0	3			
+mostawaat	mostawaaat	true	3	0	3			
+mostawaat	mostawat	true	3	0	3			
+mostawaat	mustawaat	true	3	0	3			
+mostawaat	mustawat	true	3	0	3			
+mot3added	mot3addid	true	3	0	3			
+mot3added	mot3aded	true	3	0	3			
+mot3added	mot3adid	true	3	0	3			
+mot3added	motaadded	true	3	0	3			
+mot7eda	mot7da	true	3	0	3			
+mot7eda	motheda	true	3	0	3			
+mot7eda	mothida	true	3	0	3			
+mot7eda	mut7eda	true	3	0	3			
+motawfera	motawfira	true	3	0	3			
+motawfera	motofera	true	3	0	3			
+motawfera	motoofera	true	2	1	3			aw in motawfera is not a diphthong; no /uu/ in متوفرة
+motawfera	motoofira	true	2	1	3			aw in motawfera is not a diphthong; no /uu/ in متوفرة
+n2dar	n2daaar	true	3	0	3			
+n2dar	n2daar	true	3	0	3			
+n7afez	n7afiz	true	3	0	3			
+n7afez	n7afz	true	3	0	3			
+n7afez	nhafez	true	3	0	3			
+n7afez	nhafiz	true	3	0	3			
+na3mel	na3mil	true	3	0	3			
+na3mel	na3ml	true	3	0	3			
+na3mel	naamel	true	3	0	3	n3amel (نعامل)		
+na3mel	namel	false	1	2	3	naml نمل (ants)		losing the 3 gives نمل 'ants', read as a noun not the verb نعمل || with the 3 gone it reads as نمل 'ants'; نعمل keeps its 3 in practice
+nady	naadi	true	3	0	3			
+nady	naady	true	3	0	3			
+nady	nade	true	3	0	3			
+nady	nadi	true	3	0	3			
+nafsi	nafse	true	3	0	3	nafse = نفسه (himself)		
+nafsi	nafsee	true	3	0	3			
+nafsi	nafsii	true	3	0	3			
+nafsi	nafsy	true	3	0	3			
+nakhod	na5od	true	3	0	3			
+nakhod	na5ud	true	3	0	3			
+nakhod	nakhood	true	3	0	3			
+nakhod	nakhud	true	3	0	3			
+nashat	nashaaat	true	3	0	3			
+nashat	nashaat	true	3	0	3			
+nashr	naaashr	false	1	2	3	naasher (publisher)		3x 'a' on the short vowel of نشر; not a typed form || stretched a still reads as naasher 'publisher', not nashr
+nashr	naashr	false	1	2	3	nasher (ناشر)		lengthened a gives the active participle nasher 'publisher' || long a gives naasher 'publisher', not nashr 'publishing'
+nass	naaass	true	3	0	3			
+nass	naas	true	3	0	3	ناس (naas, people)		
+nass	naass	true	3	0	3			
+nass	nas	true	3	0	3	ناس (nas, people)		
+nehayya	nehaya	true	3	0	3			
+nehayya	nehayah	true	3	0	3			
+nehayya	nhaya	true	3	0	3			
+nehayya	nihaya	true	3	0	3			
+nkoon	nkon	true	3	0	3			
+nkoon	nkooon	true	3	0	3			
+nkoon	nkoooon	true	3	0	3			
+nkoon	nkun	true	3	0	3			
+no2ta	no2taa	true	3	0	3			
+no2ta	no2tah	true	3	0	3			
+no2ta	nu2ta	true	3	0	3			
+no2ta	nu2taa	true	3	0	3			
+no3	noa	true	3	0	3			
+no3	noaa	true	3	0	3			
+no3	noah	false	0	3	3	Noah / نوح		reads as the name Noah / نوح, not نوع || no final -h device for 3ayn; the string reads as the name Noah || reads as the name Noah/Nuh, not نوع
+no3	noo3	true	3	0	3			
+noom	nom	true	3	0	3			
+noom	nooom	true	3	0	3			
+noom	noooom	true	3	0	3			
+noom	num	true	3	0	3			
+nshof	nshoof	true	3	0	3			
+nshof	nshooof	true	3	0	3			
+nshof	nshuf	true	3	0	3			
+nshof	nshuuf	true	3	0	3			
+osbo3	osboa	true	2	1	3			final 3 after long -oo is never rewritten as -a
+osbo3	osboo3	true	3	0	3			
+osbo3	osbua	true	2	1	3			final 3 after long -oo is never rewritten as -a
+osbo3	usbo3	true	3	0	3			
+ra2ees	ra2eis	true	3	0	3			
+ra2ees	ra2es	true	3	0	3			
+ra2ees	ra2is	true	3	0	3			
+ra2ees	ra2s	false	0	3	3	ra2s (رأس, head)		dropping the long vowel yields رأس 'head', a different high-frequency word || stressed long ee is not dropped here; ra2s reads as head/dancing || dropping the long vowel gives رأس 'head', the obvious reading
+ra2eesi	ra2eesy	true	3	0	3			
+ra2eesi	ra2eisi	true	3	0	3			
+ra2eesi	ra2esy	true	3	0	3			
+ra2eesi	ra2si	false	1	2	3	ra2si رأسي (vertical / my head)		dropping the ee yields رأسي, a distinct common word, not رئيسي || ra2si is the standard spelling of رأسي, not رئيسي
+ra2m	raa2m	true	3	0	3			
+ra2m	raaa2m	true	2	1	3			3x 'a' on a short closed syllable of رقم; mechanical, never typed
+ra2y	ra2e	true	3	0	3			
+ra2y	ra2i	true	3	0	3			
+ra2y	ra2ii	true	3	0	3	ra2yi (رأيي, my opinion)		
+ra2y	raa2y	true	3	0	3			
+rasmy	raasmi	true	3	0	3			
+rasmy	raasmy	true	3	0	3			
+rasmy	rasme	true	3	0	3			
+rasmy	rasmi	true	3	0	3			
+rayyes	rayes	true	3	0	3			
+rayyes	rayis	true	3	0	3			
+rayyes	rayyis	true	3	0	3			
+rayyes	reyes	true	3	0	3			
+rghm	r8m	true	3	0	3			
+ro2ya	ro2yaa	true	3	0	3			
+ro2ya	ro2yah	true	3	0	3			
+ro2ya	ru2ya	true	3	0	3			
+ro2ya	ru2yaa	true	3	0	3			
+ro7	roh	true	3	0	3			
+ro7	roo7	true	3	0	3			
+ro7	rooh	true	3	0	3			
+ro7	ru7	true	3	0	3			
+sa3a	sa3aa	true	3	0	3			
+sa3a	sa3aaa	true	3	0	3			
+sa3a	sa3aah	true	3	0	3			
+sa3a	sa3ah	true	3	0	3			
+sa3at	sa3aaat	true	3	0	3			
+sa3at	sa3aat	true	3	0	3			
+sa3b	saa3b	true	3	0	3			
+sa3b	saaab	false	1	2	3	ساب (saab, he left)		3-drop produces the common verb ساب, just stretched || reads as an elongated ساب, not صعب
+sa3b	saab	false	1	2	3	ساب (saab, he left)		3-drop produces the common verb ساب || reads as ساب, not صعب
+sa3b	sab	false	1	2	3	ساب / سب (saab, left / insulted)		صعب with the 3 dropped is read as ساب or سب || reads as سب 'cursed' or ساب 'left', not صعب
+sa3eed	sa3d	false	0	3	3	sa3d = سعد (Saad / good fortune)		vowel drop yields the distinct name/word Saad, not sa3eed || drops the long ee; sa3d reads as the name Saad, not sa3eed || vowel drop lands on سعد, a distinct name/word, not سعيد
+sa3eed	sa3ed	false	1	2	3	sa3ed = ساعد (helped / forearm)		shortening ee reads as saa3ed = helped/forearm, not sa3eed 'happy' || reads as ساعد (he helped / arm), not سعيد
+sa3eed	sa3eid	true	3	0	3			
+sa3eed	sa3id	true	3	0	3			
+sa7	sa	false	0	3	3			the ح is gone entirely; bare 'sa' is not readable as صح || deleting the 7 leaves a bare sa; nobody writes sa7 as sa || the ح is gone entirely; bare 'sa' is not readable as صح
+sa7	saa7	true	2	1	3	صاح (he shouted)		saa7 is the ordinary spelling of صاح, not صح
+sa7	saah	true	2	1	3	صاح (he shouted)		same shape as صاح with h for ح, not صح
+sa7	sah	true	3	0	3			
+sa7by	sa7be	true	3	0	3			
+sa7by	sa7bi	true	3	0	3			
+sa7by	sahbi	true	3	0	3			
+sa7by	sahby	true	3	0	3			
+sa7et	sa7eet	true	2	1	3	sa7eet صحيت (I woke up)		s-7-t skeleton with long ee reads as صحيت
+sa7et	sa7it	true	3	0	3			
+sa7et	sa7t	true	3	0	3			
+sa7et	sahet	true	3	0	3			
+sa7y	sa7e	true	3	0	3			
+sa7y	sa7i	true	3	0	3			
+sa7y	sahi	true	3	0	3			
+sa7y	sahy	true	3	0	3			
+saf7a	saf7aa	true	3	0	3			
+saf7a	saf7aaa	true	3	0	3			
+saf7a	safha	true	3	0	3			
+saf7a	safhaa	true	3	0	3			
+sam3et	sam3it	true	3	0	3			
+sam3et	sam3t	true	3	0	3			
+sam3et	samaet	true	3	0	3			
+sam3et	samat	true	3	0	3	samat (silence)		
+sawt	saawt	true	3	0	3			
+sawt	saoot	true	2	1	3			aoo double-encodes aw plus long o; /soot/ is not typed saoot
+sawt	soot	true	3	0	3			
+sawt	sot	true	3	0	3			
+sbeel	sbeiel	true	2	1	3			e-i-e run is unproducible; سبيل is sbeel/sbil/sbeil
+sbeel	sbeil	true	3	0	3			
+sbeel	sbel	true	3	0	3			
+sbeel	sbil	true	3	0	3			
+sedy	sdi	true	3	0	3			
+sedy	sede	true	3	0	3			
+sedy	seedy	true	3	0	3			
+sedy	sidy	true	3	0	3			
+settat	setaat	true	3	0	3			
+settat	setat	true	3	0	3			
+settat	sitat	true	3	0	3			
+settat	stat	true	3	0	3			
+setty	seety	true	3	0	3			
+setty	seti	true	3	0	3			
+setty	sety	true	3	0	3			
+setty	sity	true	3	0	3			
+sha2	shaa2	true	3	0	3			
+sha2	shaaa2	true	3	0	3			
+sha3b	shaa3b	true	3	0	3			
+sha3b	shaaab	false	1	2	3	shab شاب (young man)		3 lost; elongated شاب reading, not شعب || Elongated شاب is the natural reading; شعب lost with the dropped 3.
+sha3b	shaab	false	1	2	3	شاب (shaab, young man)		3->a gives شاب 'young man', not شعب || With the 3 gone the natural reading is شاب, far commoner than شعب.
+sha3b	shab	false	1	2	3	شاب (shab, young man)		reads as شاب 'young man', not شعب || Reads as شاب (guy); شعب is not recoverable from this form.
+shabab	shabaaab	true	3	0	3			
+shabab	shabaab	true	3	0	3			
+shabakat	shabakaaat	true	3	0	3			
+shabakat	shabakaat	true	3	0	3			
+shabka	shabkaa	true	3	0	3			
+shabka	shabkaaa	true	3	0	3			
+shabka	shabkaah	true	3	0	3			
+shabka	shabkah	true	3	0	3			
+shagara	shagaraa	true	3	0	3			
+shagara	shagaraaa	true	3	0	3			
+shahada	shahadaa	true	3	0	3			
+shahada	shahadaaa	true	3	0	3			
+shahr	shaaahr	true	3	0	3			
+shahr	shaahr	true	3	0	3			
+shaif	shaaf	false	1	2	3	shaaf (شاف, he saw)		participle شايف (seeing) becomes past-tense شاف (he saw) || shaaf is unambiguously the past verb 'he saw', a different form
+shaif	shaf	false	1	2	3	shaf (شاف, he saw)		drops the ي of شايف; reads as the past tense شاف (he saw) || shaf is the past-tense verb 'he saw', not the participle shaif = seeing
+shaif	shaiif	true	2	1	3			'aii' is not an Egyptian Franco sequence; شايف is shaif/shayef
+shaif	shaiiif	true	2	1	3			'aiii' is not an Egyptian Franco sequence
+shakhs	sha5s	true	3	0	3			
+shakhs	shaa5s	true	3	0	3			
+shakhs	shaaakhs	true	3	0	3			
+shakhs	shaakhs	true	3	0	3			
+shakhsyan	sha5syaan	true	3	0	3			
+shakhsyan	sha5syan	true	3	0	3			
+shakhsyan	shakhsyaaan	true	3	0	3			
+shakhsyan	shakhsyaan	true	3	0	3			
+shakl	shaaakl	true	2	1	3			tripled vowel before the kl cluster; not a shape Egyptians type
+shakl	shaakl	true	2	1	3	شاكل (participle)		a single lengthened aa reads as شاكل 'resembling', not شكل
+shams	shaaams	true	3	0	3			
+shams	shaams	true	3	0	3			
+shar	shaaar	true	3	0	3			
+shar	shaar	true	2	1	3	shaar ~ شعر (hair, with 3 dropped)		long aa with no 3 reads as شعر (hair), not شر
+shar2	shaaar2	true	3	0	3			
+shar2	shaar2	true	3	0	3			
+share3	shar3	false	1	2	3	shar3 شرع (law)		reads as شرع 'law', not شارع 'street' || Reads as شرع, a different word from شارع (street).
+share3	sharea	true	3	0	3			
+share3	shari3	true	3	0	3			
+share3	sharia	false	1	2	3	شريعة (sharia, Islamic law)		standard spelling of شريعة, not شارع || Any reader lands on شريعة, not شارع.
+shareka	sharekaa	true	3	0	3			
+shareka	sharika	true	3	0	3			
+shareka	sharikaa	true	3	0	3			
+shareka	sharka	true	3	0	3			
+sharekat	sharekaat	true	3	0	3			
+sharekat	sharikaat	true	3	0	3			
+sharekat	sharikat	true	3	0	3			
+sharekat	sharkat	true	3	0	3			
+shmal	shmaaal	true	3	0	3			
+shmal	shmaal	true	3	0	3			
+shoft	shooft	true	3	0	3			
+shoft	shoooft	true	3	0	3			
+shoft	shuft	true	3	0	3			
+shoft	shuuft	true	3	0	3			
+shoghl	sho8l	true	3	0	3			
+shoghl	shooghl	true	3	0	3			
+shoghl	shu8l	true	3	0	3			
+shoghl	shughl	true	3	0	3			
+shwaya	shwayaa	true	3	0	3			
+shwaya	shwayaaa	true	3	0	3			
+shy	she	true	3	0	3			
+shy	shi	true	3	0	3			
+shy	shii	true	3	0	3			
+sneen	sneien	true	2	1	3			e-i-e cluster; attested forms are sneen/snen/snin/snein only
+sneen	snein	true	3	0	3			
+sneen	snen	true	3	0	3			
+sneen	snin	true	3	0	3			
+so2	soo2	true	3	0	3			
+so2	sooo2	true	3	0	3			
+so2	su2	true	3	0	3			
+so2	suu2	true	3	0	3			
+so2al	so2aaal	true	3	0	3			
+so2al	so2aal	true	3	0	3			
+so2al	su2aal	true	3	0	3			
+so2al	su2al	true	3	0	3			
+soghayara	so8ayara	true	3	0	3			
+soghayara	soghayaraa	true	3	0	3			
+soghayara	su8ayara	true	3	0	3			
+soghayara	sughayara	true	3	0	3			
+sokkan	sokaan	true	3	0	3			
+sokkan	sokan	true	3	0	3	sokan (سكن, housing)		
+sokkan	sukan	true	3	0	3			
+sokkan	sukkan	true	3	0	3			
+sokkar	sokar	true	3	0	3			
+sokkar	sokkaar	true	3	0	3			
+sokkar	sukar	true	3	0	3			
+sokkar	sukkar	true	3	0	3			
+t3raf	t3raaaf	true	3	0	3			
+t3raf	t3raaf	true	3	0	3			
+t3raf	taraaf	true	2	1	3	طرف / أطراف		3 dropped; reads as a طرف-family word, not تعرف
+t3raf	taraf	false	1	2	3	taraf = طرف (edge / party)		3-drop lands on taraf 'edge/party'; te3raf keeps a different vowel shape || 3 dropped; reader lands on طرف, a common different word
+t7leel	t7lel	true	3	0	3			
+t7leel	t7lil	true	3	0	3			
+t7leel	thleel	true	2	1	3			t7 -> th reads as ث; digit-free form is 'tahleel'
+t7leel	thlel	true	2	1	3			t7 -> th reads as ث; digit-free form is 'tahlil', not 'thlel'
+ta2a	ta2aa	true	3	0	3			
+ta2a	ta2aaa	true	3	0	3			
+ta2a	ta2aah	true	3	0	3			
+ta2a	ta2ah	true	3	0	3			
+ta2seer	ta2seir	true	3	0	3			
+ta2seer	ta2ser	true	3	0	3			
+ta2seer	ta2sir	true	3	0	3			
+ta2seer	ta2sr	true	3	0	3			
+ta3awn	ta3aawn	true	3	0	3			
+ta3awn	ta3aoon	true	3	0	3			
+ta3awn	ta3on	true	2	1	3	طاعون (ta3oon/ta3on = plague)		same skeleton as طاعون; reader lands on plague, not cooperation
+ta3awn	ta3oon	true	2	1	3	طاعون (ta3oon = plague)		ta3oon is the ordinary spelling of طاعون, not تعاون
+ta3leem	ta3lem	true	3	0	3			
+ta3leem	ta3lim	true	3	0	3			
+ta3leem	ta3lm	true	2	1	3	تعلّم (he learned)		the vowelless skeleton reads as the verb تعلم, not the noun تعليم
+ta3leem	taalem	true	2	1	3	تعلّم / تعلم		losing ع and the long ee yields the verb تعلم rather than تعليم
+ta7t	taa7t	true	3	0	3			
+ta7t	taaa7t	true	2	1	3			tripled vowel before the 7t cluster; not a shape Egyptians type
+ta7t	taaht	true	3	0	3			
+ta7t	taht	true	3	0	3			
+tab3an	tab3aan	true	3	0	3			
+tab3an	tabaaan	true	2	1	3	تعبان (ta3ban, tired)		3-drop makes طبعا collide with تعبان written without the 3
+tab3an	tabaan	false	1	2	3	تعبان (ta3ban, tired)		3-drop makes طبعا collide with تعبان written without the 3 || reads as ta3baan تعبان with the 3 dropped, not طبعا
+tab3an	taban	false	1	2	3	تعبان (ta3ban, tired)		3-drop makes طبعا collide with تعبان written without the 3 || reads as تعبان 'tired', not طبعا
+tabee3y	tabe3i	true	3	0	3			
+tabee3y	tabe3y	true	3	0	3			
+tabee3y	tabee3i	true	3	0	3			
+tabee3y	tabi3y	true	3	0	3			
+tadreeb	tadreb	true	3	0	3			
+tadreeb	tadreib	true	3	0	3			
+tadreeb	tadreieb	true	2	1	3			'eie' is not a sequence Franco writers produce
+tadreeb	tadrib	true	3	0	3			
+tafaseel	tafaseil	true	3	0	3			
+tafaseel	tafasel	true	3	0	3			
+tafaseel	tafasil	true	3	0	3			
+tafaseel	tafasl	true	3	0	3			
+tafkeer	tafkeier	true	2	1	3			e-i-e run; no Egyptian types this for تفكير (tafkeer/tafkeir/tafkir)
+tafkeer	tafkeir	true	3	0	3			
+tafkeer	tafker	true	3	0	3			
+tafkeer	tafkir	true	3	0	3			
+taghyir	ta8yer	true	3	0	3			
+taghyir	ta8yir	true	3	0	3			
+taghyir	taghyeer	true	3	0	3			
+taghyir	taghyer	true	3	0	3			
+taghyirat	ta8yerat	true	3	0	3			
+taghyirat	ta8yirat	true	3	0	3			
+taghyirat	taghyerat	true	3	0	3			
+taghyirat	taghyiraat	true	3	0	3			
+tahdeed	tahded	true	3	0	3			
+tahdeed	tahdeid	true	3	0	3			
+tahdeed	tahdeied	true	2	1	3			'eie' is not a sequence Franco writers produce
+tahdeed	tahdid	true	3	0	3			
+tahseen	tahseien	true	2	1	3			'seien' vowel pile-up; no Egyptian types this
+tahseen	tahsein	true	3	0	3			
+tahseen	tahsen	true	3	0	3	tahsen = تحسّن (improve / improvement)		
+tahseen	tahsin	true	3	0	3			
+tamareen	tamarein	true	3	0	3			
+tamareen	tamaren	true	3	0	3			
+tamareen	tamarin	true	3	0	3			
+tamareen	tamarn	true	2	1	3	tamarran تمرّن (he trained/practiced)		dropping the ee leaves a verb form تمرّن, not the plural noun تمارين
+tany	taani	true	3	0	3			
+tany	taany	true	3	0	3			
+tany	tane	true	3	0	3			
+tany	tani	true	3	0	3			
+taqdeem	taqdeiem	true	2	1	3			eie cluster is not a Franco rendering of the long ee in taqdeem
+taqdeem	taqdeim	true	3	0	3			
+taqdeem	taqdem	true	3	0	3			
+taqdeem	taqdim	true	3	0	3			
+taqleel	taqleeel	true	3	0	3			
+taqleel	taqleiel	true	2	1	3			'leiel' vowel pile-up; unreadable as Franco
+taqleel	taqleil	true	3	0	3			
+taqleel	taqlil	true	3	0	3			
+taqreeban	taqreban	true	3	0	3			
+taqreeban	taqreibaan	true	3	0	3			
+taqreeban	taqreiban	true	3	0	3			
+taqreeban	taqriban	true	3	0	3			
+taqreer	taqreier	true	2	1	3			'eie' is not a sequence Franco writers produce
+taqreer	taqreir	true	3	0	3			
+taqreer	taqrer	true	3	0	3			
+taqreer	taqrir	true	3	0	3			
+taqyeem	taqyeiem	true	2	1	3			'yeiem' vowel pileup is not a sequence anyone types
+taqyeem	taqyeim	true	3	0	3			
+taqyeem	taqyem	true	3	0	3			
+taqyeem	taqyim	true	3	0	3			
+taredd	tard	false	1	2	3	tard (طرد, parcel / expulsion)		reads as tard طرد 'parcel/expulsion', not teredd تردّ 'you reply' || tard is a very common noun طرد; nobody reads it as تردّ
+taredd	tared	true	2	1	3	tared (طارد, repelling)		tared is the ordinary spelling of طارد; ت/ط are both t in Franco
+taredd	tareed	true	3	0	3			
+taredd	taridd	true	3	0	3			
+tareekh	tare5	true	3	0	3			
+tareekh	taree5	true	3	0	3			
+tareekh	tarekh	true	3	0	3			
+tareekh	tarikh	true	3	0	3			
+tareeq	tareiq	true	3	0	3			
+tareeq	tareq	false	1	2	3	طارق (Tarek)		in isolation reads as the man's name Tarek طارق || this is the standard spelling of the name Tareq, not طريق
+tareeq	tariq	false	1	2	3	طارق (Tariq)		this is the standard spelling of the name Tariq طارق || this is the standard spelling of the name Tariq, not طريق
+tareeq	tarq	false	0	3	3	طرق (tar2/turu2)		long vowel gone: reads as طرق (knocking/roads), not طريق || long ee is not droppable in Franco; tarq reads as 6ore2/tor2 instead || losing the long vowel yields طرق, a distinct word
+tasmeem	tasmeiem	true	2	1	3			no one writes an 'eie' cluster; تصميم is tasmeem/tasmim, never tasmeiem
+tasmeem	tasmeim	true	3	0	3			
+tasmeem	tasmem	true	3	0	3			
+tasmeem	tasmim	true	3	0	3			
+tasweer	tasweier	true	2	1	3			e-i-e run; تصوير is tasweer/tasweir/taswir, never tasweier
+tasweer	tasweir	true	3	0	3			
+tasweer	taswer	true	3	0	3			
+tasweer	taswir	true	3	0	3			
+tatweer	tatweier	true	2	1	3			e-i-e run; تطوير is tatweer/tatweir/tatwir, never tatweier
+tatweer	tatweir	true	3	0	3			
+tatweer	tatwer	true	3	0	3			
+tatweer	tatwir	true	3	0	3			
+taw3eya	taw3iya	true	3	0	3			
+taw3eya	taw3ya	true	3	0	3			
+taw3eya	tawaeya	true	2	1	3			digit-free ع gives taweya/tawaya; the 'aey' pileup is not typed
+taw3eya	tawaiya	true	2	1	3			digit-free ع gives tawiya/tawaya; the 'aiy' pileup is not typed
+tawfeer	tawfer	true	3	0	3			
+tawfeer	tawfir	true	3	0	3			
+tawfeer	tofeer	true	3	0	3			
+tawfeer	toofeer	true	3	0	3			
+tawseel	tawsel	true	3	0	3			
+tawseel	tawsil	true	3	0	3			
+tawseel	tooseel	true	3	0	3			
+tawseel	toosel	true	3	0	3			
+tawzee3	tawze3	true	3	0	3			
+tawzee3	tawzeea	true	3	0	3			
+tawzee3	tawzi3	true	3	0	3			
+tawzee3	toozee3	true	3	0	3			
+te2dar	t2dar	true	3	0	3			
+te2dar	te2daar	true	3	0	3			
+te2dar	ti2daar	true	3	0	3			
+te2dar	ti2dar	true	3	0	3			
+te3mel	t3mel	true	3	0	3			
+te3mel	tamel	true	3	0	3			
+te3mel	te3meel	true	3	0	3			
+te3mel	te3mil	true	3	0	3			
+te5ally	te5alli	true	3	0	3			
+te5ally	te5aly	true	3	0	3			
+te5ally	tekhalli	true	3	0	3			
+te5ally	tekhally	true	3	0	3			
+teb2a	tb2a	true	3	0	3			
+teb2a	teb2aa	true	3	0	3			
+teb2a	tib2a	true	3	0	3			
+teb2a	tib2aa	true	3	0	3			
+tekoon	tekon	true	3	0	3			
+tekoon	tekun	true	3	0	3			
+tekoon	tkon	true	3	0	3			
+tekoon	tkoon	true	3	0	3			
+tes3ed	tes3d	true	3	0	3			
+tes3ed	tes3eed	true	2	1	3	tas3eed تصعيد (escalation)		taf3eel masdar shape reads as تصعيد, not the verb تسعد
+tes3ed	tes3id	true	3	0	3			
+tes3ed	tesad	true	3	0	3			
+testakhdem	testa5dem	true	3	0	3			
+testakhdem	testa5dm	true	3	0	3			
+testakhdem	tista5dem	true	3	0	3			
+testakhdem	tistakhdem	true	3	0	3			
+thanawy	thanawe	true	3	0	3			
+thanawy	thanawi	true	3	0	3			
+thanawy	thanooi	true	3	0	3			
+thanawy	thanooy	true	3	0	3			
+thani	thane	true	3	0	3			
+thani	thanee	true	3	0	3			
+thani	thanii	true	3	0	3			
+thani	thany	true	3	0	3			
+thawra	thawraa	true	3	0	3			
+thawra	thoora	true	3	0	3			
+thawra	thooraa	true	3	0	3			
+thawra	thora	true	3	0	3			
+tool	tol	true	3	0	3			
+tool	toool	true	3	0	3			
+tool	tooool	true	3	0	3			
+tool	tul	true	3	0	3			
+tshof	tshoof	true	3	0	3			
+tshof	tshooof	true	3	0	3			
+tshof	tshuf	true	3	0	3			
+tshof	tshuuf	true	3	0	3			
+wa2t	waa2t	true	3	0	3			
+wa2t	waaa2t	true	2	1	3			tripled vowel before the 2t cluster; not a shape Egyptians type
+wa3y	wa3e	true	3	0	3			
+wa3y	wa3i	true	3	0	3			
+wa3y	waay	true	2	1	3	واي / stretched 'waay' interjection		3 dropped; reads as a stretched interjection, not وعي
+wa3y	way	false	1	2	3	way = وي / English 'way'		dropping 3 leaves 'way'; no reader recovers wa3y = awareness || 3 dropped; a reader lands on English 'way', not وعي
+wa7ed	wa7d	true	2	1	3	وحد (wa7d, 'alone')		dropping the long aa gives the وحد stem (wa7dy/lo7do), not واحد
+wa7ed	wa7id	true	3	0	3			
+wa7ed	wahed	true	3	0	3			
+wa7ed	wahid	true	3	0	3			
+wad3	waad3	true	2	1	3	waad3 (واضع, placing)		lengthens the short a of وضع; reads as واضع
+wad3	waada	false	1	2	3	wada (ودّى, took/delivered)		ع dropped: long-vowel form still reads as ودّى, not وضع || drops the 3 and doubles the a; وضع is never typed this way
+wad3	wada	false	1	2	3	wada (ودّى, took/delivered)		ع dropped: reads as ودّى (took it somewhere), not وضع || Without the 3 it reads as the common verb wadda = he took it somewhere
+wad3	wadah	false	1	2	3	wadah (ودّاه, he took him)		وضع has no ة; ع dropped plus -h reads as ودّاه, not وضع || Added h reads as the pronoun-suffixed 'his situation', not bare wad3
+wallah	wala	false	1	2	3	wala (ولا, nor / not even)		wala is the standard spelling of ولا 'nor/not even', a different word || reads as ولا 'nor/not even', a different high-frequency word
+wallah	walah	true	3	0	3			
+wallah	walla	false	1	2	3	walla (ولّا, or)		walla is the ordinary spelling of ولّا 'or', read as a conjunction not an oath || reads as the extremely common ولّا 'or', not the oath والله
+wallah	wallaah	true	3	0	3			
+wallahy	walahi	true	3	0	3			
+wallahy	walahy	true	3	0	3			
+wallahy	wallahe	true	3	0	3			
+wallahy	wallahi	true	3	0	3			
+wara2a	wara2aa	true	3	0	3			
+wara2a	wara2aaa	true	3	0	3			
+wase3	was3	true	3	0	3			
+wase3	wasa	false	1	2	3	wassa وصّى (to instruct/leave a will)		3-drop plus vowel drop lands on وصى 'he instructed', not واسع || wasa reads as the very common verb وصّى, not the adjective واسع
+wase3	wasi3	true	3	0	3			
+wase3	wasia	true	2	1	3	wasiya وصية (will/testament)		wasia is the ordinary spelling of وصية, not of واسع
+watany	wataany	true	3	0	3			
+watany	watane	true	3	0	3			
+watany	watani	true	3	0	3			
+watany	watanii	true	3	0	3			
+wazeer	wazeir	true	3	0	3			
+wazeer	wazer	true	3	0	3			
+wazeer	wazir	true	3	0	3			
+wazeer	wazr	false	1	2	3	wazr (وزر, burden/sin)		dropping the long ee leaves وزر (burden/sin), not وزير (minister) || Dropping both vowels yields wizr = burden, a real distinct word
+wba3deen	wba3dein	true	3	0	3			
+wba3deen	wba3den	true	3	0	3			
+wba3deen	wba3din	true	3	0	3			
+wba3deen	wbaadeen	true	3	0	3			
+welaayat	welayat	true	3	0	3			
+welaayat	wilaayat	true	3	0	3			
+welaayat	wilayat	true	3	0	3			
+welaayat	wlaayat	true	3	0	3			
+welly	welle	true	3	0	3			
+welly	welli	true	3	0	3			
+welly	wely	true	3	0	3			
+welly	willy	true	3	0	3			
+wlady	wlaady	true	3	0	3			
+wlady	wlade	true	3	0	3			
+wlady	wladi	true	3	0	3			
+wlady	wladii	true	3	0	3			
+wogood	wogod	true	3	0	3			
+wogood	wogoood	true	3	0	3			
+wogood	wogud	true	3	0	3			
+wogood	wugood	true	3	0	3			
+wosool	wosol	true	3	0	3			
+wosool	wosoool	true	3	0	3			
+wosool	wosul	true	3	0	3			
+wosool	wusool	true	3	0	3			
+ya3ny	ya3ne	true	3	0	3			
+ya3ny	ya3ni	true	3	0	3			
+ya3ny	yaany	true	3	0	3			
+ya3ny	yany	true	3	0	3			
+yawmeyya	yawmeya	true	3	0	3			
+yawmeyya	yawmeyah	true	3	0	3			
+yawmeyya	yawmiya	true	3	0	3			
+yawmeyya	yoomeya	true	3	0	3			
+ykoon	ykon	true	3	0	3			
+ykoon	ykooon	true	3	0	3			
+ykoon	ykoooon	true	3	0	3			
+ykoon	ykun	true	3	0	3			
+youm	yom	true	3	0	3			
+youm	yoom	true	3	0	3			
+youm	yooom	true	3	0	3			
+youm	youum	true	3	0	3			
+zayt	zaayt	true	3	0	3			
+zayt	zeet	true	3	0	3			
+zayt	zet	true	3	0	3			
+zayt	zit	true	3	0	3			
+zera3a	zera3aa	true	3	0	3			
+zera3a	zira3a	true	3	0	3			
+zera3a	zira3aa	true	3	0	3			
+zera3a	zra3a	true	3	0	3			

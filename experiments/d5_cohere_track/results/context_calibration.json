@@ -1,0 +1,12 @@
+{
+ "auc": 0.873,
+ "threshold": 0.2328,
+ "n_same": 47,
+ "n_different": 30,
+ "n_skipped": 25,
+ "usable": true,
+ "calibrated_on": "data/benchmark/pairs.csv (human-authored arm)",
+ "skip_top": 20,
+ "ctx_vocab": 1500,
+ "window": 2
+}

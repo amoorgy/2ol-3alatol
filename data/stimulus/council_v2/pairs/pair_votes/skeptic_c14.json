@@ -1,0 +1,1802 @@
+[
+ {
+  "sid": "alyia->alyah",
+  "rid": "alyia->alyah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amerikey->ameriki",
+  "rid": "amerikey->ameriki",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amerikia->amerika",
+  "rid": "amerikia->amerika",
+  "v": false,
+  "why": "reads as the country name America (أمريكا), not the adjective American"
+ },
+ {
+  "sid": "amerikia->amerikaa",
+  "rid": "amerikia->amerikaa",
+  "v": false,
+  "why": "reads as the country name America (أمريكا), not the adjective American"
+ },
+ {
+  "sid": "amerikia->amirika",
+  "rid": "amerikia->amirika",
+  "v": false,
+  "why": "reads as the country name America (أمريكا), not the adjective American"
+ },
+ {
+  "sid": "amerkey->amerki",
+  "rid": "amerkey->amerki",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ammonia->ammona",
+  "rid": "ammonia->ammona",
+  "v": false,
+  "why": "reads as the Egyptian pet name Amouna (أمونة)"
+ },
+ {
+  "sid": "ammonia->ammuna",
+  "rid": "ammonia->ammuna",
+  "v": false,
+  "why": "reads as the Egyptian pet name Amouna (أمونة)"
+ },
+ {
+  "sid": "amonia->amona",
+  "rid": "amonia->amona",
+  "v": false,
+  "why": "reads as the Egyptian pet name Amouna (أمونة)"
+ },
+ {
+  "sid": "amonia->amuna",
+  "rid": "amonia->amuna",
+  "v": false,
+  "why": "reads as the Egyptian pet name Amouna (أمونة)"
+ },
+ {
+  "sid": "amreekyia->amreekya",
+  "rid": "amreekyia->amreekya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekea->amreka",
+  "rid": "amrekea->amreka",
+  "v": false,
+  "why": "reads as the country name America (أمريكا), not the adjective American"
+ },
+ {
+  "sid": "amrekea->amrika",
+  "rid": "amrekea->amrika",
+  "v": false,
+  "why": "reads as the country name America (أمريكا), not the adjective American"
+ },
+ {
+  "sid": "amrekeia->amrekea",
+  "rid": "amrekeia->amrekea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekeia->amrekia",
+  "rid": "amrekeia->amrekia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekeia->amrekiaa",
+  "rid": "amrekeia->amrekiaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekeia->amrikea",
+  "rid": "amrekeia->amrikea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekeia->amrikia",
+  "rid": "amrekeia->amrikia",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekyia->amrekya",
+  "rid": "amrekyia->amrekya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekyia->amrekyaa",
+  "rid": "amrekyia->amrekyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "amrekyia->amrikya",
+  "rid": "amrekyia->amrikya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "anemia->anema",
+  "rid": "anemia->anema",
+  "v": false,
+  "why": "collides with English 'enema', a different medical term"
+ },
+ {
+  "sid": "anemia->anemaa",
+  "rid": "anemia->anemaa",
+  "v": false,
+  "why": "collides with English 'enema', a different medical term"
+ },
+ {
+  "sid": "animation->anematon",
+  "rid": "animation->anematon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "animation->animaton",
+  "rid": "animation->animaton",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "animation->animatoon",
+  "rid": "animation->animatoon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "animation->animatun",
+  "rid": "animation->animatun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ardia->arda",
+  "rid": "ardia->arda",
+  "v": false,
+  "why": "arda reads as عرضة (prone, initial ع dropped) or أرضه"
+ },
+ {
+  "sid": "ardia->ardaa",
+  "rid": "ardia->ardaa",
+  "v": false,
+  "why": "ardaa reads as عرضة (prone, initial ع dropped) or أرضه"
+ },
+ {
+  "sid": "artia7->arta7",
+  "rid": "artia7->arta7",
+  "v": false,
+  "why": "arta7 reads as the verb أرتاح (I relax), not the noun ارتياح"
+ },
+ {
+  "sid": "artia7->artah",
+  "rid": "artia7->artah",
+  "v": false,
+  "why": "artah reads as the verb أرتاح (I relax), not the noun ارتياح"
+ },
+ {
+  "sid": "asasia->asasa",
+  "rid": "asasia->asasa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "asasia->asasaa",
+  "rid": "asasia->asasaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "asasyia->asasya",
+  "rid": "asasyia->asasya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "asasyia->asasyaa",
+  "rid": "asasyia->asasyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "asasyia->asasyah",
+  "rid": "asasyia->asasyah",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "asia->asa",
+  "rid": "asia->asa",
+  "v": false,
+  "why": "asa reads as عصا (stick, initial ع dropped) or أسى (sorrow)"
+ },
+ {
+  "sid": "asia->asaa",
+  "rid": "asia->asaa",
+  "v": false,
+  "why": "asaa reads as عصا (stick, initial ع dropped) or أسى (sorrow)"
+ },
+ {
+  "sid": "aslia->asla",
+  "rid": "aslia->asla",
+  "v": false,
+  "why": "asla is the very common Franco for أصلا (at all/originally)"
+ },
+ {
+  "sid": "aslia->aslaa",
+  "rid": "aslia->aslaa",
+  "v": false,
+  "why": "aslaa reads as أصلا (at all/originally), a different word"
+ },
+ {
+  "sid": "aslia->aslah",
+  "rid": "aslia->aslah",
+  "v": false,
+  "why": "aslah reads as أصلح (better/to fix), a different word"
+ },
+ {
+  "sid": "aw3ia->aw3a",
+  "rid": "aw3ia->aw3a",
+  "v": false,
+  "why": "aw3a is the common Egyptian اوعى (watch out!)"
+ },
+ {
+  "sid": "aw3ia->aw3aa",
+  "rid": "aw3ia->aw3aa",
+  "v": false,
+  "why": "aw3aa reads as Egyptian اوعى (watch out!)"
+ },
+ {
+  "sid": "awael->awal",
+  "rid": "awael->awal",
+  "v": false,
+  "why": "awal is أول (first), a different word from أوائل"
+ },
+ {
+  "sid": "awail->awal",
+  "rid": "awail->awal",
+  "v": false,
+  "why": "awal is أول (first), a different word from أوائل"
+ },
+ {
+  "sid": "away->awi",
+  "rid": "away->awi",
+  "v": false,
+  "why": "awi is the ubiquitous Franco for أوي (very)"
+ },
+ {
+  "sid": "awlombiad->awlombaad",
+  "rid": "awlombiad->awlombaad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "awlombiad->awlombad",
+  "rid": "awlombiad->awlombad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "awlombiad->oolombad",
+  "rid": "awlombiad->oolombad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "awrasia->awrasa",
+  "rid": "awrasia->awrasa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "awrobey->awrobi",
+  "rid": "awrobey->awrobi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "aydean->aydan",
+  "rid": "aydean->aydan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "aydean->eidan",
+  "rid": "aydean->eidan",
+  "v": false,
+  "why": "eidan reads as عيدان (sticks, initial ع dropped)"
+ },
+ {
+  "sid": "b2oliat->b2olaat",
+  "rid": "b2oliat->b2olaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b2oliat->b2olat",
+  "rid": "b2oliat->b2olat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b2oliat->b2ulat",
+  "rid": "b2oliat->b2ulat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b7aira->b7ara",
+  "rid": "b7aira->b7ara",
+  "v": false,
+  "why": "b7ara reads as بحارة (sailors)"
+ },
+ {
+  "sid": "b7aira->b7araa",
+  "rid": "b7aira->b7araa",
+  "v": false,
+  "why": "b7araa reads as بحارة (sailors)"
+ },
+ {
+  "sid": "b7aira->bhara",
+  "rid": "b7aira->bhara",
+  "v": false,
+  "why": "bhara reads as بحارة (sailors) or بهارة"
+ },
+ {
+  "sid": "b7ayrat->b7irat",
+  "rid": "b7ayrat->b7irat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b7eirat->b7erat",
+  "rid": "b7eirat->b7erat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b7eirat->b7irat",
+  "rid": "b7eirat->b7irat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "b7eirat->bhirat",
+  "rid": "b7eirat->bhirat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "ba2ey->ba2i",
+  "rid": "ba2ey->ba2i",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bahria->bahra",
+  "rid": "bahria->bahra",
+  "v": false,
+  "why": "bahra reads as بحرة (pond) or بهرة, loses the -iyya adjective"
+ },
+ {
+  "sid": "baida->bada",
+  "rid": "baida->bada",
+  "v": false,
+  "why": "bada reads as بدأ/بدا (started/appeared)"
+ },
+ {
+  "sid": "baida->badaa",
+  "rid": "baida->badaa",
+  "v": false,
+  "why": "badaa reads as بدأ/بداء (started)"
+ },
+ {
+  "sid": "bain->baan",
+  "rid": "bain->baan",
+  "v": false,
+  "why": "baan reads as بان (became clear/appeared)"
+ },
+ {
+  "sid": "baina->bana",
+  "rid": "baina->bana",
+  "v": false,
+  "why": "bana reads as بنى (built) or بنا (with us)"
+ },
+ {
+  "sid": "baina->banaa",
+  "rid": "baina->banaa",
+  "v": false,
+  "why": "banaa reads as بناء (building)"
+ },
+ {
+  "sid": "baina->banah",
+  "rid": "baina->banah",
+  "v": false,
+  "why": "banah reads as بناه (built it)"
+ },
+ {
+  "sid": "baini->banii",
+  "rid": "baini->banii",
+  "v": false,
+  "why": "banii reads as بني (brown / my sons / built)"
+ },
+ {
+  "sid": "bait->baat",
+  "rid": "bait->baat",
+  "v": false,
+  "why": "baat reads as بات (spent the night)"
+ },
+ {
+  "sid": "bait->bat",
+  "rid": "bait->bat",
+  "v": false,
+  "why": "bat reads as بات (spent the night) or English 'bat'"
+ },
+ {
+  "sid": "bakteeria->bakteera",
+  "rid": "bakteeria->bakteera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakteeria->baktera",
+  "rid": "bakteeria->baktera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakterei->bakteri",
+  "rid": "bakterei->bakteri",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakterei->bakterii",
+  "rid": "bakterei->bakterii",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakterei->baktiri",
+  "rid": "bakterei->baktiri",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktereia->bakterea",
+  "rid": "baktereia->bakterea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktereia->bakteria",
+  "rid": "baktereia->bakteria",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktereia->baktirea",
+  "rid": "baktereia->baktirea",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktereia->baktiria",
+  "rid": "baktereia->baktiria",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakteria->baktera",
+  "rid": "bakteria->baktera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakteria->bakteraa",
+  "rid": "bakteria->bakteraa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bakteria->baktira",
+  "rid": "bakteria->baktira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktiria->baktera",
+  "rid": "baktiria->baktera",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baktiria->baktira",
+  "rid": "baktiria->baktira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baladein->baladen",
+  "rid": "baladein->baladen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baladein->baladin",
+  "rid": "baladein->baladin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baley->bali",
+  "rid": "baley->bali",
+  "v": false,
+  "why": "bali reads as بالي (my mind) or Bali island"
+ },
+ {
+  "sid": "baria->baraa",
+  "rid": "baria->baraa",
+  "v": false,
+  "why": "baraa reads as براءة (innocence) or برا (outside)"
+ },
+ {
+  "sid": "basaria->basara",
+  "rid": "basaria->basara",
+  "v": false,
+  "why": "basara reads as بصارة (bissara dish) or بشارة"
+ },
+ {
+  "sid": "basaria->basaraa",
+  "rid": "basaria->basaraa",
+  "v": false,
+  "why": "basaraa reads as بصارة (bissara dish) or بشارة"
+ },
+ {
+  "sid": "basharia->bashara",
+  "rid": "basharia->bashara",
+  "v": false,
+  "why": "bashara reads as بشارة (good news) or بشرة (skin)"
+ },
+ {
+  "sid": "basharia->basharaa",
+  "rid": "basharia->basharaa",
+  "v": false,
+  "why": "basharaa reads as بشارة (good news)"
+ },
+ {
+  "sid": "batania->batana",
+  "rid": "batania->batana",
+  "v": false,
+  "why": "batana reads as بطانة (lining), a different word"
+ },
+ {
+  "sid": "batania->batanaa",
+  "rid": "batania->batanaa",
+  "v": false,
+  "why": "batanaa reads as بطانة (lining), a different word"
+ },
+ {
+  "sid": "bay2y->bi2y",
+  "rid": "bay2y->bi2y",
+  "v": false,
+  "why": "bi2y reads as بقي (remained/became)"
+ },
+ {
+  "sid": "bayania->bayana",
+  "rid": "bayania->bayana",
+  "v": false,
+  "why": "bayana reads as بيّنا (we showed) or بيان+a"
+ },
+ {
+  "sid": "bayania->bayanaa",
+  "rid": "bayania->bayanaa",
+  "v": false,
+  "why": "bayanaa reads as بيانا/بيّنا, loses the adjective"
+ },
+ {
+  "sid": "bayania->bayanah",
+  "rid": "bayania->bayanah",
+  "v": false,
+  "why": "bayanah reads as بيانه (his statement)"
+ },
+ {
+  "sid": "bayda->bida",
+  "rid": "bayda->bida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bayda2->bida2",
+  "rid": "bayda2->bida2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bayn->bin",
+  "rid": "bayn->bin",
+  "v": false,
+  "why": "bin reads as بن (son of) or English 'bin'"
+ },
+ {
+  "sid": "bayna->bina",
+  "rid": "bayna->bina",
+  "v": false,
+  "why": "bina reads as بنا (with us) or بناء"
+ },
+ {
+  "sid": "baynakom->binakom",
+  "rid": "baynakom->binakom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baytareen->bitareen",
+  "rid": "baytareen->bitareen",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "baytary->bitary",
+  "rid": "baytary->bitary",
+  "v": false,
+  "why": "bitary is close to battary/battery (بطارية)"
+ },
+ {
+  "sid": "baytarya->bitarya",
+  "rid": "baytarya->bitarya",
+  "v": false,
+  "why": "bitarya reads as بطارية (battery)"
+ },
+ {
+  "sid": "bayty->bity",
+  "rid": "bayty->bity",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bayyan->biyan",
+  "rid": "bayyan->biyan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bday3->bdi3",
+  "rid": "bday3->bdi3",
+  "v": false,
+  "why": "bdi3 reads as بديع (wonderful)"
+ },
+ {
+  "sid": "bdayt->bdit",
+  "rid": "bdayt->bdit",
+  "v": false,
+  "why": "bdit reads as بديت (I started)"
+ },
+ {
+  "sid": "bdayya->bdiya",
+  "rid": "bdayya->bdiya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "be2ey->be2i",
+  "rid": "be2ey->be2i",
+  "v": false,
+  "why": "be2i reads as بقي (remained/became)"
+ },
+ {
+  "sid": "be2ia->be2a",
+  "rid": "be2ia->be2a",
+  "v": false,
+  "why": "be2a is the ubiquitous Egyptian بقى (became)"
+ },
+ {
+  "sid": "be2ia->be2ah",
+  "rid": "be2ia->be2ah",
+  "v": false,
+  "why": "be2ah reads as بقى/بقاه (became)"
+ },
+ {
+  "sid": "be2ia->bi2a",
+  "rid": "be2ia->bi2a",
+  "v": false,
+  "why": "bi2a reads as بقى (became)"
+ },
+ {
+  "sid": "bedael->bedaal",
+  "rid": "bedael->bedaal",
+  "v": false,
+  "why": "bedaal reads as بدل (instead of)"
+ },
+ {
+  "sid": "bedael->bedal",
+  "rid": "bedael->bedal",
+  "v": false,
+  "why": "bedal is the common Franco for بدل (instead of)"
+ },
+ {
+  "sid": "bedael->bidal",
+  "rid": "bedael->bidal",
+  "v": false,
+  "why": "bidal reads as بدل (instead of)"
+ },
+ {
+  "sid": "bedaia->bedaa",
+  "rid": "bedaia->bedaa",
+  "v": false,
+  "why": "bedaa reads as بدأ (started) or بدع"
+ },
+ {
+  "sid": "beeedak->biedak",
+  "rid": "beeedak->biedak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beianat->beanaat",
+  "rid": "beianat->beanaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beianat->beanat",
+  "rid": "beianat->beanat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beianat->bianaat",
+  "rid": "beianat->bianaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beianat->bianat",
+  "rid": "beianat->bianat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beid->bed",
+  "rid": "beid->bed",
+  "v": false,
+  "why": "bed collides with English 'bed'"
+ },
+ {
+  "sid": "beid->bid",
+  "rid": "beid->bid",
+  "v": false,
+  "why": "bid collides with English 'bid'"
+ },
+ {
+  "sid": "beida->beda",
+  "rid": "beida->beda",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beida->bedaa",
+  "rid": "beida->bedaa",
+  "v": false,
+  "why": "bedaa reads as بدأ (started) or بدع"
+ },
+ {
+  "sid": "beida->bida",
+  "rid": "beida->bida",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beida->bidaa",
+  "rid": "beida->bidaa",
+  "v": false,
+  "why": "bidaa reads as بدء/بداء or بدع"
+ },
+ {
+  "sid": "beih->beh",
+  "rid": "beih->beh",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beih->bih",
+  "rid": "beih->bih",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beik->bek",
+  "rid": "beik->bek",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beik->biik",
+  "rid": "beik->biik",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beik->bik",
+  "rid": "beik->bik",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bein->biin",
+  "rid": "bein->biin",
+  "v": false,
+  "why": "only example is the brand beIN Sports, not بين"
+ },
+ {
+  "sid": "bein->bin",
+  "rid": "bein->bin",
+  "v": false,
+  "why": "bin reads as بن (son of) or English 'bin'"
+ },
+ {
+  "sid": "beina->bena",
+  "rid": "beina->bena",
+  "v": false,
+  "why": "bena reads as بنى (built) or بنا (with us)"
+ },
+ {
+  "sid": "beina->benaa",
+  "rid": "beina->benaa",
+  "v": false,
+  "why": "benaa reads as بناء (building)"
+ },
+ {
+  "sid": "beina->benah",
+  "rid": "beina->benah",
+  "v": false,
+  "why": "benah reads as بناه (built it)"
+ },
+ {
+  "sid": "beina->bina",
+  "rid": "beina->bina",
+  "v": false,
+  "why": "bina reads as بنا (with us) or بناء"
+ },
+ {
+  "sid": "beina->binaa",
+  "rid": "beina->binaa",
+  "v": false,
+  "why": "binaa reads as بناء (building)"
+ },
+ {
+  "sid": "beinma->benma",
+  "rid": "beinma->benma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beinma->binma",
+  "rid": "beinma->binma",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beinma->binmaa",
+  "rid": "beinma->binmaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beinohom->binohom",
+  "rid": "beinohom->binohom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beinohom->binohoom",
+  "rid": "beinohom->binohoom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beinohom->binuhom",
+  "rid": "beinohom->binuhom",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beir->ber",
+  "rid": "beir->ber",
+  "v": false,
+  "why": "ber reads as بر (land/righteousness)"
+ },
+ {
+  "sid": "beir->bir",
+  "rid": "beir->bir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beit->bet",
+  "rid": "beit->bet",
+  "v": false,
+  "why": "bet collides with English 'bet'"
+ },
+ {
+  "sid": "beit->biit",
+  "rid": "beit->biit",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beit->bit",
+  "rid": "beit->bit",
+  "v": false,
+  "why": "bit is Egyptian البت (the girl) and English 'bit'"
+ },
+ {
+  "sid": "beitak->betak",
+  "rid": "beitak->betak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beitak->bitak",
+  "rid": "beitak->bitak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beiti->beti",
+  "rid": "beiti->beti",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beiti->betii",
+  "rid": "beiti->betii",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beiti->bety",
+  "rid": "beiti->bety",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beiti->bite",
+  "rid": "beiti->bite",
+  "v": false,
+  "why": "bite collides with English 'bite'"
+ },
+ {
+  "sid": "beiti->biti",
+  "rid": "beiti->biti",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beitna->betna",
+  "rid": "beitna->betna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beitna->bitna",
+  "rid": "beitna->bitna",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beito->beto",
+  "rid": "beito->beto",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beito->bito",
+  "rid": "beito->bito",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beity->bety",
+  "rid": "beity->bety",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beity->biti",
+  "rid": "beity->biti",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beity->bity",
+  "rid": "beity->bity",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bekhair->be5ar",
+  "rid": "bekhair->be5ar",
+  "v": false,
+  "why": "be5ar reads as بخار (steam)"
+ },
+ {
+  "sid": "bektier->bekteer",
+  "rid": "bektier->bekteer",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bektier->bekter",
+  "rid": "bektier->bekter",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bektier->bektir",
+  "rid": "bektier->bektir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bektier->biktir",
+  "rid": "bektier->biktir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "belleil->belel",
+  "rid": "belleil->belel",
+  "v": false,
+  "why": "belel reads as بلل (wetness)"
+ },
+ {
+  "sid": "belleil->bellel",
+  "rid": "belleil->bellel",
+  "v": false,
+  "why": "bellel reads as بلّل (to wet)"
+ },
+ {
+  "sid": "belleil->bellil",
+  "rid": "belleil->bellil",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "benzain->benzan",
+  "rid": "benzain->benzan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "benzain->binzan",
+  "rid": "benzain->binzan",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beria->bera",
+  "rid": "beria->bera",
+  "v": false,
+  "why": "bera is the common Franco for بيرة (beer)"
+ },
+ {
+  "sid": "beria->bira",
+  "rid": "beria->bira",
+  "v": false,
+  "why": "bira reads as بيرة (beer)"
+ },
+ {
+  "sid": "bet2odey->bet2odi",
+  "rid": "bet2odey->bet2odi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bet7mey->bet7mi",
+  "rid": "bet7mey->bet7mi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betbein->betben",
+  "rid": "betbein->betben",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betbein->betbin",
+  "rid": "betbein->betbin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betbein->bitben",
+  "rid": "betbein->bitben",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betbein->bitbin",
+  "rid": "betbein->bitbin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betday2->betdi2",
+  "rid": "betday2->betdi2",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beteknologia->beteknologa",
+  "rid": "beteknologia->beteknologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beteknologia->beteknoluga",
+  "rid": "beteknologia->beteknoluga",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beteknologia->betiknologa",
+  "rid": "beteknologia->betiknologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "beteknologia->biteknologa",
+  "rid": "beteknologia->biteknologa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betfaid->betfad",
+  "rid": "betfaid->betfad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "betfaid->bitfad",
+  "rid": "betfaid->bitfad",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bey3aysho->bey3isho",
+  "rid": "bey3aysho->bey3isho",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "billion->bellon",
+  "rid": "billion->bellon",
+  "v": false,
+  "why": "bellon reads as بالون (balloon)"
+ },
+ {
+  "sid": "billion->billon",
+  "rid": "billion->billon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "billion->billun",
+  "rid": "billion->billun",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "billion->bilon",
+  "rid": "billion->bilon",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bio->bo",
+  "rid": "bio->bo",
+  "v": false,
+  "why": "bo reads as بو/بق, a different word"
+ },
+ {
+  "sid": "bio->bu",
+  "rid": "bio->bu",
+  "v": false,
+  "why": "bu reads as بو, a different word"
+ },
+ {
+  "sid": "biolegy->bolegy",
+  "rid": "biolegy->bolegy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biolegy->bulegy",
+  "rid": "biolegy->bulegy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bioleogy->biologi",
+  "rid": "bioleogy->biologi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bioleogy->biology",
+  "rid": "bioleogy->biology",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bioleogy->biolugy",
+  "rid": "bioleogy->biolugy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bioleogy->boleogy",
+  "rid": "bioleogy->boleogy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bioleogy->buleogy",
+  "rid": "bioleogy->buleogy",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologee->bologe",
+  "rid": "biologee->bologe",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologee->bologei",
+  "rid": "biologee->bologei",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologee->bolugee",
+  "rid": "biologee->bolugee",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologee->bulogee",
+  "rid": "biologee->bulogee",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologya->bologya",
+  "rid": "biologya->bologya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologya->bologyaa",
+  "rid": "biologya->bologyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologya->bolugya",
+  "rid": "biologya->bolugya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biologya->bulogya",
+  "rid": "biologya->bulogya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biskoit->beskot",
+  "rid": "biskoit->beskot",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biskoit->biskoot",
+  "rid": "biskoit->biskoot",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biskoit->biskot",
+  "rid": "biskoit->biskot",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "biskoit->biskut",
+  "rid": "biskoit->biskut",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "blues->blos",
+  "rid": "blues->blos",
+  "v": false,
+  "why": "blos reads as blouse (بلوزة) or plus"
+ },
+ {
+  "sid": "blues->blus",
+  "rid": "blues->blus",
+  "v": false,
+  "why": "blus reads as plus (b for p) or blouse"
+ },
+ {
+  "sid": "boley->boli",
+  "rid": "boley->boli",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brail->braal",
+  "rid": "brail->braal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brail->bral",
+  "rid": "brail->bral",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brayd->brid",
+  "rid": "brayd->brid",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "break->braak",
+  "rid": "break->braak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "break->brak",
+  "rid": "break->brak",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bretania->bretana",
+  "rid": "bretania->bretana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bretania->bretanaa",
+  "rid": "bretania->bretanaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bretania->britana",
+  "rid": "bretania->britana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bria->bra",
+  "rid": "bria->bra",
+  "v": false,
+  "why": "bra reads as برا (outside) or English 'bra'"
+ },
+ {
+  "sid": "bria->braa",
+  "rid": "bria->braa",
+  "v": false,
+  "why": "braa reads as برا (outside)"
+ },
+ {
+  "sid": "bria->brah",
+  "rid": "bria->brah",
+  "v": false,
+  "why": "brah reads as بره (outside)"
+ },
+ {
+  "sid": "britania->bretana",
+  "rid": "britania->bretana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "britania->britana",
+  "rid": "britania->britana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "britania->britanaa",
+  "rid": "britania->britanaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "britanyia->bretanya",
+  "rid": "britanyia->bretanya",
+  "v": false,
+  "why": "bretanya reads as بريطانيا (Britain), not the adjective British"
+ },
+ {
+  "sid": "britanyia->britanya",
+  "rid": "britanyia->britanya",
+  "v": false,
+  "why": "britanya reads as بريطانيا (Britain), not the adjective British"
+ },
+ {
+  "sid": "britanyia->britanyaa",
+  "rid": "britanyia->britanyaa",
+  "v": false,
+  "why": "britanyaa reads as بريطانيا (Britain), not the adjective"
+ },
+ {
+  "sid": "britanyia->britanyah",
+  "rid": "britanyia->britanyah",
+  "v": false,
+  "why": "britanyah reads as بريطانيا (Britain), not the adjective"
+ },
+ {
+  "sid": "briterania->breterana",
+  "rid": "briterania->breterana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "briterania->briterana",
+  "rid": "briterania->briterana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "briterania->britirana",
+  "rid": "briterania->britirana",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brotein->broten",
+  "rid": "brotein->broten",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brotein->brotin",
+  "rid": "brotein->brotin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brotein->bruten",
+  "rid": "brotein->bruten",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "brotein->brutin",
+  "rid": "brotein->brutin",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "broteinat->brotenat",
+  "rid": "broteinat->brotenat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "broteinat->brotinaat",
+  "rid": "broteinat->brotinaat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "broteinat->brotinat",
+  "rid": "broteinat->brotinat",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bulgaria->bolgara",
+  "rid": "bulgaria->bolgara",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "bulgaria->bulgaraa",
+  "rid": "bulgaria->bulgaraa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "byea->bya",
+  "rid": "byea->bya",
+  "v": false,
+  "why": "bya reads as Egyptian بيا (with me)"
+ },
+ {
+  "sid": "byea->byaa",
+  "rid": "byea->byaa",
+  "v": false,
+  "why": "byaa reads as Egyptian بيا (with me)"
+ },
+ {
+  "sid": "byeat->byaat",
+  "rid": "byeat->byaat",
+  "v": false,
+  "why": "byaat reads as بيات (overnight/hibernation)"
+ },
+ {
+  "sid": "byeat->byat",
+  "rid": "byeat->byat",
+  "v": false,
+  "why": "byat reads as بيات (overnight/hibernation)"
+ },
+ {
+  "sid": "byodey->byodi",
+  "rid": "byodey->byodi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "da2ae2->da2a2",
+  "rid": "da2ae2->da2a2",
+  "v": false,
+  "why": "da2a2 reads as دقق (to check)"
+ },
+ {
+  "sid": "da2ae2->da2aa2",
+  "rid": "da2ae2->da2aa2",
+  "v": false,
+  "why": "da2aa2 reads as دقاق, a different word"
+ },
+ {
+  "sid": "da2aeq->da2aaq",
+  "rid": "da2aeq->da2aaq",
+  "v": false,
+  "why": "da2aaq reads as دقاق, a different word"
+ },
+ {
+  "sid": "da2aeq->da2aq",
+  "rid": "da2aeq->da2aq",
+  "v": false,
+  "why": "da2aq reads as دقق (to check)"
+ },
+ {
+  "sid": "da2ay2->da2i2",
+  "rid": "da2ay2->da2i2",
+  "v": false,
+  "why": "da2i2 reads as دقيق (flour/precise)"
+ },
+ {
+  "sid": "daema->dama",
+  "rid": "daema->dama",
+  "v": false,
+  "why": "dama reads as ضامة (draughts game) or دمه"
+ },
+ {
+  "sid": "daema->damaa",
+  "rid": "daema->damaa",
+  "v": false,
+  "why": "damaa reads as دماء (blood)"
+ },
+ {
+  "sid": "daeman->damaan",
+  "rid": "daeman->damaan",
+  "v": false,
+  "why": "damaan reads as ضمان (guarantee)"
+ },
+ {
+  "sid": "daeman->daman",
+  "rid": "daeman->daman",
+  "v": false,
+  "why": "daman reads as ضمان (guarantee)"
+ },
+ {
+  "sid": "daif->daaf",
+  "rid": "daif->daaf",
+  "v": false,
+  "why": "daaf reads as ضعف (weakness) or ضاف"
+ },
+ {
+  "sid": "daif->daf",
+  "rid": "daif->daf",
+  "v": false,
+  "why": "daf reads as دف (tambourine) or ضاف (added)"
+ },
+ {
+  "sid": "daiman->damaan",
+  "rid": "daiman->damaan",
+  "v": false,
+  "why": "damaan reads as ضمان (guarantee)"
+ },
+ {
+  "sid": "daiman->daman",
+  "rid": "daiman->daman",
+  "v": false,
+  "why": "daman reads as ضمان (guarantee)"
+ },
+ {
+  "sid": "dakhelia->da5ela",
+  "rid": "dakhelia->da5ela",
+  "v": false,
+  "why": "da5ela reads as داخلة (entering, fem.)"
+ },
+ {
+  "sid": "dakhelia->dakhela",
+  "rid": "dakhelia->dakhela",
+  "v": false,
+  "why": "dakhela reads as داخلة (entering, fem.)"
+ },
+ {
+  "sid": "dakhelia->dakhila",
+  "rid": "dakhelia->dakhila",
+  "v": false,
+  "why": "dakhila reads as دخيلة (intruder/inner self)"
+ },
+ {
+  "sid": "damoeya->damoya",
+  "rid": "damoeya->damoya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "damoeya->damoyaa",
+  "rid": "damoeya->damoyaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "damoeya->damuya",
+  "rid": "damoeya->damuya",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "damwia->damwa",
+  "rid": "damwia->damwa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "damwia->damwaa",
+  "rid": "damwia->damwaa",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "danial->danaal",
+  "rid": "danial->danaal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "danial->danal",
+  "rid": "danial->danal",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "daroria->darora",
+  "rid": "daroria->darora",
+  "v": false,
+  "why": "darora reads as the noun ضرورة (necessity), not the adjective"
+ },
+ {
+  "sid": "daroria->darura",
+  "rid": "daroria->darura",
+  "v": false,
+  "why": "darura reads as the noun ضرورة (necessity), not the adjective"
+ },
+ {
+  "sid": "darsey->darsi",
+  "rid": "darsey->darsi",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "dawair->dawaar",
+  "rid": "dawair->dawaar",
+  "v": false,
+  "why": "dawaar reads as دوار (dizziness) or دوّار (roundabout)"
+ },
+ {
+  "sid": "dawair->dawar",
+  "rid": "dawair->dawar",
+  "v": false,
+  "why": "dawar reads as دوار (dizziness) or دوّار (roundabout)"
+ },
+ {
+  "sid": "day2->di2",
+  "rid": "day2->di2",
+  "v": false,
+  "why": "di2 reads as دق (knock)"
+ },
+ {
+  "sid": "day2a->di2a",
+  "rid": "day2a->di2a",
+  "v": false,
+  "why": "di2a reads as دقة (accuracy/knock)"
+ },
+ {
+  "sid": "day3->di3",
+  "rid": "day3->di3",
+  "v": false,
+  "why": "di3 reads as ضيّع (wasted) or ضيع"
+ },
+ {
+  "sid": "day3a->di3a",
+  "rid": "day3a->di3a",
+  "v": false,
+  "why": "di3a reads as ضيعة (estate/village)"
+ },
+ {
+  "sid": "day5el->di5el",
+  "rid": "day5el->di5el",
+  "v": false,
+  "why": "di5el reads as دخل (he entered)"
+ },
+ {
+  "sid": "daylo->dilo",
+  "rid": "daylo->dilo",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "dayma->dima",
+  "rid": "dayma->dima",
+  "v": false,
+  "why": "dima reads as the name Dima or ديمة"
+ },
+ {
+  "sid": "dayman->diman",
+  "rid": "dayman->diman",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "dayr->dir",
+  "rid": "dayr->dir",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "dayra->dira",
+  "rid": "dayra->dira",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "days->dis",
+  "rid": "days->dis",
+  "v": false,
+  "why": "dis collides with English 'dis'/'this'"
+ },
+ {
+  "sid": "deana->dana",
+  "rid": "deana->dana",
+  "v": false,
+  "why": "dana is the common Egyptian ده أنا (it's me)"
+ }
+]

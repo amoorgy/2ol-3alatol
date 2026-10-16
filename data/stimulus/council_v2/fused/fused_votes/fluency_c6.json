@@ -1,0 +1,692 @@
+[
+ {
+  "sid": "fs_le7ad_12",
+  "rid": "fs_le7ad_12",
+  "v": false,
+  "why": "'af6ar' uses Gulf 6; 'a5rog el beit' lacks 'men'; breakfast 'le7ad ma albes' illogical"
+ },
+ {
+  "sid": "fs_le7ad_00",
+  "rid": "fs_le7ad_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le7ad_01",
+  "rid": "fs_le7ad_01",
+  "v": false,
+  "why": "'el souq el 3attar' is an ungrammatical, unnatural place phrase"
+ },
+ {
+  "sid": "fs_le7ad_02",
+  "rid": "fs_le7ad_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_el7ad_11",
+  "rid": "fs_el7ad_11",
+  "v": false,
+  "why": "'mafhamtsh 8er l a5r me7war' is unnatural; 'me7war' makes no sense here"
+ },
+ {
+  "sid": "fs_el7ad_00",
+  "rid": "fs_el7ad_00",
+  "v": false,
+  "why": "'elyom dah kan el7ad betboss 3aleih' is incoherent"
+ },
+ {
+  "sid": "fs_el7ad_02",
+  "rid": "fs_el7ad_02",
+  "v": false,
+  "why": "'3nd seto el bet' is ungrammatical; should be 'fi beit setto'"
+ },
+ {
+  "sid": "fs_el7ad_09",
+  "rid": "fs_el7ad_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_01",
+  "rid": "fs_leehom_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_leehom_03",
+  "rid": "fs_leehom_03",
+  "v": false,
+  "why": "'tesa2alhom leehom' is redundant and ungrammatical"
+ },
+ {
+  "sid": "fs_3leehom_09",
+  "rid": "fs_3leehom_09",
+  "v": false,
+  "why": "'ne3raf eh elly 3leehom' has no referent; unnatural"
+ },
+ {
+  "sid": "fs_3leehom_10",
+  "rid": "fs_3leehom_10",
+  "v": false,
+  "why": "'matso2sh 3leehom' and 'byetla3o mazboot' are incoherent"
+ },
+ {
+  "sid": "fs_3leehom_07",
+  "rid": "fs_3leehom_07",
+  "v": false,
+  "why": "'el zo7ma kanet 3leehom' is incoherent"
+ },
+ {
+  "sid": "fs_llnas_05",
+  "rid": "fs_llnas_05",
+  "v": false,
+  "why": "'makan hadi llnas kolaha' is a dangling, unnatural phrase"
+ },
+ {
+  "sid": "fs_llnas_13",
+  "rid": "fs_llnas_13",
+  "v": false,
+  "why": "'mafish 3udhr', 'el ma3loma' MSA-ish; 'ha7awel ma3adeha' garbled"
+ },
+ {
+  "sid": "fs_llnas_07",
+  "rid": "fs_llnas_07",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_llnas_04",
+  "rid": "fs_llnas_04",
+  "v": false,
+  "why": "'wa2fa 3ala el gheem' is nonsense; 'mesh sayba llnas yemshyo' unnatural"
+ },
+ {
+  "sid": "fs_elnass_02",
+  "rid": "fs_elnass_02",
+  "v": false,
+  "why": "'3al_tool' underscore spelling and misplaced; unnatural ending"
+ },
+ {
+  "sid": "fs_elnass_09",
+  "rid": "fs_elnass_09",
+  "v": false,
+  "why": "'hawallek' feminine for 'ya sa7by'; trailing '5alas?' unnatural"
+ },
+ {
+  "sid": "fs_elnass_08",
+  "rid": "fs_elnass_08",
+  "v": false,
+  "why": "'m3 elnass' odd; 'kan za7met shwy' wrong form"
+ },
+ {
+  "sid": "fs_elnass_14",
+  "rid": "fs_elnass_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_02",
+  "rid": "fs_lown_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_05",
+  "rid": "fs_lown_05",
+  "v": false,
+  "why": "'lown el khurga' (color of the outing) is nonsensical"
+ },
+ {
+  "sid": "fs_lown_03",
+  "rid": "fs_lown_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_lown_04",
+  "rid": "fs_lown_04",
+  "v": false,
+  "why": "'el gaw 3afeh', 'el zehma ta3baniya' are unnatural collocations"
+ },
+ {
+  "sid": "fs_le2n_11",
+  "rid": "fs_le2n_11",
+  "v": false,
+  "why": "'gamdel' typo; 'el hakam 3adalo 3al ghalt' is incoherent"
+ },
+ {
+  "sid": "fs_le2n_09",
+  "rid": "fs_le2n_09",
+  "v": false,
+  "why": "'ya rabena yekhaleek' is an awkward, misplaced blessing"
+ },
+ {
+  "sid": "fs_le2n_02",
+  "rid": "fs_le2n_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_le2n_05",
+  "rid": "fs_le2n_05",
+  "v": false,
+  "why": "'khattat' reads as calligrapher; normal is 'khetat/5otat'"
+ },
+ {
+  "sid": "fs_m7tag_13",
+  "rid": "fs_m7tag_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_03",
+  "rid": "fs_m7tag_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_10",
+  "rid": "fs_m7tag_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_m7tag_05",
+  "rid": "fs_m7tag_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_04",
+  "rid": "fs_mo7taga_04",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_10",
+  "rid": "fs_mo7taga_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_01",
+  "rid": "fs_mo7taga_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7taga_11",
+  "rid": "fs_mo7taga_11",
+  "v": false,
+  "why": "'el fari2 mo7taga' gender mismatch; 'lesa' misused"
+ },
+ {
+  "sid": "fs_ma3roof_09",
+  "rid": "fs_ma3roof_09",
+  "v": false,
+  "why": "'ay ma3roof' odd; 'fe ay wa2ta' wrong; missing negation -sh"
+ },
+ {
+  "sid": "fs_ma3roof_04",
+  "rid": "fs_ma3roof_04",
+  "v": false,
+  "why": "'ma3roof en el wa7ed mesh yestahmel' is a stiff calque"
+ },
+ {
+  "sid": "fs_ma3roof_14",
+  "rid": "fs_ma3roof_14",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3roof_06",
+  "rid": "fs_ma3roof_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_07",
+  "rid": "fs_ma3rofa_07",
+  "v": false,
+  "why": "'el zahma el naharda ma3rofa' unnatural; 'tar2' garbled"
+ },
+ {
+  "sid": "fs_ma3rofa_04",
+  "rid": "fs_ma3rofa_04",
+  "v": false,
+  "why": "'la7ad el 3e8ya' is nonsense; 'zahma ma3rofa' unnatural"
+ },
+ {
+  "sid": "fs_ma3rofa_15",
+  "rid": "fs_ma3rofa_15",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_ma3rofa_11",
+  "rid": "fs_ma3rofa_11",
+  "v": false,
+  "why": "'el fari2 el ma3rofa' gender mismatch"
+ },
+ {
+  "sid": "fs_magmo3at_00",
+  "rid": "fs_magmo3at_00",
+  "v": false,
+  "why": "'magmo3at rasael m3lo2a' is an English/MSA calque"
+ },
+ {
+  "sid": "fs_magmo3at_15",
+  "rid": "fs_magmo3at_15",
+  "v": false,
+  "why": "a 'doctor' at 'madrasa' is a mismatch; unnatural"
+ },
+ {
+  "sid": "fs_magmo3at_07",
+  "rid": "fs_magmo3at_07",
+  "v": false,
+  "why": "'mrakkiz m3a magmo3at shoghl' is an English calque"
+ },
+ {
+  "sid": "fs_magmo3at_02",
+  "rid": "fs_magmo3at_02",
+  "v": false,
+  "why": "'2abelt magmo3at ktera min as7abi' is unnatural"
+ },
+ {
+  "sid": "fs_magmo3et_04",
+  "rid": "fs_magmo3et_04",
+  "v": false,
+  "why": "'el zahma magmo3et 3arabiyat wala 7aga' is incoherent"
+ },
+ {
+  "sid": "fs_magmo3et_03",
+  "rid": "fs_magmo3et_03",
+  "v": false,
+  "why": "'tesa3edni fi magmo3et el hagat di' is a stiff calque"
+ },
+ {
+  "sid": "fs_magmo3et_12",
+  "rid": "fs_magmo3et_12",
+  "v": false,
+  "why": "'akhbar magmo3et el sabah' nonsense; 'akhrog el shoghl' lacks preposition"
+ },
+ {
+  "sid": "fs_magmo3et_06",
+  "rid": "fs_magmo3et_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_01",
+  "rid": "fs_mareed_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_11",
+  "rid": "fs_mareed_11",
+  "v": false,
+  "why": "'el la3eb kan mareed awi' during a match is an odd collocation"
+ },
+ {
+  "sid": "fs_mareed_12",
+  "rid": "fs_mareed_12",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mareed_09",
+  "rid": "fs_mareed_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mawred_08",
+  "rid": "fs_mawred_08",
+  "v": false,
+  "why": "'el mawred bta3 el la7ma' is unnatural"
+ },
+ {
+  "sid": "fs_mawred_00",
+  "rid": "fs_mawred_00",
+  "v": false,
+  "why": "'el mawred el wa7ed lel ra7a' is an English calque"
+ },
+ {
+  "sid": "fs_mawred_10",
+  "rid": "fs_mawred_10",
+  "v": false,
+  "why": "'be2a7san as3ar', 'ro7 lel mawred' are unnatural/calqued"
+ },
+ {
+  "sid": "fs_mawred_14",
+  "rid": "fs_mawred_14",
+  "v": false,
+  "why": "'gamisa' non-Egyptian; asking supplier's price is unnatural"
+ },
+ {
+  "sid": "fs_masry_06",
+  "rid": "fs_masry_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_01",
+  "rid": "fs_masry_01",
+  "v": false,
+  "why": "'el masry elly bybi3 hnak' is odd in an Egyptian market"
+ },
+ {
+  "sid": "fs_masry_10",
+  "rid": "fs_masry_10",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_masry_00",
+  "rid": "fs_masry_00",
+  "v": false,
+  "why": "'el ta3b dah masry asly' is unnatural"
+ },
+ {
+  "sid": "fs_masar_09",
+  "rid": "fs_masar_09",
+  "v": false,
+  "why": "'el masar el gedid beta3 7ayaatak' is an English calque"
+ },
+ {
+  "sid": "fs_masar_03",
+  "rid": "fs_masar_03",
+  "v": false,
+  "why": "'ala2i masar' unnatural; Egyptians say 'taree2'"
+ },
+ {
+  "sid": "fs_masar_00",
+  "rid": "fs_masar_00",
+  "v": false,
+  "why": "'el masar elly raga3t beh' unnatural; Egyptians say 'el taree2'"
+ },
+ {
+  "sid": "fs_mhtmma_14",
+  "rid": "fs_mhtmma_14",
+  "v": false,
+  "why": "'kam se3rha' word order off; natural is 'se3rha kam'"
+ },
+ {
+  "sid": "fs_mhtmma_08",
+  "rid": "fs_mhtmma_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtmma_09",
+  "rid": "fs_mhtmma_09",
+  "v": false,
+  "why": "'ba2eety' wrong person; '5abrak' masc vs 'ya habibty'"
+ },
+ {
+  "sid": "fs_mhtmma_01",
+  "rid": "fs_mhtmma_01",
+  "v": false,
+  "why": "'asoo2 el masha3a' is nonsense; 'mhtmma ashtaree' calque"
+ },
+ {
+  "sid": "fs_mhtm_08",
+  "rid": "fs_mhtm_08",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mhtm_03",
+  "rid": "fs_mhtm_03",
+  "v": false,
+  "why": "'ana mhtm enak tesa3dni' is an English calque"
+ },
+ {
+  "sid": "fs_mhtm_07",
+  "rid": "fs_mhtm_07",
+  "v": false,
+  "why": "'kont mhtm bel le3ba' calque for absorbed; 'lel wa2t' off"
+ },
+ {
+  "sid": "fs_mhtm_10",
+  "rid": "fs_mhtm_10",
+  "v": false,
+  "why": "'mhtm tekteer 3al mawdoo3' is incoherent with directions"
+ },
+ {
+  "sid": "fs_mo7adada_07",
+  "rid": "fs_mo7adada_07",
+  "v": false,
+  "why": "'maw3ed ... mo7adada' gender mismatch; 'el ma3ad' garbled"
+ },
+ {
+  "sid": "fs_mo7adada_00",
+  "rid": "fs_mo7adada_00",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_09",
+  "rid": "fs_mo7adada_09",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7adada_02",
+  "rid": "fs_mo7adada_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_06",
+  "rid": "fs_mo7addad_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mo7addad_11",
+  "rid": "fs_mo7addad_11",
+  "v": false,
+  "why": "'el mosalsal kan mo7addad gedan' is a nonsensical collocation"
+ },
+ {
+  "sid": "fs_mo7addad_15",
+  "rid": "fs_mo7addad_15",
+  "v": false,
+  "why": "run-on missing verb; 'el wa2t el mo7addad lel taslim' stiff"
+ },
+ {
+  "sid": "fs_mo7addad_04",
+  "rid": "fs_mo7addad_04",
+  "v": false,
+  "why": "'mafish wa2t mo7addad 2a3raf awsal' is ungrammatical"
+ },
+ {
+  "sid": "fs_modda_02",
+  "rid": "fs_modda_02",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_05",
+  "rid": "fs_modda_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_modda_01",
+  "rid": "fs_modda_01",
+  "v": false,
+  "why": "'asaww el 3amla' and '2esa3a' are garbled"
+ },
+ {
+  "sid": "fs_modda_12",
+  "rid": "fs_modda_12",
+  "v": false,
+  "why": "'fi modda toulha 5 da2aye2' is an MSA calque"
+ },
+ {
+  "sid": "fs_media_12",
+  "rid": "fs_media_12",
+  "v": false,
+  "why": "'Bana2ash sabahy atfajjal' is incoherent"
+ },
+ {
+  "sid": "fs_media_06",
+  "rid": "fs_media_06",
+  "v": false,
+  "why": "dangling 'bared' at the end is unnatural"
+ },
+ {
+  "sid": "fs_media_07",
+  "rid": "fs_media_07",
+  "v": false,
+  "why": "'3odi 5alist' is garbled"
+ },
+ {
+  "sid": "fs_media_03",
+  "rid": "fs_media_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalafa_14",
+  "rid": "fs_mokhtalafa_14",
+  "v": false,
+  "why": "'el se3r ... mokhtalafa' gender mismatch"
+ },
+ {
+  "sid": "fs_mokhtalafa_10",
+  "rid": "fs_mokhtalafa_10",
+  "v": false,
+  "why": "'el taree2a' wrong word; fem/masc address switch"
+ },
+ {
+  "sid": "fs_mokhtalafa_02",
+  "rid": "fs_mokhtalafa_02",
+  "v": false,
+  "why": "'3an kol el-marra elly fatet' is ungrammatical"
+ },
+ {
+  "sid": "fs_mokhtalafa_05",
+  "rid": "fs_mokhtalafa_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_05",
+  "rid": "fs_mokhtalef_05",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mokhtalef_10",
+  "rid": "fs_mokhtalef_10",
+  "v": false,
+  "why": "'hatla2i' feminine vs 'enta' masculine mismatch"
+ },
+ {
+  "sid": "fs_mokhtalef_07",
+  "rid": "fs_mokhtalef_07",
+  "v": false,
+  "why": "'el traffic kan mokhtalef khales' is unnatural"
+ },
+ {
+  "sid": "fs_mokhtalef_03",
+  "rid": "fs_mokhtalef_03",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_06",
+  "rid": "fs_momayza_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_03",
+  "rid": "fs_momayza_03",
+  "v": false,
+  "why": "'gayt liha' garbled; 'enta sa7by we momken' awkward"
+ },
+ {
+  "sid": "fs_momayza_13",
+  "rid": "fs_momayza_13",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayza_15",
+  "rid": "fs_momayza_15",
+  "v": false,
+  "why": "narrator frame 'ana ba7ki le sa7bi' is not a chat message"
+ },
+ {
+  "sid": "fs_momayez_01",
+  "rid": "fs_momayez_01",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_momayez_07",
+  "rid": "fs_momayez_07",
+  "v": false,
+  "why": "'el mekaneky kan momayez' is an odd collocation"
+ },
+ {
+  "sid": "fs_momayez_04",
+  "rid": "fs_momayez_04",
+  "v": false,
+  "why": "'el zahma momayez awi' is nonsense and gender mismatch"
+ },
+ {
+  "sid": "fs_momayez_03",
+  "rid": "fs_momayez_03",
+  "v": false,
+  "why": "'el shaghla el momayez' gender mismatch"
+ },
+ {
+  "sid": "fs_mot3added_10",
+  "rid": "fs_mot3added_10",
+  "v": false,
+  "why": "'khod mot3added toro2 badila' is ungrammatical calque"
+ },
+ {
+  "sid": "fs_mot3added_09",
+  "rid": "fs_mot3added_09",
+  "v": false,
+  "why": "'mot3added mobarakat' is incoherent"
+ },
+ {
+  "sid": "fs_mot3added_04",
+  "rid": "fs_mot3added_04",
+  "v": false,
+  "why": "'el traffic mot3added giddan' is nonsense"
+ },
+ {
+  "sid": "fs_mot3added_13",
+  "rid": "fs_mot3added_13",
+  "v": false,
+  "why": "'3andy mot3added 7agat' is ungrammatical"
+ },
+ {
+  "sid": "fs_mot3adeda_09",
+  "rid": "fs_mot3adeda_09",
+  "v": false,
+  "why": "'fat 3aleina zaman tool' odd; '7ekayat mot3adeda' too formal"
+ },
+ {
+  "sid": "fs_mot3adeda_06",
+  "rid": "fs_mot3adeda_06",
+  "v": true,
+  "why": ""
+ },
+ {
+  "sid": "fs_mot3adeda_14",
+  "rid": "fs_mot3adeda_14",
+  "v": false,
+  "why": "'el 3elba el mot3adeda' is nonsense"
+ }
+]

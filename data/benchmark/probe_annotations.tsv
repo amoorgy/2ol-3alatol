@@ -1,0 +1,33 @@
+# Meaning partitions for probe clusters. Authored by Claude, NOT a native speaker.
+# Every row needs native confirmation.
+#
+# `groups` partitions a cluster's forms by MEANING, groups separated by "|",
+# forms within a group separated by spaces. Pairs inside one group are labelled
+# SAME; pairs crossing groups are labelled DIFFERENT.
+#
+# Clusters absent from this file default to a single group: all pairs SAME.
+# `dedupe` drops a cluster that duplicates another.
+cluster_id	groups	subcategory	reason
+mined_kl	kol|akel	lexical	kol كل (all/eat) vs akel أكل (food)
+mined_sh	sa7|se7a	lexical	sa7 صح (correct) vs se7a صحة (health)
+mined_El	3ala 3la|3aila	lexical	على (on) vs عائلة (family)
+mined_mn	min men|meen|mnyn	lexical	من (from) vs مين (who) vs منين (from where)
+mined_hm	2aham|7amam	lexical	أهم (most important) vs حمام (bathroom)
+mined_Esr	3asr|3aseer	lexical	عصر (era/afternoon) vs عصير (juice)
+mined_sr	ser|soor	lexical	سر (secret) vs سور (wall)
+mined_br	bro|bara	lexical	English loan? vs برا (outside)
+mined_Elm	3alam|3alem	lexical	علم (flag/knowledge) vs عالم (world/scholar)
+mined_gmE	gam3a gama3a|game3	lexical	جامعة (university) vs جامع (mosque)
+mined_bdl	abdel|badel	lexical	عبد ال (name element) vs بديل (substitute)
+mined_bn	ben|beena	lexical	بين (between) vs بينا (with us)
+mined_fl	fel|fil	lexical	UNCERTAIN: فى ال (in the) vs فيل (elephant)?
+mined_mEn	ma3na|m3ana ma3ana	lexical	معنى (meaning) vs معانا (with us)
+mined_whd	wa7ed|wa7da	gender	واحد (masc) vs واحدة (fem)
+mined_gd	gdid gded|gdeda	gender	جديد (masc) vs جديدة (fem)
+mined_kn	yekoon|yekono	number	يكون (sg) vs يكونوا (pl)
+mined_kbr	kbar|kbeer	number	كبار (pl) vs كبير (sg)
+mined_bld	balad|belad	number	بلد (sg) vs بلاد (pl)
+mined_sfr	asafer|safar	person	أسافر (1sg) vs سافر (3sg past)
+mined_hEml	haye3mel|haye3malo	person	هيعمل (he will) vs هيعملوا/هيعمله
+mined_Eml	a3mel|e3mel|3amel|ye3mel	person	أعمل (1sg) / اعمل (imperative) / عامل (participle) / يعمل (3sg)
+mined_hsn	dedupe	duplicate	duplicates the hand-authored `ahsan` cluster

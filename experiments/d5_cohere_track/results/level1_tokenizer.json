@@ -1,0 +1,2655 @@
+{
+ "schema_version": 2,
+ "generated_by": "experiments/d5_cohere_track/e1_variant_probe/run_level1_tokenizer.py",
+ "arms": {
+  "human": {
+   "source": "data/benchmark/pairs.csv",
+   "provenance": "human_authored",
+   "n_edges": 102,
+   "n_same": 67,
+   "n_different": 35
+  },
+  "nilechat": {
+   "source": "data/stimulus/nilechat/stimuli_v1.csv",
+   "provenance": "machine_derived",
+   "n_edges": 2106,
+   "n_same": 1792,
+   "n_different": 314
+  }
+ },
+ "registry": [
+  {
+   "name": "aya-expanse-8b",
+   "repo": "Orion-zhen/aya-expanse-8b-AWQ",
+   "group": "production",
+   "family": "cohere",
+   "ollama": "aya-expanse:8b",
+   "mirror_of": "CohereLabs/aya-expanse-8b",
+   "expect_signature": "34c655bfe58a",
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "aya-expanse-32b",
+   "repo": "mlx-community/aya-expanse-32b-8bit",
+   "group": "production",
+   "family": "cohere",
+   "ollama": null,
+   "mirror_of": "CohereLabs/aya-expanse-32b",
+   "expect_signature": "34c655bfe58a",
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "command-r7b-arabic",
+   "repo": "CohereLabs/c4ai-command-r7b-arabic-02-2025",
+   "group": "production",
+   "family": "cohere",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": "34c655bfe58a",
+   "optional": true,
+   "note": "gated, no ungated mirror exists; redundant — the committed run proved it shares aya-expanse's tokenizer",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "command-a",
+   "repo": "CohereLabs/c4ai-command-a-03-2025",
+   "group": "production",
+   "family": "cohere",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": "34c655bfe58a",
+   "optional": true,
+   "note": "gated, no ungated mirror; same signature as aya-expanse",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "gemma-4-e2b",
+   "repo": "google/gemma-4-e2b-it",
+   "group": "production",
+   "family": "google",
+   "ollama": "gemma4:e2b",
+   "mirror_of": null,
+   "expect_signature": null,
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "qwen3.5-9b",
+   "repo": "Qwen/Qwen3.5-9B",
+   "group": "production",
+   "family": "qwen",
+   "ollama": "qwen3.5:9b",
+   "mirror_of": null,
+   "expect_signature": null,
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "llama-3.1-8b",
+   "repo": "unsloth/Meta-Llama-3.1-8B",
+   "group": "production",
+   "family": "meta",
+   "ollama": "llama3.1:8b",
+   "mirror_of": null,
+   "expect_signature": null,
+   "optional": false,
+   "note": "stands in for gated meta-llama/Llama-3.1-8B, which never loaded in any committed run, so no signature pin exists; unsloth republishes the checkpoint verbatim",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "nilechat-3b",
+   "repo": "ranwakhaled/nilechat-3b-ideal-noquant",
+   "group": "production",
+   "family": "dialect",
+   "ollama": null,
+   "mirror_of": "UBC-NLP/NileChat-3B",
+   "expect_signature": "ba9132633c65",
+   "optional": false,
+   "note": "the only model pretrained on the exact probe corpus",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "mistral-7b",
+   "repo": "mistralai/Mistral-7B-v0.3",
+   "group": "production",
+   "family": "mistral",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": "3293be6c1cf3",
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "gpt-oss-20b",
+   "repo": "openai/gpt-oss-20b",
+   "group": "production",
+   "family": "openai",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": "a68642ca9c81",
+   "optional": false,
+   "note": "",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "byt5",
+   "repo": "google/byt5-small",
+   "group": "control",
+   "family": "byte-level",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": "41b681325a10",
+   "optional": false,
+   "note": "no vocabulary at all: fragmentation bounded by edit distance. The ceiling that scales every other row",
+   "status": "loaded",
+   "skip_reason": null
+  },
+  {
+   "name": "mt5-base",
+   "repo": "google/mt5-base",
+   "group": "control",
+   "family": "unigram-lm",
+   "ollama": null,
+   "mirror_of": null,
+   "expect_signature": null,
+   "optional": false,
+   "note": "SentencePiece-unigram control: different segmentation ALGORITHM, not just different data. Replaces aya-101, which carried this same mT5 vocabulary behind a gate",
+   "status": "loaded",
+   "skip_reason": null
+  }
+ ],
+ "tokenizer_identity": {
+  "34c655bfe58a": [
+   "aya-expanse-32b",
+   "aya-expanse-8b",
+   "command-a",
+   "command-r7b-arabic"
+  ],
+  "77eb65248ddb": [
+   "gemma-4-e2b"
+  ],
+  "ecb0ad9f3296": [
+   "qwen3.5-9b"
+  ],
+  "e93e8913e3ab": [
+   "llama-3.1-8b"
+  ],
+  "ba9132633c65": [
+   "nilechat-3b"
+  ],
+  "3293be6c1cf3": [
+   "mistral-7b"
+  ],
+  "a68642ca9c81": [
+   "gpt-oss-20b"
+  ],
+  "41b681325a10": [
+   "byt5"
+  ],
+  "4710f5f68418": [
+   "mt5-base"
+  ]
+ },
+ "tokenizers": {
+  "aya-expanse-8b": {
+   "repo": "Orion-zhen/aya-expanse-8b-AWQ",
+   "family": "cohere",
+   "group": "production",
+   "ollama": "aya-expanse:8b",
+   "mirror_of": "CohereLabs/aya-expanse-8b",
+   "signature": "34c655bfe58a",
+   "signature_verified": true,
+   "shares_tokenizer_with": [
+    "aya-expanse-32b",
+    "command-r7b-arabic",
+    "command-a"
+   ],
+   "vocab_size": 255000,
+   "tokenizer_class": "CohereTokenizer",
+   "note": "",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.387,
+     "mean_frag_same": 0.7018,
+     "mean_frag_different": 0.7933,
+     "separability_auc": 0.6188,
+     "separability_ci95": [
+      0.5098,
+      0.7226
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.9444444444444445,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.8605442176870748,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.8333333333333334,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.7866666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.725,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.25
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.7,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5462962962962963,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.7222,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8738,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6667,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.9333,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.8048,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.8333,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.7,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.6556,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5781,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.7867,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.758,
+     "mean_frag_same": 0.6698,
+     "mean_frag_different": 0.7572,
+     "separability_auc": 0.619,
+     "separability_ci95": [
+      0.5843,
+      0.6537
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.9063025210084034,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.47058823529411764
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.7982868757259002,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4024390243902439
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7913231064237776,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3221476510067114
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7797875064004096,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.43548387096774194
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7379049389272437,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5947955390334573
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.7014628073451603,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.1568627450980392
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.6971767263168537,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3524416135881104
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.6944444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6474459390430786,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6138259833134684
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6314285714285715,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.580952380952381,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.24489795918367346
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7572,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.6975,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6398,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "gemma-4-e2b": {
+   "repo": "google/gemma-4-e2b-it",
+   "family": "google",
+   "group": "production",
+   "ollama": "gemma4:e2b",
+   "mirror_of": null,
+   "signature": "77eb65248ddb",
+   "signature_verified": false,
+   "shares_tokenizer_with": [],
+   "vocab_size": 262144,
+   "tokenizer_class": "GemmaTokenizer",
+   "note": "",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.36,
+     "mean_frag_same": 0.6873,
+     "mean_frag_different": 0.7862,
+     "separability_auc": 0.6343,
+     "separability_ci95": [
+      0.52,
+      0.7446
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.9444444444444445,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.8333333333333334,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.7416666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.730952380952381,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8571428571428571
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.72,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.6366666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.537962962962963,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4444444444444444
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5278,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8738,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.7778,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.9333,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.7033,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.8333,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.6367,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.6778,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5687,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.72,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.743,
+     "mean_frag_same": 0.6734,
+     "mean_frag_different": 0.7659,
+     "separability_auc": 0.6242,
+     "separability_ci95": [
+      0.5904,
+      0.658
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8514005602240897,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4117647058823529
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.8051134547778843,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.33557046979865773
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7937660010240656,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.41935483870967744
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.7905052264808362,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3170731707317073
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.746481678173128,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6356877323420075
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.7104419545596017,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.1895424836601307
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.6977327873824689,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.37154989384288745
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.6888888888888889,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8666666666666667
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6467620182757251,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5816448152562574
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6439285714285714,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5914965986394558,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.24489795918367346
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7659,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.7,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6446,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "qwen3.5-9b": {
+   "repo": "Qwen/Qwen3.5-9B",
+   "family": "qwen",
+   "group": "production",
+   "ollama": "qwen3.5:9b",
+   "mirror_of": null,
+   "signature": "ecb0ad9f3296",
+   "signature_verified": false,
+   "shares_tokenizer_with": [],
+   "vocab_size": 248044,
+   "tokenizer_class": "Qwen2Tokenizer",
+   "note": "",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.44,
+     "mean_frag_same": 0.7011,
+     "mean_frag_different": 0.7757,
+     "separability_auc": 0.6094,
+     "separability_ci95": [
+      0.5006,
+      0.7215
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.9166666666666666,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.888888888888889,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.8605442176870748,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.7416666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.35
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.72,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.7,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5296296296296297,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5555555555555556
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5278,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8722,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6667,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.8667,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.8048,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.9167,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.7,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.7,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5594,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.72,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.845,
+     "mean_frag_same": 0.6586,
+     "mean_frag_different": 0.7525,
+     "separability_auc": 0.622,
+     "separability_ci95": [
+      0.5877,
+      0.6573
+     ],
+     "by_class": [
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8637254901960785,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5882352941176471
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.8029761904761904,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3170731707317073
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7675455417066155,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2751677852348993
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7673195084485407,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.46236559139784944
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.75,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7200522216321473,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5762081784386617
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.699400871459695,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16993464052287582
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.692364270548984,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3651804670912951
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.6722222222222223,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7333333333333333
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.632070492082411,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6281287246722288
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6303769841269842,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.35
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5768221574344023,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2857142857142857
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7525,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.6889,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6259,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "llama-3.1-8b": {
+   "repo": "unsloth/Meta-Llama-3.1-8B",
+   "family": "meta",
+   "group": "production",
+   "ollama": "llama3.1:8b",
+   "mirror_of": null,
+   "signature": "e93e8913e3ab",
+   "signature_verified": false,
+   "shares_tokenizer_with": [],
+   "vocab_size": 128000,
+   "tokenizer_class": "TokenizersBackend",
+   "note": "stands in for gated meta-llama/Llama-3.1-8B, which never loaded in any committed run, so no signature pin exists; unsloth republishes the checkpoint verbatim",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.473,
+     "mean_frag_same": 0.6974,
+     "mean_frag_different": 0.7781,
+     "separability_auc": 0.613,
+     "separability_ci95": [
+      0.5011,
+      0.7258
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 2.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.888888888888889,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.8611111111111112,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.8605442176870748,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.7333333333333334,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.72,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.7,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5296296296296297,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5555555555555556
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5278,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8841,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6111,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.8333,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.8048,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.8889,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.7,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.7,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5594,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.72,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.939,
+     "mean_frag_same": 0.6447,
+     "mean_frag_different": 0.7395,
+     "separability_auc": 0.6257,
+     "separability_ci95": [
+      0.5917,
+      0.6597
+     ],
+     "by_class": [
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8586834733893558,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7058823529411765
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.7930458768873404,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3902439024390244
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7617289868967722,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2953020134228188
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.75,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7446364567332309,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.46774193548387094
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7023898035050452,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5130111524163569
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.6875272331154685,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.1895424836601307
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.6822035183500152,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.33121019108280253
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6246825396825397,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4166666666666667
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.6222222222222222,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6167461263408821,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.634088200238379
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5763848396501458,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3877551020408163
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7395,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.6759,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.611,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "nilechat-3b": {
+   "repo": "ranwakhaled/nilechat-3b-ideal-noquant",
+   "family": "dialect",
+   "group": "production",
+   "ollama": null,
+   "mirror_of": "UBC-NLP/NileChat-3B",
+   "signature": "ba9132633c65",
+   "signature_verified": true,
+   "shares_tokenizer_with": [],
+   "vocab_size": 151643,
+   "tokenizer_class": "Qwen2Tokenizer",
+   "note": "the only model pretrained on the exact probe corpus",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.507,
+     "mean_frag_same": 0.6961,
+     "mean_frag_different": 0.771,
+     "separability_auc": 0.6062,
+     "separability_ci95": [
+      0.4921,
+      0.7164
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 2.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.9166666666666666,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.8611111111111112,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.8605442176870748,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.7333333333333334,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.45
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.72,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.7,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5203703703703704,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5555555555555556
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5278,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8722,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6111,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.8333,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.8048,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.9167,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.7,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.7,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.549,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.72,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.96,
+     "mean_frag_same": 0.6413,
+     "mean_frag_different": 0.7378,
+     "separability_auc": 0.6269,
+     "separability_ci95": [
+      0.5925,
+      0.6618
+     ],
+     "by_class": [
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8586834733893558,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7058823529411765
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.7881678281068525,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3780487804878049
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7528922978587409,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2953020134228188
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.75,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7435611879160267,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.478494623655914
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.6988582049920341,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4944237918215613
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.6883986928104575,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.1895424836601307
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.6814907491659085,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.32908704883227174
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6188492063492064,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4166666666666667
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6128327373857767,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6317044100119189
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.6111111111111112,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8666666666666667
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5763848396501458,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.40816326530612246
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7378,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.673,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6071,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "mistral-7b": {
+   "repo": "mistralai/Mistral-7B-v0.3",
+   "family": "mistral",
+   "group": "production",
+   "ollama": null,
+   "mirror_of": null,
+   "signature": "3293be6c1cf3",
+   "signature_verified": true,
+   "shares_tokenizer_with": [],
+   "vocab_size": 32768,
+   "tokenizer_class": "TokenizersBackend",
+   "note": "",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.88,
+     "mean_frag_same": 0.6976,
+     "mean_frag_different": 0.7562,
+     "separability_auc": 0.5761,
+     "separability_ci95": [
+      0.4544,
+      0.6966
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 2.0
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.9071428571428571,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8571428571428571
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.888888888888889,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.8666666666666668,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.8
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.8333333333333334,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.8055555555555557,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.7581632653061224,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.6941666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.6666666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5568783068783069,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4444444444444444
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5278,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8317,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6389,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6875,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.7667,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.7582,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.87,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.8333,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.8667,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8667,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.6256,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5229,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.6667,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 3.247,
+     "mean_frag_same": 0.6247,
+     "mean_frag_different": 0.7163,
+     "separability_auc": 0.6162,
+     "separability_ci95": [
+      0.5821,
+      0.6502
+     ],
+     "by_class": [
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.8722222222222222,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.6
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.84593837535014,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6470588235294118
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.8063734030197446,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6585365853658537
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.8,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7367852875917392,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.478494623655914
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7344087449106037,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.9070631970260223
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7058405241291148,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.40268456375838924
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.657161392511711,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.35668789808917195
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.6520541549953315,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2222222222222222
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6030705488393212,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7413587604290822
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.5864417989417989,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.45
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.521137026239067,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5102040816326531
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7163,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.6561,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.5908,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "gpt-oss-20b": {
+   "repo": "openai/gpt-oss-20b",
+   "family": "openai",
+   "group": "production",
+   "ollama": null,
+   "mirror_of": null,
+   "signature": "a68642ca9c81",
+   "signature_verified": true,
+   "shares_tokenizer_with": [],
+   "vocab_size": 199998,
+   "tokenizer_class": "TokenizersBackend",
+   "note": "",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.387,
+     "mean_frag_same": 0.7108,
+     "mean_frag_different": 0.8043,
+     "separability_auc": 0.6235,
+     "separability_ci95": [
+      0.5102,
+      0.7324
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.9444444444444445,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.8605442176870748,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.16666666666666666
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.7416666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.25
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.72,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.2
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.7,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.5518518518518518,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4444444444444444
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.55,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7142857142857143
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.8333,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8762,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.6667,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.6562,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.9333,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.55,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.8048,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 1.0,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.7,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.6778,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5844,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.72,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.777,
+     "mean_frag_same": 0.6801,
+     "mean_frag_different": 0.7598,
+     "separability_auc": 0.6094,
+     "separability_ci95": [
+      0.5734,
+      0.6451
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8661064425770308,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4117647058823529
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.8348867595818815,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3170731707317073
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7860535074244752,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.7808565036752956,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.28859060402684567
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7434722959815897,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5910780669144982
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.7166666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.7047467394601153,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.34182590233545646
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.6943199502023032,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.17647058823529413
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.6600488109427323,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5351609058402861
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6389484126984127,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5965986394557823,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3469387755102041
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7598,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.7014,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6571,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "byt5": {
+   "repo": "google/byt5-small",
+   "family": "byte-level",
+   "group": "control",
+   "ollama": null,
+   "mirror_of": null,
+   "signature": "41b681325a10",
+   "signature_verified": true,
+   "shares_tokenizer_with": [],
+   "vocab_size": 256,
+   "tokenizer_class": "ByT5Tokenizer",
+   "note": "no vocabulary at all: fragmentation bounded by edit distance. The ceiling that scales every other row",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 5.0,
+     "mean_frag_same": 0.2193,
+     "mean_frag_different": 0.2783,
+     "separability_auc": 0.5893,
+     "separability_ci95": [
+      0.4672,
+      0.7021
+     ],
+     "by_class": [
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.5387755102040817,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 0.4444444444444445,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.4019047619047619,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.4,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 2.0
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.3585714285714286,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.2836734693877551,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5714285714285714
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.23214285714285712,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 2.0
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.19047619047619047,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.3333333333333333
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.16720238095238096,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.06626984126984126,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0555555555555556
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.35,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.3095,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.2,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.199,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 0.4,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.1286,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.2837,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.5257,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 0.4444,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.4019,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.25,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.1201,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.0531,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.3586,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 5.937,
+     "mean_frag_same": 0.2072,
+     "mean_frag_different": 0.2703,
+     "separability_auc": 0.5859,
+     "separability_ci95": [
+      0.5536,
+      0.6193
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.5,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.4706041248724176,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.926829268292683
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.3526636580558149,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.20915032679738563
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.3327594299368493,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.40860215053763443
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.3280684460620767,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.386411889596603
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.31745884227296867,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3643122676579926
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.2866666666666667,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.25098039215686274,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.5294117647058822
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.17901575276575274,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.1583333333333334
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.1686669906057661,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8775510204081632
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.12732041167678831,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0953516090584028
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.11702087994034302,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.9328859060402684
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.2703,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.2219,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.1912,
+       "n": 861
+      }
+     }
+    }
+   }
+  },
+  "mt5-base": {
+   "repo": "google/mt5-base",
+   "family": "unigram-lm",
+   "group": "control",
+   "ollama": null,
+   "mirror_of": null,
+   "signature": "4710f5f68418",
+   "signature_verified": false,
+   "shares_tokenizer_with": [],
+   "vocab_size": 250100,
+   "tokenizer_class": "T5Tokenizer",
+   "note": "SentencePiece-unigram control: different segmentation ALGORITHM, not just different data. Replaces aya-101, which carried this same mT5 vocabulary behind a gate",
+   "arms": {
+    "human": {
+     "n_edges": 102,
+     "n_same": 67,
+     "n_different": 35,
+     "fertility": 2.573,
+     "mean_frag_same": 0.7501,
+     "mean_frag_different": 0.8033,
+     "separability_auc": 0.5608,
+     "separability_ci95": [
+      0.4452,
+      0.6697
+     ],
+     "by_class": [
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 3,
+       "mean_frag": 1.0,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.0
+      },
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 6,
+       "mean_frag": 0.8873015873015874,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6666666666666666
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 6,
+       "mean_frag": 0.8444444444444444,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.3333333333333333
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 20,
+       "mean_frag": 0.8033333333333333,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.55
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 7,
+       "mean_frag": 0.7976190476190477,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8571428571428571
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 7,
+       "mean_frag": 0.786734693877551,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8571428571428571
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 5,
+       "mean_frag": 0.78,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 5,
+       "mean_frag": 0.75,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.6
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 18,
+       "mean_frag": 0.587037037037037,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5
+      }
+     ],
+     "by_subcategory": {
+      "different/gender": {
+       "mean_frag": 0.5333,
+       "n": 3
+      },
+      "different/lexical": {
+       "mean_frag": 0.8659,
+       "n": 21
+      },
+      "different/number": {
+       "mean_frag": 0.7778,
+       "n": 3
+      },
+      "different/person": {
+       "mean_frag": 0.75,
+       "n": 8
+      },
+      "same/clipping": {
+       "mean_frag": 1.0,
+       "n": 1
+      },
+      "same/degemination": {
+       "mean_frag": 0.8133,
+       "n": 5
+      },
+      "same/digit_ambig": {
+       "mean_frag": 0.7867,
+       "n": 7
+      },
+      "same/digit_safe": {
+       "mean_frag": 0.7167,
+       "n": 5
+      },
+      "same/final_y_i": {
+       "mean_frag": 1.0,
+       "n": 3
+      },
+      "same/initial_hamza": {
+       "mean_frag": 0.78,
+       "n": 5
+      },
+      "same/vowel_drop": {
+       "mean_frag": 0.8933,
+       "n": 5
+      },
+      "same/vowel_drop_med": {
+       "mean_frag": 0.7778,
+       "n": 15
+      },
+      "same/vowel_length": {
+       "mean_frag": 0.5823,
+       "n": 16
+      },
+      "same/vowel_swap": {
+       "mean_frag": 0.75,
+       "n": 5
+      }
+     }
+    },
+    "nilechat": {
+     "n_edges": 2106,
+     "n_same": 1792,
+     "n_different": 314,
+     "fertility": 2.871,
+     "mean_frag_same": 0.6823,
+     "mean_frag_different": 0.7955,
+     "separability_auc": 0.6331,
+     "separability_ci95": [
+      0.6017,
+      0.6638
+     ],
+     "by_class": [
+      {
+       "phenomenon": "VOWEL_DROP",
+       "n_edges": 17,
+       "mean_frag": 0.8571428571428571,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4117647058823529
+      },
+      {
+       "phenomenon": "DIGIT_SAFE",
+       "n_edges": 82,
+       "mean_frag": 0.8349593495934959,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.5609756097560976
+      },
+      {
+       "phenomenon": "INITIAL_HAMZA",
+       "n_edges": 15,
+       "mean_frag": 0.8177777777777778,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.7333333333333333
+      },
+      {
+       "phenomenon": "DEGEMINATION",
+       "n_edges": 149,
+       "mean_frag": 0.8023489932885906,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.38926174496644295
+      },
+      {
+       "phenomenon": "CLIPPING",
+       "n_edges": 1,
+       "mean_frag": 0.8,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 1.0
+      },
+      {
+       "phenomenon": "DIPHTHONG",
+       "n_edges": 186,
+       "mean_frag": 0.7940646868066222,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.45698924731182794
+      },
+      {
+       "phenomenon": "DIGIT_AMBIG",
+       "n_edges": 269,
+       "mean_frag": 0.7883297928836962,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8066914498141264
+      },
+      {
+       "phenomenon": "FINAL_Y_I",
+       "n_edges": 153,
+       "mean_frag": 0.7229847494553377,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.33986928104575165
+      },
+      {
+       "phenomenon": "VOWEL_SWAP",
+       "n_edges": 471,
+       "mean_frag": 0.7158831260742088,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4607218683651805
+      },
+      {
+       "phenomenon": "VOWEL_LENGTH",
+       "n_edges": 839,
+       "mean_frag": 0.648982632385493,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.8128724672228844
+      },
+      {
+       "phenomenon": "VOWEL_DROP_MED",
+       "n_edges": 120,
+       "mean_frag": 0.6392857142857143,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.4666666666666667
+      },
+      {
+       "phenomenon": "TAA_MARBUTA",
+       "n_edges": 49,
+       "mean_frag": 0.5852769679300291,
+       "same_seq_rate": 0.0,
+       "mean_len_delta": 0.32653061224489793
+      }
+     ],
+     "by_subcategory": {
+      "different/trap": {
+       "mean_frag": 0.7955,
+       "n": 314
+      },
+      "same/attested": {
+       "mean_frag": 0.7103,
+       "n": 931
+      },
+      "same/rule_safe": {
+       "mean_frag": 0.6521,
+       "n": 861
+      }
+     }
+    }
+   }
+  }
+ }
+}

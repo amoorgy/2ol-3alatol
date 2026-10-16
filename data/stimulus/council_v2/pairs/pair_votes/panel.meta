@@ -1,0 +1,6 @@
+{
+ "council": "pairs",
+ "model": "opus",
+ "effort": "xhigh",
+ "chunk_dir": "data/generated/v2/council/pair_chunks"
+}
