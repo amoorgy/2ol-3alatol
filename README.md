@@ -1,4 +1,4 @@
-# 2ol 3alatol · قول ع طول
+# 2ol 3alatol 
 
 **Same word, many spellings.** A robustness benchmark for Egyptian Arabizi
 (Franco-Arabic) that asks, at three levels, whether tokenizers and LLMs treat two
